@@ -1,0 +1,2166 @@
+[
+  {
+    "address": {
+      "buildingAndFlatNumber": "18/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-346",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Boles\u0142awa \u015amia\u0142ego",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenia jest popularyzacja dyscypliny rugby.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "42/30",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-262",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "ks. kard. Stefana Wyszy\u0144skiego",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 2402,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Kaskada Szczecin Rugby Klub"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-786",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "D\u0105bska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest podejmowanie dzia\u0142a\u0144 z zakresu po\u017cytku publicznego w sferze: \r\n1. Upowszechniania kultury fizycznej i sportu;\r\n2. Ochrony i promocji zdrowia; \r\n3. Nauki, edukacji, o\u015bwiaty i wychowania; \r\n4. Krajoznawstwa oraz wypoczynku dzieci i m\u0142odzie\u017cy; \r\n5. Bezpiecze\u0144stwa oraz przeciwdzia\u0142ania patologiom spo\u0142ecznym; \r\n6. Dzia\u0142a\u0144 na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w\r\n    i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami;\r\n7. Wsp\u00f3\u0142zawodnictwa sportowego dzieci i m\u0142odzie\u017cy \u2013 sport\r\n    kwalifikowany; \r\n8. Wsp\u00f3\u0142zawodnictwa sportowego os\u00f3b doros\u0142ych \u2013 sport\r\n    kwalifikowany.\r\n\r\nDokonania 2019:\r\nTurniej tenisowy \"Magnolia Cup\", ITF Grale 4, Turnieje WTK.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2403,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144skie Centrum Tenisowe PRAWOBRZE\u017bE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "25",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-444",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Mazurska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\nPropagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2404,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko W\u0118DKARZ"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-785",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Witolda Gombrowicza",
+      "terc": "3262011"
+    },
+    "aims": "Celem SALPS jest:\r\na) organizacja, prowadzenie i popularyzacja pi\u0142ki siatkowej halowej i pla\u017cowej,\r\nb) rozwijanie i ochrona zasad sportu w pi\u0142ce siatkowej,\r\nc) propagowanie, wsp\u00f3\u0142zawodnictwo i wspieranie \u0107wicze\u0144 rozgrywek w pi\u0142ce siatkowej,\r\nd) propagowanie zdrowego trybu \u017cycia,\r\ne) rozwi\u0105zywanie problem\u00f3w spo\u0142ecznych jak alkoholizm, narkomania i innych patologii oraz przeciwdzia\u0142anie ich szerzeniu si\u0119 w\u015br\u00f3d mieszka\u0144c\u00f3w Szczecina,\r\nf) propagowanie pozalekcyjnych form sportowych i rekreacyjnych dla m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2405,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144ska Amatorska Liga Pi\u0142ki Siatkowej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-435",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jagiello\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Celem  Stowarzyszenia jest upowszechnianie kultury fizycznej i sportu w\u015br\u00f3d og\u00f3\u0142u spo\u0142eczno\u015bci, w szczeg\u00f3lno\u015bci w\u015br\u00f3d dzieci i m\u0142odzie\u017cy, poprzez:\r\na) krzewienie zami\u0142owania do systematycznego uprawiania rekreacji fizycznej, sportu oraz rozwijanie dzia\u0142alno\u015bci zmierzaj\u0105cej do utrzymywania i podnoszenia sprawno\u015bci fizycznej;\r\nb) upowszechnianie wszelkiego rodzaju form sportu i rekreacji ruchowej;\r\nc) propagowanie turystyki, rekreacji fizycznej i sportu jako sposobu na rozw\u00f3j w\u0142asnej osobowo\u015bci;\r\nd) upowszechnianie modelu aktywnego stylu \u017cycia i czynnego wypoczynku;\r\ne) zapewnienie warunk\u00f3w do uprawiania sportu, rekreacji fizycznej i turystyki wszystkim ch\u0119tnym.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym"
+    ],
+    "hasSameAddress": true,
+    "id": 2406,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy UNIA JIU JITSU"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "34/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-825",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Gierczak",
+      "terc": "3262011"
+    },
+    "aims": "Cele Organizacji:\r\n-upowszechnianie i rozw\u00f3j sportu, w szczeg\u00f3lno\u015bci sport\u00f3w walki na terenie RP w\u015br\u00f3d os\u00f3b w r\u00f3\u017cnych przedzia\u0142ach wiekowych,\r\n-ochrona i promocja zdrowia poprzez aktywny wypoczynek,\r\n-umo\u017cliwienie cz\u0142onkom stowarzyszenia uczestnictwa we wsp\u00f3\u0142zawodnictwie sportowym.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2407,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Muay Thai \"Nak Muay\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-112",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Witolda Starkiewicza",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Upowszechnianie i rozw\u00f3j sportu, w szczeg\u00f3lno\u015bci downhillu, fourcrossu, freeride\u2019u, dirtu, jazdy streetowej, XC na terenie RP w\u015br\u00f3d os\u00f3b w r\u00f3\u017cnych przedzia\u0142ach wiekowych.\r\n2. Ochrona i promocja zdrowia poprzez aktywny wypoczynek.\r\n3. Umo\u017cliwienie cz\u0142onkom stowarzyszenia uczestnictwa we wsp\u00f3\u0142zawodnictwie sportowym.\t\r\nDokonania organizacji:\r\n1. Organizacja zawod\u00f3w kolarstwa zjazdowego \"Downhill Widok\" 03.06.2006r. Wzg\u00f3rze Akademickie.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2408,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144skie Stowarzyszenie Extremalnych Sport\u00f3w Rowerowych \u201eBike Squad\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "91a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Seledynowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem stowarzyszenia jest propagowanie kultury fizycznej, organizacja \u017cycia sportowego, organizacja dzia\u0142alno\u015bci rekreacyjnej i krajoznawczo \u2013 turystycznej, prowadzenie dzia\u0142alno\u015bci na rzecz os\u00f3b niepe\u0142nosprawnych, dzia\u0142ania na rzecz profilaktyki i rozwi\u0105zywania problem\u00f3w wynikaj\u0105cych z uzale\u017cnie\u0144, promocja i organizowanie wolontariatu, prowadzenie dzia\u0142alno\u015bci inwestycyjnej w zakresie budowy i wyposa\u017cenia obiekt\u00f3w sportowych, nawi\u0105zywanie wsp\u00f3\u0142pracy z podmiotami krajowymi i zagranicznymi, prowadzenie dzia\u0142alno\u015bci na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2409,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Sportowe Osiedlowy Klub Sportowy \u201ePrawobrze\u017ce\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-377",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Garncarska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizyczne:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2410,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko \u201eLIGA\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-320",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kazimierza Twardowskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nKrzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych na terenie dzia\u0142ania Stowarzyszenia oraz wychowywanie dzieci i m\u0142odzie\u017cy przez kultur\u0119 fizyczn\u0105.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2411,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Zachodniopomorskie Stowarzyszenie Przyjaci\u00f3\u0142 Sportu"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-044",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Brodnicka",
+      "terc": "3262011"
+    },
+    "aims": "Celem stowarzyszenia jest prowadzenie sekcji sportowych, organizacja zaj\u0119\u0107 i imprez rekreacyjnych, kulturalnych oraz podejmowanie dzia\u0142a\u0144 zmierzaj\u0105cych do powstania bazy sportowej koniecznej do realizacji wymienionych zada\u0144.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2412,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Osiedlowy Klub Rekreacyjno-Sportowy \"Dwudziestka-Gumie\u0144ce\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "34",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-229",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Krzekowska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest: \r\n1. Uprawianie i rozw\u00f3j \u017ceglarstwa na terenie miasta Szczecina, a tak\u017ce ca\u0142ego kraju i zagranicy. \r\n2. Kultywowanie oraz wzbogacanie w ramach swej dzia\u0142alno\u015bci warto\u015bciowych tradycji i dorobku \u017ceglarstwa, szczeg\u00f3lnie \u017ceglarstwa uprawianego przez \u017ceglarzy samotnik\u00f3w. \r\n3. Dba\u0142o\u015b\u0107 o dobre imi\u0119 bandery polskiej w kraju i za granic\u0105.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2413,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub \u017beglarzy Samotnik\u00f3w"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "23",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-804",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kubusia Puchatka",
+      "terc": "3262011"
+    },
+    "aims": "G\u0142\u00f3wnym zadaniem Klubu jest organizowanie i propagowanie wychowania fizycznego i kultury fizycznej w\u015br\u00f3d mieszka\u0144c\u00f3w z terenu dzia\u0142ania Klubu, ze szczeg\u00f3lnym uwzgl\u0119dnieniem dzieci i m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2414,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Futbolist\u00f3w Husarii Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-440",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jana \u017bupa\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "Celem organizacji jest:\r\n1. Organizowanie dzia\u0142alno\u015bci sportowej i rekreacyjnej, w tym dla os\u00f3b niepe\u0142nosprawnych.\r\n2. Propagowanie kultury fizycznej w \u017cyciu spo\u0142ecznym i publicznym.\r\n3. Integrowanie \u015brodowisk sportowych w tym r\u00f3wnie\u017c zagranicznych.\r\n4. Prowadzenie dzia\u0142alno\u015bci wychowawczej i popularyzatorskiej w zakresie kultury fizycznej, w tym szczeg\u00f3lnie w p\u0142ywaniu, w tym dla os\u00f3b niepe\u0142nosprawnych\r\n5. Szkolenie oraz doskonalenie kadr instruktorsko-trenerskich.\r\n6. Edukacja sportowa.\r\n7. Tworzenie warunk\u00f3w dla rozwoju sportu, rozwoju kreatywno\u015bci \r\ni umacniania umiej\u0119tno\u015bci spo\u0142ecznych.\r\n8. Zapobieganie i przeciwdzia\u0142anie uzale\u017cnieniom i innym formom patologii spo\u0142ecznej, poprzez propagowanie dzia\u0142alno\u015bci sportowej.\r\n9. Wymiana informacji i do\u015bwiadcze\u0144 oraz wsp\u00f3lna realizacja program\u00f3w \r\nz innymi organizacjami i instytucjami na terenie kraju i za granic\u0105.\r\n10. Dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych oraz nawi\u0105zywanie wsp\u00f3\u0142pracy i kontakt\u00f3w mi\u0119dzy nimi.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2415,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Swimming Masters Team Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-206",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Dworcowa",
+      "terc": "3262011"
+    },
+    "aims": "Podstawowym celem dzia\u0142ania Kayak Szczecin jest prowadzenie dzia\u0142alno\u015bci po\u017cytku publicznego polegaj\u0105cej na propagowaniu i organizowaniu opartej w szczeg\u00f3lno\u015bci na kajakarstwie aktywno\u015bci fizycznej, kt\u00f3ra prowadzi\u0107 b\u0119dzie do wypracowania lub poprawienia kondycji fizycznej lub psychicznej i rozwoju stosunk\u00f3w spo\u0142ecznych, a w szczeg\u00f3lno\u015bci:\r\n1) do krzewieniu warto\u015bci patriotycznych, tworzeniu i umacniania wi\u0119zi mieszka\u0144c\u00f3w miasta ze swoim miastem poprzez uwypuklanie i szerokie udost\u0119pnianie jego wodno-rekreacyjnych walor\u00f3w i pi\u0119kna postrzeganego \r\nz w\u00f3d szczeci\u0144skich;\r\n2) popularyzacji kajakarstwa jako warto\u015bciowej, dost\u0119pnej dla wszystkich formy rekreacji i turystyki.\r\n3) integrowanie wodniak\u00f3w i spo\u0142eczno\u015bci Szczecina i obszaru metropolitalnego wok\u00f3\u0142 idei Szczecina Floating Garden - Wodniackiej Stolicy Polski,\r\n4) reprezentacji  interes\u00f3w \u015brodowiska kajakowego wobec w\u0142adz administracyjnych oraz wsp\u00f3\u0142praca z tymi w\u0142adzami m. in.: w celu stworzenia odpowiedniej infrastruktury i organizacji odpowiedniej rangi imprez.\r\n5) propagowania, wsp\u00f3\u0142organizowanie i organizowanie zwi\u0105zanych \r\nz kajakarstwem innych wyp\u0142ywaj\u0105cych z kultury fizycznej form turystyki i rekreacji (np. rowerowa, konna itp.), \r\n6) podnoszenia bezpiecze\u0144stwa uprawiania kajakarstwa na i wok\u00f3\u0142 akwen\u00f3w wodnych,\r\n7) wspierania i upowszechniania innych form kultury fizycznej, turystyki i krajoznawstwa;\r\n8) organizacji wypoczynku dzieci i m\u0142odzie\u017cy;\r\n9) dzia\u0142alno\u015bci na rzecz os\u00f3b niepe\u0142nosprawnych;\r\n10) dzia\u0142alno\u015bci na rzecz os\u00f3b w wieku emerytalnym;\r\n11) przeciwdzia\u0142ania uzale\u017cnieniom i patologiom spo\u0142ecznym.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2416,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Kayak Szczecin Stowarzyszenie Rozwoju Kajakarstwa"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-249",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Sebastiana Klonowica",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1. Promocja kolarstwa w\u015br\u00f3d m\u0142odzie\u017cy i doros\u0142ych.\r\n2. Propagowanie zdrowego stylu \u017cycia poprzez jazd\u0119 na rowerze i sportowe wsp\u00f3\u0142zawodnictwo.\r\n3. Promocja Miasta Szczecin w \u015brodowisku lokalnym.\r\n4. Realizacja zada\u0144 w zakresie upowszechniania kultury fizycznej i sportu w\u015br\u00f3d dzieci i m\u0142odzie\u017cy.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "promocja Rzeczypospolitej Polskiej za granic\u0105",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym"
+    ],
+    "hasSameAddress": true,
+    "id": 2417,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Grupa Kolarska Piast Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "18/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-743",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Floriana Szarego",
+      "terc": "3262011"
+    },
+    "aims": "Celem dzia\u0142alno\u015bci Klubu jest organizowanie, uprawianie i doskonalenie karate tradycyjnego we wszystkich formach kultury fizycznej.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2418,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Karate Fudoshin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "40",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-342",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Bohater\u00f3w Warszawy",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1.Reprezentowanie Klubu wobec w\u0142adz i organizacji sportowych.\r\n2.Krzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych na terenie dzia\u0142ania Klubu.\r\n3.Upowszechnianie umiej\u0119tno\u015bci gry w squasha.\r\n4.Wychowywanie dzieci i m\u0142odzie\u017cy przez kultur\u0119 fizyczn\u0105 i sport.\r\n5.Rozw\u00f3j i popularyzacja squasha.\r\n6.Zapewnienie warunk\u00f3w organizacyjnych i finansowych koniecznych dla uczestnictwa zawodnik\u00f3w Klubu w rywalizacji sportowej.\r\n7.Rozwijanie i propagowanie inicjatyw, postaw i dzia\u0142a\u0144 sprzyjaj\u0105cych rozwojowi squasha, oraz wspieranie organizacyjne i rzeczowe os\u00f3b fizycznych i jednostek organizacyjnych, kt\u00f3re podejmuj\u0105 takie dzia\u0142ania.\r\n8.Wsp\u00f3\u0142praca z w\u0142adzami samorz\u0105dowymi w kierunku poprawy krzewienia kultury fizycznej i sportu w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\n9.Wsp\u00f3\u0142praca z w\u0142a\u015bciwym wydzia\u0142em zajmuj\u0105cym si\u0119 przeciwdzia\u0142aniem zjawiskom narkomani i alkoholizmowi w\u015br\u00f3d dzieci i m\u0142odzie\u017cy oraz os\u00f3b doros\u0142ych.\r\n10.Wsp\u00f3\u0142udzia\u0142 w konstruowaniu programu rozwoju squasha i promowaniu takich inicjatyw oraz oddzia\u0142ywanie na opini\u0119 publiczn\u0105 na rzecz w\u0142\u0105czania si\u0119 spo\u0142eczno\u015bci lokalnych w dzia\u0142ania maj\u0105ce na celu popraw\u0119 kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\nDokonania 2019:\r\nPrzeprowadzenie alternatywnych lekcji wychowania fizycznego oraz zaj\u0119\u0107 nauki i doskonalenia gry w squash-a podczas wakacji i ferii.\r\nKontynuacja organizacji zaj\u0119\u0107 nauki i doskonalenia gry w squash-a.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2419,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Squash Zone"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-673",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kotwiczna",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest dba\u0142o\u015b\u0107 o prawid\u0142owy rozw\u00f3j psychofizyczny i zdrowie cz\u0142onk\u00f3w Klubu, a tak\u017ce innych os\u00f3b, do kt\u00f3rych kieruje swoj\u0105 dzia\u0142alno\u015b\u0107, upowszechnianie i promocj\u0119 wsp\u00f3\u0142zawodnictwa w pi\u0142ce r\u0119cznej oraz rekreacyjnego jej uprawiania.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2420,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Pi\u0142ki R\u0119cznej POGO\u0143 SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6a/10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-344",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jana Karola Chodkiewicza",
+      "terc": "3262011"
+    },
+    "aims": "1. Organizacja zawod\u00f3w, imprez sportowych, imprez turystycznych, kolonii o charakterze charytatywnym i integracyjnym dla dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\n2. Organizowanie imprez sportowych o randze Mistrzostw Wojew\u00f3dztwa oraz Mistrzostw Polski.\r\n3. Prowadzenie dzia\u0142alno\u015bci sportowej w\u015br\u00f3d m\u0142odzie\u017cy i mieszka\u0144c\u00f3w ca\u0142ego kraju a w szczeg\u00f3lno\u015bci upowszechnienie aktywnego stylu \u017cycia i czynnego wypoczynku na terenie dzia\u0142ania Stowarzyszenia oraz wychowanie dzieci i m\u0142odzie\u017cy przez kultur\u0119 fizyczn\u0105.\r\n4. Przeciwdzia\u0142anie uzale\u017cnieniom (narkomanii, alkoholizmowi i stosowania innych u\u017cywek) poprzez anga\u017cowanie m\u0142odzie\u017cy do r\u00f3\u017cnych aktywno\u015bci sportowych, a w szczeg\u00f3lno\u015bci przez uprawianie pi\u0142ki siatkowej halowej i pla\u017cowej.\r\n5. Propagowanie rozwoju pi\u0142ki siatkowej, postaw otwarto\u015bci, tolerancji spo\u0142ecznej oraz anga\u017cowanie wszystkich uczni\u00f3w do r\u00f3\u017cnorodnej formy aktywno\u015bci ruchowej, gier i zabaw dostosowanych do wieku, stopnia sprawno\u015bci i zainteresowa\u0144 sportowych, prowadzenie dzia\u0142alno\u015bci szkoleniowej ze szczeg\u00f3lnym uwzgl\u0119dnieniem pi\u0142ki siatkowej halowej i pla\u017cowej.\r\n6. Wsp\u00f3\u0142praca z Domami Dziecka, o\u015brodkami wychowawczymi i stowarzyszeniami o podobnym charakterze na terenie Polski i Unii Europejskiej.\r\n7. Promocja sportu, turystyki aktywnej i rywalizacji sportowej wg zasad fair play.\r\n8. Uczestniczenie w imprezach sportowych organizowanych na obszarze dzia\u0142ania Stowarzyszenia i poza nim.\r\n9. Kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci poprzez uczestnictwo w realizacji zada\u0144 sportowych Stowarzyszenia.\r\n10. Wspieranie m\u0142odych talent\u00f3w siatkarskich i promocja m\u0142odych sportowc\u00f3w i ich osi\u0105gni\u0119\u0107 sportowych.\r\n11. Realizacja programu szkolenia wg Akademii Polskiej Siatk\u00f3wki.\r\n12. Sprawowanie opieki wychowawczej i szkoleniowej nad cz\u0142onkami Stowarzyszenia.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "hasSameAddress": true,
+    "id": 2421,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Integracyjny Klub Sportowy Siedz\u0105ca Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-337",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jana Henryka D\u0105browskiego",
+      "terc": "3262011"
+    },
+    "aims": "Celami Klubu jest dba\u0142o\u015b\u0107 o prawid\u0142owy rozw\u00f3j psychofizyczny \r\ni zdrowie cz\u0142onk\u00f3w Klubu.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2422,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy \"Squash Club\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "39/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-136",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "9 Maja",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest dba\u0142o\u015b\u0107 o prawid\u0142owy rozw\u00f3j psychofizyczny i zdrowie cz\u0142onk\u00f3w Klubu.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2423,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy \u201eSET POINT\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "62/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Br\u0105zowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\na) prowadzenie dzia\u0142alno\u015bci sportowej w\u015br\u00f3d m\u0142odzie\u017cy i mieszka\u0144c\u00f3w ca\u0142ego kraju i upowszechnianie aktywnego stylu \u017cycia i czynnego wypoczynku,\r\nb) stwarzanie w\u0142a\u015bciwych warunk\u00f3w do uprawniania sport\u00f3w wodnych oraz specjalistycznego szkolenia w tej dziedzinie oraz innych sport\u00f3w ruchowych,\r\nc) propagowanie rozwoju sport\u00f3w wodnych i innych dziedzin sportu w\u015br\u00f3d m\u0142odzie\u017cy, postaw otwarto\u015bci i tolerancji spo\u0142ecznej,\r\nd) promocja sportu i turystyki aktywnej oraz rywalizacji sportowej wed\u0142ug zasad fair play,\r\ne) organizacja zawod\u00f3w i imprez sportowych, imprez turystycznych (dla dzieci, m\u0142odzie\u017cy i os\u00f3b doros\u0142ych) oraz organizacja imprez charytatywnych \r\ni integracyjnych,\r\nf) stworzenie niezale\u017cnej platformy \u015brodowisk sport\u00f3w wodnych oraz wyczynowych sportowc\u00f3w oraz nawi\u0105zanie wsp\u00f3\u0142pracy ze \u015brodowiskami \r\ni instytucjami o podobnych celach,\r\ng) wpieranie m\u0142odych talent\u00f3w i promocja m\u0142odych sportowc\u00f3w i ich osi\u0105gni\u0119\u0107,\r\nh) propagowanie czynnego uprawiania sportu jako sposobu na rozw\u00f3j w\u0142asnej osobowo\u015bci oraz prowadzenie dzia\u0142alno\u015bci edukacyjnej w tym zakresie podczas organizowanych wyjazd\u00f3w (dla dzieci, m\u0142odzie\u017cy i os\u00f3b doros\u0142ych),\r\ni) wydawanie publikacji,\r\nj) wsp\u00f3\u0142zawodnictwo sportowe,\r\nk) organizowanie akcji przeciw uzale\u017cnieniom.\r\n",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2424,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Dobra Marina"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "68a/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-783",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Lucjana Rydla",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenia jest promocja i popularyzacja hokeja w\u015br\u00f3d mieszka\u0144c\u00f3w Szczecina ze szczeg\u00f3lnym uwzgl\u0119dnieniem dzieci i m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2425,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144skie Towarzystwo Hokejowe"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-881",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Melodyjna",
+      "terc": "3262011"
+    },
+    "aims": "1.\tKrzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych oraz wychowywanie przez kultur\u0119 fizyczn\u0105. \r\n2.\tUdzia\u0142 w rozgrywkach sportowych dla dzieci, m\u0142odzie\u017cy i doros\u0142ych. \r\n3.\tUczestniczenie w imprezach sportowych organizowanych na obszarze dzia\u0142ania samorz\u0105du terytorialnego i poza nim.\r\n4.\tOrganizowanie dzia\u0142alno\u015bci sportowej ze szczeg\u00f3lnym uwzgl\u0119dnieniem funkcji zdrowotnych.\r\n5.\tKszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci poprzez uczestnictwo w realizacji zada\u0144 sportowych Klubu.\r\n6.\tOrganizacja wypoczynku dla dzieci i m\u0142odzie\u017cy (obozy letnie, zimowe, p\u00f3\u0142kolonie)\r\n7.\tWyjazdy na turnieje krajowe i zagraniczne oraz ich organizacje.\r\n8.\tOrganizacja imprez sportowych maj\u0105ca na celu profilaktyk\u0119 w\u015br\u00f3d dzieci i m\u0142odzie\u017cy u\u017cywaj\u0105cych alkoholu, narkotyk\u00f3w i innych substancji psychoaktywnych.\r\n",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2426,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "BASKET Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-132",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Ruska",
+      "terc": "3262011"
+    },
+    "aims": "1. Rozwijanie i propagowanie zasad i ducha sztuk walki.\r\n2. Wychowywanie swoich cz\u0142onk\u00f3w w duchu zdrowego wsp\u00f3\u0142zawodnictwa sportowego.\r\n3. Kszta\u0142towanie w\u0142a\u015bciwych postaw i zachowa\u0144 obywatelskich poprzez sport\r\n4. Organizowanie oraz wspomaganie organizowania wypoczynku dzieci \r\ni m\u0142odzie\u017cy.\r\n5. Przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2427,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Pomorzany Tajski Boks"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "20/16",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-670",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Przyjaci\u00f3\u0142 \u017bo\u0142nierza",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenia jest: \r\n1) prowadzenie dzia\u0142alno\u015bci sportowej w\u015br\u00f3d m\u0142odzie\u017cy i mieszka\u0144c\u00f3w ca\u0142ego kraju a w szczeg\u00f3lno\u015bci upowszechnienie aktywnego stylu \u017cycia \r\ni czynnego wypoczynku na terenie dzia\u0142ania Stowarzyszenia oraz wychowanie dzieci i m\u0142odzie\u017cy przez kultur\u0119 fizyczna i sport,\r\n2) propagowanie rozwoju pi\u0142ki siatkowej, postaw otwarto\u015bci, tolerancji spo\u0142ecznej oraz anga\u017cowanie wszystkich uczni\u00f3w do r\u00f3\u017cnorodnej formy aktywno\u015bci ruchowej, gier i zabaw dostosowanych do wieku, stopnia sprawno\u015bci i zainteresowa\u0144 sportowych, prowadzenie dzia\u0142alno\u015bci szkoleniowej ze szczeg\u00f3lnym uwzgl\u0119dnieniem pi\u0142ki siatkowej,\r\n3) promocja sportu, turystyki aktywnej i i rywalizacji sportowej wg zasad fair play,\r\n4) uczestniczenie w imprezach sportowych organizowanych na obszarze dzia\u0142ania Stowarzyszenia i poza nim,\r\n5) organizacja imprez charytatywnych i integracyjnych,\r\n6) organizacja zawod\u00f3w i imprez sportowych oraz imprez turystycznych (dla dzieci m\u0142odzie\u017cy i os\u00f3b doros\u0142ych),\r\n7) kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci poprzez uczestnictwo w realizacji zada\u0144 sportowych Stowarzyszenia,\r\n8) przeciwdzia\u0142anie uzale\u017cnieniom (narkomani, alkoholizmowi i stosowania innych u\u017cywek)  poprzez anga\u017cowanie m\u0142odzie\u017cy do r\u00f3\u017cnych aktywno\u015bci sportowych, a w szczeg\u00f3lno\u015bci przez uprawianie pi\u0142ki siatkowej,\r\n9) wspieranie m\u0142odych talent\u00f3w siatkarskich i promocja m\u0142odych sportowc\u00f3w i ich osi\u0105gni\u0119\u0107 sportowych,\r\n10) realizacja programu szkolenia wg Akademii Polskiej Siatk\u00f3wki,\r\n11) sprawowanie opieki wychowawczej i szkoleniowej nad cz\u0142onkami Stowarzyszenia.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2428,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "M\u0142odzie\u017cowy Klub Sportowy \u201eSiatkarz\u201d Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-370",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Podpu\u0142kownika Kupczyka",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest podejmowanie dzia\u0142a\u0144 dla zapewnienia rozwoju psychofizycznego, wychowania, doskonalenia uzdolnie\u0144 i sprawno\u015bci, zachowania zdrowia cz\u0142owieka, w tym w szczeg\u00f3lno\u015bci dzieci i m\u0142odzie\u017cy oraz krzewienie wiedzy i utrwalania zwyczaj\u00f3w w tym zakresie.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "18",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-025",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wierzbowa",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 2429,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "X-BOARDERS"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4/14",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Zielone Wzg\u00f3rze",
+      "terc": "3262011"
+    },
+    "aims": "Celem dzia\u0142alno\u015bci Klubu jest organizowanie, uprawianie i doskonalenie karate oraz kobudo we wszystkich formach kultury fizycznej.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2430,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Karate Tengu"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-655",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wyspa Grodzka",
+      "terc": "3262011"
+    },
+    "aims": "Celem TORUS jest krzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy \r\ni doros\u0142ych oraz wychowywanie przez kultur\u0119 fizyczn\u0105.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2431,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Sport\u00f3w Wodnych TORUS"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47g",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-792",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Sowia",
+      "terc": "3262011"
+    },
+    "aims": "1. Popularyzacja kolarstwa rekreacyjnego oraz wsp\u00f3\u0142zawodnictwa sportowego w \u015brodowiskach dzieci, m\u0142odzie\u017cy i os\u00f3b pe\u0142noletnich oraz os\u00f3b niepe\u0142nosprawnych.\r\n2. Promowanie kolarstwa, jako formy sp\u0119dzania wolnego czasu.\r\n3. Promowanie kolarstwa, jako dyscypliny sportu.\r\n4. Uzyskiwanie i przekazywanie pomocy materialnej zawodnikom czynnie uprawiaj\u0105cym kolarstwo.\r\n5. Podnoszenie poziomu wiedzy teoretycznej i praktycznej niezb\u0119dnej do bezpiecznego uprawiania kolarstwa.\r\n6. Integracja \u015brodowiska kolarskiego.\r\n7. Reprezentowanie interes\u00f3w cz\u0142onk\u00f3w wobec w\u0142adz samorz\u0105dowych, pa\u0144stwowych oraz organizacji o podobnym profilu dzia\u0142ania.\r\n8. Kultywowanie tradycji kolarskich.\r\n9. Promowanie idei wolontariatu.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2432,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "RIDERSCLUB KIJEWO-SZCZECIN ()"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7/1",
+      "city": "Szczecin",
+      "commune": "gmina miejska Szczecin",
+      "district": "miasto na prawach powiatu Szczecin",
+      "postcode": "71-223",
+      "province": "zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Rozmarynowa",
+      "terc": "3262011"
+    },
+    "aims": "1) rozwijanie r\u00f3\u017cnych form je\u017adziectwa;\r\n2) kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci w \u015brodowisku dzieci, m\u0142odzie\u017cy i doros\u0142ych, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie;\r\n3) integrowanie \u015brodowisk je\u017adzieckich;\r\n4) zrzeszanie zawodnik\u00f3w dyscyplin je\u017adzieckich;\r\n5) prowadzenie dzia\u0142alno\u015bci w sferze je\u017adzieckiej;\r\n6) uprawianie i propagowanie sport\u00f3w konnych;\r\n7) organizowanie imprez i zawod\u00f3w sportowych;\r\n8) popularyzowanie higienicznego trybu \u017cycia; i. organizowanie oboz\u00f3w szkoleniowych w r\u00f3\u017cnych formach dla cz\u0142onk\u00f3w oraz innych os\u00f3b na terenie dzia\u0142ania Klubu;\r\n9) upowszechnianie i rozwijanie rekreacji fizycznej, sportu i turystyki;\r\n10) wsp\u00f3\u0142dzia\u0142anie w dziedzinie kultury fizycznej i sportu z innymi Stowarzyszeniami i z organizacjami;\r\n11) organizowanie wyjazd\u00f3w na imprezy sportowe.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2433,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Je\u017adziecki Klub Sportowy MELLONI HORSES"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-163",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Czorszty\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "1) Rozw\u00f3j, upowszechnienie i popularyzacja dyscypliny sportowej ultimate (ultimate frisbee) oraz dyscyplin pokrewnych (discgolf, freestyle itp.);\r\n2) zapewnienie cz\u0142onkom Klubu w\u0142a\u015bciwych warunk\u00f3w do uprawiania sportu;\r\n3) d\u0105\u017cenie do osi\u0105gania najwy\u017cszego poziomu sportowego;\r\n4) krzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych;\r\n5) wychowanie przez kultur\u0119 fizyczn\u0105 oraz zapobieganie patologiom spo\u0142ecznym;\r\n6) promocja zdrowia i zdrowego stylu \u017cycia;\r\n7) zapewnienie cz\u0142onkom Klubu odpowiednich warunk\u00f3w do rozwoju sprawno\u015bci fizycznej i umys\u0142owej;\r\n8) planowanie i organizowanie \u017cycia sportowego cz\u0142onk\u00f3w Klubu w oparciu o mo\u017cliwo\u015bci obiektowe i sprz\u0119towe;\r\n9) organizowanie zawod\u00f3w sportowych oraz uczestnictwo we wsp\u00f3\u0142zawodnictwie organizowanym przez inne organizacje sportowe;\r\n10) organizowanie zaj\u0119\u0107 sportowych;\r\n11) kszta\u0142towanie pozytywnych cech charakteru poprzez uczestnictwo \r\nw realizacji zada\u0144 Klubu;\r\n12) wsp\u00f3\u0142udzia\u0142 w rozbudowie i utrzymaniu urz\u0105dze\u0144 i sprz\u0119tu sportowego oraz budow\u0119 w\u0142asnej bazy materialno-sprz\u0119towej;\r\n13) promowanie idei sportowego wsp\u00f3\u0142zawodnictwa i rywalizacji w duchu fair play.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2434,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Albatros Ultimate Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2435,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Deskorolka"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-021",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "W\u0142o\u015bcia\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Rozwijanie i propagowanie zasad i ducha sztuk walki.\r\n2. Wychowywanie swoich cz\u0142onk\u00f3w w duchu zdrowego wsp\u00f3\u0142zawodnictwa sportowego.\r\n3. Kszta\u0142towanie w\u0142a\u015bciwych postaw i zachowa\u0144 obywatelskich poprzez sport.\r\n4. Organizowanie oraz wspomaganie organizowania wypoczynku dzieci i m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2436,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144skie Centrum Karate Kontaktowego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-296",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Tadeusza Kutrzeby",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenia jest upowszechnianie kultury fizycznej i sportu szczeg\u00f3lnie poprzez rozw\u00f3j szermierki klasycznej oraz dzia\u0142alno\u015b\u0107 kulturalna poprzez promocj\u0119 tradycji polskiej i europejskiej.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2437,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144ska Grupa Fechtunku Salut"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2438,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Bilard"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "25",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-444",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Mazurska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2439,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Kr\u0119gle"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2440,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Biegi"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-427",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u0141ucznicza",
+      "terc": "3262011"
+    },
+    "aims": "Celem dzia\u0142alno\u015bci stowarzyszenia jest popularyzacja, rozw\u00f3j i sta\u0142e podnoszenie poziomu sportowego szczeci\u0144skiej pi\u0142ki no\u017cnej oraz stworzenie warunk\u00f3w do uprawiania tej dyscypliny sportu.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2441,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Pi\u0142karskie Klub Pi\u0142karski Stal"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "21",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-800",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Przestrzenna",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1. Dzia\u0142anie szkoleniowe umo\u017cliwiaj\u0105ce zdobycie mistrzostwa sportowego.\r\n2. Zapewnienie rozwoju psychofizycznego, wychowania, doskonalenia uzdolnie\u0144 i sprawno\u015bci, zachowania zdrowia cz\u0142owieka, w tym w szczeg\u00f3lno\u015bci dzieci i m\u0142odzie\u017cy oraz krzewienie wiedzy i  utrwalanie zwyczaj\u00f3w w tym zakresie.\r\n3. Kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci poprzez uczestnictwo w realizacji zada\u0144 Klubu.\r\n4. Planowanie i organizowanie \u017cycia sportowego cz\u0142onk\u00f3w Klubu.\r\n5. Uczestniczenie w imprezach sportowych.\r\n6. Organizowanie r\u00f3\u017cnorodnych form wsp\u00f3\u0142zawodnictwa sportowego.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2442,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Centrum \u017beglarskie Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2443,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Tenis ziemny"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5c/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-711",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Grzymi\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2444,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Motocykle"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Be\u017cowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2445,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko OFF-ROAD"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9a/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-616",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jacka Malczewskiego",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2446,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Hokej na Lodzie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2447,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Kule"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2448,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Tenis sto\u0142owy"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2449,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Samoloty"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "36/26",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-783",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Lucjana Rydla",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2450,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Skoki Narciarskie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-783",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2451,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Szybownictwo"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "36/26",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-783",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Lucjana Rydla",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2452,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Narciarstwo biegowe"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "69",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-382",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jagiello\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "1. Reprezentowanie Stowarzyszenia wobec w\u0142adz i organizacji sportowych.\r\n2. Krzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych na terenie dzia\u0142ania Stowarzyszenia.\r\n3. Upowszechnianie umiej\u0119tno\u015bci gry w squash.\r\n4. Wychowanie dzieci i m\u0142odzie\u017cy przez kultur\u0119 fizyczna i sport.\r\n5. Rozw\u00f3j i popularyzacja squash.\r\n6. Zapewnienie warunk\u00f3w organizacyjnych i finansowych koniecznych dla uczestnictwa zawodnik\u00f3w Stowarzyszenia w rywalizacji sportowej.\r\n7. Rozwijanie i propagowanie inicjatyw, postaw i dzia\u0142a\u0144 sprzyjaj\u0105cych rozwojowi squash, oraz wspieranie organizacyjne i rzeczowe os\u00f3b fizycznych i jednostek organizacyjnych, kt\u00f3re podejmuj\u0105 takie dzia\u0142ania.\r\n8. Wsp\u00f3\u0142praca z w\u0142adzami samorz\u0105dowymi w kierunku poprawy krzewienia kultury fizycznej i sportu w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\n9. Wsp\u00f3\u0142udzia\u0142 w konstruowaniu programu rozwoju squash i promowaniu takich inicjatyw oraz oddzia\u0142ywanie na opini\u0119 publiczn\u0105 na rzecz w\u0142\u0105czania si\u0119 spo\u0142eczno\u015bci lokalnych w dzia\u0142ania maj\u0105ce na celu popraw\u0119 kultury fizycznej \u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2453,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Rampa Squash"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-470",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "1. Rozwijanie i propagowanie sportu strzeleckiego.\r\n2. Kszta\u0142towanie w\u0142a\u015bciwych postaw i zachowa\u0144 obywatelskich poprzez sport.\r\n3. Wsp\u00f3\u0142praca z osobami i instytucjami zainteresowanymi rozwojem strzelectwa sportowego, kszta\u0142cenie atmosfery wzajemnej \u017cyczliwo\u015bci \r\ni pomocy w\u015br\u00f3d cz\u0142onk\u00f3w klubu.\r\n4. Rekreacja i rozwijanie cel\u00f3w statutowych Polskiego Zwi\u0105zku Strzelectwa Sportowego.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2454,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144ski Klub Strzelecki VIS"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-307",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "b\u0142. Kr\u00f3lowej Jadwigi",
+      "terc": "3262011"
+    },
+    "aims": "a. dzia\u0142alno\u015b\u0107 na rzecz rozpowszechniania i rozwoju bryd\u017ca sportowego,\r\nb. dzia\u0142alno\u015b\u0107 w sferze sportu, kultury, zdrowia,\r\nc. dzia\u0142alno\u015b\u0107 edukacyjna w zakresie rozwoju, upowszechniania \r\ni popularyzacji sportu, kultury fizyczne, zdrowia,\r\nd. stwarzanie swoim cz\u0142onkom odpowiednich warunk\u00f3w do jego uprawiania, \r\ne. wsp\u00f3\u0142zawodnictwo sportowe\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2455,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Klub Sportowy AD Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "21/20",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-307",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Tenisowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest upowszechnianie kultury fizycznej i sportu w\u015br\u00f3d og\u00f3\u0142u spo\u0142eczno\u015bci, g\u0142\u00f3wnie w\u015br\u00f3d kobiet, dzieci i m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2456,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Ladies Football Academy"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Be\u017cowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2457,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Rolki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2458,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Kajaki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Be\u017cowa",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2459,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko \u0141owiectwo Podwodne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Be\u017cowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2460,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Wspinaczka ska\u0142kowa"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Be\u017cowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2461,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Alpinizm"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "57B",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-376",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Pogodna",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenia jest popularyzacja zdrowego stylu \u017cycia, kultury fizycznej, sportu, zdrowego od\u017cywiania, walki z na\u0142ogami.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2462,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "AKADEMIA JUDO SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-244",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Boles\u0142awa Krzywoustego",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest upowszechnianie kultury fizycznej i sportu, a tak\u017ce podnoszenie sprawno\u015bci fizycznej dzieci i m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2463,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Gimnastyki Artystycznej Morski Klub Sportowy Pogo\u0144 Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "21/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-564",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Elizy Orzeszkowej",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1) Organizowanie zaj\u0119\u0107 sportowych dla dzieci w celu wszechstronnego rozwoju ich sprawno\u015bci fizycznej i umys\u0142owej;\r\n2) Krzewienie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych na terenie dzia\u0142ania Klubu oraz wychowywanie poprzez kultur\u0119 fizyczn\u0105 i sport;\r\n3) Uczestniczenie w imprezach sportowych organizowanych na obszarze dzia\u0142ania samorz\u0105du terytorialnego i poza nim;\r\n4) Organizowanie dzia\u0142alno\u015bci sportowej ze szczeg\u00f3lnym uwzgl\u0119dnieniem funkcji zdrowotnych;\r\n5) Kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci poprzez uczestnictwo w realizacji zada\u0144 sportowych Klubu.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2464,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Sztorm Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/36",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-541",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u015aw. \u015aw. Cyryla i Metodego",
+      "terc": "3262011"
+    },
+    "aims": "Cel organizacji:\r\nUpowszechnianie kultury fizycznej i sprawno\u015bci dzieci, m\u0142odzie\u017cy i doros\u0142ych",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2465,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie JUDOKAN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42B",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-734",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Krzemienna",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1.\tUpowszechnianie kultury fizycznej i sportu;\r\n2.\tOchrona i promocja zdrowia;\r\n3.\tNauka, edukacja, o\u015bwiata i wychowanie;\r\n4.\tKrajoznawstwo oraz wypoczynek dzieci i m\u0142odzie\u017cy;\r\n5.\tBezpiecze\u0144stwo oraz przeciwdzia\u0142anie patologiom spo\u0142ecznym;\r\n6.\tDzia\u0142anie na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami;\r\n7.\tWsp\u00f3\u0142zawodnictwo sportowe dzieci i m\u0142odzie\u017cy \u2013 sport kwalifikowany;\r\n8.\tWsp\u00f3\u0142zawodnictwo sportowe os\u00f3b doros\u0142ych \u2013 sport kwalifikowany.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2466,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy FABRYKA RUCHU"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2467,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko 1/4 mili"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5c/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-711",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Grzymi\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2468,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Carting"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2469,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko \u0141ucznictwo"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Antoniego Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2470,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Kolarstwo prze\u0142ajowe"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Be\u017cowa",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2471,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Hokej na trawie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2472,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Paralotniarstwo"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2473,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Windsurfing"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2474,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Spadochrony"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2475,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko \u201eBiegi prze\u0142ajowe\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2476,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Narciarstwo Klasyczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-756",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017babia",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2477,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Motolotnie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-837",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Ekologiczna",
+      "terc": "3262011"
+    },
+    "aims": "Celem Ogniska jest:\r\n1. Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej:\r\n- wsp\u00f3\u0142zawodnictwo sportowe z uwzgl\u0119dnieniem funkcji zdrowotnych,\r\n- w dziedzinach rekreacji ruchowej (sport dla wszystkich),\r\n- w promocji zdrowia.\r\n2. Rozw\u00f3j masowej kultury fizycznej, upowszechnianie rekreacji ruchowej oraz innych form aktywnego wypoczynku w\u015br\u00f3d os\u00f3b starszych, doros\u0142ych, m\u0142odzie\u017cy i dzieci, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie.\r\n3. Propagowanie zdrowego stylu \u017cycia i wypoczynku, zapobieganie patologiom spo\u0142ecznym w\u015br\u00f3d m\u0142odzie\u017cy (alkoholizm, narkomania itp.).",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2478,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Towarzystwo Krzewienia Kultury Fizycznej Ognisko Golf"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-374",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "5 Lipca",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\nUpowszechnianie kultury fizycznej, sposob\u00f3w walki zgodnymi z traktatami szermierki historycznej i Dawnych Europejskich Sztuk Walki (DESW) jak i Szermierki Artystycznej.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2479,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Dawnych Europejskich Sztuk Walki \u201eGreifenfechter\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "43/60",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-547",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Rynkowa",
+      "terc": "3262011"
+    },
+    "aims": "1) poprawa stanu zdrowia doros\u0142ych, dzieci i m\u0142odzie\u017cy, dzi\u0119ki upowszechnianiu kultury fizycznej i sportu,  poprzez  rozw\u00f3j r\u00f3\u017cnych dyscyplin sportu, a w szczeg\u00f3lno\u015bci TEQBALL i Amp Futbal,\r\n2) kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci w \u015brodowisku dzieci, m\u0142odzie\u017cy i doros\u0142ych, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie,\r\n3) udzielanie pomocy, w zakresie upowszechnianiu kultury fizycznej i sportu, w\u015br\u00f3d niepe\u0142nosprawnych,\r\n4) integracja i rehabilitacja os\u00f3b niepe\u0142nosprawnych w ka\u017cdym wieku przez sport,\r\n5) podnoszenie poziomu sportowego i etycznego cz\u0142onk\u00f3w Klubu,\r\n6) wsp\u00f3\u0142praca z organizacjami, stowarzyszeniami, instytucjami krajowymi mi\u0119dzynarodowymi o podobnych celach dzia\u0142ania.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "hasSameAddress": true,
+    "id": 2480,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy TEQBALL & Amp Futbal SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "45/10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-249",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Sebastiana Klonowica",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest podejmowanie dzia\u0142a\u0144 z zakresu po\u017cytku publicznego w sferze: \r\n1. upowszechniania kultury fizycznej i sportu, poprzez rozw\u00f3j r\u00f3\u017cnych dyscyplin sportu oraz aktywno\u015bci a w szczeg\u00f3lno\u015bci nordic walking\r\n2. ochrony i promocji zdrowia; \r\n3. nauki, edukacji, o\u015bwiaty i wychowania; \r\n4. krajoznawstwa oraz wypoczynku dzieci i m\u0142odzie\u017cy; \r\n5. bezpiecze\u0144stwa oraz przeciwdzia\u0142ania patologiom spo\u0142ecznym; \r\n6. dzia\u0142a\u0144 na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami;\r\n7. wsp\u00f3\u0142praca z organizacjami, stowarzyszeniami, instytucjami krajowymi mi\u0119dzynarodowymi o podobnych celach dzia\u0142ania;\r\n8. wsp\u00f3\u0142zawodnictwa sportowego dzieci i m\u0142odzie\u017cy \u2013 sport kwalifikowany; \r\n9. wsp\u00f3\u0142zawodnictwa sportowego os\u00f3b doros\u0142ych \u2013 sport kwalifikowany;\r\n10. promocja stowarzyszenia, miasta i gminy Szczecin oraz regionu;\r\n11. walka z oty\u0142o\u015bci\u0105 i profilaktyka;\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "turystyka i krajoznawstwo",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2481,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Pogodni Nordikowcy Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "72/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-497",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Stanis\u0142awa Wyspia\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest podejmowanie dzia\u0142a\u0144 z zakresu po\u017cytku publicznego\r\nw sferze: \r\n1) Upowszechniania kultury fizycznej i sportu; \r\n2) Ochrony i promocji zdrowia; \r\n3) Nauki, edukacji, o\u015bwiaty i wychowania; \r\n4) Krajoznawstwa oraz wypoczynku dzieci i m\u0142odzie\u017cy; \r\n5) Bezpiecze\u0144stwa oraz przeciwdzia\u0142ania patologiom spo\u0142ecznym; \r\n6) Dzia\u0142a\u0144 na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w\r\ni wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami;\r\n7) Wsp\u00f3\u0142zawodnictwa sportowego dzieci i m\u0142odzie\u017cy \u2013 sport kwalifikowany; \r\n8) Wsp\u00f3\u0142zawodnictwa sportowego os\u00f3b doros\u0142ych \u2013 sport kwalifikowany.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2482,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Snowriders Racing Team Nordica"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "64b/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-837",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Policka",
+      "terc": "3262011"
+    },
+    "aims": "Upowszechnianie kultury fizycznej i sportu oraz podnoszenie sprawno\u015bci fizycznej dzieci, m\u0142odzie\u017cy i doros\u0142ych, ze szczeg\u00f3lnym uwzgl\u0119dnieniem pi\u0142ki no\u017cnej.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2483,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Uniwersytet Pi\u0142karski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "28/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-795",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Du\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest: Prowadzenie dzia\u0142alno\u015bci w dziedzinie sportu, rozpowszechnianie, doskonalenie oraz nauka gry w bule, poprzez;\r\n1. zachowanie i zwi\u0119kszanie fizycznej sprawno\u015bci cz\u0142onk\u00f3w Klubu, \r\n2. wyzwalanie aktywno\u015bci os\u00f3b starszych, m\u0142odzie\u017cy, dzieci, os\u00f3b niepe\u0142nosprawnych intelektualnie i ruchowo, \r\n3. promocja zdrowia i kszta\u0142towanie zdrowego stylu \u017cycia, \r\n4. upowszechnianie kultury fizycznej, \r\n5. organizowanie imprez sportowych o charakterze promocyjnym, \r\n6. wspieranie i upowszechnianie, doskonalenie oraz nauka gry w bule, \r\n7. kszta\u0142towanie postaw spo\u0142ecze\u0144stwa obywatelskiego i przeciwdzia\u0142anie wykluczeniu spo\u0142ecznemu, \r\n8. samopomoc kole\u017ce\u0144ska cz\u0142onk\u00f3w, \r\n9. prowadzenie dzia\u0142alno\u015bci na rzecz wszechstronnej aktywizacji psychicznej i fizycznej os\u00f3b starszych, os\u00f3b niepe\u0142nosprawnych, m\u0142odzie\u017cy i dzieci, \r\n10. aktywizacja spo\u0142eczna cz\u0142onk\u00f3w Klubu, \r\n11. promowanie aktywnych form sp\u0119dzania wolnego czasu, \r\n12. poprawa jako\u015bci \u017cycia os\u00f3b starszych, \r\n13. wspieranie idei wolontariatu i integracji pokole\u0144, w tym os\u00f3b niepe\u0142nosprawnych ruchowo i intelektualnie, \r\n14. wspieranie i upowszechnianie kultury i sportu, \r\n15. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, \r\n16. dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym, \r\n17. Wspieranie idei spo\u0142ecze\u0144stwa obywatelskiego, integracji europejskiej oraz rozszerzenie kontakt\u00f3w wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami, innymi stowarzyszeniami, organizacjami i instytucjami w kraju i za granic\u0105, \r\n18. Uczestnictwo w procesie wychowania m\u0142odzie\u017cy szkolnej na zdrowych wszechstronnie rozwini\u0119tych i prawych obywateli, \r\n19. Inspirowanie r\u00f3\u017cnych \u015brodowisk w kraju do tworzenia niezb\u0119dnych warunk\u00f3w dla zapewnienia prawid\u0142owego biologicznego rozwoju m\u0142odzie\u017cy szkolnej, \r\n20. Rozwijanie zainteresowa\u0144 sportowych m\u0142odzie\u017cy szkolnej, a tak\u017ce propagowanie zdrowego stylu \u017cycia w\u015br\u00f3d dzieci i m\u0142odzie\u017cy, wolnego od wszelkich na\u0142og\u00f3w.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2484,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy PUENTA SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-050",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Gen. Stanis\u0142awa Kopa\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "Upowszechnianie kultury fizycznej i sportu oraz podnoszenie sprawno\u015bci fizycznej dzieci, m\u0142odzie\u017cy i doros\u0142ych.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2485,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie Sport\u00f3w Walk BJJ BT Junior"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "29",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-476",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Stanis\u0142awa Wojciechowskiego",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenie jest propagowanie i rozw\u00f3j kultury fizycznej ze szczeg\u00f3lnym naciskiem na sporty wodne. Wychowanie poprzez uczestnictwo w szkoleniach, krzewienie poprawnych postaw m\u0142odzie\u017cy. W przysz\u0142o\u015bci szkolenie zawodnik\u00f3w mog\u0105cych reprezentowa\u0107 kraj na zawodach mi\u0119dzynarodowych.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2486,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sport\u00f3w Wodnych Miedwie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-798",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u015awistacza",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1. Rozwijanie wyczynowego sportu pi\u0142karskiego i amatorskiego \r\nw \u015brodowisku szczeci\u0144skim \r\n2. Tworzenie warunk\u00f3w dla uprawiania sportu wyczynowego swym cz\u0142onkom w tworzonych grupach szkoleniowych. \r\n3. Nadzorowanie dzia\u0142alno\u015bci nad szkoleniem sportowym zawodnik\u00f3w dru\u017cyn wyczynowych oraz m\u0142odzie\u017cowych w poszczeg\u00f3lnych grupach wiekowych.\r\n4. Korzystanie z obiekt\u00f3w i urz\u0105dze\u0144 sportowych.\r\n",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2487,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy \u201eFC Aquila Szczecin\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-712",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Robotnicza",
+      "terc": "3262011"
+    },
+    "aims": "Celem klubu jest propagowanie orientalnych sport\u00f3w i sztuk walki poprzez organizowanie i prowadzenie zaj\u0119\u0107 sportowych w zakresie orientalnych sport\u00f3w i sztuk walki, oraz kszta\u0142towanie zasad wsp\u00f3\u0142\u017cycia sportowego w\u015br\u00f3d spo\u0142ecze\u0144stwa.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy"
+    ],
+    "hasSameAddress": true,
+    "id": 2488,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Krabi Krabong"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "69/25",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-246",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Eugeniusza Romera",
+      "terc": "3262011"
+    },
+    "aims": "Celami Klubu jest dzia\u0142alno\u015b\u0107 na rzecz og\u00f3\u0142u Spo\u0142ecze\u0144stwa w zakresie: \r\n1.Sportowego szkolenia os\u00f3b doros\u0142ych i m\u0142odzie\u017cy w wybranych dyscyplinach sportu; 2.Upowszechnianie kultury fizycznej i sportu, w tym d\u0105\u017cenie do osi\u0105gni\u0119cia najwy\u017cszego poziomu sportowego i integrowanie procesu szkolenia z dzia\u0142ano\u015bci\u0105 wychowawcz\u0105 oraz upowszechnianie kultury fizycznej i sportu wsr\u00f3d \u017co\u0142nierzy, pracownik\u00f3w wojska, ich rodzin, jak r\u00f3wnie\u017c mieszka\u0144c\u00f3w z terenu dzia\u0142ano\u015bci Klubu; \r\n3.Upowszechnianie wiedzy i umiej\u0119tno\u015bci na rzecz obronno\u015bci pa\u0144stwa, w tym podejmowanie dzia\u0142a\u0144 na rzecz rozwoju dyscyplin sportowo u\u017cytecznych dla wojska.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2489,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144ski Klub Sport\u00f3w Walki GARDA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "66/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-556",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Tkacka",
+      "terc": "3262011"
+    },
+    "aims": "Celem Stowarzyszenia jest edukacja w zakresie kultury fzycznej, poprzez propagowanie sztuk walk w celach organizowania \u017cycia sportowego w\u015br\u00f3d doros\u0142ych, m\u0142odzie\u017cy i dzieci.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2490,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144skie Stowarzyszenie Sztuk Walki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "64b/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-837",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Policka",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest upowszechnianie kultury fizycznej i sportu oraz podnoszenie sprawno\u015bci fizycznej dzieci, m\u0142odzie\u017cy i doros\u0142ych, ze szczeg\u00f3lnym uwzgl\u0119dnieniem zaj\u0119\u0107 nauki i doskonalenia techniki p\u0142ywackiej.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2491,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub P\u0142ywacki Aktywni w Wodzie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10/59",
+      "city": "Szczecin",
+      "commune": "gmina miejska Szczecin",
+      "district": "miasto na prawach powiatu Szczecin",
+      "postcode": "70-136",
+      "province": "zachodniopomorskie",
+      "simc": "0977976",
+      "street": "9 Maja",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:                                        \r\n1.Dzia\u0142alno\u015b\u0107 w sferze sportu, kultury i zdrowia ze szczeg\u00f3lnym uwzgl\u0119dnieniem Gminy Miasto Szczecin.     \r\n2.Dzia\u0142alno\u015b\u0107 edukacyjna w zakresie rozwoju, upowszechniania i popularyzacji sportu, kultury fizycznej, zdrowia ze szczeg\u00f3lnym uwzgl\u0119dnieniem Gminy Miasto Szczecin.                                \r\n3.Realizacja prawid\u0142owego procesu wychowania fizycznego oraz doskonalenie uzdolnie\u0144 i sprawno\u015bci fizycznej dla zachowania zdrowia w celu osi\u0105gni\u0119cia mistrzostwa sportowego ze szczeg\u00f3lnym uwzgl\u0119dnieniem Gminy Miasto Szczecin.        \r\n4.Stwarzanie swoim cz\u0142onkom odpowiednich warunk\u00f3w do jego uprawiania ze szczeg\u00f3lnym uwzgl\u0119dnieniem Gminy Miasto Szczecin.                            5.Wsp\u00f3\u0142zawodnictwo sportowe.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2492,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Odra Szczecin 1945"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "25/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-246",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Tadeusza Zawadzkiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele:\r\n1. Upowszechnianie wszelkich form aktywnosci fizycznej, kt\u00f3re przez uczestnictwo dora\u017ane lub zorganizowane wp\u0142ywaj\u0105 na wypracowanie lub poprawienie kondycji fizycznej i psychicznej, rozw\u00f3j stosunk\u00f3w spo\u0142ecznych lub osi\u0105gni\u0119cie wynik\u00f3w sportowych na wszelkich poziomach w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych,\r\n2. dzia\u0142anie na rzecz sportu, rekreacji i turystyki.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2493,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Ruchowa Akademia Zdrowia"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-261",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Stanis\u0142awa Brzozowskiego",
+      "terc": "3262011"
+    },
+    "aims": "Celami Stowarzyszenia s\u0105:\r\n1. krzewienie kultury fizycznej na terenie dzia\u0142ania Stowarzyszenia oraz wychowanie przez kultur\u0119 fizyczn\u0105,\r\n2. planowanie i organizacja zaj\u0119\u0107 sportowych dla cz\u0142onk\u00f3w Stowarzyszenia,\r\n3. uczestniczenie w rozgrywkach sportowych na terenie kraju i poza nim.\r\n",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "turystyka i krajoznawstwo"
+    ],
+    "hasSameAddress": true,
+    "id": 2494,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy Pionier"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "88/10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-635",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Emilii Plater",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1. Reprezentowanie stowarzyszenia wobec w\u0142adz i organizacji sportowych,\r\n2. krzewienie kultury fizycznej w\u015br\u00f3d dzieci i m\u0142odzie\u017cy i doros\u0142ych na terenie dzia\u0142ania stowarzyszenia,\r\n3. Upowszechnianie umiejetnosci bokserskich,\r\n4. Wychowanie dzieci i m\u0142odzie\u017cy poprzez kultur\u0119 fizyczn\u0105 i sport,\r\n5. Rozw\u00f3j i popularyzacja sportu,\r\n6. Zapewnienie warunk\u00f3w organizacyjnych i finansowych koniecznych dla uczestnictwa zawodnik\u00f3w stowarzyszenia w rywalizacji sportowej,\r\n7. Rozwijanie i propagowanie inicjatyw, postaw i dzia\u0142a\u0144 sprzyjaj\u0105cych rozwojowi boksu oraz wspieranie organizacyjne i rzeczowe os\u00f3b fizycznych i jednostek organizacyjnych, kt\u00f3re podejmuj\u0105 takie dzia\u0142ania,\r\n8. Wsp\u00f3\u0142praca z w\u0142adzami samorz\u0105dowymi w kierunku poprawy krzewienia kultury fizycznej i sportu w\u015br\u00f3d dzieci i m\u0142odzie\u017cy i doros\u0142ych,\r\n9. Wsp\u00f3\u0142udzia\u0142 w konstruowaniu programu rozwoju boksu i promowaniu takich inicjatyw oraz oddzia\u0142ywanie na opini\u0119 publiczn\u0105 na rzecz w\u0142\u0105czania si\u0119 spo\u0142ecznosci lokalnych w dzia\u0142ania majace na celu popraw\u0119 kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "88/10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-635",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Emilii Plater",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 2495,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy \"Sok\u00f3\u0142 Team\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6a/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-013",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Inowroc\u0142awska",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1. rozwijanie r\u00f3\u017cnych form kultury fizycznej w \u015brodowisku nies\u0142ysz\u0105cych \r\nw ka\u017cdym wieku, \r\n2. kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci w \u015brodowisku dzieci, m\u0142odzie\u017cy i doros\u0142ych,  jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie,\r\n3. podnoszenie poziomu sportowego i etycznego cz\u0142onk\u00f3w klubu,\r\n4. integracja i rehabilitacja nies\u0142ysz\u0105cych w ka\u017cdym wieku przez sport.\r\nDokonania 2019:\r\n1. Program wsparcia sport\u00f3w indywidualnych.\r\n2. Og\u00f3lnopolski Turniej Nies\u0142ysz\u0105cych w Pi\u0142ce Siatkowej Oldboj\u00f3w.\r\n3. Program przygotowa\u0144 olimpijskich i paraolimpijskich.\r\n4. Us\u0142uga promocyjna-Mistrzostwa Polski Nies\u0142ysz\u0105cych w Lekkoatletyce odbywaj\u0105ce si\u0119 w Szczecinie w dniach 21-23 czerwca 2019 roku.\r\n5. Organizacja zaj\u0119\u0107 sportowych dla os\u00f3b niepe\u0142nosprawnych w dniach 02.01.2019-24.12.2019-SEKCJA 2019 ROK.\r\n6. Organizacja Mistrzostw Polski Nies\u0142ysz\u0105cych w Lekkiejatletyce.\r\n7. Organizacja Og\u00f3lnopolskiego Turnieju Oldboj\u00f3w w Siatk\u00f3wce M\u0119\u017cczyzn.\r\n8. Organizacja obozu sportowego w Cz\u0142uchowie.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "hasSameAddress": true,
+    "id": 2496,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144ski Klub Sportowy G\u0142uchych KORONA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "26A/15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-667",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Ksi\u0119cia Warcis\u0142awa I",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\na)rozw\u00f3j i popularyzacja pi\u0142ki siatkowej w\u015br\u00f3d dzieci i m\u0142odzie\u017cy szk\u00f3\u0142 podstawowych i \u015brednich na terenie dzia\u0142ania Stowarzyszenia,\r\nb)stwarzanie m\u0142odzie\u017cy szkolnej warunk\u00f3w do szerokiego udzia\u0142u w zaj\u0119ciach stowarzyszenia,\r\nupowszechniania kultury fizycznej poprzez dzia\u0142alno\u015b\u0107 w zakresie sportu, wychowania fizycznego, rekreacji i rehabilitacji ruchowej. \r\n",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2497,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Szczeci\u0144skie Stowarzyszenie Pi\u0142ki Siatkowej Espadon"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "21C/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-786",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Szczeci\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "1. Upowszechnianie kultury fizycznej i sportu.\r\n2. Dzia\u0142alno\u015b\u0107 na rzecz upowszechniania i popularyzacji pi\u0142ki siatkowej.\r\n3. Dzia\u0142alno\u015b\u0107 na rzecz podnoszenia umiej\u0119tno\u015bci dzieci i m\u0142odzie\u017cy uprawiaj\u0105cych pi\u0142k\u0119 siatkow\u0105.\r\n4. Dzia\u0142alno\u015b\u0107 na rzecz popularyzacji pi\u0142ki siatkowej w\u015br\u00f3d dzieci \r\ni m\u0142odzie\u017cy niepe\u0142nosprawnej.\r\n5. Planowanie i organizowanie \u017cycia sportowego cz\u0142onk\u00f3w Klubu \r\nw oparciu o mo\u017cliwo\u015bci obiektowe i sprz\u0119towe.\r\n6. Reprezentowanie miasta i powiatu szczeci\u0144skiego oraz wojew\u00f3dztwa zachodniopomorskiego w imprezach sportowych na terenie kraju do imprez rangi Mistrzostw Polski oraz \u015awiata.\r\n7. Realizacja programu rozwoju pi\u0142ki siatkowej w\u015br\u00f3d dzieci i m\u0142odzie\u017cy\r\n8. Pomoc spo\u0142eczna, organizacja czasu, zapobieganie patologii\r\n9. Dzia\u0142alno\u015b\u0107 charytatywna.\r\n10. Ochrona i promocja zdrowia.\r\n",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2498,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Miejski Klub Sportowy PIAST Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "51",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-837",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Policka",
+      "terc": "3262011"
+    },
+    "aims": "Celem Klubu jest:\r\n1.Rozwijanie r\u00f3\u017cnych form kultury fizycznej,\r\n2.Kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci w \u015brodowisku dzieci, m\u0142odzie\u017cy i doros\u0142ych, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie,\r\n3.Prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej, w dziedzinie rekreacji i rehabilitacji ruchowej,\r\n4.Dzia\u0142anie na rzecz wspierania realizacji zada\u0144 z zakresu popularyzacji zdrowego stylu \u017cycia, kultury fizycznej, sportu, zdrowego od\u017cywiania, walki z na\u0142ogami. \r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 2499,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Stowarzyszenie kultury fizycznej i promocji zdrowia North Sport Active"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15e/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-520",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Juliana Ursyna Niemcewicza",
+      "terc": "3262011"
+    },
+    "aims": "1. Upowszechnianie kultury fizycznej i sportu w szczeg\u00f3lno\u015bci poprzez promowanie samoobrony.\r\n2. Propagowanie szeroko poj\u0119tego zdrowego stylu \u017cycia.\r\n3. Wychowywanie swoich cz\u0142onk\u00f3w w duchu zdrowego wsp\u00f3\u0142zawodnictwa sportowego.\r\n4. Kszta\u0142towanie w\u0142a\u015bciwych postaw i zachowa\u0144 obywatelskich poprzez sport.\r\n5. Organizowanie oraz wspomaganie organizowania wypoczynku dzieci i m\u0142odzie\u017cy.\r\n6. Dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2500,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Urban Self-Defence System"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "16",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-501",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "W\u0105ska",
+      "terc": "3262011"
+    },
+    "aims": "1. Wspieranie i upowszechnianie kultury fizycznej.\r\n2. Dzia\u0142alno\u015b\u0107 na rzecz popularyzacji Extreme Martial Arts oraz Martial Art Tricking w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\n3. Pobudzanie \u015bwiadomo\u015bci sportowej spo\u0142ecze\u0144stwa.\r\n",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 2501,
+    "legalForm": "Kluby sportowe nieprowadz\u0105ce dzia\u0142alno\u015bci gospodarczej",
+    "name": "Klub Sportowy \u201eT-akeshi Team Szczecin\u201d"
+  }
+]

@@ -1,0 +1,34 @@
+https://bip.um.szczecin.pl/UMSzczecinBIP/chapter_131445.asp - strona do wzięcia 
+
+1 dzień (poniedziałek 05.08.2024) - wczytanie API Urzędu Miasta oraz wczytanie do bazy danych
+2 dzień (wtorek 06.08.2024) - kontynuacja pracy z API Urzędu Miasta
+3 dzień (czwartek 08.08.2024) - praca z procedurami wbudowanymi w SQL Server Management Studio
+			- program wyświetlający komunikat
+4 dzień (piątek 09.08.2024) - kontynuacja pracy z programem wyświetlającym komunikat
+(trochę wyżej ok i Focus)
+-----
+5 dzień (poniedziałek 12.08.2024) - zakończenie pracy z programem wyświetlającym komunikat
+początek pracy nad planem Urzędu Miasta Szczecin
+6 dzień (wtorek 13.08.2024) - Kontynuacja pracy nad planem
+7 dzień (środa 14.08.2024) - Ulepszenie programu z komunikatem
+8 dzień (piątek 16.08.2024) - Ponowna próba podejścia do pracy nad planem
+-----
+9 dzień (poniedziałek 19.08.2024) - praca nad planem
+10 dzień (środa 21.08.2024) - nowa praca nad skryptem SQL z logami
+11 dzień (czwartek 22.08.2024) - kontynuacja pracy nad skryptem SQL
+12 dzień (piątek 23.08.2024) - zakończenie skryptu SQL; pisanie istotnego kodu dla planu
+-----
+13 dzień (poniedziałek) - kontynuacja naprawiania kodu dla planu
+14 dzień (wtorek) - jak powyżej
+15 dzień (czwartek)
+16 dzień (piątek) jak powyżej
+ILMerge
+
+open-source schematu do Urzędu 
+narzędzie do budowania schematów (leaflet)
+http://uminet.umszczecin.local/chapter_11538m.asp
+pokazywanie drogi
+wprowadzanie zmian np remont, drzwi otwarte/zamknięte
+zintegrowanie z trasowaniem
+schemat pięter - same pomieszczenia + drzwi + osie korytarzy
+(klatka schodowa, winda, drzwi)

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBoxApp", "MessageBoxApp\MessageBoxApp.csproj", "{99AA110C-72B5-4B41-BC5D-4A787877B433}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBox", "MessageBox_SK\MessageBox.csproj", "{53DB8EE2-FE0C-4907-BA64-D57C98C54AA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApp", "MyApp\MyApp.csproj", "{788EA5BE-F16C-4CEC-94DE-90B922487C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AA110C-72B5-4B41-BC5D-4A787877B433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AA110C-72B5-4B41-BC5D-4A787877B433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AA110C-72B5-4B41-BC5D-4A787877B433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AA110C-72B5-4B41-BC5D-4A787877B433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DB8EE2-FE0C-4907-BA64-D57C98C54AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DB8EE2-FE0C-4907-BA64-D57C98C54AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DB8EE2-FE0C-4907-BA64-D57C98C54AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DB8EE2-FE0C-4907-BA64-D57C98C54AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788EA5BE-F16C-4CEC-94DE-90B922487C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788EA5BE-F16C-4CEC-94DE-90B922487C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788EA5BE-F16C-4CEC-94DE-90B922487C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788EA5BE-F16C-4CEC-94DE-90B922487C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7455A5-F03B-4D2C-99D0-E58AEC52C864}
+	EndGlobalSection
+EndGlobal

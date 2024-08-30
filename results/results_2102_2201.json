@@ -1,0 +1,1900 @@
+[
+  {
+    "address": {
+      "buildingAndFlatNumber": "5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-393",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "ul. ks. Piotra Wawrzyniaka",
+      "terc": "3262011"
+    },
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2102,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "SZCZECI\u0143SKIE TOWARZYSTWO \"POGRANICZE\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "124",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-080",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "ul. Ku S\u0142o\u0144cu",
+      "terc": "3262011"
+    },
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2103,
+    "legalForm": "Ko\u015bcio\u0142y i inne zwi\u0105zki wyznaniowe oraz inne organizacje z nimi zwi\u0105zane",
+    "name": "TOWARZYSTWO SALEZJA\u0143SKIE DOM ZAKONNY PW. \u015aW. J\u00d3ZEFA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-042",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Olszty\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": " a. wsp\u00f3\u0142praca z terenowymi organami w\u0142adzy, administracji, instytucjami i organizacjami spo\u0142eczno-zawodowymi oraz galeriami w zakresie: kszta\u0142towania opinii, stwarzania warunk\u00f3w okre\u015blaj\u0105cych rol\u0119, rang\u0119 i zasady rozwoju oraz upowszechniania sztuki i kultury o tematyce marynistycznej,\r\nb. dzia\u0142ania artystyczne, o\u015bwiatowe, edukacyjne i wychowawcze,\r\nc. upowszechnianie turystyki, sportu i rekreacji oraz aktywnego wypoczynku po\u0142\u0105czonego z prac\u0105 tw\u00f3rcz\u0105,\r\nd. promowanie sztuki i kultury marynistycznej.\r\n                                                                        \r\n  ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2104,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKIE STOWARZYSZENIE MARYNIST\u00d3W POLSKICH \"POD MASZTAMI\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "90",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-482",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "  a. dzia\u0142anie na rzecz dzieci, m\u0142odzie\u017cy uzdolnionych artystycznie, w tym uczni\u00f3w-s\u0142uchaczy szk\u00f3\u0142 artystycznych, doros\u0142ych artyst\u00f3w amator\u00f3w, senior\u00f3w, paraj\u0105cych si\u0119 sztuk\u0105 i kultur\u0105,\r\nb. popularyzowanie wiedzy o sztuce, kulturze, edukacji, o\u015bwiacie w\u015br\u00f3d spo\u0142ecze\u0144stwa, c. promocja i popularyzowanie szkolnictwa artystycznego, d.\r\ntworzenie p\u0142aszczyzny wymiany informacji i do\u015bwiadcze\u0144 pomi\u0119dzy osobami i instytucjami zainteresowanymi dzia\u0142alno\u015bci\u0105 okre\u015blon\u0105 w niniejszym regulaminie, e. pozyskiwanie mecenas\u00f3w i patron\u00f3w dla szkolnictwa artystycznego, m\u0142odzie\u017cy, doros\u0142ych i senior\u00f3w utalentowanych i uzdolnionych artystycznie oraz przedsi\u0119wzi\u0119\u0107 artystycznych i kulturalnych, f. promowanie m\u0142odzie\u017cy uzdolnionej artystycznie, g. pomoc w budowaniu kariery artystycznej.                                                                                    \r\n                                                                              \r\n ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2105,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE EDUKACJA DLA TALENTU"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "18c/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-620",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Jana Kazimierza",
+      "terc": "3262011"
+    },
+    "aims": "a. aktywizacja i pomoc spo\u0142eczna oraz organizowanie wszelkich form edukacji dla dzieci, m\u0142odzie\u017cy i senior\u00f3w, b. inicjowanie i prowadzenie dzia\u0142alno\u015bci wymagaj\u0105cej rozw\u00f3j intelektualny, emocjonalny, spo\u0142eczny, socjalny oraz zdrowie psychiczne i fizyczne dzieci, m\u0142odzie\u017cy i senior\u00f3w, c. organizowanie wypoczynku wakacyjnego i zimowego dla dzieci i m\u0142odzie\u017cy, d. organizowanie imprez okoliczno\u015bciowych oraz r\u00f3\u017cnorodnych form zaj\u0119\u0107 dla dzieci, m\u0142odzie\u017cy i senior\u00f3w, e. inicjowanie i organizowanie dzia\u0142a\u0144 na rzecz ekologii, f. organizowanie i promowanie form wolontariatu, g. wspieranie kultury i sztuki oraz upowszechnianie kultury fizycznej, h. ochrona i promocja zdrowia, i. dzia\u0142alno\u015b\u0107 charytatywna, j. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j przedsi\u0119biorczo\u015bci oraz spo\u0142eczno\u015bci lokalnych, k. dzia\u0142alno\u015b\u0107 na rzecz rodziny i ochrony praw dziecka, l. przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym, wspieranie rewitalizacji.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2106,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "MALI WIELCY"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-781",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Perseusza",
+      "terc": "3262011"
+    },
+    "aims": "   a. dzia\u0142ania na rzecz strzelectwa, sportu strzeleckiego i kolekcjonerstwa broni,\r\nb. popularyzowanie wiedzy z dziedziny strzelectwa, sportu strzeleckiego i kolekcjonerstwa broni, c. promocja i popieranie strzelectwa i kolekcjonerstwa broni.                                                                                                                                                ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2107,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "Stowarzyszenie Strzelecko-Kolekcjonerskie \"KARMS\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "34a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-892",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Pyrzycka",
+      "terc": "3262011"
+    },
+    "aims": "Budowa wodoci\u0105gu",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2108,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "Stowarzyszenie na rzecz budowy wodoci\u0105gu przy ul. W\u0119drownej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-220",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "\u017byzna",
+      "terc": "3262011"
+    },
+    "aims": "a) Prowadzenie aktywnych dzia\u0142a\u0144 w zakresie kwestii zwi\u0105zanych z edukacj\u0105 na poziomie lokalnym, regionalnym oraz krajowym;\r\nb) Prowadzenie aktywnych dzia\u0142a\u0144 w zakresie promocji zdrowia, sportu i rekreacji, spraw spo\u0142ecznych;\r\nc) Zapewnienie rodzicom dzieci ucz\u0119szczaj\u0105cym do plac\u00f3wek o\u015bwiatowych na terenie miasta Szczecina, w tym w szczeg\u00f3lno\u015bci Radom Rodzic\u00f3w szk\u00f3\u0142, przedszkoli oraz \u017c\u0142obk\u00f3w wsparcia merytorycznego oraz organizacyjnego w kwestiach zwi\u0105zanych z prowadzeniem i realizacj\u0105 polityki o\u015bwiatowej;\r\nd) Integracja lokalnego \u015brodowiska wok\u00f3\u0142 spraw zwi\u0105zanych z edukacj\u0105 m\u0142odego pokolenia i przeciwdzia\u0142aniem bezradno\u015bci i wykluczeniu spo\u0142ecznemu;\r\ne) Wspieranie demokracji i budowanie spo\u0142ecze\u0144stwa obywatelskiego w \u015brodowisku lokalnym;\r\nf) Wspieranie \u015brodowiska rodzic\u00f3w dzieci ucz\u0119szczaj\u0105cych do plac\u00f3wek o\u015bwiatowych w kontaktach z organami prowadz\u0105cymi oraz nadzoruj\u0105cymi plac\u00f3wki o\u015bwiatowe i w\u0142adzami o\u015bwiaty w Szczecinie.\r\n                                                                                                                                                                                        ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2109,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "Stowarzyszenie \u201eRodzice dla Szczecina\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-157",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Piramowicza",
+      "terc": "3262011"
+    },
+    "aims": "Wybudowanie w ulicy \u017byzna - Boczna tj. w granicach si\u0119gacza ulicy \u017byznej stanowi\u0105cego dzia\u0142ki: dzia\u0142k\u0119 nr 29/5 oraz cz\u0119\u015b\u0107 dzia\u0142ki numer 10/1 obr\u0119bu 2051 (Pogodno 51) medi\u00f3w technicznych tj.: a. sieci kanalizacji sanitarnej (kana\u0142\u00f3w grawitacyjnych), b. ruroci\u0105gu t\u0142ocznego wraz z przepompowniami, c. sieci kanalizacji deszczowej, d. sieci wodoci\u0105gowej.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2110,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"MEDIA W ULICY \u017bYZNA - BOCZNA\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-563",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ko\u0144ski Kierat",
+      "terc": "3262011"
+    },
+    "aims": "  a) promocja malarstwa i sztuki dawnej, szczeg\u00f3lnie z Pomorza,\r\nb. dzia\u0142alno\u015b\u0107 w sferze kultury,\r\nc. krzewienie wiedzy na temat malarstwa i sztuki dawnej.\r\n                                                                                                                                                                                                                                   ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2111,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "Klub Kolekcjoner\u00f3w, Mi\u0142o\u015bnik\u00f3w Malarstwa i Sztuki Dawnej w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-886",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Fio\u0142kowa",
+      "terc": "3262011"
+    },
+    "aims": "   a. prowadzenie dzia\u0142alno\u015bci: kulturalnej, o\u015bwiatowej, sportowej, rekreacyjnej, turystycznej i wydawniczej,\r\nb. prowadzenie dzia\u0142a\u0144 wspomagaj\u0105cych rozw\u00f3j spo\u0142eczno\u015bci lokalnych poprzez udzia\u0142 w organizowanych wydarzeniach,\r\nc. przeciwdzia\u0142anie marginalizacji najs\u0142abszych, kt\u00f3rzy z racji swojej sytuacji materialnej i zawodowej, nie maj\u0105 dost\u0119pu do us\u0142ug kulturalnych, edukacyjnych i rekreacyjnych,      d. przybli\u017cenie ka\u017cdej formy kultury mieszka\u0144com peryferyjnych dzielnic Szczecina,      e. animowanie kontakt\u00f3w i wymiany kulturalno - o\u015bwiatowej z zagranic\u0105, a w szczeg\u00f3lno\u015bci z rejonami przygranicznymi i krajami Unii Europejskiej.\r\n                                                                                                                                                                                                                                 ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2112,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "KULTURALNE  WIELGOWO"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "28/19",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-348",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Boles\u0142awa \u015amia\u0142ego",
+      "terc": "3262011"
+    },
+    "aims": " a.  rozw\u00f3j,  w duchu warto\u015bci chrze\u015bcija\u0144skich i obywatelskich: - duchowy \u2013 z naciskiem na poznawanie S\u0142owa Bo\u017cego, modlitw\u0119 i zach\u0119t\u0119 do budowania relacji z Bogiem \r\n- fizyczny \u2013  samodyscyplina cia\u0142a \u201ew zdrowym ciele, zdrowy duch\u201d, dba\u0142o\u015b\u0107 o zdrowie, higien\u0119 osobist\u0105, kultur\u0119 fizyczn\u0105 i sport\r\n- intelektualny \u2013 dopasowany indywidualnie do wieku skauta poprzez zdobywanie sprawno\u015bci,  zdobywanie praktycznych umiej\u0119tno\u015bci, gospodarno\u015bci i zaradno\u015bci w \u017cyciu wskazuj\u0105c na uczenie si\u0119 ustalania priorytet\u00f3w, - spo\u0142eczny \u2013 z naciskiem na braterstwo jako styl \u017cycia skauta oraz kszta\u0142towanie charakteru z zastosowaniem prawo\u015bci i uczciwo\u015bci, - skautowy \u2013 przygoda i przetrwanie: ekwipunek, ogie\u0144, pionierka, \u017cywno\u015b\u0107, podchodzenie, tropienie. \r\n                                                            ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2113,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"WILCZY \u015aLAD - SZCZECIN\" SKAUTING CHRZE\u015aCIJA\u0143SKI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "49a/15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-415",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Papie\u017ca Jana Paw\u0142a II",
+      "terc": "3262011"
+    },
+    "aims": "  a.  propagowanie szeroko rozumianej kultury popularnej, \r\nb. organizowanie wydarze\u0144 po\u015bwi\u0119conych kulturze popularnej,    c. dzia\u0142alno\u015b\u0107 informacyjna i edukacyjna. \r\n                                                            ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2114,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "POROZMAWIAJMY O POPKULTURZE - ALE RACZEJ TAKTOWNIE \"POP-ART\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "197/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-334",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": " a.  podejmowanie inicjatyw i dzia\u0142a\u0144 zagospodarowania nieruchomo\u015bci poprzez wybudowanie urz\u0105dze\u0144 infrastruktury technicznej polegaj\u0105cej na u\u0142o\u017ceniu sieci, linii, przewod\u00f3w i wszelkich urz\u0105dze\u0144 wodoci\u0105gowych, kanalizacyjnych, gazowniczych oraz innych dzia\u0142a\u0144 maj\u0105cych na celu polepszenie warunk\u00f3w bytowych zwi\u0105zanych z posiadaniem przez w\u0142a\u015bcicieli dzia\u0142ek, \r\nb. reprezentowanie w\u0142a\u015bcicieli dzia\u0142ek przed organami administracji samorz\u0105dowej, organami administracji rz\u0105dowej, urz\u0119dami, zak\u0142adami: gazowniczym, energetycznym, wodnokanalizacyjnym i innymi w zakresie realizacji dzia\u0142a\u0144 wynikaj\u0105cych z celu Stowarzyszenia zawartego w Regulaminie, a ponadto innymi organami i jednostkami organizacyjnymi, bankami oraz osobami fizycznymi prowadz\u0105cymi i nieprowadz\u0105cymi dzia\u0142alno\u015bci gospodarczej. \r\n                                                           ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2115,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"\u0141\u0104KI NAD BUKOW\u0104\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-556",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Naruszewicza",
+      "terc": "3262011"
+    },
+    "aims": "  a.  popieranie nowoczesnych form odzysku i recyklingu odpad\u00f3w, \r\nb. inspirowanie oraz podejmowanie wszelkich form dzia\u0142alno\u015bci promocyjnej zwi\u0105zanych z propagowaniem postaw proekologicznych w\u0142a\u015bciwych dla spo\u0142ecze\u0144stwa obywatelskiego,    c. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, w tym m.in. dzia\u0142anie na rzecz pomocy doradczej i szkoleniowej,       d. upowszechnianie najnowszych metod ochrony \u015brodowiska oraz zr\u00f3wnowa\u017conego rozwoju,    e. obrona praw i w\u0142asno\u015bci cz\u0142onk\u00f3w Stowarzyszenia. \r\n                                                            ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2116,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE GARA\u017bOWICZE - NIEDU\u017bA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1c/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-467",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Rapackiego",
+      "terc": "3262011"
+    },
+    "aims": " 1. wspieranie inicjatyw maj\u0105cych na celu rozw\u00f3j zasob\u00f3w ludzkich, 2. inicjowanie i wspieranie dzia\u0142alno\u015bci o\u015bwiatowej, kulturalnej i naukowej zmierzaj\u0105cej do samodoskonalenia, 3. dzia\u0142ania na rzecz rozwoju dzieci, m\u0142odzie\u017cy i doros\u0142ych w sferze turystyki i krajoznawstwa, ochrony \u015brodowiska i zdrowia, 4. kreowanie i promowanie pozytywnego wizerunku kultury polskiej, podtrzymywanie tradycji narodowej oraz rozw\u00f3j \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej, S. pomoc spo\u0142eczna, praca na rzecz \u015brodowisk defaworyzowanych, szerzenie wzajemnego zrozumienia i tolerancji, 6. zapobieganie patologii, uzale\u017cnieniom, wykluczeniu spo\u0142ecznemu, 7. prowadzenie dzia\u0142a\u0144 w zakresie sfery spo\u0142ecznej, a w szczeg\u00f3lno\u015bci: a) pomocy spo\u0142ecznej, w tym pomocy rodzinom i osobom w trudnej sytuacji \u017cyciowej oraz wyr\u00f3wnywania szans tych rodzin i os\u00f3b; b) wspieranie rodzin i systemu pieczy zast\u0119pczej; c) dzia\u0142alno\u015bci na rzecz integracji i reintegracji zawodowej i spo\u0142ecznej os\u00f3b zagro\u017conych wykluczeniem spo\u0142ecznym; d) dzia\u0142alno\u015bci charytatywnej; e) podtrzymywania i upowszechniania tradycji narodowej, piel\u0119gnowania polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej; f) dzia\u0142alno\u015bci na rzecz mniejszo\u015bci narodowych i etnicznych oraz j\u0119zyka regionalnego; g) dzia\u0142alno\u015b\u0107 na rzecz integracji uchod\u017ac\u00f3w; h) ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 o dzia\u0142alno\u015bci leczniczej; i) dzia\u0142alno\u015bci na rzecz os\u00f3b niepe\u0142nosprawnych; j) promocji zatrudnienia i aktywizacji zawodowej os\u00f3b pozostaj\u0105cych bez pracy i zagro\u017conych zwolnieniem z pracy; k) dzia\u0142alno\u015bci na rzecz r\u00f3wnych praw kobiet i m\u0119\u017cczyzn; l) dzia\u0142alno\u015bci na rzecz os\u00f3b w wieku emerytalnym; m) dzia\u0142alno\u015bci wspomagaj\u0105cej rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci; n) dzia\u0142alno\u015bci wspomagaj\u0105cej rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej; o) dzia\u0142alno\u015bci wspomagaj\u0105cej rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych; p) nauki, szkolnictwa wy\u017cszego, edukacji, o\u015bwiaty i wychowania; q) dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy; r) kultury, sztuki, ochrony d\u00f3br kultury i dziedzictwa narodowego; s) wspierania i upowszechniania kultury fizycznej i sportu; t) ekologii i ochrony zwierz\u0105t oraz ochrony dziedzictwa przyrodniczego; u) turystyki i krajoznawstwa; v) porz\u0105dku i bezpiecze\u0144stwa publicznego; w) obronno\u015bci pa\u0144stwa i dzia\u0142alno\u015bci Si\u0142 Zbrojnych Rzeczypospolitej Polskiej; x) upowszechniania i ochrony wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142a\u0144 wspomagaj\u0105cych rozw\u00f3j demokracji; y) udzielania nieodp\u0142atnego poradnictwa obywatelskiego; z) ratownictwa i ochrony ludno\u015bci; aa) pomocy ofiarom katastrof, kl\u0119sk \u017cywio\u0142owych, konflikt\u00f3w zbrojnych i wojen w kraju i za granic\u0105; bb) upowszechniania i ochrony praw konsument\u00f3w; cc) dzia\u0142alno\u015bci na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami; dd) promocji i organizacji wolontariatu; ee) pomocy Polonii i Polakom za granic\u0105; ff) dzia\u0142alno\u015bci na rzecz kombatant\u00f3w i os\u00f3b represjonowanych; gg) dzia\u0142alno\u015bci na rzecz weteran\u00f3w i weteran\u00f3w poszkodowanych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o weteranach dzia\u0142a\u0144 poza granicami pa\u0144stwa; hh) promocji Rzeczypospolitej Polskiej za granic\u0105; ii) dzia\u0142alno\u015bci na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka; jj) przeciwdzia\u0142ania uzale\u017cnieniom i patologiom spo\u0142ecznym; kk) rewitalizacji; II) dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3, w zakresie okre\u015blonym w pkt a-II.          ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2117,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "PRACOWNIA INICJATYW SPO\u0141ECZNYCH"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "61",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "\u015awi\u0119tochowskiego",
+      "terc": "3262011"
+    },
+    "aims": " a.  wybudowanie w ulicy \u015awi\u0119tochowskiego, tj. w granicach si\u0119gacza ulicy \u015awi\u0119tochowskiego stanowi\u0105cego dzia\u0142k\u0119 nr 7/3, 7/11 obr\u0119b D\u0105bie 159, w ci\u0105gu ulicy \u015awi\u0119tochowskiego stanowi\u0105cego dzia\u0142k\u0119 drogow\u0105 numer 1 obr\u0119b D\u0105bie 159 oraz w ci\u0105gu ulicy Franciszka stanowi\u0105cego dzia\u0142k\u0119 drogow\u0105 numer 9/2 obr\u0119b D\u0105bie 159 medi\u00f3w technicznych tj. sie\u0107 wodoci\u0105gow\u0105.\r\nb. wybudowanie od zak\u0142adanej w pkt. 6.1 regulaminu sieci wodoci\u0105gowej przy\u0142\u0105czy wodoci\u0105gowych do poszczeg\u00f3lnych dzia\u0142ek geodezyjnych nr 7/12, 7/13, 7/5, 7/6, 6/1, obr\u0119b D\u0105bie 159. \r\n                                                                                                                                                                                                       ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2118,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE ZWYK\u0141E \u201eSIE\u0106 WODOCI\u0104GOWA W REJONIE UL. \u015aWI\u0118TOCHOWSKIEGO\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-500",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "  a. podtrzymywanie chwalebnych tradycji Pa\u0144stwowej Szko\u0142y Rybo\u0142\u00f3wstwa Morskiego w Szczecinie,\r\nb. utrzymywanie wi\u0119zi kole\u017ce\u0144skich,\r\nc. wspieranie koleg\u00f3w szkolnych b\u0119d\u0105cych w trudnych sytuacjach \u017cyciowych,\r\nd. przedstawianie publicznie stanowiska Stowarzyszenia odno\u015bnie problem\u00f3w rybo\u0142\u00f3wstwa morskiego,\r\ne. udzielanie porad i konsultacji w zakresie rozwi\u0105zywania problem\u00f3w zawodowych cz\u0142onkom Stowarzyszenia i innym osobom lub instytucjom nie stowarzyszonym w zakresie problematyki rybo\u0142\u00f3wstwa morskiego.\r\n                                           ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2119,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE ABSOLWENT\u00d3W PA\u0143STWOWEJ SZKO\u0141Y RYBO\u0141\u00d3WSTWA MORSKIEGO W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-393",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Sp\u00f3\u0142dzielcza",
+      "terc": "3262011"
+    },
+    "aims": "a.  organizowanie \u0107wicze\u0144 fizycznych i zaj\u0119\u0107 w zakresie sportu i rekreacji ze szczeg\u00f3lnym uwzgl\u0119dnieniem dalekowschodnich sztuk i sport\u00f3w walki, a w tym Kung Fu,\r\nb. organizowanie zawod\u00f3w, pokaz\u00f3w, imprez sportowych i rekreacyjnych,                c. prowadzenie dzia\u0142alno\u015bci szkoleniowej i wychowawczej,            d. popularyzowanie profilaktyki zdrowotnej poprzez wykorzystanie \u0107wicze\u0144 stosowanych w Kung Fu oraz medycyny Dalekiego Wschodu,           e. propagowanie uprawiania dalekowschodnich sztuk walki jako profilaktyki niedostosowania spo\u0142ecznego.\r\n                                                                                                                                                                                                                                  ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2120,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKIE STOWARZYSZENIE KUNG FU PI\u0118CIU ZWIERZ\u0104T"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "30/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-777",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Sarnia",
+      "terc": "3262011"
+    },
+    "aims": "   a.  budowa sieci wodoci\u0105gowej wraz z przy\u0142\u0105czami dla dzia\u0142ek wyszczeg\u00f3lnionych w\u0142a\u015bcicieli,\r\nb. budowa kanalizacji sanitarnej  wraz z przy\u0142\u0105czami dla dzia\u0142ek wyszczeg\u00f3lnionych w\u0142a\u015bcicieli,                c. budowa kanalizacji deszczowej wraz z przy\u0142\u0105czami dla dzia\u0142ek wyszczeg\u00f3lnionych w\u0142a\u015bcicieli.\r\n                                                                                                                                                                                                                               ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2121,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"KUMAKI\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-332",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Marii Sk\u0142odowskiej-Curie",
+      "terc": "3262011"
+    },
+    "aims": " a. tworzenie warunk\u00f3w dla wymiany pogl\u0105d\u00f3w w \u015brodowiskach prawniczych w drodze rzeczowego dialogu,\r\nb. upowszechnianie standard\u00f3w Pa\u0144stwa Prawa oraz prospo\u0142ecznych i propa\u0144stwowych postaw prawnik\u00f3w,\r\nc. dzia\u0142anie na rzecz dobrej jako\u015bci prawa i poprawnego stosowania prawa, w szczeg\u00f3lno\u015bci dzia\u0142anie na rzecz ochrony praw cz\u0142owieka,\r\nd. poprawa zaufania spo\u0142ecze\u0144stwa do prawa, wymiaru sprawiedliwo\u015bci, organ\u00f3w pa\u0144stwa i korporacji prawniczych,\r\ne. krytyka niedorzeczno\u015bci w publicznych wypowiedziach prawnik\u00f3w i nieprawid\u0142owo\u015bci w stosowaniu prawa,   f. podejmowanie i wspieranie inicjatyw naukowych oraz popularyzacyjnych w dziedzinie prawa oraz nauk prawnych.\r\n                                                                                                                                                                                                                                  ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2122,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"SZCZECI\u0143SKIE TOWARZYSTWO DIALOGU O PRAWIE\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-203",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Rokitnia\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": " a.  doprowadzenie do realizacji projektu pomnika Matki Bo\u017cej Kr\u00f3lowej Pokoju,\r\nb. propagowanie tego projektu w\u015br\u00f3d mieszka\u0144c\u00f3w Szczecina i Pomorza Zachodniego,\r\nc. cczczenie ofiar system\u00f3w totalitarnych, w tym ofiar PRL-u. \r\n                                                                                                                                                                                                                            ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2123,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SPO\u0141ECZNY KOMITET \r\nW SPRAWIE USTANOWIENIA I UKSZTA\u0141TOWANIA W SZCZECINIE POMNIKA MATKI BO\u017bEJ KR\u00d3LOWEJ POKOJU \u2013 PATRONKI POJEDNANIA NAROD\u00d3W EUROPY"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-174",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ratajczaka",
+      "terc": "3262011"
+    },
+    "aims": "  a.  dokarmianie wolno\u017cyj\u0105cych zwierz\u0105t.\r\nb. sterylizacja wolno\u017cyj\u0105cych kot\u00f3w.\r\nc. ochrona wolno\u017cyj\u0105cych zwierz\u0105t.\r\nd. prowadzenie dzia\u0142alno\u015bci edukacyjnej.\r\ne. ekologia i ochrona \u015brodowiska.\r\nf. zak\u0142adanie i prowadzenie schronisk dla zwierz\u0105t. \r\n                                                                                                                                                                                                                                  ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2124,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "MILION SZCZ\u0118\u015aLIWYCH KOT\u00d3W"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-748",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "D\u0105browszczak\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": " a. budowa uzbrojenia terenu lub jego modernizacji na \"Osiedlu Przylesie w Pogorzelicy, w szczeg\u00f3lno\u015bci sieci wodoci\u0105gowej, kanalizacyjnej, gazowej, energetycznej,\r\nb. budowa i utwardzenie dr\u00f3g dojazdowych i wewn\u0119trznych na terenie \"Osiedla Przylesie\" w Pogorzelicy,\r\nc. budowa o\u015bwietlenia na terenie dr\u00f3g dojazdowych i wewn\u0119trznych \"Osiedla Przylesie\",\r\nd. doprowadzenie do zmian w Miejscowym Planie Zagospodarowania Przestrzennego obr\u0119bu Pogorzelica w stosunku do obszaru D.03, tak aby by\u0142 to teren zabudowy mieszkaniowej jednorodzinnej.\r\n                                                                                                                                                                                                                          ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2125,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE \"OSIEDLE PRZYLESIE\" W POGORZELICY"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-748",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "D\u0105browszczak\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "  a. rozw\u00f3j spo\u0142ecze\u0144stwa obywatelskiego i demokratycznego, b. promocja w\u015br\u00f3d m\u0142odzie\u017cy postaw prospo\u0142ecznych i proobywatelskich, c. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, d. dzia\u0142alno\u015b\u0107 w zakresie poszanowania praw cz\u0142owieka i obywatela, e. upowszechnianie i ochrona praw kobiet i m\u0119\u017cczyzn, f. dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych oraz os\u00f3b starszych, g. dzia\u0142alno\u015b\u0107 na rzecz mniejszo\u015bci narodowych i seksualnych, h. promocja i organizacji wolontariatu, i. podejmowanie dzia\u0142a\u0144 na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami, j. przeciwdzia\u0142anie patologiom spo\u0142ecznym, k. przeciwdzia\u0142anie przemocy domowej i wspierania idei korekcji zachowa\u0144 os\u00f3b stosuj\u0105cych przemoc z zastosowaniem filozofii TSR, l. pomoc osobom (i ich rodzinom) ze \u015brodowisk zagro\u017conych wykluczeniem spo\u0142ecznym, alkoholizmem, narkomani\u0105 i innymi zachowaniami patologicznymi, \u0142. reintegracja i reaktywizacja zawodowa os\u00f3b wykluczonych spo\u0142ecznie, m. prowadzenie dzia\u0142alno\u015bci na rzecz poprawy jako\u015bci \u017cycia, ochrony i promocji zdrowia,\r\nn. konsolidacja i wsp\u00f3\u0142praca na rzecz \u015brodowisk samorz\u0105dowych szczeg\u00f3lnie psycholog\u00f3w, lekarzy i piel\u0119gniarek, o. niesienie pomocy osobom zara\u017conych wirusem HIV,\r\np. niesienie pomocy ofiarom katastrof, kl\u0119sk \u017cywio\u0142owych, konflikt\u00f3w zbrojnych i wojen w kraju i za granic\u0105, r. wspieranie ruch\u00f3w i inicjatyw spo\u0142ecznych maj\u0105cych na celu w swojej dzia\u0142alno\u015bci dzia\u0142alno\u015b\u0107 zbli\u017con\u0105 do tej kt\u00f3r\u0105 wykonuje stowarzyszenie, s. popularyzowanie wiedzy z dziedziny edukacji seksualnej w\u015br\u00f3d spo\u0142ecze\u0144stwa, t. tworzenie p\u0142aszczyzny wymiany informacji i do\u015bwiadcze\u0144 pomi\u0119dzy osobami i instytucjami zainteresowanymi celami stowarzyszenia, u. profilaktyka uzale\u017cnie\u0144.\r\n                               ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2126,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE R\u00d3WNO\u015a\u0106 NA FALI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "30",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-611",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Kana\u0142owa",
+      "terc": "3262011"
+    },
+    "aims": "  a. wszczynanie w imieniu cz\u0142onk\u00f3w stowarzyszenia i reprezentowanie cz\u0142onk\u00f3w stowarzyszenia w post\u0119powaniu prywatyzacyjnym nieruchomo\u015bci stanowi\u0105cych w\u0142asno\u015b\u0107 gminy miasto Szczecin lub Skarbu Pa\u0144stwa po\u0142o\u017conych na terenie Rady Osiedla Mi\u0119dzyodrze \u2013 Wyspa Pucka w Szczecinie, b. d\u0105\u017cenie do uregulowania stan\u00f3w prawnych nieruchomo\u015bci, o kt\u00f3rych mowa w pkt. a, c. aktywizacja spo\u0142eczno\u015bci lokalnej.\r\n                                                                                                                                                                                           ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2127,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\u201eWKURZENI.PL\u201d STOWARZYSZENIE MIESZKA\u0143C\u00d3W OSIEDLA MI\u0118DZYODRZE \u2013 WYSPA PUCKA W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "90",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-482",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "  a. propagowanie idei i za\u0142o\u017ce\u0144 dr. Henryka Jordana w zakresie rekreacji i sportu,\r\nb. wsp\u00f3\u0142praca z regionem Meklemburgii-Pomorza Przedniego w Niemczech w zakresie wymiany do\u015bwiadcze\u0144, wsp\u00f3lnych dzia\u0142a\u0144 na rzecz aktywnej rekreacji i terapii ruchowej, bezpiecznej rekreacji i harmonijnego rozwoju dzieci oraz rekreacji i terapii ruchowej os\u00f3b w ka\u017cdym wieku, c. dzia\u0142alno\u015b\u0107 w zakresie kultury i edukacji kulturalnej.                                                                                                                                                                                  ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2128,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE POLSKO-NIEMIECKIE NA RZECZ HARMONIJNEGO ROZWOJU I BEZPIECZNEJ REKREACJI DZIECI ORAZ REKREACJI I TERAPII RUCHOWEJ OS\u00d3B W KA\u017bDYM WIEKU. STOWARZYSZENIE PROPAGUJ\u0104CE IDEE DR. HENRYKA JORDANA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "16/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-118",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Kaliny",
+      "terc": "3262011"
+    },
+    "aims": "  a. przybli\u017canie sylwetki Alfreda Nobla,\r\n     b. przybli\u017canie sylwetek laureat\u00f3w Nagrody Nobla, ich dokona\u0144 oraz historii, gospodarki i kultury kraj\u00f3w pochodzenia.                               ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2129,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "DOM NOBLA - NOBEL'S HOUSE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "18/21",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-537",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ofiar O\u015bwi\u0119cimia",
+      "terc": "3262011"
+    },
+    "aims": "a. dzia\u0142alno\u015b\u0107 na rzecz mieszka\u0144c\u00f3w Szczecina, b. rozwijanie i propagowanie postaw oraz dzia\u0142a\u0144 sprzyjaj\u0105cych zachowaniu i rozwojowi demokratycznego pa\u0144stwa prawnego, c. wspieranie i rozwijanie idei pa\u0144stwa neutralnego \u015bwiatopogl\u0105dowo, d. wspieranie i rozw\u00f3j idei spo\u0142ecze\u0144stwa obywatelskiego, promowanie postaw i zachowa\u0144 obywatelskich, e. upowszechnianie i ochrona wolno\u015bci oraz praw cz\u0142owieka i swob\u00f3d obywatelskich, f. dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami r\u00f3\u017cnych kraj\u00f3w, g. przeciwdzia\u0142anie \u0142amaniu zasad demokracji i praworz\u0105dno\u015bci, w tym tak\u017ce nadu\u017cyciom w\u0142adz pa\u0144stwowych i samorz\u0105dowych, h. upowszechnienie wiedzy o demokratycznym ustroju pa\u0144stwa prawa i zasadach sprawiedliwo\u015bci spo\u0142ecznej, kt\u00f3re zapewniaj\u0105 wolno\u015b\u0107 i prawa cz\u0142owieka, a tak\u017ce bezpiecze\u0144stwo obywateli (okre\u015blone w Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997r.), i. opracowywanie i wyra\u017canie opinii ukierunkowanych na zapewnienie zr\u00f3wnowa\u017conego rozwoju, szczeg\u00f3lnie w procesie stanowienia i zmieniania prawa miejscowego, j. dzia\u0142alno\u015b\u0107 na rzecz mieszka\u0144c\u00f3w i Szczecina w interesie lokalnej wsp\u00f3lnoty samorz\u0105dowej, k. promocja i profilaktyka zdrowia, sportu i kultury, l. przeciwdzia\u0142anie marginalizacji i aktywizacja os\u00f3b w \u015brednim i starszym wieku.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2130,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "POROZUMIENIE NASZ SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-880",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ba\u0142tycka",
+      "terc": "3262011"
+    },
+    "aims": " a. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, b. ochrona i promocja zdrowia, c. upowszechnianie kultury fizycznej i sportu, d. tworzenie struktur s\u0142u\u017c\u0105cych zagospodarowaniu aktywno\u015bci \u017cyciowej i spo\u0142ecznej ludzi wchodz\u0105cych w wiek emerytalny, pobudzanie aktywno\u015bci biologicznej i spo\u0142ecznej ludzi starszych, e. dzia\u0142alno\u015b\u0107 w zakresie kultury, sztuki, ochrony d\u00f3br kultury i tradycji, f. dzia\u0142alno\u015b\u0107 w zakresie nauki, edukacji, o\u015bwiaty i wychowania, g. ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego, h. krajoznawstwo oraz wypoczynek dzieci i m\u0142odzie\u017cy, i. dzia\u0142alno\u015b\u0107 charytatywna i dobroczynna, j. pomoc spo\u0142eczna, w tym pomoc rodzinom i osobom w trudnej sytuacji \u017cyciowej oraz wyr\u00f3wnanie szans tych rodzin i os\u00f3b, k. dzia\u0142anie na rzecz os\u00f3b niepe\u0142nosprawnych, l. dzia\u0142anie na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami, \u0142. pomoc ofiarom katastrof, kl\u0119sk \u017cywio\u0142owych, m. upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142a\u0144 wspomagaj\u0105cych rozw\u00f3j demokracji, n. podtrzymywanie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozw\u00f3j \u015bwiadomo\u015bci narodowej, regionalnej, obywatelskiej i kulturowej, o. porz\u0105dek i bezpiecze\u0144stwo publiczne oraz przeciwdzia\u0142anie patologiom spo\u0142ecznym, p. wspieranie inicjatyw spo\u0142ecznych na rzecz budowy infrastruktury technicznej oraz podejmowanie innych dzia\u0142a\u0144 maj\u0105cych na celu polepszenie warunk\u00f3w bytowych.\r\n                             ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2131,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"NASZE WIELGOWO\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/29",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-313",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Sikorskiego",
+      "terc": "3262011"
+    },
+    "aims": "  a. podnoszenie poziomu sprawno\u015bci fizycznej, b. budowanie pozytywnych relacji miedzy cz\u0142onkami, c. propagowanie sportu w\u015br\u00f3d ludzi reprezentuj\u0105cych r\u00f3\u017cne grupy wiekowe, d. przekazywanie wiedzy o sporcie w praktyce i teorii.\r\n                             ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2132,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "FITBOXING"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "117",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-880",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Inwalidzka",
+      "terc": "3262011"
+    },
+    "aims": " a. ochrona zasob\u00f3w w\u00f3d podziemnych uj\u0119cia Skolwin, b. podejmowanie i wspieranie wszelkiego rodzaju inicjatyw maj\u0105cych na celu popraw\u0119 stanu \u015brodowiska.  \r\n                              ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2133,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"POD GRUSZ\u0104\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "60",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-125",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Witkiewicza",
+      "terc": "3262011"
+    },
+    "aims": "  a. propagowanie sport\u00f3w walki g\u0142\u00f3wnie Ju-Jitsu oraz Grapplingu (sporty chwytane), a tak\u017ce kultury fizycznej i rywalizacji w duchu sportowym, b. stwarzanie w\u0142a\u015bciwych warunk\u00f3w do uprawiania sport\u00f3w walki, c. organizacja zawod\u00f3w i imprez sportowych oraz imprez turystycznych (dla dzieci, m\u0142odzie\u017cy i os\u00f3b doros\u0142ych), d. organizacja imprez charytatywnych i integracyjnych, e. wspieranie m\u0142odych talent\u00f3w i promocja m\u0142odych sportowc\u00f3w i ich osi\u0105gni\u0119\u0107, f. propagowanie czynnego uprawiania sportu jako sposobu na rozw\u00f3j w\u0142asnej osobowo\u015bci oraz prowadzenie dzia\u0142a\u0144 edukacyjnych w tym zakresie.\r\n                  ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2134,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE SZTUK I SPORT\u00d3W WALKI \"TATAKAI\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-785",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Gombrowicza",
+      "terc": "3262011"
+    },
+    "aims": " a. podejmowanie i wspomaganie inicjatyw oraz przedsi\u0119wzi\u0119\u0107 zwi\u0105zanych z popraw\u0105 stanu bezpiecze\u0144stwa obywateli i porz\u0105dku publicznego, b. podejmowanie i inicjowanie dzia\u0142a\u0144 profilaktycznych z zakresu przeciwdzia\u0142ania patologiom spo\u0142ecznym ze szczeg\u00f3lnym uwzgl\u0119dnieniem przeciwdzia\u0142ania alkoholizmowi, narkomanii, cyberuzale\u017cnieniom, c. podejmowanie i inicjowanie dzia\u0142a\u0144 profilaktycznych z zakresu przeciwdzia\u0142ania wszelkim przejawom przemocy i agresji, d. podejmowanie i inicjowanie dzia\u0142a\u0144 profilaktycznych z zakresu bezpiecze\u0144stwa w ruchu drogowym, e. podejmowanie, inicjowanie i propagowanie dzia\u0142a\u0144 profilaktycznych promuj\u0105cych ide\u0119 ekologii oraz ochrony \u015brodowiska naturalnego.\r\n                                                                                                                                                                                 ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2135,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE \"RAZEM BEZPIECZNIEJ\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "102/16",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-373",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Bohater\u00f3w Warszawy",
+      "terc": "3262011"
+    },
+    "aims": " a. prowadzenie dzia\u0142alno\u015bci w zakresie kultury fizycznej i sportu na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy, b. wspieranie i upowszechnianie kultury fizycznej w\u015br\u00f3d dzieci, m\u0142odzie\u017cy i doros\u0142ych.\r\n                                                                                                                                                                                 ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2136,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "ISAM POLSKA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "27/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-733",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Falskiego",
+      "terc": "3262011"
+    },
+    "aims": "  a. wspieranie i upowszechnianie kultury fizycznej, sportu i rekreacji w\u015br\u00f3d dzieci i m\u0142odzie\u017cy, \r\nb. kszta\u0142towanie osobowo\u015bci m\u0142odych ludzi, \r\nc. dzia\u0142ania na rzecz zapobiegania marginalizacji os\u00f3b zagro\u017conych wykluczeniem spo\u0142ecznym,\r\n d. integracja m\u0142odzie\u017cy poprzez wsp\u00f3ln\u0105 prac\u0119 i zaj\u0119cia sportowe.\r\n                                                                                                                                                                                 ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2137,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE OPIEKU\u0143CZO-RESOCJALIZACYJNE \"PRACA I SPORT\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-836",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ba\u0142tycka",
+      "terc": "3262011"
+    },
+    "aims": "  a. wspieranie Rady Rodzic\u00f3w w realizacji programu wychowawczego profilaktycznego i opieku\u0144czego Szko\u0142y, w tym nastawionego na przygotowanie uczni\u00f3w do bycia aktywnymi i odpowiedzialnymi obywatelami demokratycznej Polski, b. zapewnienie Radzie Rodzic\u00f3w podmiotowo\u015bci , samodzielno\u015bci ekonomicznej i u\u0142atwienie pozyskiwania dodatkowych \u015brodk\u00f3w z Funduszy Europejskich, c. umo\u017cliwienie Szkole posiadania w\u0142asno\u015bci i prowadzenia dzia\u0142alno\u015bci gospodarczej\r\nna zasadach ekonomii spo\u0142ecznej, d. integrowanie lokalnego \u015brodowiska wok\u00f3\u0142 spraw zwi\u0105zanych z edukacj\u0105 m\u0142odego pokolenia i przeciwdzia\u0142aniem bezradno\u015bci i wykluczeniu spo\u0142ecznemu, e. wspieranie demokracji i budowanie spo\u0142ecze\u0144stwa obywatelskiego w \u015brodowisku lokalnym.\r\n                                                                                                                                                                            ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2138,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "RADA RODZIC\u00d3W ZS 13 SZCZECIN-WIELGOWO"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "46/15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-500",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Al. Wyzwolenia",
+      "terc": "3262011"
+    },
+    "aims": "1. Przeciwdzia\u0142anie bezdomno\u015bci zwierz\u0105t oraz wspieranie wszelkich dzia\u0142a\u0144 w zakresie zwalczania bezdomno\u015bci zwierz\u0105t. 2. Ochrona \u015arodowiska. 3. Podnoszenie \u015bwiadomo\u015bci spo\u0142ecznej w zakresie humanitarnego traktowania zwierz\u0105t. 4. Dzia\u0142anie na rzecz wpierania wszelkich ruch\u00f3w ekologicznych, w zakresie upowszechniania idei pomocy dla zwierz\u0105t. 5. Przeciwdzia\u0142anie wszelkim przejawom \u0142amania praw zwierz\u0105t. 6. Prowadzenie dzia\u0142alno\u015bci informacyjnej i o\u015bwiatowej zwi\u0105zanej z ruchem ochrony praw zwierz\u0105t, dziedzictwa przyrodniczego oraz ekologii. 7. Wpieranie wszelkich, zgodnych z prawem inicjatyw propaguj\u0105cych idee praw zwierz\u0105t i ochrony \u015brodowiska. 8. Niesienie pomocy porzuconym i krzywdzonym zwierz\u0119tom. 9. Udzielanie pomocy plac\u00f3wk\u0105 nios\u0105cym pomoc zwierz\u0119tom bezdomnym.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2139,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE KociArka"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-806",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Strzelc\u00f3w Karpackich",
+      "terc": "3262011"
+    },
+    "aims": "1. rozw\u00f3j i popularyzacja strzelectwa sportowego, praktycznego, obronnego i rekreacyjnego, 2. rozw\u00f3j i popularyzacja strzelectwa z broni ci\u0119ciwowej, w szczeg\u00f3lno\u015bci \u0142uk\u00f3w i kusz, 3. kontynuacja tradycji strzeleckich poprzez organizowanie rekonstrukcji historycznych z wykorzystaniem broni palnej, 4. gromadzenie i eksponowanie muzeali\u00f3w militarno - historycznych oraz udzielanie wszelkiej pomocy w tym zakresie cz\u0142onkom stowarzyszenia kolekcjonuj\u0105cym bro\u0144 paln\u0105. 5. podejmowanie zgodnych z prawem, zorganizowanych poszukiwa\u0144 ratunkowych przedmiot\u00f3w maj\u0105cych warto\u015b\u0107 historyczn\u0105, maj\u0105cych na celu ochron\u0119 r\u00f3\u017cnorakich \u015blad\u00f3w i \u015bwiadectw historii regionu i kraju, po\u0142\u0105czonej z informacj\u0105 i upublicznieniem efekt\u00f3w tej dzia\u0142alno\u015bci, 6. wzbogacanie kolekcji historycznych eksponat\u00f3w muzealnych o przedmioty odnalezione w trakcie prowadzonych poszukiwa\u0144 ratunkowych przedmiot\u00f3w maj\u0105cych warto\u015b\u0107 historyczn\u0105, w szczeg\u00f3lno\u015bci w muzeach wsp\u00f3\u0142pracuj\u0105cych ze Stowarzyszeniem, dzia\u0142aj\u0105cych na obszarach prowadzonych bada\u0144 terenowych.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2140,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKI KLUB STRZELECKI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-201",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Kardyna\u0142a Wyszy\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": " a. integracja cz\u0142onk\u00f3w.\r\n                                                                                                                    ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2141,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE CHEMICY 77"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-207",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "pl. Stefana Batorego",
+      "terc": "3262011"
+    },
+    "aims": "   a. zrzeszenie cz\u0142onk\u00f3w maj\u0105cych na celu inicjowanie wszelkich dzia\u0142a\u0144 \r\no charakterze prawnym i faktycznym, zmierzaj\u0105cych do opracowania dokumentacji oraz zebrania \u015brodk\u00f3w finansowych na wykonanie pomnika zlokalizowanego w Szczecinie, kt\u00f3ry b\u0119dzie upami\u0119tnia\u0142 posta\u0107 \r\nkpt. \u017c. w. Konstantego Matyjewicza Maciejewicza.\r\n                                                                                                                                                                                                                                       ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2142,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE NA RZECZ BUDOWY  POMNIKA \"KAPITANOWI KAPITAN\u00d3W\" - KPT. \u017b. W. KONSTANTEMU  MATYJEWICZOWI MACIEJEWICZOWI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "40/10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-022",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Budziszy\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": " a. Wspieranie dzia\u0142alno\u015bci naukowej, dydaktycznej i inwestycyjnej Wydzia\u0142u Kszta\u0142towania \u015arodowiska i Rolnictwa Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie. b. Podnoszenie poziomu wykszta\u0142cenia m\u0142odzie\u017cy, zw\u0142aszcza z obszar\u00f3w wiejskich, miejsko-wiejskich i ma\u0142ych miast. Tworzenia i wyr\u00f3wnywania szans edukacyjnych, mo\u017cliwo\u015bci rozwoju i samorealizacji.\r\n                                                                                                                                                                                                                                      ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2143,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE NA RZECZ ROZWOJU WYDZIA\u0141U KSZTA\u0141TOWANIA \u015aRODOWISKA I ROLNICTWA ZACHODNIOPOMORSKIEGO UNIWERSYTETU TECHNOLOGICZNEGO W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-544",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "\u015aw. Marcina",
+      "terc": "3262011"
+    },
+    "aims": " Celem Stowarzyszenia jest prowadzenie dzia\u0142alno\u015bci kulturalnej, zw\u0142aszcza w zakresie inicjowania przedsi\u0119wzi\u0119\u0107 muzycznych, w szczeg\u00f3lno\u015bci na rzecz os\u00f3b starszych i niepe\u0142nosprawnych, a wi\u0119c mi\u0119dzy innymi:\r\na. zapewnianie osobom starszym i niepe\u0142nosprawnym kontaktu z kultury muzycznej\r\nb. promowanie muzyki ch\u00f3ralnej,\r\nc. podtrzymywanie tradycji narodowych poprzez upowszechnianie osi\u0105gni\u0119\u0107 kultury muzycznej regionu i kraju, w tym pie\u015bni ludowych i patriotycznych,\r\nd. dzia\u0142anie na rzecz rozwoju umiej\u0119tno\u015bci muzycznych cz\u0142onk\u00f3w Stowarzyszenia,\r\ne. aktywizacja spo\u0142eczna senior\u00f3w.\r\n                                                     \r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2144,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE WOKALNO - MUZYCZNE \"MAGNOLIA\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-384",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Mickiewicza",
+      "terc": "3262011"
+    },
+    "aims": " Celem jest utrwalanie patriotycznych warto\u015bci zwi\u0105zanych z kultur\u0105 Pomorza Zachodniego oraz utrwalanie historii \u017cyj\u0105cych w Regionie Polak\u00f3w.\r\n                                                                                                                                                                                                                                    ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2145,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "KLUB \u201eROD\u0141O\u201d SZCZECIN - DARGOB\u0104DZ"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-806",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Cztery Pory Roku",
+      "terc": "3262011"
+    },
+    "aims": "  a. Wspieranie profesjonalizacji mediator\u00f3w,\r\nb. Podnoszenie standard\u00f3w prowadzania mediacji,\r\nc. Podnoszenie standard\u00f3w szkolenia i rozwoju zawodowego mediator\u00f3w w Polsce,\r\nd. Powi\u0119kszenie dorobku sprawiedliwo\u015bci naprawczej i mediacji w Polsce.\r\ne. Inicjowanie, opiniowanie i wypowiadanie si\u0119 w sprawach dotycz\u0105cych mediacji s\u0105dowej i pozas\u0105dowej (w tym transgranicznej) i  uregulowa\u0144 prawnych z nimi zwi\u0105zanych.\r\nf. Propagowanie szeroko rozumianej idei mediacji w spo\u0142ecze\u0144stwie Polskim i na forum mi\u0119dzynarodowym.\r\ng. Edukacja w zakresie sprawiedliwo\u015bci naprawczej i mediacji, profilaktyki konflikt\u00f3w i przeciwdzia\u0142ania przemocy i agresji.\r\nh. Rozwijanie i propagowanie inicjatyw, postaw i dzia\u0142a\u0144 zwi\u0105zanych z przestrzeganiem i respektowaniem praw cz\u0142owieka.\r\ni. Inicjowanie oraz rozwijanie kontakt\u00f3w Stowarzyszenia z firmami, organizacjami i instytucjami w obszarze mediacji.\r\nj. Rekomendacja mediator\u00f3w do wpisu na list\u0119 mediator\u00f3w sta\u0142ych.\r\nk. Ochrona praw mediator\u00f3w, a w szczeg\u00f3lno\u015bci cz\u0142onk\u00f3w Stowarzyszenia.\r\n                                                                                                                                                                                                                   \r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2146,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE MEDIATOR\u00d3W CONSENSUS"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-877",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Nad Bogdank\u0105",
+      "terc": "3262011"
+    },
+    "aims": "  a. budowa systemu kanalizacji sanitarnej do dzia\u0142ek 5/12, 5/7 oraz 5/6 obr\u0119bu 43 Nad Odr\u0105 w Szczecinie znajduj\u0105cych si\u0119 przy ul. Nad Bogdank\u0105.\r\n                                                                                                                                                                                                                             ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2147,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "BOGDANKA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10/15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-656",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Lubeckiego",
+      "terc": "3262011"
+    },
+    "aims": "  a. Promocja rozwoju wszystkich dziedzin sztuki filmowej. b. Edukacja z zakresu technik filmowych. c. Rozpowszechnianie kultury filmowej. d. Organizowanie kurs\u00f3w i festiwali filmowych.\r\n                                    ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2148,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "NORD STAR MEDIA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2c",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-343",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Micha\u0142owskiego",
+      "terc": "3262011"
+    },
+    "aims": " a. podejmowanie r\u00f3\u017cnorodnych dzia\u0142a\u0144, kt\u00f3rych celem jest ochrona przyrody, b. rozwijanie postaw spo\u0142ecznych przyjaznych przyrodzie, c. popularyzowanie element\u00f3w kultury i tradycji, zbudowanych na zdrowym podej\u015bciu do praw naturalnych.\r\n                                                                                                                                                                                                                              ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2149,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKI KLUB PRZYRODNIK\u00d3W"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-221",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "R\u00f3\u017cany Zak\u0105tek",
+      "terc": "3262011"
+    },
+    "aims": "  a. dzia\u0142anie na rzecz budowy kanalizacji deszczowej wraz z niezb\u0119dn\u0105 infrastruktur\u0105 dla posesji zlokalizowanych przy ul. R\u00f3\u017cany zak\u0105tek w Szczecinie (nr 2, 4, 6 i 8), zwanych dalej \u201a\u201eOsiedlem R\u00f3\u017cany zak\u0105tek\",  b. dzia\u0142anie na rzecz modernizacji uzbrojenia terenu na Osiedlu R\u00f3\u017cany zak\u0105tek, w szczeg\u00f3lno\u015bci sieci wodoci\u0105gowej, kanalizacyjnej, deszczowej, gazowej i energetycznej,  c. eksploatacja wykonanej infrastruktury w niezb\u0119dnym zakresie, d. budowa o\u015bwietlenia na terenie dr\u00f3g dojazdowych i wewn\u0119trznych \u201eOsiedla R\u00f3\u017cany zak\u0105tek\", e. dzia\u0142alno\u015b\u0107 na rzecz integracji cz\u0142onk\u00f3w stowarzyszenia.\r\n                                                                                                                                                                     ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2150,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE R\u00d3\u017bANY ZAK\u0104TEK W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "48/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-795",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Du\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "  Odnowienie i piel\u0119gnowanie tradycji  \u201eZ.P.w N. ROD\u0141O\u201d poprzez: a. przypominanie i ocalenie od zapomnienia \u201eRod\u0142a\u201d i \u201eRod\u0142ak\u00f3w\u201d, b. edukacj\u0119 i propagowanie warto\u015bci patriotycznych w\u015br\u00f3d m\u0142odzie\u017cy, c. sk\u0142adanie petycji do w\u0142adz - maj\u0105cych na celu nadawanie nazw \u201eRod\u0142a\u201d i \u201eRod\u0142ak\u00f3w\u201d: ulicom, skwerom i innych miejscom u\u017cyteczno\u015bci publicznej, a tak\u017ce nadawanie imienia \u201eRod\u0142a\u201d i      \u201eRod\u0142ak\u00f3w\u201d: szko\u0142om i klubom sportowym, d. organizowanie dla m\u0142odzie\u017cy prelekcji i r\u00f3\u017cnych form czynnego udzia\u0142u w uroczysto\u015bciach patriotycznych, e. oddawanie ho\u0142du czci i pami\u0119ci w istniej\u0105cych miejscach pami\u0119ci, f. utrwalanie patriotycznych warto\u015bci zwi\u0105zanych z kultur\u0105 Pomorza Zachodniego jak i z pami\u0119ci\u0105 o Polakach \u017cyj\u0105cych i dzia\u0142aj\u0105cych w okresie mi\u0119dzywojennym w Zwi\u0105zku Polak\u00f3w w Niemczech na terenie  Pomorza Zachodniego w tym przede wszystkim zwi\u0105zanymi z pi\u0119cioma \u201ePrawdami Polak\u00f3w\u201d, g. organizowanie spotka\u0144 okoliczno\u015bciowych dla cz\u0142onk\u00f3w i sympatyk\u00f3w Rod\u0142a, h. czynny udzia\u0142 w uroczysto\u015bciach patriotycznych w miejscach po\u015bwi\u0119conych Pami\u0119ci Powsta\u0144c\u00f3w  Wielopolskich , \u015al\u0105skich i \u201eRod\u0142ak\u00f3w\u201c.\r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2151,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"KLUB ROD\u0141O SZCZECIN\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-384",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Mickiewicza",
+      "terc": "3262011"
+    },
+    "aims": "a. rewitalizacja poprzez odbudow\u0119 historycznej kawiarni \u201eSorrento\" w Szczecinie, miejsca kultowego dla kultury Szczecina lat 50-tych i 60-tych ubieg\u0142ego wieku.\r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2152,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE SORRENTO (dawniej STOWARZYSZENIE WSPIERANIA REWITALIZACJI KAWIARNI SORRENTO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-202",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Reduty Ordona",
+      "terc": "3262011"
+    },
+    "aims": " a. propagowanie wiedzy o polskim dziedzictwie narodowym, podtrzymywanie i rozpowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozw\u00f3j \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej,      b. wsp\u00f3\u0142praca z instytucjami prowadz\u0105cymi dzia\u0142alno\u015b\u0107 w zakresie ochrony dziedzictwa narodowego,    c. dokumentowanie utraconego i rozproszonego polskiego dziedzictwa narodowego, w tym bada\u0144 naukowych, kwerend bibliotecznych, archiwalnych oraz prac inwentaryzacyjnych,   d. wsp\u00f3\u0142praca z instytucjami zajmuj\u0105cymi si\u0119 rewaloryzacj\u0105 cmentarzy i grob\u00f3w polskich poza granicami kraju,     e. aktywizacja spo\u0142ecze\u0144stwa polskiego i w\u0142adz Rzeczypospolitej Polskiej w dziedzinie odzyskiwania zaginionego dziedzictwa narodowego.\r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2153,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKIE STOWARZYSZENIE KLUB HARBI\u0143CZYK\u00d3W"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "74a/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-236",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Gen. Sowi\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "a. popularyzacja aktywno\u015bci sportowej w\u015br\u00f3d dzieci i m\u0142odzie\u017cy, b. rozw\u00f3j i popularyzacja sportu, rekreacji i turystyki, c. dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, d. aktywizacja sportowa doros\u0142ych i dzieci, e. integracja rodzin i \u015brodowisk lokalnych, f. inicjowanie, wspieranie i organizowanie dzia\u0142alno\u015bci sportowej, g. upowszechnianie kultury fizycznej i sportu, h. rozwijanie zainteresowa\u0144 sportowych w\u015br\u00f3d doros\u0142ych, dzieci i m\u0142odzie\u017cy, i. przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym, j. ochrona i promocja zdrowia poprzez sport.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2154,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "RUNNER'S KIDS"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-887",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Storczykowa",
+      "terc": "3262011"
+    },
+    "aims": "a. przy\u0142\u0105czenie dzia\u0142ek nale\u017c\u0105cych do cz\u0142onk\u00f3w Stowarzyszenia, le\u017c\u0105cych przy ulicy Storczykowej do wodoci\u0105g\u00f3w miejskich,    b. uzyskanie dofinansowania ze \u015brodk\u00f3w publicznych na potrzeby celu nr 1.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2155,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE NA RZECZ BUDOWY WODOCI\u0104GU PRZY ULICY STORCZYKOWEJ W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-035",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Krzysztofa Kolumba",
+      "terc": "3262011"
+    },
+    "aims": "a. dzia\u0142anie na rzecz strzelectwa, sportu strzeleckiego i kolekcjonerstwa broni,    b. popularyzowanie wiedzy z dziedziny strzelectwa, sportu strzeleckiego i kolekcjonerstwa broni,    c. promocja i popieranie strzelectwa i kolekcjonerstwa broni.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2156,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE O CHARAKTERZE STRZELECKIM I KOLEKCJONERSKIM \"NETOR\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "118/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-140",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Adama Mickiewicza",
+      "terc": "3262011"
+    },
+    "aims": "a. zdobywanie, pog\u0142\u0119bianie i propagowanie szeroko poj\u0119tej wiedzy na temat militarnej i wojskowej historii Pomorza Zachodniego, b. prowadzenie ewidencji obiekt\u00f3w militarnych i o przeznaczeniu zbli\u017conym do militarnego, sporz\u0105dzanie dokumentacji fotograficznej przedmiotowych obiekt\u00f3w ze szczeg\u00f3lnym uwzgl\u0119dnieniem stanu ich zachowania, pierwotnego przeznaczenia i walor\u00f3w poznawczo-naukowych, c. odnajdywanie i zabezpieczanie przedmiot\u00f3w zabytkowych, zwi\u0105zanych z historycznymi dzia\u0142aniami wojennymi prowadzonymi na terenie dzia\u0142ania Stowarzyszenia, d. kolekcjonowanie militari\u00f3w i innych pami\u0105tek zwi\u0105zanych z militarn\u0105 i wojskow\u0105 przesz\u0142o\u015bci\u0105 regionu, e. ochrona fauny i flory wyst\u0119puj\u0105cej na terenach, na kt\u00f3rych znajduj\u0105 si\u0119 zabytki archeologii militarnej, f. zrzeszanie os\u00f3b o zainteresowaniach kolekcjonerskich, w szczeg\u00f3lno\u015bci zwi\u0105zanych z wiedz\u0105 militarn\u0105 i wojskow\u0105 historii Pomorza Zachodniego, g. dzia\u0142anie na rzecz kolekcjonerstwa przedmiot\u00f3w zwi\u0105zanych z militariami i histori\u0105 Pomorza Zachodniego, h. propagowanie kolekcjonerstwa przedmiot\u00f3w materialnych-b\u0119d\u0105cych odbiciem zainteresowa\u0144 cz\u0142onk\u00f3w, i. popularyzowanie w\u015br\u00f3d spo\u0142ecze\u0144stwa wiedzy na temat kolekcjonerstwa militari\u00f3w, historii Pomorza Zachodniego oraz dzia\u0142alno\u015bci kolekcjonerskiej, j. kszta\u0142towanie u cz\u0142onk\u00f3w Stowarzyzenia i w spo\u0142ecze\u0144stwie patriotyzmu i wysokich walor\u00f3w moralnych, poczucia godno\u015bci osobistej, zrozumienia zasad dyscypliny i solidarno\u015bci oraz potrzeb sumiennego wype\u0142niania obowi\u0105zk\u00f3w spo\u0142ecznych i obywatelskich.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2157,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE MI\u0141O\u015aNIK\u00d3W ARCHEOLOGII WOJSKOWEJ VIS W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "16c/15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-244",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Klonowica",
+      "terc": "3262011"
+    },
+    "aims": "a. prowadzenie dzia\u0142alno\u015bci sportowo \u2013 rekreacyjnej a w szczeg\u00f3lno\u015bci popularyzacja Nordic Walking jako najprostszej formy aktywno\u015bci ruchowej, b. promocja stowarzyszenia, miasta i gminy Szczecin oraz regionu, c. doskonalenie kwalifikacji i podnoszenie sprawno\u015bci fizycznej, d. kszta\u0142towanie postaw spo\u0142ecznych i wi\u0119zi mi\u0119dzyludzkich, e. propagowanie zdrowego stylu \u017cycia, f. integracja \u015brodowiska lokalnego, g. dba\u0142o\u015b\u0107 o prawid\u0142owy rozw\u00f3j dzieci i m\u0142odzie\u017cy, h. organizowanie prelekcji i instrukta\u017cu proponuj\u0105cego aktywne formy wypoczynku poprzez uprawianie Nordic Walking, i. poszerzanie bazy sportowej klubu, j. profilaktyka rozwi\u0105zywania problem\u00f3w alkoholowych, k. przeciwdzia\u0142anie patologiom spo\u0142ecznym, l. kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci poprzez uczestnictwo w realizacji zada\u0144 sportowych Stowarzyszenia, \u0142. walka z oty\u0142o\u015bci\u0105 i profilaktyka, m. udzia\u0142 w obozach sportowych, n. promocja i rozwijanie aktywno\u015bci fizycznej niepe\u0142nosprawnych, o. poprawa sprawno\u015bci fizycznej, kondycji i zdrowia senior\u00f3w, p. przeciwdzia\u0142anie zachowaniom depresyjnym zwi\u0105zanym ze staro\u015bci\u0105, r. organizacja czasu wolnego senior\u00f3w, s. organizowanie imprez, event\u00f3w o charakterze sportowo \u2013 rekreacyjnym, t. udzia\u0142 w imprezach sportowych organizowanych na terenie Polski i zagranic\u0105, u. dzia\u0142ania na rzecz ekologii i chrony zwierz\u0105t oraz ochrony dziedzictwa przyrodniczego.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2158,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "EKSPEDYCJA NORDIC TEAM SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "43/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-893",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Przysz\u0142o\u015bci",
+      "terc": "3262011"
+    },
+    "aims": "a. rozbudowa sieci wodno-kanalizacyjnej w drodze wewn\u0119trznej D\u0119bowa w Szczecinie, b. pozyskanie \u015brodk\u00f3w na rozbudow\u0119 w/w sieci.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2159,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "D\u0118BOWA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-391",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ojca Beyzyma",
+      "terc": "3262011"
+    },
+    "aims": "a. wspieranie realizacji projekt\u00f3w spo\u0142ecznych, kulturowych i biznesowych, b. podnoszenie \u015bwiadomo\u015bci spo\u0142ecznej w\u015br\u00f3d m\u0142odych ludzi,  c. wspomaganie rozwoju gospodarczego, w tym rozwoju przedsi\u0119biorczo\u015bci, d. wspomaganie rozwoju wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych,  e. dzia\u0142anie na rzecz integracji oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami,  f. promowanie lokalnej kultury i inicjatyw spo\u0142ecznych.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2160,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE XD"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "34/12",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-050",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Gen. Stanis\u0142awa Maczka",
+      "terc": "3262011"
+    },
+    "aims": "a. aktywizacja polityczna m\u0142odzie\u017cy, b. krzewienie wiedzy w zakresie ekonomii, historii, politologii i pozosta\u0142ych nauk humanistyczno-spo\u0142ecznych, a tak\u017ce kszta\u0142towanie kompetencji mi\u0119kkich,  c. promocja poszanowania warto\u015bci moralnych i etycznych w pa\u0144stwie oraz spo\u0142ecze\u0144stwie.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2161,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SCY M\u0141ODZI DLA WOLNO\u015aCI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-664",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Jarogniewa",
+      "terc": "3262011"
+    },
+    "aims": "a. Wzmacnianie oraz rozw\u00f3j \u015bwiadomo\u015bci i to\u017csamo\u015bci kulturowej oraz narodowej. \r\nb. Popularyzacja i promocja Szczecina, a tak\u017ce wojew\u00f3dztwa zachodniopomorskiego oraz Polski. \r\nc. Rozw\u00f3j i popularyzacja muzyki \u017ceglarskiej i szantowej, kultury marynistycznej, tradycji \u017ceglarskich w\u015br\u00f3d dzieci, m\u0142odzie\u017cy, doros\u0142ych i senior\u00f3w jako sposobu na mi\u0119dzypokoleniow\u0105 integracj\u0119 spo\u0142ecze\u0144stwa. \r\nd. Rozw\u00f3j i popularyzacja ekologii, zachowa\u0144  i dzia\u0142a\u0144 ekologicznych w\u015br\u00f3d dzieci, m\u0142odzie\u017cy, doros\u0142ych i senior\u00f3w jako sposobu na mi\u0119dzypokoleniow\u0105 integracj\u0119 spo\u0142ecze\u0144stwa. \r\ne. Wzmacnianie i rozw\u00f3j edukacji oraz \u015bwiadomo\u015bci ekologicznej, w tym poprzez muzyk\u0119 \u017ceglarsk\u0105 i szantow\u0105 z akcentami ekologicznymi. \r\nf. Edukowanie dzieci, m\u0142odzie\u017cy, doros\u0142ych i senior\u00f3w w zakresie szeroko poj\u0119tej kultury marynistycznej, w tym muzyki \u017ceglarskiej i szantowej. \r\ng. Edukowanie dzieci, m\u0142odzie\u017cy, doros\u0142ych i senior\u00f3w w zakresie szeroko poj\u0119tej ekologii, ochrony \u015brodowiska i krajobrazu. \r\nh. Anga\u017cowanie spo\u0142ecze\u0144stwa, w tym dzieci, m\u0142odzie\u017cy,doros\u0142ych i senior\u00f3w w uprawianie r\u00f3\u017cnego rodzaju muzyki, zw\u0142aszcza \u017ceglarskiej i szantowej jako formy sp\u0119dzania wolnego czasu.\r\ni. Anga\u017cowanie spo\u0142ecze\u0144stwa, w tym dzieci, m\u0142odzie\u017cy,doros\u0142ych i senior\u00f3w w aktywne dzia\u0142ania proekologiczne i edukacyjne jako formy sp\u0119dzania wolnego czasu. \r\nj. Inspirowanie spo\u0142ecze\u0144stwa, w tym dzieci, m\u0142odzie\u017cy,doros\u0142ych i senior\u00f3w, do podejmowania szeroko rozumianych dzia\u0142a\u0144 artystycznych, zwi\u0105zanych zw\u0142aszcza z muzyk\u0105 \u017ceglarsk\u0105 i szantow\u0105. \r\nk. Inspirowanie spo\u0142ecze\u0144stwa, w tym dzieci, m\u0142odzie\u017cy,doros\u0142ych i senior\u00f3w, do podejmowania szeroko rozumianych dzia\u0142a\u0144 ekologicznych. \r\n \r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2162,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "IGA'CKI BAND CZYLI SZCZECI\u0143SKA AKADEMIA SZANTOWA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "73/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-781",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Fioletowa 73/4",
+      "terc": "3262011"
+    },
+    "aims": "a. popularyzacja i popieranie \u0142\u0105czno\u015bci na pasmach fal ultrakr\u00f3tkich i mikrofalowych. b. rozw\u00f3j, popieranie i ochrona s\u0142u\u017cby radiokomunikacyjnej amatorskiej. c. podejmowanie dzia\u0142a\u0144 maj\u0105cych na celu ochron\u0119 przydzielonych zakres\u00f3w cz\u0119stotliwo\u015bci amatorskich, jak i pozyskiwanie nowych zakres\u00f3w cz\u0119stotliwo\u015bci. d. obrona praw kr\u00f3tkofalowc\u00f3w do swobodnego eksperymentowania w budowie urz\u0105dze\u0144 radiowych i system\u00f3w antenowych oraz swobodnego eksperymentowania w zakresie nowych rozwi\u0105za\u0144 w radiokomunikacji. e. utrzymywanie kontakt\u00f3w i wsp\u00f3\u0142pracy z organami administracji rz\u0105dowej i samorz\u0105dowej oraz organizacjami i jednostkami organizacyjnymi krajowymi, zagranicznymi, jak r\u00f3wnie\u017c mi\u0119dzynarodowymi maj\u0105cymi cele zbli\u017cone do cel\u00f3w okre\u015blonych w regulaminie.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2163,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "KLUB MI\u0141O\u015aNIK\u00d3W MIKROFAL \"SP0KKM\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "128",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-479",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Miodowa",
+      "terc": "3262011"
+    },
+    "aims": "a. budowa kanalizacji, b. budowa drogi dojazdowej do posesji, c. budowa o\u015bwietlenia.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2164,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SPO\u0141ECZNY KOMITET BUDOWY UZBROJENIA DZIA\u0141EK PRZY UL. MIODOWEJ"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "31/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-021",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "W\u0142o\u015bcia\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "a. kultywowanie i upami\u0119tnianie dorobku zespo\u0142u muzycznego Depeche Mode, w tym dorobku szczeci\u0144skiego \u015brodowiska fan\u00f3w zespo\u0142u, b. umacnianie wi\u0119zi kole\u017ce\u0144skich pomi\u0119dzy cz\u0142onkami Fanklubu i fanami zespo\u0142u muzycznego Depeche Mode, c. upowszechnianie i umacnianie w spo\u0142ecze\u0144stwie wiedzy o zespole muzycznym Depeche Mode, d. wsp\u00f3\u0142praca z innymi organizacjami i fanklubami kultywuj\u0105cymi histori\u0119 i dorobek zespo\u0142u muzycznego Depeche Mode.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2165,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "FANKLUB DEPECHE MODE \"PIMPF\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "72g/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-236",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Sowi\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "a. promowanie i wspomaganie rozwoju teorii prawa, polityki prawa oraz teorii dogmatyk (szczeg\u00f3\u0142owych nauk o prawie) w Europie i poza jej granicami, w duchu idei naukowych Leona Petra\u017cyckiego, b. promowanie idei petra\u017cycja\u0144skich, idei otwartej nauki i otwartego dost\u0119pu do wiedzy, c. popularyzacja i upowszechnianie wiedzy w zakresie teorii prawa, polityki prawa oraz teorii dogmatyk prawniczych, d. budowa sieci powi\u0105za\u0144 pomiedzy naukowcami, w tym nieposiadaj\u0105cymi afiliacji (formalnego powi\u0105zania z uczelniami) oraz wspieranie niezale\u017cnych bada\u0144 naukowych w zakresie teorii prawa, polityki prawa lub teorii dogmatyk prawniczych, e. prowadzenie analiz, bada\u0144, projekt\u00f3w lub teorii dogmatyk prawniczych, e. prowadzenie analiz, bada\u0144, projekt\u00f3w lub studi\u00f3w z zakresu teorii prawa, polityki prawa lub teorii dogmatyk prawniczych, f. integrowanie i wsp\u00f3\u0142praca z krajowymi i mi\u0119dzynarodowymi instytucjami lub \u015brodowiskami naukowymi, prowadz\u0105cymi studia z zakresu teorii prawa, polityki prawa lub teorii dogmatyk prawniczych.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2166,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"STOWARZYSZENIE TEORII I POLITYKI PRAWA\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "78/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-772",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Gryfi\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "a. podnoszenie wynik\u00f3w sportowych go\u0142\u0119bi, b. zrzeszanie os\u00f3b interesuj\u0105cych si\u0119 go\u0142\u0119biami sportowymi, c. wsp\u00f3\u0142praca z innymi stowarzyszeniami o podobnym dzia\u0142aniu.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2167,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "ZACHODNIOPOMORSKIE STOWARZYSZENIE HODOWC\u00d3W I MI\u0141O\u015aNIK\u00d3W GO\u0141\u0118BI SPORTOWYCH"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "25",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-314",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Traugutta",
+      "terc": "3262011"
+    },
+    "aims": "a. czynna ochrona je\u017cowatych wszystkich gatunk\u00f3w, b. edukacja dzieci, m\u0142odzie\u017cy i doros\u0142ych o potrzebie i zasadach ochrony je\u017cy, c. ratowanie osobnik\u00f3w m\u0142odych, osieroconych, s\u0142abych i chorych, d. przywracanie je\u017cy do naturalnego \u015brodowiska w my\u015bl zasady: \u201eratowa\u0107, rehabilitowa\u0107, wypuszcza\u0107\u201d.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2168,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "JE\u017bARNIA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-542",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Sienne",
+      "terc": "3262011"
+    },
+    "aims": "a. rozw\u00f3j spo\u0142ecze\u0144stwa obywatelskiego i demokratycznego, b. promocja w\u015br\u00f3d m\u0142odzie\u017cy postaw prospo\u0142ecznych i proobywatelskich, c. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, d. dzia\u0142alno\u015b\u0107 w zakresie poszanowania praw cz\u0142owieka i obywatela, e. upowszechnianie i ochrona praw kobiet i m\u0119\u017cczyzn, f. dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych oraz os\u00f3b starszych, g. dzia\u0142alno\u015b\u0107 na rzecz mniejszo\u015bci narodowych, h. promocja i organizacji wolontariatu, i. podejmowanie dzia\u0142a\u0144 na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami, j. przeciwdzia\u0142anie patologiom spo\u0142ecznym, k. przeciwdzia\u0142anie przemocy domowej i wspierania idei korekcji zachowa\u0144 os\u00f3b stosuj\u0105cych przemoc z zastosowaniem filozofii TSR, I. pomoc osobom (i ich rodzinom) ze \u015brodowisk zagro\u017conych wykluczeniem spo\u0142ecznym, alkoholizmem, narkomani\u0105 i innymi zachowaniami patologicznymi, \u0142. reintegracja i reaktywizacja zawodowa os\u00f3b wykluczonych spo\u0142ecznie, m. prowadzenie dzia\u0142alno\u015bci na rzecz poprawy jako\u015bci \u017cycia, ochrony i promocji zdrowia, n. dzia\u0142ania na rzecz integracji mieszka\u0144c\u00f3w \u015br\u00f3dmie\u015bcia Szczecin, o. propagowanie postaw prospo\u0142ecznych w\u015br\u00f3d mieszka\u0144c\u00f3w \u015br\u00f3dmie\u015bcia, p. inicjowanie i realizowanie program\u00f3w zwi\u0105zanych z rewitalizacj\u0105 dzielnicy \u015br\u00f3dmie\u015bcie.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2169,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "NASZE \u015aR\u00d3DMIE\u015aCIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-464",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Monte Cassino",
+      "terc": "3262011"
+    },
+    "aims": "a. modelarskich w spo\u0142ecze\u0144stwie, c. wsp\u00f3\u0142udzia\u0142 w inicjowaniu i koordynowaniu wszelkich przedsi\u0119wzi\u0119\u0107 maj\u0105cych podobne cele, d. uczestniczenie w imprezach sportowych organizowanych na terenie miasta Szczecin i poza nim, e. organizowanie r\u00f3\u017cnorodnych form wsp\u00f3\u0142zawodnictwa sportowego, f. prowadzenie dzialalno\u015bci popularyzatorskiej i instrukta\u017cowej w zakresie modelarstwa.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2170,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "RADIOJACHTING SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-750",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "U\u0142a\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "  a. rozw\u00f3j spo\u0142ecze\u0144stwa obywatelskiego i demokratycznego, b. promocja w\u015br\u00f3d m\u0142odzie\u017cy postaw prospo\u0142ecznych i proobywatelskich, c. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych, d. dzia\u0142alno\u015b\u0107 w zakresie poszanowania praw cz\u0142owieka i obywatela, e. upowszechnianie i ochrona praw kobiet i m\u0119\u017cczyzn, f. dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych oraz os\u00f3b starszych, g. dzia\u0142alno\u015b\u0107 na rzecz zr\u00f3wnowa\u017conego rozwoju obszar\u00f3w wiejskich, h. prowadzenie dzia\u0142alno\u015bci kulturalnej i artystycznej, i. integrowanie spo\u0142eczno\u015bci lokalnych poprzez wsp\u00f3\u0142tworzenie warunk\u00f3w do kultywowania i rozwijania narodowych, etnicznych, regionalnych, \u015brodowiskowych warto\u015bci kulturowych, j. inicjowanie i promowanie innowacyjnych form uczestnictwa w kulturze, k. stymulowanie i wspomaganie samoorganizacji ruchu kulturalnego, l. promocja i organizacji wolontariatu, \u0142. podejmowanie dzia\u0142a\u0144 na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami, m. przeciwdzia\u0142anie patologiom spo\u0142ecznym i przemocy domowej, n. pomoc osobom (i ich rodzinom) ze \u015brodowisk zagro\u017conych wykluczeniem spo\u0142ecznym; alkoholizmem, narkomani\u0105 i innymi zachowaniami patologicznymi, o. reintegracja i reaktywizacja zawodowa os\u00f3b wykluczonych spo\u0142ecznie, p. prowadzenie dzia\u0142alno\u015bci na rzecz poprawy jako\u015bci \u017cycia, ochrony i promocji zdrowia, q. propagowanie idei ochrony \u015brodowiska przyrodniczego, ekologii oraz ochrony praw zwierz\u0105t, r. rozwijanie r\u00f3\u017cnych form kultury fizycznej, s. kszta\u0142towanie pozytywnych cech charakteru i osobowo\u015bci w \u015brodowisku dzieci, m\u0142odzie\u017cy I doros\u0142ych, jak r\u00f3wnie\u017c tworzenie dogodnych warunk\u00f3w w tym zakresie, t. integrowanie \u015brodowisk uczniowskich, rodzicielskich i nauczycielskich na terenie swego dzia\u0142ania, u. prowadzenie dzia\u0142alno\u015bci w sferze kultury fizycznej, w dziedzinie rekreacji i rehabilitacji ruchowej, v. uczestnictwo oraz organizowanie aktywnego sp\u0119dzania czasu wolnego i zaj\u0119\u0107 sportowych, w. organizowanie r\u00f3\u017cnorodnych form wsp\u00f3\u0142zawodnictwa sportowego, x. upowszechnianie uprawiania dyscyplin sportowych, y. organizowanie i uczestnictwo w r\u00f3\u017cnego rodzaju sekcjach i zespo\u0142ach o charakterze sportowym, rekreacyjnym i turystycznym, z. organizacja i prowadzenie oboz\u00f3w sportowo-rekreacyjnych, aa. wspieranie ruch\u00f3w i inicjatyw spo\u0142ecznych maj\u0105cych na celu w swojej dzia\u0142alno\u015bci dzia\u0142alno\u015b\u0107 zbli\u017con\u0105 do tej, kt\u00f3r\u0105 wykonuje Stowarzyszenie, bb. tworzenie p\u0142aszczyzny wymiany informacji i do\u015bwiadcze\u0144 pomi\u0119dzy osobami i instytucjami zainteresowanymi celami Stowarzyszenia.\r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2171,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE MIESZKA\u0143C\u00d3W OSIEDLA \u017bELECHOWA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4",
+      "city": "Szczecin",
+      "commune": "gmina miejska Szczecin",
+      "district": "miasto na prawach powiatu Szczecin",
+      "postcode": "70-345",
+      "province": "zachodniopomorskie",
+      "simc": "0977976",
+      "street": "\u017b\u00f3\u0142kiewskiego",
+      "terc": "3262011"
+    },
+    "aims": "a. ratowanie \u017cywno\u015bci przed zmarnowaniem, b. udzielanie nieodp\u0142atnej pomocy \u017cywno\u015bciowej i socjalnej osobom szczeg\u00f3lnie tej pomocy potrzebuj\u0105cym, c. budowanie spo\u0142ecznego poparcia dla idei niemarnowania \u017cywno\u015bci, d. edukacja na rzecz i promocja koncepcji dzielenia si\u0119 \u017cywno\u015bci\u0105 i niemarnowania wszelkich wytworzonych d\u00f3br.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2172,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "JAD\u0141ODZIELNIA SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-600",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Parkowa",
+      "terc": "3262011"
+    },
+    "aims": "a. ochrona praw i interes\u00f3w mieszka\u0144c\u00f3w Osiedla Wronia Podkowa w Szczecinie oraz w\u0142a\u015bcicieli nieruchomo\u015bci gruntowych na terenie osiedla i w bezpo\u015brednim jego s\u0105siedztwie, integracja tworz\u0105cej si\u0119 wsp\u00f3lnoty lokalnej mieszka\u0144c\u00f3w osiedla, reprezentowanie jej interes\u00f3w, oraz organizowanie pomocy wzajemnej przy budowaniu, zasiedlaniu i zamieszkiwaniu na osiedlu, b. reprezentowanie mieszka\u0144c\u00f3w i w\u0142a\u015bcicieli nieruchomo\u015bci ww. obszaru wobec organ\u00f3w w\u0142adzy i administracji pa\u0144stwowej i samorz\u0105dowej, instytucji, organizacji, os\u00f3b fizycznych i prawnych, c. informowanie spo\u0142eczno\u015bci lokalnej o sprawach istotnych dla jej funkcjonowania, d. dzia\u0142ania na rzecz ochrony \u015brodowiska oraz bezpiecze\u0144stwa osiedla i jego mieszka\u0144c\u00f3w, e. dzia\u0142ania b\u0105d\u017a wsp\u00f3\u0142dzia\u0142anie z innymi podmiotami, maj\u0105ce na celu zagospodarowanie Osiedla Wronia Podkowa, w szczeg\u00f3lno\u015bci poprzez przeprowadzenie na jego terenie medi\u00f3w tj. sieci energetycznej, wodoci\u0105gowej, kanalizacyjnej, energii cieplnej, sieci gazowej i innych sieci oraz wykonanie dr\u00f3g wewn\u0119trznych.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2173,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "OSIEDLE WRONIA PODKOWA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-376",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "5-go Lipca",
+      "terc": "3262011"
+    },
+    "aims": "a. podejmowanie dzia\u0142a\u0144 na rzecz ochrony i zachowania dziedzictwa kulturowego.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2174,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"OCALMY ZABYTEK\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "23/45",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-131",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Orawska",
+      "terc": "3262011"
+    },
+    "aims": "  Celem stowarzyszenia jest:\r\na) prowadzenie dzia\u0142alno\u015bci po\u017cytku publicznego w szczeg\u00f3lno\u015bci edukacyjnej, kulturalnej sportowej, zw\u0142aszcza w zakresie inicjowania, organizowania, wspierania i pomocy w przedsi\u0119wzi\u0119ciach edukacyjnych, kulturalnych i sportowych w\r\nszczeg\u00f3lno\u015bci na rzecz dzieci m\u0142odzie\u017cy, a tak\u017ce wspieranie dzieci i m\u0142odzie\u017cy oraz os\u00f3b doros\u0142ych w rozwijaniu swoich pasji zainteresowa\u0144,\r\nb) organizowanie form sp\u0119dzania czasu wolnego dla dzieci, m\u0142odzie\u017cy i senior\u00f3w,\r\nc) dzia\u0142alno\u015b\u0107 proekologiczna, w tym projektowanie przestrzeni publicznej, sadzenie azjatyckich ro\u015blin, tworzenie szlak\u00f3w turystycznych przedstawiaj\u0105cych ro\u015blinno\u015b\u0107 azjatyck\u0105 na terenie wojew\u00f3dztwa zachodniopomorskiego,\r\nd) informowanie i promocja r\u00f3\u017cnorodnych wydarze\u0144 odbywaj\u0105cych si\u0119 na terenie regionu zachodniopomorskiego,\r\ne) informowanie i promocja wydarze\u0144 zwi\u0105zanych z Azj\u0105,\r\nf) propagowanie kultury azjatyckiej i promocja regionu zachodniopomorskiego.            \r\n                                                                                                                                 \r\n    \r\n                                                                                                                                      \r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2175,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKI KLUB AZJI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "71",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-274",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Karola Libelta",
+      "terc": "3262011"
+    },
+    "aims": "a. Kultywowanie tradycji i dorobku12 Pu\u0142ku U\u0142an\u00f3w Podolskich, b. umacnianie wi\u0119zi rodzinnych i kole\u017ce\u0144skich pomi\u0119dzy cz\u0142onkami stowarzyszenia, wynikaj\u0105cych z historii 12 Pu\u0142ku U\u0142an\u00f3w Podolskich, c. upowszechnianie i umacnianie w spo\u0142ecze\u0144stwie wiedzy o 12 Pu\u0142ku U\u0142an\u00f3w Podolskich, d. wsp\u00f3\u0142praca z innymi organizacjami i stowarzyszeniami kultywuj\u0105cymi tradycj\u0119 i dorobek 12 Pu\u0142ku U\u0142an\u00f3w Podolskich.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2176,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE RODZIN I SYMPATYK\u00d3W 12 PU\u0141KU U\u0141ANOW PODOLSKICH \"RODZINA PODOLSKA\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "32",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-806",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Kolonist\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "  a. zbudowanie przy\u0142\u0105czy gazowych,elektrycznych wodnych i kanalizacyjnych, doprowadz\u0105j\u0105cych media do poszczeg\u00f3lnych dzia\u0142ek budowlanych b\u0119d\u0105cych w\u0142asno\u015bci\u0105  cz\u0142onk\u00f3w stowarzyszenia po\u0142o\u017conych w obr\u0119bie Buk w gminie Dobra, powiat policki w wojew\u00f3dztwie zachodniopomorskim, oznaczonych numerami geodezyjnymi; 226/1, 226/2, 226/3, 226/4, 70/5, 70/10, 70/9, 70/8, 70/14, 70/13, 70/12, 70/11, 70/1, 227/6, 227/3, 227/4, 227/7,70/3, 70/6, 70/4, 227/8, 227/5, 227/2, 227/9, b. wybudowanie drogi wewn\u0119trznej na dzia\u0142kach stanowi\u0105cych wsp\u00f3\u0142w\u0142asno\u015b\u0107 cz\u0142onk\u00f3w stowarzyszenia oznaczonych numerami geodezyjnymi 70/2, 227/2.                                                                                                                                                                        ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2177,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE  \"BUK\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7/12",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-043",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Lubelska",
+      "terc": "3262011"
+    },
+    "aims": "a. organizowanie spotka\u0144, plener\u00f3w i wystaw malarstwa cz\u0142onk\u00f3w Stowarzyzenia, b. propagowanie regionu zachodniopomorskiego w pracach cz\u0142onk\u00f3w Stowarzyszenia.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2178,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKA GRUPA TW\u00d3RC\u00d3W \"NAWA\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "16",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-743",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "M\u0142y\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "a. integracja \u015brodowisk zawodowych, obszarowych i mi\u0119dzynarodowych oraz sektor\u00f3w: publicznego, spo\u0142ecznego i prywatnego w obszarze swojego dzia\u0142ania, c. integrowanie wodniak\u00f3w i spo\u0142eczno\u015bci Szczecina i obszaru metropolitarnego wok\u00f3\u0142 idei Szczecina Floating Garden Wodniackiej Stolicy Polski, d. ochrona \u015brodowiska, zachowanie bior\u00f3\u017cnorodno\u015bci i propagowanie stosowania ekologicznych nap\u0119d\u00f3w \u015brodk\u00f3w p\u0142ywaj\u0105cych, e. reprezentacja \u015brodowiska kajakowego wobec w\u0142adz administracyjnych oraz wsp\u00f3\u0142praca z tymi w\u0142adzami m.in. w celu stworzenia odpowiedniej infrastruktury i organizacji odpowiedniej rangi imprez, f. zapewnienie bezpiecze\u0144stwa na i wok\u00f3\u0142 akwen\u00f3w wodnych.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2179,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "KAYAK SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "192/21",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-245",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Szafera",
+      "terc": "3262011"
+    },
+    "aims": "a. integracja \u015brodowiska Oficer\u00f3w \u0141\u0105cznikowych, b. podnoszenie kwalifikacji i umiejetno\u015bci Oficer\u00f3w \u0141\u0105cznikowych, c. organizacja wymian  Oficer\u00f3w \u0141\u0105cznikowych z r\u00f3\u017cnych port\u00f3w, d. dzia\u0142anie na rzecz integracji mi\u0119dzynarodowej, rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy z r\u00f3\u017cnymi portami, e. wsp\u00f3\u0142praca z organizacjami o podobnych celach dzia\u0142ania w kraju i za granic\u0105.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2180,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "AHOJ! STOWARZYSZENIE SZCZECI\u0143SKICH OFICER\u00d3W \u0141\u0104CZNIKOWYCH"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "52/47",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-130",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Powsta\u0144c\u00f3w Wielkopolskich",
+      "terc": "3262011"
+    },
+    "aims": "a. poprawa warunk\u00f3w rekreacji i wypoczynku na terenie dzia\u0142ek, b. doprowadzenie energii elektrycznej do dzia\u0142ek.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2181,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE DZIER\u017bAWC\u00d3W TEREN\u00d3W KOLEJOWYCH PRZY LINII KOLEJOWEJ NR 351 POZNA\u0143-SZCZECIN W KM 210,03-210,66"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-495",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Zaleskiego",
+      "terc": "3262011"
+    },
+    "aims": "a. ochrona dziedzictwa kulturowego Szczecina, b. ochrona \u015bodowiska, c. dbanie o \u0142ad przestrzenny w Szczecinie.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2182,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE PAMI\u0118TAJMY O OGRODACH"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-696",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Kormoran\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "a.pi\u0142ki halowej (futsalu) a tak\u017ce innych dyscyplin sportowych ze szczeg\u00f3lnym uwzgl\u0119dnieniem tenisa sto\u0142owego, biegania, sport\u00f3w rowerowych i p\u0142ywania, c. wspieranie i inicjowanie rozbudowy miejskich si\u0142owni napowietrznych oraz miejsc rekreacji typu \u201estreet workout\", d. promowanie amatorskiego sportu w mie\u015bcie i regionie, szczeg\u00f3lnie w\u015br\u00f3d dzieci, m\u0142odzie\u017cy szkolnej i akademickiej jak r\u00f3wnie\u017c u os\u00f3b doros\u0142ych i senior\u00f3w, e. wspieranie osiedlowych i podw\u00f3rkowych grup sportowych i ich integracja, f. upowszechnianie dost\u0119pu do obiekt\u00f3w sportowych zar\u00f3wno na poziomie og\u00f3lnomiejskim jak i osiedlowym oraz d\u0105\u017cenie do poprawy ich stanu technicznego, g. Budowanie amatorskiej dru\u017cyny pi\u0142karskiej na bazie mi\u0142o\u015bnik\u00f3w futsalu zar\u00f3wno w kategorii dzieci\u0119co-m\u0142odzie\u017cowej jak i os\u00f3b doros\u0142ych, h. Uczestniczenie jako dru\u017cyna w turniejach oraz rozgrywkach ligowych zwi\u0105zanych z pi\u0142k\u0105 halow\u0105 a tak\u017ce branie udzia\u0142u cz\u0142onk\u00f3w Stowarzyszenia w innych imprezach sportowych w wybranych dyscyplinach sportowych, i. Wspieranie uzdolnionej m\u0142odzie\u017cy szkolnej, gimnazjalnej i akademickiej w rozwoju prawid\u0142owej \u015bcie\u017cki sportowej, j. Promowanie walor\u00f3w miasta Szczecin jako miejsca do aktywnego wypoczynku i uprawiania sportu, k. Upowszechnianie wiedzy na temat historii sportu, osi\u0105gni\u0119\u0107 lokalnych zespo\u0142\u00f3w sportowych oraz wybitnych sportowc\u00f3w zwi\u0105zanych ze Szczecinem i regionem, l. Systematyczne doskonalenie sprawno\u015bci fizycznej cz\u0142onk\u00f3w Stowarzyszenia.                                                                                                                                                                                                                                                   ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2183,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE MI\u0141O\u015aNIK\u00d3W PI\u0141KI HALOWEJ \u2013 FUTSAL TEAM SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "20/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-215",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Ksi\u0119dza Robaka",
+      "terc": "3262011"
+    },
+    "aims": " a. dzia\u0142anie na rzecz rozwoju badmintona; b. popularyzowanie wiedzy z dziedziny badmintona w\u015br\u00f3d spo\u0142ecze\u0144stwa lokalnego; c. promocja i popieranie uprawiania sportu.                                                                                                                                                                                                                                               ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2184,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECI\u0143SKIE STOWARZYSZENIE BADMINTONA \u201eSMECZ\u201d"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-042",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Olszty\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "  a. popularyzowanie inicjatyw kulturalnych regionu; b. przedstawianie zagadnie\u0144 z zakresu informatyki; c. promocja projekt\u00f3w, rozwi\u0105za\u0144 z zakresu fotografii i grafiki; d. promocja i informowanie o nowoczesnych rozwi\u0105zaniach techniczno-informatycznych w regionie; e. tworzenie p\u0142aszczyzny sprzyjaj\u0105cej integracji i do\u015bwiadcze\u0144 pomi\u0119dzy osobami i instytucjami zainteresowanymi; f. tworzenie p\u0142aszczyzny sprzyjaj\u0105cej integracji pomi\u0119dzy osobami i instytucjami zainteresowanymi; g. promocja sportu i rekreacji; h. dzia\u0142anie na rzecz spo\u0142eczno\u015bci lokalnych.                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2185,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\u00d3SEMKA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "58/11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-447",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Krasi\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "a. integrowanie pojazd\u00f3w marki BMW, b. dzia\u0142ania na rzecz poprawy bezpiecze\u0144stwa ruchu drogowego w mie\u015bcie, c. promocja miasta na zlotach i spotkaniach milo\u015bnik\u00f3w marki BMW w kraju i za granic\u0105, d. organizacja spotka\u0144 dyskusyjnych i konkurs\u00f3w sportowych oraz pomoc w szkoleniach maj\u0105cych na celu podnoszenie umiej\u0119tno\u015bci kierowc\u00f3w, e. rozwijanie kultury i wiedzy motoryzacyjnej oraz podejmowanie dzia\u0142a\u0144 na jej rzecz, f. zachowanie wiedzy o pojazdach marki BMW dla dobra obecnych i przysz\u0142ych pokole\u0144, g. poszerzenie i upowszechnienie wiedzy dotycz\u0105cej pojazd\u00f3w marki BMW.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2186,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "BMW KLUB SZCZECIN"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "23",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-297",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Gen. Stefana Grota-Roweckiego",
+      "terc": "3262011"
+    },
+    "aims": "a. organizacja i zapewnienie godnego \u017cycia codziennego cz\u0142onkom Stowarzyszenia.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2187,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE OBYWATELSKIE \"MARINA\" W SZCZECINIE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-212",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Leszczynowy Sad",
+      "terc": "3262011"
+    },
+    "aims": "a. podnoszenie jako\u015bci \u017cycia mieszka\u0144c\u00f3w ulicy Leszczynowy Sad, b. aktywizacja i integracja wsp\u00f3lnoty mieszka\u0144c\u00f3w ulicy Leszczynowy Sad, wspieranie postaw i zachowa\u0144 s\u0142u\u017c\u0105cych dba\u0142o\u015bci o otoczenie, samorz\u0105dno\u015bci odpowiedzialnosci, wsp\u00f3\u0142pracy, otwarto\u015bci i tolerancji, c. upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142a\u0144 wspomagajacych rozw\u00f3j demokracji i spo\u0142eczno\u015bci lokalnej, d. dzia\u0142alno\u015b\u0107 promocyjna, informacyjna, wydawnicza zwi\u0105zana z ideami Stowarzyzenia, e. wsp\u00f3\u0142praca z innymi organizacjami i instytucjami realizuj\u0105cymi podobne jak Stowarzyszenie cele.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2188,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE \"LESZCZYNOWY SAD\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-261",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Brzozowskiego",
+      "terc": "3262011"
+    },
+    "aims": " a. zdobywanie, pog\u0142\u0119bianie i propagowanie szeroko poj\u0119tej wiedzy na temat militarnej i wojskowej historii Pomorza Zachodniego; b. prowadzenie ewidencji obiekt\u00f3w militarnych i o przeznaczeniu zbli\u017conym do militarnego, sporz\u0105dzanie dokumentacji fotograficznej przedmiotowych obiekt\u00f3w ze szczeg\u00f3lnym uwzgl\u0119dnieniem stanu ich zachowania, pierwotnego przeznaczenia i walor\u00f3w poznawczo-naukowych; c. odnajdowanie i zabezpieczanie przedmiot\u00f3w zabytkowych, zwi\u0105zanych z historycznymi dzia\u0142aniami wojennymi prowadzonymi na terenie dzia\u0142ania Stowarzyszenia; d. kolekcjonowanie militari\u00f3w i innych pami\u0105tek zwi\u0105zanych z militarn\u0105 i wojskow\u0105 przesz\u0142o\u015bci\u0105 regionu; e. ochrona fauny i flory wyst\u0119puj\u0105cej na terenach, na kt\u00f3rych znajduj\u0105 si\u0119 zabytki archeologii militarnej; f. zrzeszanie os\u00f3b o zainteresowaniach kolekcjonerskich, w szczeg\u00f3lno\u015bci zwi\u0105zanych z wiedza militarn\u0105 i wojskow\u0105 historii Pomorza Zachodniego; g. dzia\u0142anie na rzecz kolekcjonerstwa przedmiot\u00f3w zwi\u0105zanych z militariami i histori\u0105 Pomorza Zachodniego; h. propagowanie kolekcjonerstwa przedmiot\u00f3w materialnych-b\u0119d\u0105cych odbiciem zainteresowa\u0144 cz\u0142onk\u00f3w; i. popularyzowanie w\u015br\u00f3d spo\u0142ecze\u0144stwa wiedzy na temat kolekcjonerstwa militari\u00f3w, historii Pomorza Zachodniego oraz dzia\u0142alno\u015bci kolekcjonerskiej; j. kszta\u0142towanie u cz\u0142onk\u00f3w Stowarzyszenia i w spo\u0142ecze\u0144stwie patriotyzmu i wysokich walor\u00f3w moralnych, poczucia godno\u015bci osobistej, zrozumienia zasad dyscypliny i solidarno\u015bci oraz potrzeb sumiennego wype\u0142niania obowi\u0105zk\u00f3w spo\u0142ecznych i obywatelskich.                                                                                                                                                                                                                                                 ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2189,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "REGIONALNA GRUPA EKSPLORACYJNA \"LUPUS\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-500",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "\r\n 1) Inicjowanie, wspieranie i promowanie r\u00f3\u017cnych form uprawiania \u017ceglarstwa, a w szczeg\u00f3lno\u015bci \u017ceglarstwa morskiego i oceanicznego.\r\n2) Inicjowanie i wykonywanie przedsi\u0119wzi\u0119\u0107 sprzyjaj\u0105cych rozwojowi \u017ceglarstwa. \r\n3) Opiniowanie i inicjowanie zmian w istniej\u0105cych oraz projektowanie nowych przepis\u00f3w dotycz\u0105cych \u017ceglarstwa.\r\n4) Konsolidacja \u015brodowiska \u017ceglarskiego, w szczeg\u00f3lno\u015bci posiadaczy patent\u00f3w kapitan\u00f3w jachtowych. \r\n5) Uczestnictwo w dziele zachowania w zbiorowej pami\u0119ci \u017ceglarskiej dokona\u0144 kapitan\u00f3w jachtowych, a w szczeg\u00f3lno\u015bci kapitan\u00f3w jachtowych z wojew\u00f3dztwa zachodniopomorskiego oraz wa\u017cniejszych wydarze\u0144 z ich udzia\u0142em. \r\n6) Dba\u0142o\u015b\u0107 o utrzymanie wysokiego poziomu kompetencji \u017ceglarskich oraz postaw etycznych cz\u0142onk\u00f3w Klubu.\r\n  \r\n",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2190,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "KLUB KAPITAN\u00d3W JACHTOWYCH"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-773",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Widok",
+      "terc": "3262011"
+    },
+    "aims": " a. ochrona interes\u00f3w cz\u0142onk\u00f3w Stowarzyszenia w zwi\u0105zku z Uchwa\u0142\u0105  Nr XLVI/1157/10 Rady Miasta Szczecin z dnia 26 kwietnia 2010 r. w sprawie przyst\u0105pienia do sporz\u0105dzenia Miejscowego planu zagospodarowania przestrzennego \"Zdroje - Zach\u00f3d\" w Szczecinie (jednostka planistyczna: Zdroje D.Z.02), b. integracja podmiot\u00f3w gospodarczych i os\u00f3b fizycznych zainteresowanych uwarunkowaniami i kierunkiem zagospodarowania przestrzennego teren\u00f3w obj\u0119tych jednostk\u0105 planistyczn\u0105 Zdroje D.Z.02 przy ul. Batalion\u00f3w Ch\u0142opskich w Szczecinie.                                                                                                                                                                                                                                                                                 ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2191,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"ZDROJE ZACH\u00d3D\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-564",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Elizy Orzeszkowej",
+      "terc": "3262011"
+    },
+    "aims": "a. popularyzacja i promocja miasta Szczecina, b. wsp\u00f3\u0142dzia\u0142anie z mieszka\u0144cami, radami osiedla i innymi organizacjami pozarz\u0105dowymi w sprawach dotycz\u0105cych niedogodno\u015bci wskazywanych przez mieszka\u0144c\u00f3w, c. pomoc w rozwi\u0105zywaniu zg\u0142aszanych problem\u00f3w.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2192,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "SZCZECINIANIE DLA SZCZECINA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-564",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Jod\u0142owa",
+      "terc": "3262011"
+    },
+    "aims": "a. budowa instalacji wodno-kanalizacyjnej (koszty pokrywane b\u0119d\u0105 przez cz\u0142onk\u00f3w 1/5 ceny g\u0142\u00f3wnej sieci w dzia\u0142ce 2/46 a pod\u0142\u0105czenia do g\u0142\u00f3wnej sieci w dzia\u0142ce 2/46 b\u0119d\u0105 pokrywane indywidualnie przez poszczeg\u00f3lnych cz\u0142onk\u00f3w-z wy\u0142\u0105czeniem dzia\u0142ki 2/43-kt\u00f3ra b\u0119dzie pod\u0142\u0105czona do innej sieci), b. budowa drogi docelowej do posesji przy dzia\u0142ce budowlanej 2/46, c. zarz\u0105dzanie drog\u0105, d. reprezentowanie stowarzyszenia na zewn\u0105trz, e. podejmowanie decyzji co do terenu obj\u0119tego dzia\u0142aniem.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2193,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"OSIEDLE NAD BUKOW\u0104\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "25",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-783",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wschodu S\u0142o\u0144ca",
+      "terc": "3262011"
+    },
+    "aims": "a. budowa drogi docelowej Wschodu S\u0142o\u0144ca w tym kanalizacji deszczowej i o\u015bwietlenia ulicy, b. zarz\u0105dzanie drog\u0105, c. reprezentowanie stowarzyszenia na zewn\u0105trz, d. podejmowanie decyzji co do terenu obj\u0119tego dzia\u0142aniem.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2194,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE ZWYK\u0141E POD NAZW\u0104 WSCHODU S\u0141O\u0143CA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "43/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-246",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Zawadzkiego",
+      "terc": "3262011"
+    },
+    "aims": "a. zorganizowanie i integracja zawodowa \u015brodowiska artyst\u00f3w, tw\u00f3rc\u00f3w wykonawc\u00f3w, muzyk\u00f3w i piosenkarzy, b. popularyzacja SMOR i osi\u0105gni\u0119\u0107 artystycznych jego czlonk\u00f3w, c. wszechstronna ochrona godno\u015bci zawodowej \u015brodowiska, obrona interes\u00f3w moralnych i praw muzyk\u00f3w, d. podwy\u017cszenie statusuartystycznego i spo\u0142eczno-zawodowego artyst\u00f3w, tw\u00f3rc\u00f3w wykonanwc\u00f3w, muzyk\u00f3w i piosenkarzy.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2195,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE MUZYK\u00d3W ORKIESTRA ROZRYWKOWA"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "96/25",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-635",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Emilii Plater",
+      "terc": "3262011"
+    },
+    "aims": "a. dzia\u0142anie na rzecz os\u00f3b niepe\u0142nosprawnych, b. wsparcie rodziny i najbli\u017cszych opiekun\u00f3w os\u00f3b niepe\u0142nosprawnych obj\u0119tych opiek\u0105 przez Stowarzyszenie, c. wszechstronne propagowanie informacji oraz u\u015bwiadamianie spo\u0142ecze\u0144stwa  na temat potrzeby wsparcia os\u00f3b niepe\u0142nosprawnych oraz ich opiekun\u00f3w, d. promocja i organizacja wolontariatu w celu zgromadzenia funduszy na dzia\u0142ania statutowe Stowarzyszenia, e. wydawanie zgromadzonych funduszy na dzia\u0142ania statutowe Stowarzyszenia.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2196,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"DOM DLA CIEBIE - POMOC DLA INNYCH\" - WYNAJMUJ\u0118 I POMAGAM"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "20/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-303",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Bohater\u00f3w Getta Warszawskiego",
+      "terc": "3262011"
+    },
+    "aims": "a. pomoc wzajemna cz\u0142onkom Stowarzyszenia, b. dzia\u0142alno\u015b\u0107 na rzecz rozwoju miast i gmin lokalnych spo\u0142ecze\u0144stw, c. propagowanie \u015bwiatopogl\u0105du \u015bwieckiego.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2197,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "OG\u00d3LNOPOLSKI RUCH ATEISTYCZNO-LEWICOWY"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-778",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Wiking\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "a. budowa drogi i o\u015bwietlenia, b. eksploatacja i zarz\u0105dzanie.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2198,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "STOWARZYSZENIE BUDOWY DROGI I O\u015aWIETLENIA UL. WIKING\u00d3W"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "20/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-621",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Parkowa",
+      "terc": "3262011"
+    },
+    "aims": "a. wsparcie rodzic\u00f3w dzieci obci\u0105\u017conych chorobami, dysfunkcjami, b. wsparcie os\u00f3b niepe\u0142nosprawnych, c. projekt Mama to Kobieta-wsparcie i umacnianie rodzic\u00f3w w byciu potrzebnym dla otoczenia i spe\u0142nianiu si\u0119 w innych rolach ni\u017c rodzic, d. pomoc charytatywna potrzebuj\u0105cym, e. integracja chorych i niepe\u0142nosprawnych ze zdrowymi dzie\u0107mi, f. projekt Mama niepe\u0142nosprawnego dziecka na drugim na etacie.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2199,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\"TO TY MAMO\u2026\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-554",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "D\u0142ugosza",
+      "terc": "3262011"
+    },
+    "aims": " pomoc spo\u0142eczna, w tym pomoc rodzinom i osobom w trudnej sytuacji \u017cyciowej oraz wyr\u00f3wnywania szans tych rodzin i os\u00f3b; 1a) wspieranie rodziny i systemu pieczy zast\u0119pczej; 1b) udzielanie nieodp\u0142atnej pomocy prawnej oraz zwi\u0119kszanie \u015bwiadomo\u015bci prawnej spo\u0142ecze\u0144stwa; 2) dzia\u0142alno\u015bci na rzecz integracji ireintegracji zawodowej i spo\u0142ecznej os\u00f3b zagro\u017conych wykluczeniem spo\u0142ecznym; 3) dzia\u0142alno\u015bci charytatywnej; 4) podtrzymywania i upowszechniania -tradycji narodowej, piel\u0119gnowania polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej; 5) dzia\u0142alno\u015bci na rzecz mniejszo\u015bci narodowych i etnicznych oraz j\u0119zyka regionalnego; 5a) dzia\u0142alno\u015bci na rzecz integracji cudzoziemc\u00f3w; 6) ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej (Dz. U. z 2018 r. poz. 160 i 138); 7) dzia\u0142alno\u015bci na rzecz os\u00f3b niepe\u0142nosprawnych; 8) promocji zatrudnienia i aktywizacji zawodowa os\u00f3b pozostaj\u0105cych bez pracy i zagro\u017conych zwolnieniem z pracy; 9) dzia\u0142alno\u015bci na rzecz r\u00f3wnych praw kotet i m\u0119\u017cczyzn; 10) dzia\u0142alno\u015bci na rzecz os\u00f3b w wieku emerytalnym; 11) dzia\u0142alno\u015bci wspomagaj\u0105cej rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci; 12) dzia\u0142alno\u015bci wspomagaj\u0105cej rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej; 13) dzia\u0142alno\u015bci wspomagai\u0105cej rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych; 14) nauki, szkolnictwa wy\u017cszego, edukacji, o\u015bwiaty i wychowania; 15) dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynek dzieci i m\u0142odzie\u017cy; 16) kultury, sztuki, ochrony d\u00f3br kultury i dziedzictwa narodowego; 17) wspierania i upowszechniania kultury fizycznej; 18) ekologii i ochrony zwierz\u0105t oraz ochrony dziedzictwa przyrodniczego; 19) turystyki i krajoznawstwa; 20) porz\u0105dku i bezpiecze\u0144stwa publicznego; 21) obronno\u015bci pa\u0144stwa i dzia\u0142alno\u015bci Si\u0142 Zbrojnych Rzeczypospolitej Polskiej; 22) upowszechniania i ochrony wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142a\u0144 wspomagaj\u0105cych rozw\u00f3j demokracji; 22a) udzielania nieodp\u0142atnego poradnictwa obywatelskiego; 23) ratownictwa i ochrony ludno\u015bci; 24) pomocy ofiarom katastrof, kl\u0119sk \u017cywio\u0142owych, konflikt\u00f3w zbrojnych i wojen w kraju i za granic\u0105; 25) upowszechniania i ochrony praw konsument\u00f3w; 26) dzia\u0142alno\u015bci na rzecz integracji europejskiej oraz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami; 27) promocji i organizacji wolontariatu; 28) pomocy Polonii i Polakom za granic\u0105; 29) dzia\u0142alno\u015bci na rzecz kombatant\u00f3w i os\u00f3b represjonowanych; 29a) dzia\u0142alno\u015bci na rzecz weteran\u00f3w i weteran\u00f3w poszkodowanych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o weteranach dzia\u0142a\u0144 poza granicami pa\u0144stwa (Dz. U. poz. 1203, z 2017 r. poz. 60 oraz z 2018 r. poz. 138); 30)promocji Rzeczypospolitej Polskiej za granic\u0105; 31) dzia\u0142alno\u015bci na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka; 32) przeciwdzia\u0142ania uzale\u017cnieniom i patologiom spo\u0142ecznym; 32a) rewitalizacji; 33) dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 dzia\u0142alno\u015b\u0107 po\u017cytku publicznego, organizacje pozarz\u0105dowe, wy\u0142\u0105czenie stosowania przepis\u00f3w ustawy ust.3, w zakresie okre\u015blonym w pkt 1-32a.                      ",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2200,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "KOBIETOWO.PL"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-887",
+      "province": "Zachodniopomorskie",
+      "simc": "0977976",
+      "street": "Go\u017adzikowa",
+      "terc": "3262011"
+    },
+    "aims": "a. wspieranie i pomoc cz\u0142onkom PZ\u0141 pokrzywdzonym w organizacji przez  cz\u0142onk\u00f3w pe\u0142ni\u0105cych funkcje w zarz\u0105dach k\u00f3\u0142 \u0142owieckich i zarz\u0105dach okr\u0119gowych PZ\u0141 oraz w s\u0105dach i prokuraturach (organach sprawiedliwo\u015bci), b. udzielanie pomocy prawnej przy prowadzeniu spraw zwi\u0105zanych z \u0142owiectwem, pisaniem odpowiednich pism do w\u0142adz, c. dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca  rozw\u00f3j wsp\u00f3lnot i dzia\u0142alno\u015bci lokalnych oraz dzier\u017cawc\u00f3w dzia\u0142ek Wielgowo.",
+    "benefitZones": [],
+    "hasSameAddress": true,
+    "id": 2201,
+    "legalForm": "Stowarzyszenia zwyk\u0142e",
+    "name": "\u201ePRO BONO\u201d STOWARZYSZENIE DS. WSPIERANIA I POMOCY CZ\u0141ONKOM POLSKIEGO ZWI\u0104ZKU \u0141OWIECKIEGO"
+  }
+]

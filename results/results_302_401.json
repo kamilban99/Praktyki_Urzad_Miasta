@@ -1,0 +1,2162 @@
+[
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "M. SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-222",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PARTYZANT\u00d3W",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "turystyka i krajoznawstwo",
+      "promocja Rzeczypospolitej Polskiej za granic\u0105",
+      "dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3 ustawy o dzia\u0142alno\u015bci po\u017cytku publicznego i o wolontariacie , w zakresie okre\u015blonym w pkt 1-32"
+    ],
+    "hasSameAddress": true,
+    "id": 302,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorska Regionalna Organizacja Turystyczna (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-631",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "HEYKI NAD KANA\u0141EM ZIELONYM",
+      "terc": "3262011"
+    },
+    "aims": "1. POPULARYZACJA I ROZPOWSZECHNIANIE TURYSTYKI MOTOROWODNEJ, NARCIARSTWA WODNEGO, LOTNIARSTWA WODNEGO, WAKENBORDINGU ORAZ INNYCH SPORT\u00d3W MOTOROWODNYCH\n2. PODNOSZENIE POZIOMU SPORT\u00d3W MOTOROWODNYCH, NARCIARSTWA WODNEGO, LOTNIARSTWA WODNEGO, WAKENBORDINGU TURYSTYKI MOTOROWODNEJ ORAZ INNYCH SPORT\u00d3W MOTOROWODNYCH\n3. ORGANIZOWANIE I NADZOROWANIE SZKOLE\u0143 NA STOPNIE MOTOROWODNE I UPRAWNIE\u0143 ZWI\u0104ZANYCH ZE SPORTAMI MOTOROWODNYMI, NARCIARSTWEM WODNYM, LOTNIARSTWEM WODNYM I WAKENBORDINGIEM\n4. ORGANIZOWANIE ZAWOD\u00d3W I IMPREZ W ZAKRESIE SPORT\u00d3W MOTOROWODNYCH, NARCIARSTWA WODNEGO, LOTNIARSTWA WODNEGO, WAKENBORDINGU\n5. PROPAGOWANIE ZNAJOMO\u015aCI I KONIECZNO\u015aCI PRZESTRZEGANIA PRZEPIS\u00d3W OBOWI\u0104ZUJ\u0104CYCH NA WODACH I NA TERENIE OBIEKT\u00d3W PRZYWODNYCH ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM ZASAD BEZPIECZE\u0143STWA\n6. PROWADZENIE DZIA\u0141ALNO\u015aCI WYCHOWAWCZEJ W ZAKRESIE ROZBUDZENIA ZAINTERESOWANIA PROBLEMAMI GOSPODARKI WODNEJ - \u015aR\u00d3DL\u0104DOWEJ I MORSKIEJ\n7. UPOWSZECHNIANIE WIEDZY O OCHRONIE \u015aRODOWISKA NATURALNEGO I CZYNNE WSPIERANIE DZIA\u0141A\u0143 PODJ\u0118TYCH W TEJ DZIEDZINIE PRZEZ INSTYTUCJE RZ\u0104DOWE, SAMORZ\u0104DOWE I SPO\u0141ECZNE\n8. WSPIERANIE DZIA\u0141ALNO\u015aCI KLUB\u00d3W SPORTOWYCH ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM UCZNIOWSKICH KLUB\u00d3W SPORTOWYCH I TURYSTYCZNYCH\n9. REPREZENTOWANIE SPRAW MOTOROWODNYCH, NARCIARSTWA WODNEGO, LOTNIARSTWA WODNEGO, WAKENBORDINGU NA TERENIE DZIA\u0141ANIA W KRAJU I W KONTAKTACH ZAGRANICZNYCH",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 303,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Okr\u0119gowy Zwi\u0105zek Motorowodny i Narciarstwa Wodnego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL.WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "PODSTAWOWYMI CELAMI ZWI\u0104ZKU S\u0104:\n1. WSZECHSTRONNY ROZW\u00d3J I UPOWSZECHNIANIE WSZYSTKICH DYSCYPLIN SPORTU ZALICZONYCH DO DZIEDZINY STRZELECTWA SPORTOWEGO.\n2. ZAPEWNIENIE KADRZE WOJEW\u00d3DZKIEJ WYSOKIEGO POZIOMU SPORTOWEGO WE WSP\u00d3\u0141ZAWODNICTWIE KRAJOWYM I MI\u0118DZYNARODOWYM.\n3. REPREZENTOWANIE, OCHRONA PRAW I INTERES\u00d3W ORAZ KOORDYNOWANIE DZIA\u0141A\u0143 WSZYSTKICH CZ\u0141ONK\u00d3W ZWI\u0104ZKU.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 304,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Strzelectwa Sportowego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL.WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "1.ROZW\u00d3J KOSZYK\u00d3WKI NA TERENIE WOJ.ZACHODNIOPOMORSKIEGO ZGODNIE Z PLANEM ROZWOJU URZ\u0118DU MARSZA\u0141KOWSKIEGO I URZ\u0118DU MIEJSKIEGO W SZCZECINIE.\n2.ORGANIZOWANIE ZAWOD\u00d3W I IMPREZ SPORTOWYCH.\n3.SPRAWOWANIE OPIEKI SZKOLENIOWEJ I WYCHOWAWCZEJ NAD CZ\u0141ONKAMI ZACHODNIOPOMORSKIEGO OKR\u0118GOWEGO ZWI\u0104ZKU KOSZYK\u00d3WKI.\n4.SPRAWOWANIE KONTROLI NAD PRZESTRZEGANIEM PRZEZ CZ\u0141ONK\u00d3W ZOZKOSZ. STATUTU ZOZKOSZ. I PRZEPIS\u00d3W WYDANYCH PRZEZ PZKOSZ.\n5.INICJOWANIE I PODEJMOWANIE INNEJ DZIA\u0141ALNO\u015aCI ZMIERZAJ\u0104CEJ DO REALIZACJI CEL\u00d3W STATUTOWYCH.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 305,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Okr\u0119gowy Zwi\u0105zek Koszyk\u00f3wki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "M. SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "ROZW\u00d3J P\u0141YWANIA ZGODNIE Z PLANAMI ROZWOJU KULTURY FIZYCZNEJ URZ\u0118DU MARSZA\u0141KOWSKIEGO I URZ\u0118DU I URZ\u0118DU MIEJSKIEGO W SZCZECINIE.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 306,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Okr\u0119gowy Zwi\u0105zek P\u0142ywacki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "CELEM DZIA\u0141ANIA ZOZ TKD JEST ROZW\u00d3J I POPULARYZACJA TAEKWON-DO ORAZ SKUPIANIE STOWARZYSZE\u0143 I INNYCH JEDNOSTEK ORGANIZACYJNYCH PROWADZ\u0104CYCH DZIA\u0141ALNO\u015a\u0106 W ZAKRESIE TAEKWON-DO, W WOJEW\u00d3DZTWIE ZACHODNIOPOMORSKIM.\n2. ORGANIZOWANIE WSP\u00d3\u0141ZAWODNICTWA SPORTOWEGO W DZIEDZINIE TAEKWON-DO, NA TERENIE WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO.\n3. REPREZENTOWANIE ZACHODNIOPOMORSKIEGO RUCHU TAEKWON-DO W ORGANIZACJACH KRAJOWYCH.\n4. PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ PROMOCJI I ROZWOJU TAEKWON-DO W WOJEW\u00d3DZTWIE ZACHODNIOPOMORSKIM.\n5. PROWADZENIE DZIA\u0141ALNO\u015aCI W ZAKRESIE REKREACJI RUCHOWEJ.\n6. WSPIERANIE UCZNIOWSKICH KLUB\u00d3W SPORTOWYCH.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 307,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Okr\u0119gowy Zwi\u0105zek Taekwon-do"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-206",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "DWORCOWA",
+      "terc": "3262011"
+    },
+    "aims": "1. ZRZESZANIE ORAZ REPREZENTOWANIE INTERES\u00d3W STOWARZYSZONYCH W NIM CZ\u0141ONK\u00d3W, TJ. KLUB\u00d3W, ORGANIZACJI I OS\u00d3B PRAWNYCH, KT\u00d3RE ZAJMUJ\u0104 SI\u0118 ORGANIZOWANIEM, POPULARYZACJ\u0104 I ROZWIJANIEM \u017bEGLARSTWA WE WSZYSTKICH JEGO FORMACH.\n2. WSPIERANIE SZEROKO ROZUMIANEGO \u017bEGLARSTWA, A SZCZEG\u00d3LNIE \u017bEGLARSTWA OLIMPIJSKIEGO I M\u0141ODZIE\u017bOWEGO.\n3. ORGANIZOWANIE I PROWADZENIE SZKOLE\u0143 \u017bEGLARSKICH I WODNIACKICH.\n4. PROMOCJA WALOR\u00d3W \u017bEGLARSKICH POMORZA ZACHODNIEGO I ZACHODNIOPOMORSKIEGO \u017bEGLARSTWA W KRAJU I ZA GRANIC\u0104, W TYM TAK\u017bE JEGO REPREZENTOWANIE W ORGANIZACJACH KRAJOWYCH I MI\u0118DZYNARODOWYCH.\n5. PROWADZENIE DZIA\u0141A\u0143 ZMIERZAJ\u0104CYCH DO ROZWOJU I BEZPIECZNEGO UPRAWIANIA \u017bEGLARSTWA.\n6. ROZWIJANIE I UPOWSZECHNIANIE TURYSTYKI \u017bEGLARSKIEJ I WODNIACKIEJ.\n7. U\u0141ATWIANIE SZEROKIM RZESZOM SPO\u0141ECZE\u0143STWA, A ZW\u0141ASZCZA M\u0141ODZIE\u017bY, WYPOCZYNKU NA WODZIE I POPULARYZOWANIE DOBRYCH OBYCZAJ\u00d3W \u017bEGLARSKICH.\n8. PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ OCHRONY \u015aRODOWISKA NATURALNEGO.\n9. PROWADZENIE STATUTOWEJ DZIA\u0141ALNO\u015aCI W\u015aR\u00d3D DZIECI I M\u0141ODZIE\u017bY W ZAKRESIE O\u015aWIATY, WYCHOWANIA, NAUKI I TECHNIKI, KULTURY FIZYCZNEJ I SPORTU, KRAJOZNAWSTWA I WYPOCZYNKU, ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM EDUKACJI MORSKIEJ I \u017bEGLARSKIEJ.\n10. POPIERANIE WSZELKICH FORM DZIA\u0141ALNO\u015aCI KULTURALNEJ ZWI\u0104ZANEJ Z \u017bEGLARSTWEM.\n11. PROWADZENIE DZIA\u0141A\u0143 NA RZECZ INTEGRACJI KRAJOWEGO \u015aRODOWISKA \u017bEGLARSKIEGO, PRZY WSP\u00d3\u0141PRACY Z PODOBNYMI ORGANIZACJAMI I STOWARZYSZENIAMI \u017bEGLARSKIMI.\n12. DZIA\u0141ANIE NA RZECZ INTEGRACJI EUROPEJSKIEJ ORAZ ROZWIJANIE KONTAKT\u00d3W I WSP\u00d3\u0141PRACY MI\u0118DZY SPO\u0141ECZE\u0143STWAMI.\n13. UCZESTNICTWO W PROGRAMACH ZWI\u0104ZANYCH ZE ZWALCZANIEM DOPINGU W SPORCIE.\n14. PROWADZENIE DZIA\u0141ALNO\u015aCI WYDAWNICZEJ NA POTRZEBY ZWI\u0104ZKU I JEGO CZ\u0141ONK\u00d3W, A TAK\u017bE INICJOWANIE I POPIERANIE WYDAWANIA CZASOPISM I PODR\u0118CZNIK\u00d3W O TEMATYCE \u017bEGLARSKIEJ, ORAZ WSZELKICH INNYCH FORM POPULARYZACJI \u017bEGLARSTWA.\nZARZ\u0104DZANIE OBIEKTAMI OBS\u0141UGUJ\u0104CYMI \u017bEGLARSKI I WODNIACKI RUCH TURYSTYCZNY.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 308,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek \u017beglarski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15/16",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-205",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PODG\u00d3RNA",
+      "terc": "3262011"
+    },
+    "aims": "- AKTYWIZACJA KONTAKT\u00d3W PRZEDSTAWICIELI NAUKI, KULTURY I K\u00d3\u0141 GOSPODARCZYCH POMORZA ZACHODNIEGO Z O\u015aRODKAMI POLONIJNYMI\n- ROZW\u00d3J WIEDZY O POLONII W R\u00d3\u017bNYCH REGIONACH \u015aWIATA\n- INFORMACJA O POMORZU ZACHODNIM I MO\u017bLIWO\u015aCIACH PROWADZENIA NA POMORZU DZIA\u0141ALNO\u015aCI GOSPODARCZEJ, NAUKOWEJ I KULTURALNEJ\n- DEBATY PUBLICZNE DOT. WSP\u00d3\u0141PRACY POLONII ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM POMORZA ZACHODNIEGO",
+    "benefitZones": [
+      "pomoc Polonii i Polakom za granic\u0105"
+    ],
+    "hasSameAddress": true,
+    "id": 309,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorski O\u015brodek \u0141\u0105czno\u015bci z Poloni\u0105 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL.WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "CELEM ZZG JEST:\n1. ORGANIZACJA WSP\u00d3\u0141ZAWODNICTWA SPORTOWEGO W SPORTACH GIMNASTYCZNYCH ORAZ POPULARYZACJA I ROZW\u00d3J SPORT\u00d3W GIMNASTYCZNYCH, W TYM: GIMNASTYKI SPORTOWEJ KOBIET (GSK/WAG), GIMNASTYKI SPORTOWEJ M\u0118\u017bCZYZN (GSM/MAG), GIMNASTYKI ARTYSTYCZNEJ (GA/RG), TRAMPOLINY (TRA/TRA), AKROBATYKI SPORTOWEJ (AKRO/ACRO) I INNYCH SPORT\u00d3W GIMNASTYCZNYCH ZGODNIE ZE STRUKTURAMI MI\u0118DZYNARODOWEJ FEDERACJI GIMNASTYCZNEJ (FIG) I EUROPEJSKIEJ UNII GIMNASTYCZNEJ (UEG).\n2. REPREZENTOWANIE SPORT\u00d3W GIMNASTYCZNYCH W ORGANIZACJACH KRAJOWYCH I MI\u0118DZYNARODOWYCH.\n3. KOORDYNACJA DZIA\u0141ALNO\u015aCI CZ\u0141ONK\u00d3W ZRZESZONYCH W ZZG.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 310,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Gimnastyczny"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "PODSTAWOWYM CELEM ZACHODNIOPOMORSKIEGO ZWI\u0104ZKU KAJAKOWEGO JEST UPOWSZECHNIENIE I ROZW\u00d3J SPORTU W DZIEDZINIE KAJAKARSTWA KLASYCZNEGO NA TERENIE WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 311,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Kajakowy "
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "M SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "*ROZW\u00d3J KOLARSTWA NA TERENIE WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO.\n*ORGANIZOWANIE ZAWOD\u00d3W KOLARSKICH. \n*REPREZENTOWANIE INTERES\u00d3W KOLARSTWA W ORGANIZACJACH KRAJOWYCH. \n*SPRAWOWANIE OPIEKI SZKOLENIOWEJ I WYCHOWAWCZEJ NAD CZ\u0141ONKAMI.\n*SPRAWOWANIE KONTROLI NAD PRZESTRZEGANIEM PRZEZ CZ\u0141ONK\u00d3W PRZEPIS\u00d3W POLSKIEGO ZWI\u0104ZKU KOLARSKIEGO",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 312,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Kolarski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-441",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "BOGUS\u0141AWA",
+      "terc": "3262011"
+    },
+    "aims": "1. ZRZESZANIE OS\u00d3B, KT\u00d3RE PRZEBYWA\u0141Y W BY\u0141YM ZWI\u0104ZKU RADZIECKIM JAKO ZES\u0141A\u0143CY, WI\u0118\u0179NIOWIE POLITYCZNI, JE\u0143CY WOJENNI, INTERNOWANI I REPRESJONOWANI W INNY SPOS\u00d3B ORAZ ICH DZIECI URODZONE W BY\u0141YM ZSRR.\n2. OTRZYMANIE ZADO\u015a\u0106UCZYNIENIA ZA DOZNANE KRZYWDY MORALNE, NIEWOLNICZ\u0104 PRAC\u0118, UTRAT\u0118 ZDROWIA I NAJBLI\u017bSZYCH\n3. OTRZYMANIE PRAW KOMBATANCKICH ORAZ INNYCH UPRAWNIE\u0143 OKRE\u015aLONYCH W USTAWIE Z DNIA 24 STYCZNIA 1991 R. - O KOMBATANTACH - ORAZ NIEKT\u00d3RYCH OSOBACH B\u0118D\u0104CYCH OFIARAMI REPRESJI WOJENNYCH I OKRESU POWOJENNEGO (DZ. U. NR 17 POZ. 75 Z P\u00d3\u0179NIEJSZYMI ZMIANAMI),\n4. \u015aWIADCZENIE POMOCY SWYM CZ\u0141ONKOM I PODOPIECZNYM,\n5. ROZTOCZENIE OPIEKI NAD CZ\u0141ONKAMI CHORYMI I INWALIDAMI ORAZ CZ\u0141ONKAMI RODZIN PO POLEG\u0141YCH I ZMAR\u0141YCH SYBIRAKACH,\n6. UPAMI\u0118TNIENIE LOS\u00d3W ZES\u0141A\u0143C\u00d3W POLSKICH.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz kombatant\u00f3w i os\u00f3b represjonowanych",
+      "dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3 ustawy o dzia\u0142alno\u015bci po\u017cytku publicznego i o wolontariacie , w zakresie okre\u015blonym w pkt 1-32",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym"
+    ],
+    "hasSameAddress": true,
+    "id": 313,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorski Zwi\u0105zek Sybirak\u00f3w Zarz\u0105d G\u0142\u00f3wny"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL.WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "- ORGANIZACJA, ROZW\u00d3J I POPULARYZACJA TENISA ZIEMNEGO,\n- KSZTA\u0141TOWANIE I OCHRONA ZASAD TENISA ZIEMNEGO,\n- POPIERANIE I WSPIERANIE DZIA\u0141A\u0143 W ZAKRESIE SPORTU WYCZYNOWEGO",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 314,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Tenisowy"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-377",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "GARNCARSKA",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "hasSameAddress": true,
+    "id": 315,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Towarzystw Krzewienia Kultury Fizycznej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "246",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-346",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL.WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "KOORDYNACJA ORAZ ROZW\u00d3J WIO\u015aLARSTWA I JEGO POPULARYZACJA NA TERENIE WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 316,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Towarzystw Wio\u015blarskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "34",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-540",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KORSARZY",
+      "terc": "3262011"
+    },
+    "aims": "1.REPREZENTOWANIE I OBRONA WSP\u00d3LNYCH SPO\u0141ECZNYCH I PRAWNYCH INTERES\u00d3W SO\u0141TYS\u00d3W JAKO PRZEDSTAWICIELI SPO\u0141ECZNO\u015aCI WIEJSKIEJ I SAMORZ\u0104D\u00d3W MIESZKA\u0143C\u00d3W WSI,\n2.KSZTA\u0141TOWANIE \u015aWIADOMO\u015aCI SO\u0141TYS\u00d3W NA RZECZ PODNOSZENIA KWALIFIAKCJI ORAZ SPRAWNO\u015aCI KULTURALNO-SPO\u0141ECZNEJ I SAMORZ\u0104DOWEJ S\u0141U\u017bBY SO\u0141TYS\u00d3W,\n3.INICJOWANIE, PROMOWANIE ORAZ AKTYWNE POPIERANIE WSZELKICH DZIA\u0141A\u0143 MAJ\u0104CYCH NA CELU PODNOSZENIE O\u015aWIATY NA WSI, ROZW\u00d3J PRZEDSI\u0118BIORCZO\u015aCI I SAMOREALIZOWANIE SI\u0118 \u015aRODOWISK WIEJSKICH W ZAKRESIE PROJEKT\u00d3W LOKALNYCH, PONADLOKALNYCH I REGIONALNYCH,\n4.DZIA\u0141ANIE W KIERUNKU OGRANICZENIA BEZROBOCIA W \u015aRODOWISKACH WIEJSKICH,\n5.UPOWSZECHNIANIE I UMACNIANIE SAMORZ\u0104D\u00d3W JAKO FUNDAMENTU USYTROJU PA\u0143STWA I POMY\u015aLNO\u015aCI OBYWATELI.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 317,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Forum So\u0142tys\u00f3w"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "30",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-215",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. 3 MAJA",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 318,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Doradc\u00f3w Podatkowych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "gmina miejska Szczecin",
+      "district": "miasto na prawach powiatu Szczecin",
+      "postcode": "71-001",
+      "province": "zachodniopomorskie",
+      "simc": "0977976",
+      "street": "PO\u0141UDNIOWA",
+      "terc": "3262011"
+    },
+    "aims": "1) REPREZENTOWANIE INTERES\u00d3W CZ\u0141ONK\u00d3W PRZED KRAJOWYMI JAK I MI\u0118DZYNARODOWYMI\nORGANAMI ADMINISTRACJI PUBLICZNEJ\n2) PODEJMOWANIE R\u00d3\u017bNORODNYCH DZIA\u0141A\u0143 W ZAKRESIE WSPIERANIA KRAJOWYCH I\nMI\u0118DZYNARODOWYCH PRZEWO\u0179NIK\u00d3W DROGOWYCH I SPEDYCJI NA ZASADZIE WSP\u00d3LNOTY\nINTERES\u00d3W CZ\u0141ONK\u00d3W STOWARZYSZENIA\n3) REPREZENTOWANIE INTERES\u00d3W CZ\u0141ONK\u00d3W WOBEC KRAJOWYCH I MI\u0118DZYNARODOWYCH\nORGANIZACJI TRANSPORTOWYCH, SPEDYCYJNYCH, TURYSTYCZNYCH\n4) ODDZIA\u0141YWANIE NA W\u0141ADZE TRANSPORTOWE CELEM KSZTA\u0141TOWANIA POLITYKI\nTRANSPORTOWEJ\n5) WYST\u0118POWANIE Z INICJATYWAMI WOBEC LOKALNYCH W\u0141ADZ ADMINISTRACYJNYCH W\nSPRAWACH SZEROKO ROZUMIANEJ INFRASTRUKTURY TRANSPORTOWEJ I DROGOWEJ\n6) PODEJMOWANIE INICJATYW LUB WSP\u00d3\u0141UDZIA\u0141 W KSZTA\u0141TOWANIU PODSTAWOWYCH I\nWYKONAWCZYCH AKT\u00d3W PRAWNYCH REGULUJ\u0104CYCH SYSTEM TRANSPORTOWY, A ZW\u0141ASZCZA\nPRZEWOZY MI\u0118DZYNARODOWE\n7) UDZIELANIE POMOCY I INFORMACJI ZRZESZONYM CZ\u0141ONKOM W SPRAWACH DOTYCZ\u0104CYCH\nDZIA\u0141ALNO\u015aCI KRAJOWEGO I MI\u0118DZYNARODOWEGO TRANSPORTU DROGOWEGO OS\u00d3B I\n\u0141ADUNK\u00d3W\n8) SZKOLENIE CZ\u0141ONK\u00d3W STOWARZYSZENIA ORAZ PROWADZENIE KURS\u00d3W PODNOSZ\u0104CYCH\nKWALIFIKACJE PRZEWO\u0179NIK\u00d3W ORAZ ZATRUDNIONYCH PRZEZ NICH KIEROWC\u00d3W I\nSPEDYTOR\u00d3W\n9) WYDAWANIE PUBLIKACJI DOTYCZ\u0104CYCH PRAWNYCH, EKONOMICZNYCH I TECHNICZNYCH\nZAGADNIE\u0143 MI\u0118DZYNARODOWEGO TRANSPORTU DROGOWEGO\n10) PODEJMOWANIE DZIA\u0141A\u0143 MAJ\u0104CYCH NA CELU INTEGRACJ\u0118 \u015aRODOWISKA PRZEWO\u0179NIK\u00d3W\nORAZ OS\u00d3B ZWI\u0104ZANYCH Z TRANSPORTEM DROGOWYM, W SZCZEG\u00d3LNO\u015aCI CZ\u0141ONK\u00d3W\nSTOWARZYSZENIA\n11) KONTAKTY Z INNYM STOWARZYSZENIAMI O PODOBNYM PROFILU DZIA\u0141ALNO\u015aCI I WYMIANA\nDO\u015aWIADCZE\u0143 ORAZ WSPIERANIE WSP\u00d3LNYCH INICJATYW\n12) WYKONYWANIE FUNKCJI ZLECONYCH PRZEZ ORGANY ADMINISTRACJI PUBLICZNEJ",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 319,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Przewo\u017anik\u00f3w Drogowych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-552",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "WYZWOLENIA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST:\n1.ZABIEGANIE O STOSOWANIE R\u00d3WNYCH PRAW OJCA I MATKI DLA NAJWY\u017bEJ POJ\u0118TEGO DOBRA DZIECKA ORAZ ZMIAN OBYCZAJOWO PRZYJ\u0118TEJ OBECNIE INTERPRETACJI PRAWA, NIE DAJ\u0104CEJ OJCU RZECZYWISTEGO UPRAWNIENIA.\n2.STA\u0141E ODDZIA\u0141YWANIE W KIERUNKU ZMIAN NEGATYWNYCH WZOR\u00d3W SPO\u0141ECZNYCH I KULTUROWYCH KT\u00d3RE SPRAWIAJA, \u017bE OJCIEC JEST TRAKTOWANY JAKO OSOBA DRUGOPLANOWA W PROCESIE WYCHOWANIA POTOMSTWA I SZEROKO ROZUMIANEJ SOCJALIZACJI.\n3.WP\u0141YWANIE NA ISTNIEJ\u0104CE NORMY OBYCZAJOWE I PRAWNE, BY ICH KSZTA\u0141T ODZWIERCIEDLA\u0141 POGL\u0104D, \u017bE OJCIEC JEST RZECZYWISTYM PE\u0141NO WYMIAROWYM PODMIOTEM PRAWNYM, PSYCHICZNYM, UCZUCIOWYM I MORALNYM.\n4.POWY\u017bSZY CEL POWINIEN BY\u0106 INTERPRETOWANY JAKO CH\u0118\u0106 NIESIENIA POMOCY OSOBOM DYSKRYMINOWANYM W \u017bYCIOWYCH SYTUACJACH - NADE WSZYSTKO CHODZI ZA\u015a O SYTUACJE, KIEDY DOCHODZI DO ROZBICIA RODZINY.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka"
+    ],
+    "hasSameAddress": true,
+    "id": 320,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Obrony Praw Ojca"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5/U7",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-377",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. GARNCARSKA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM DZIA\u0141ALNO\u015aCI STOWARZYSZENIA JEST: \n1. REPREZENTOWANIE INTERES\u00d3W SWYCH CZ\u0141ONK\u00d3W WOBEC ORGAN\u00d3W ADMINISTRACJI PA\u0143STWOWEJ I SAMORZ\u0104DOWEJ, ORGANIZACJI SPO\u0141ECZNYCH I GOSPODARCZYCH, KRAJOWYCH I ZAGRANICZNYCH, \n2. TWORZENIE ZASAD I INSPIROWANIE WSP\u00d3\u0141PRACY POMI\u0118DZY CZ\u0141ONKAMI STOWARZYSZENIA, W TYM ORGANIZOWANIE SYSTEMU WYMIANY OFERT, A W SZCZEG\u00d3LNO\u015aCI OKRE\u015aLANIE ZASAD I REGU\u0141 NA JAKICH TA WSP\u00d3\u0141PRACA MA SI\u0118 ODBYWA\u0106 POMI\u0118DZY UCZESTNIKAMI, \n3. PROMOCJA DZIA\u0141ALNO\u015aCI ZAWODOWEJ CZ\u0141ONK\u00d3W STOWARZYSZENIA, \n4. TWORZENIE WIZERUNKU PO\u015aREDNICTWA JAKO WA\u017bNEJ I POTRZEBNEJ PROFESJI ORAZ WIZERUNKU PO\u015aREDNIKA JAKO CZ\u0141ONKA ODR\u0118BNEJ GRUPY ZAWODOWEJ, \n5. WYPRACOWYWANIE I OKRE\u015aLANIE ZASAD ETYKI ZAWODOWEJ ORAZ EGZEKWOWANIE PRZESTRZEGANIA TYCH ZASAD PRZEZ CZ\u0141ONK\u00d3W STOWARZYSZENIA, \n6. DBA\u0141O\u015a\u0106 O WYSOKI POZIOM US\u0141UG I KWALIFIKACJI ZAWODOWYCH CZ\u0141ONK\u00d3W STOWARZYSZENIA \n7. OCHRONA INTERES\u00d3W CZ\u0141ONK\u00d3W STOWARZYSZENIA, \n8. UDZIA\u0141 W TWORZENIU RYNKU NIERUCHOMO\u015aCI, \n9. ORGANIZACJA POSIEDZE\u0143 ZESPO\u0141\u00d3W KWALIFIKACYJNYCH D/S NADAWANIA UPRAWNIE\u0143 ZAWODOWYCH, \n10. ORGANIZACJA PRAKTYK ZAWODOWYCH DLA PO\u015aREDNIK\u00d3W W OBROCIE NIERUCHOMO\u015aCIAMI.\n11. NADZ\u00d3R NAD PRZESTRZEGANIEM PRZEPIS\u00d3W DOTYCZ\u0104CYCH REGULACJI PRAWNYCH ZAWODU PO\u015aREDNIKA W OBROCIE NIERUCHOMO\u015aCIAMI ORAZ NADZ\u00d3R NAD PRAWID\u0141OWYM PRZEBIEGIEM WSP\u00d3\u0141PRACY I WYMIANY OFERT.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 321,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Po\u015brednik\u00f3w Obrotu Nieruchomo\u015bciami"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "23B",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-202",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. REDUTY ORDONA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST PRACA DLA DOBRA DZIECI I M\u0141ODZIE\u017bY - POPRZEZ WSPIERANIE RODZIC\u00d3W, NAUCZYCIELI I UCZNI\u00d3W W ICH DZIA\u0141ANIACH EDUKACYJNYCH I WYCHOWAWCZYCH ORAZ ARTYSTYCZNYCH, KULTURALNYCH, SPORTOWYCH I REKREACYJNYCH, A W SZCZEG\u00d3LNO\u015aCI:\n1. PODNOSZENIE RANGI EDUKACJI I POZYCJI NAUCZYCIELA W SPO\u0141ECZE\u0143STWIE I PA\u0143STWIE\n2. BUDOWANIE SPO\u0141ECZE\u0143STWA OBYWATELSKIEGO\n3. DEMOKRATYZACJA SZK\u00d3\u0141 I WSP\u00d3LNE WSPIERANIE EDUKACYJNYCH INICJATYW RODZICIELSKICH I UCZNIOWSKICH\n4. ZAPOBIEGANIE I PRZECIWDZIA\u0141ANIE ZJAWISKOM PATOLOGICZNYM ORAZ AGRESJI I PRZEMOCY W SZKO\u0141ACH.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji"
+    ],
+    "hasSameAddress": true,
+    "id": 322,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Polskie Stowarzyszenie Rodzic\u00f3w"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1A",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-241",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. SEBASTIANA KLONOWICA",
+      "terc": "3262011"
+    },
+    "aims": "CEL OKRE\u015aLONY W \u00a76 STATUTU.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji i reintegracji zawodowej i spo\u0142ecznej os\u00f3b zagro\u017conych wykluczeniem spo\u0142ecznym",
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 323,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Rozwoju Gospodarczego - Szczeci\u0144skie Centrum Przedsi\u0119biorczo\u015bci"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-414",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PL. JANA KILI\u0143SKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "WYRA\u017bANIE D\u0104\u017bE\u0143 I OSI\u0104GNI\u0118\u0106 \u015aRODOWISKA RZECZOZNAWC\u00d3W ORAZ REPREZENTOWANIE INTERES\u00d3W \u015aRODOWISKA WOBEC W\u0141ADZ PA\u0143STWOWYCH, SAMORZ\u0104DOWYCH, GOSPODARCZYCH, ORGANIZACJI SPO\u0141ECZNYCH I OS\u00d3B FIZYCZNYCH.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 324,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Rzeczoznawc\u00f3w Maj\u0105tkowych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-522",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. WYZWOLENIA",
+      "terc": "3262011"
+    },
+    "aims": "1. PROWADZENIE DZIA\u0141ALNO\u015aCI EDUKACYJNEJ W CELU PODNOSZENIA KWALIFIKACJI OS\u00d3B\nZAJMUJ\u0104CYCH SI\u0118 GOSPODARK\u0104 NIERUCHOMO\u015aCIAMI;\n2. TWORZENIE JEDNOLITYCH REGU\u0141 DZIA\u0141ALNO\u015aCI POST\u0118POWANIA ZARZ\u0104DC\u00d3W POPRZEZ USTALANIE, A NAST\u0118PNIE NADZ\u00d3R NAD PRZESTRZEGANIEM STANDARD\u00d3W I ZASAD ETYKI ZAWODOWEJ;\n3. KSZTA\u0141TOWANIE WIZERUNKU ZARZ\u0104DCY JAKO PROFESJONALNEGO POWIERNIKA I MEDIATORA;\nNA JAK NAJLEPSZ\u0104 SPO\u0141ECZNA OPINI\u0118 W TYM ZAWODZIE;\n4. ODGRYWANIE ROLI FORUM WYMIANY WZAJEMNYCH DO\u015aWIADCZE\u0143 I OPINII;\n5. UCZESTNICTWO W PRACACH ORGAN\u00d3W STANOWI\u0104CYCH AKTY PRAWNE, MAJ\u0104CE WP\u0141YW NA ZARZ\u0104DZANIE I ADMINISTROWANIE NIERUCHOMO\u015aCIAMI;\n6. OCHRONA INTERES\u00d3W CA\u0141EJ GRUPY ZAWODOWEJ ORAZ WSP\u00d3\u0141PRACA Z ORGANIZACJAMI ZRZESZAJ\u0104CYMI INNYCH PRZEDSTAWICIELI ZAWOD\u00d3W ZAJMUJ\u0104CYCH SI\u0118 NIERUCHOMO\u015aCIAMI;\n7. PODEJMOWANIE DZIA\u0141A\u0143, INICJATYW NA RZECZ POPRAWY JAKO\u015aCI \u017bYCIA MIESZKA\u0143C\u00d3W NA TERENIE DZIA\u0141ALNO\u015aCI STOWARZYSZENIA;\n8. PROPAGOWANIE DZIA\u0141ALNO\u015aCI STOWARZYSZENIA.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 325,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Zarz\u0105dc\u00f3w Nieruchomo\u015bci w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-888",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "BRYCZKOWSKIEGO",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 326,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie \u017beglarstwa Morskiego i Przygotowa\u0144 Olimpijskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-415",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "W\u0104SKA",
+      "terc": "3262011"
+    },
+    "aims": "1. ODDZIA\u0141YWANIE NA \u015aWIADOMO\u015a\u0106 SPO\u0141ECZE\u0143STWA W KWESTIACH ZWI\u0104ZANYCH ZE STANEM \u015aRODOWISKA NATURALNEGO. \n2. WP\u0141YWANIE NA POPRAW\u0118 STANU \u015aRODOWISKA NATURALNEGO, ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM BIOTOP\u00d3W NAJBARDZIEJ NARA\u017bONYCH NA ZNISZCZENIE. \n3. PROPAGOWANIE ETYCZNYCH METOD BADANIA FAUNISTYCZNYCH\n4. ORGANIZOWANIE I POPIERANIE BADA\u0143 NAUKOWYCH ZMIERZAJ\u0104CYCH DO POZNANIA ZASOB\u00d3W PRZYRODNICZYCH, SZCZEG\u00d3LNIE REGIONU POMORZA ZACHODNIEGO.\n5. INICJOWANIE I POPIERANIE MI\u0118DZYNARODOWEJ WSP\u00d3\u0141PRACY POMI\u0118DZY SPO\u0141ECZE\u0143STWAMI NA RZECZ POPRAWY \u015aRODOWISKA NATURALNEGO/ \n6. WSP\u00d3\u0141PRACA Z INNYMI ORGANIZACJAMI, INSTYTUCJAMI I RUCHAMI DZIA\u0141AJ\u0104CYMI NA RZECZ OCHRONY \u015aRODOWISKA. \n7. PROPAGOWANIE I ORGANIZOWANIE DZIA\u0141ALNO\u015aCI- W TYM EDUKACJI, KT\u00d3REJ NAST\u0118PSTWEM MO\u017bE BY\u0106 POPRAWA STANU \u015aRODOWISKA.\n8. PROWADZENIE I POPIERANIE PRZYJAZNEJ PRZYRODZIE DZIA\u0141ALNO\u015aCI ROLNICZEJ",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 327,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Towarzystwo Przyrodnicze (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12\"B\"",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-113",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "TWARDOWSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "- UPOWSZECHNIANIE I ROZWIJANIE REKREACJI RUCHOWEJ, SPORTU, TURYSTYKI ORAZ INNYCH FORM AKTYWNEGO WYPOCZYNKU, ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM DZIECI, M\u0141ODZIE\u017bY I OS\u00d3B NIEPE\u0141NOSPRAWNYCH, JAK R\u00d3WNIE\u017b TWORZENIE WARUNK\u00d3W W TYM ZAKRESIE W OPARCIU O POMOC ORGAN\u00d3W PA\u0143STWOWYCH I SAMORZ\u0104DOWYCH,\n\n- WSP\u00d3\u0141UDZIA\u0141 W DBA\u0141O\u015aCI O ZDROWIE, ROZW\u00d3J FIZYCZNY I DUCHOWY M\u0141ODZIE\u017bY,\n\n- CZYNNY UDZIA\u0141 W KULTURALNYM, GOSPODARCZYM I SPO\u0141ECZNYM ROZWOJU KRAJU,\n\n- UCZESTNICTWO W OCHRONIE PRZYRODY I NATURALNEGO \u015aRODOWISKA CZ\u0141OWIEKA ORAZ ZABYTK\u00d3W KULTURY,\n\n- PROMOCJA I ORGANIZACJA WOLONTARIATU,\n\n- DZIA\u0141ANIA NA RZECZ INTEGRACJI EUROPEJSKIEJ ORAZ ROZWIJANIE WSP\u00d3\u0141PRACY MI\u0118DZY SPO\u0141ECZE\u0143STWAMI.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "turystyka i krajoznawstwo"
+    ],
+    "hasSameAddress": true,
+    "id": 328,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorskie Zrzeszenie Ludowe Zespo\u0142y Sportowe"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "31/32",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-313",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "SIKORSKIEGO",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3 ustawy o dzia\u0142alno\u015bci po\u017cytku publicznego i o wolontariacie , w zakresie okre\u015blonym w pkt 1-32"
+    ],
+    "hasSameAddress": true,
+    "id": 329,
+    "legalForm": "Kluby sportowe (KRS)",
+    "name": "Akademicki Zwi\u0105zek Sportowy Organizacja \u015arodowiskowa"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-431",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "OGI\u0143SKIEGO",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "turystyka i krajoznawstwo",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 330,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Chor\u0105giew Zachodniopomorska Zwi\u0105zku Harcerstwa Polskiego (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-531",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PLAC \u017bO\u0141NIERZA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "1. ZRZESZANIE TW\u00d3RC\u00d3W W DZIEDZINACH MALARSTWA I GRAFIKI CELEM STWORZENIA MO\u017bLIWO\u015aCI I WARUNK\u00d3W UCZESTNICTWA W KSZTA\u0141TOWANIU I ROZWOJU KULTURY PLASTYCZNEJ REGIONU.\n2. WP\u0141YWANIE NA KSZTA\u0141TOWANIE SPO\u0141ECZNYCH POSTAW I ETYKI ZAWODOWEJ SWOICH CZ\u0141ONK\u00d3W.\n3. WSPIERANIE CZ\u0141ONK\u00d3W STOWARZYSZENIA W D\u0104\u017bENIU ROZWIJANIA ICH WARSZTATU TW\u00d3RCZEGO.\n4. OCHRONA I PRZESTRZEGANIE PRAW ZAWODOWYCH I AUTORSKICH ARTYST\u00d3W PLASTYK\u00d3W, CZ\u0141ONK\u00d3W STOWARZYSZENIA, DZIA\u0141AJ\u0104CYCH TW\u00d3RCZO W DZIEDZINIE MALARSTWA I GRAFIKI.\n5. UDZIELANIE POMOCY PRAWNEJ ARTYSTOM-CZ\u0141ONKOM STOWARZYSZENIA.\n6. OCHRONA I WALKA O ZDOBYCZE I OPIEK\u0118 SOCJALN\u0104 TW\u00d3RC\u00d3W.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 331,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek Polskich Artyst\u00f3w Malarzy i Grafik\u00f3w NADODRZE"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-563",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KO\u0143SKI KIERAT",
+      "terc": "3262011"
+    },
+    "aims": "1. DZIA\u0141ALNO\u015a\u0106 NA RZECZ OCHRONY PRAW ZAWODOWYCH, MORALNYCH I MATERIALNYCH ARTYST\u00d3W PLASTYK\u00d3W ZRZESZONYCH W ZPAP ORAZ REPREZENTOWANIE CZ\u0141ONK\u00d3W ZPAP W KRAJU I ZA GRANIC\u0104.\n2. INSPIROWANIE, INICJOWANIE I WSPIERANIE ROZWI\u0104ZA\u0143 PRAWNYCH, ZAPEWNIAJ\u0104CYCH WARUNKI DLA WYKONYWANIA ZAWODU ARTYSTY PLASTYKA W OPARCIU O STATUS TW\u00d3RCY, STOSOWNY DO SPO\u0141ECZNYCH FUNKCJI TW\u00d3RCZO\u015aCI PLASTYCZNEJ.\n3. ZBIOROWE ZARZ\u0104DZANIE I OCHRONA PRAW AUTORSKICH I POKREWNYCH DO UTWOR\u00d3W PLASTYCZNYCH ORAZ WYKONYWANIE UPRAWNIE\u0143 WYNIKAJ\u0104CYCH Z USTAWY O PRAWIE AUTORSKIM I PRAWACH POKREWNYCH.\n4. WSPIERANIE ROZWOJU I UPOWSZECHNIANIE TW\u00d3RCZO\u015aCI PLASTYCZNEJ, POZYSKIWANIE SZEROKICH KR\u0118G\u00d3W JEJ ODBIORC\u00d3W ORAZ PROPAGOWANIE IDEI MECENATU ARTYSTYCZNEGO.\n5. OCHRONA SWOBODY TW\u00d3RCZO\u015aCI PLASTYCZNEJ\n6. KSZTA\u0141TOWANIE ZASAD ETYKI I SOLIDARNO\u015aCI ZAWODOWEJ.\n7. ROZWIJANIE DZIA\u0141ALNO\u015aCI SOCJALNEJ NA RZECZ ARTYST\u00d3W PLASTYK\u00d3W.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 332,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek Polskich Artyst\u00f3w Plastyk\u00f3w Okr\u0119g Szczeci\u0144ski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-295",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. FRANCISZKA KLEEBERGA",
+      "terc": "3262011"
+    },
+    "aims": "A) INTEGROWANIE \u015aRODOWISKA POLSKICH SPADOCHRONIARZY W KRAJU I ZA GRANIC\u0104;\nB) ZACIE\u015aNIANIE KONTAKT\u00d3W I ROZWIJANIE WSP\u00d3\u0141PRACY MI\u0118DZYNARODOWEJ ZE ZWI\u0104ZKAMI SPADOCHRONIARZY Z INNYCH PA\u0143STW A SZCZEG\u00d3LNIE PA\u0143STW- CZ\u0141ONK\u00d3W EUROPEJSKIEJ FEDERACJI SPADOCHRONIARZY (U. E. P.);\nC) UPOWSZECHNIANIE I KULTYWOWANIE TRADYCJI I OBYCZAJ\u00d3W SPADOCHRONIARSTWA;\nD) TROSKA O MIEJSCA PAMI\u0118CI NARODOWEJ ZWI\u0104ZANE Z DZIA\u0141ALNO\u015aCI\u0104 WOJENN\u0104 SPADOCHRONIARZY;\nE) PROWADZENIE SZKOLENIA M\u0141ODZIE\u017bY DLA POTRZEB OBRONNO\u015aCI KRAJU W TYM SZKOLENIA SPADOCHRONOWEGO, KSZTA\u0141TOWANIE SPRAWNO\u015aCI I WYTRZYMA\u0141O\u015aCI FIZYCZNEJ, SILNEJ OSOBOWO\u015aCI I PATRIOTYZMU, ZW\u0141ASZCZA W\u015aR\u00d3D M\u0141ODZIE\u017bY ZE SZK\u00d3\u0141 PONAD PODSTAWOWYCH ORAZ ZRZESZONEJ W ZWI\u0104ZKACH I STOWARZYSZENIACH O CHARAKTERZE PARAMILITARNYM I SPORTOWYM;\nF) PROWADZENIE DZIA\u0141ALNO\u015aCI NAUKOWEJ, O\u015aWIATOWO- WYCHOWAWCZEJ I SZKOLENIOWEJ W \u015aRODOWISKU SPADOCHRONIARZY, M\u0141ODZIE\u017bY SZKOLNEJ ORAZ ZRZESZONEJ W ORGANIZACJACH M\u0141ODZIE\u017bOWYCH O PROFILU PARAMILITARNYM I SPORTOWYM;\nG) AKTYWNE UCZESTNICTWO W DOSKONALENIU FORM I METOD SZKOLENIA SPADOCHRONOWEGO ORAZ UDZIA\u0141 W PRACACH NAD ROZWOJEM I MODERNIZACJ\u0104 SPRZ\u0118TU SPADOCHRONOWEGO;\nH) POPULARYZOWANIE I WSPIERANIE MASOWEJ KULTURY FIZYCZNEJ ORAZ REKREACYJNEGO I WYCZYNOWEGO SPORTU SPADOCHRONOWEGO;\nI) UTRZYMYWANIE WI\u0118ZI \u015aRODOWISKOWEJ Z POSZKODOWANYMI W WYPADKACH SPADOCHRONOWYCH CZ\u0141ONKAMI ZWI\u0104ZKU, UDZIELANIE TYM OSOBOM WSPARCIA I POMOCY, W SZCZEG\u00d3LNYCH PRZYPADKACH ORAZ W MIAR\u0118 MO\u017bLIWO\u015aCI FINANSOWYCH R\u00d3WNIE\u017b MATERIALNEJ;\nJ) DZIA\u0141ANIE NA RZECZ INTEGRACJI \u015aRODOWISK SKUPIAJ\u0104CYCH BY\u0141YCH SPADOCHRONIARZY, OS\u00d3B UPRAWIAJ\u0104CYCH SPADOCHRONIARSTWO WYCZYNOWO I AMATORSKO ORAZ NA RZECZ ROZWOJU SPADOCHRONIARSTWA W RZECZPOSPOLITEJ POLSKIEJ.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej"
+    ],
+    "hasSameAddress": true,
+    "id": 333,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek Polskich Spadochroniarzy XV Oddzia\u0142 z Siedzib\u0105 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "44",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-415",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "ALEJA PAPIE\u017bA JANA PAW\u0141A II",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego",
+      "turystyka i krajoznawstwo",
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami"
+    ],
+    "hasSameAddress": true,
+    "id": 334,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek Port\u00f3w i Przystani Morskich - Lokalna Organizacja Turystyczna Zachodniopomorskiego Szlaku \u017beglarskiego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "50",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-413",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. PAPIE\u017bA JANA PAW\u0141A II",
+      "terc": "3262011"
+    },
+    "aims": "1. REPREZENTOWANIE I OBRON\u0118 INTERES\u00d3W SWOICH CZ\u0141ONK\u00d3W , A ZW\u0141ASZCZA UZYSKIWANIE DLA NICH PRAW TAKICH JAK:-ODSZKODOWANIA, RENTY, EMERYTURY, UPRAWNIENIA ZDROWOTNE, KOMBATANCKIE I.T.P. \n2.PROWADZENIE DZIA\u0141ALNO\u015aCI CHARYTATYWNEJ.\n3.\u015aWIADCZENIE POMOCY SWOIM CZ\u0141ONKOM ORAZ POLAKOM ZAMIESZKA\u0141YM POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ , SZCZEG\u00d3LNIE PRZEBYWAJ\u0104CYM NA TERENIE BY\u0141EGO ZSRR.\n4.ROZTACZANIE OPIEKI NAD INWALIDAMI I CZ\u0141ONKAMI RODZIN PO ZMAR\u0141YCH I POLEG\u0141YCH SYBIRAKACH.\n5.UPAMI\u0118TNIANIE LOS\u00d3W ZES\u0141A\u0143C\u00d3W POLSKICH I OPIEKA NAD ICH GROBAMI. \n6.PRZECIWSTAWIANIE SI\u0118 WSZELKIM PRZEJAWOM TOTALITARYZMU , NIETOLERANCJI, B\u0118D\u0104CYCH ZAGRO\u017bENIEM WOLNO\u015aCI CZ\u0141OWIEKA I JEGO GODNO\u015aCI.\n7.WSP\u00d3\u0141PRAC\u0118 Z ORGANIZACJAMI O PODOBNYCH CELACH , R\u00d3WNIE\u017b Z TYMI , KT\u00d3RE MAJ\u0104 SIEDZIBY POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ . \n8.U\u015aWIADAMIANIE WARTO\u015aCI PATRIOTYCZNYCH I OBYWATELSKICH ORAZ POSZANOWANIE KULTURY I TRADYCJI NARODOWYCH I OG\u00d3LNOLUDZKICH.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3 ustawy o dzia\u0142alno\u015bci po\u017cytku publicznego i o wolontariacie , w zakresie okre\u015blonym w pkt 1-32"
+    ],
+    "hasSameAddress": true,
+    "id": 335,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek Sybirak\u00f3w Oddzia\u0142 w Szczecinie (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-415",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. PAPIE\u017bA JANA PAW\u0141A II",
+      "terc": "3262011"
+    },
+    "aims": "ZESPOLENIE WSZYSTKICH POLAK\u00d3W, KT\u00d3RZY W LATACH 1949-1959 ZASADNICZ\u0104 S\u0141U\u017bB\u0118 WOJSKOW\u0104 ODBYWALI W WOJSKOWYM KORPUSIE G\u00d3RNICZYM LUB BATALIONACH BUDOWLANYCH, KT\u00d3RE W RZECZYWISTO\u015aCI BY\u0141Y OBOZAMI PRACY NIEWOLNICZEJ ORAZ OCHRONA GODNO\u015aCI, PRAW I INTERES\u00d3W CZ\u0141ONK\u00d3W A W SZCZEG\u00d3LNO\u015aCI: 1. KRZEWIENIE PATRIOTYZMU I KSZTA\u0141TOWANIE AKTYWNEJ POSTAWY W DZIA\u0141ALNO\u015aCI DLA DOBRA NARODU I RZECZYPOSPOLITEJ POLSKIEJ, 2. G\u0141OSZENIE PRAWDY O OBOZACH NIEWOLNICZEJ PRACY DLA POLAK\u00d3W W BY\u0141EJ PRL, 3. PODEJMOWANIE STOSOWNYCH DZIA\u0141A\u0143 W PRZYPADKU NARUSZENIA MI\u0118DZYNARODOWYCH PRAW CZ\u0141OWIEKA I OBYWATELA, MI\u0118DZYNARODOWYCH KONWENCJI O OCHRONIE PRACY ORAZ POLSKIEGO USTAWODAWSTWA PRACY, 4. ROZWIJANIE DZIA\u0141ALNO\u015aCI ZMIERZAJ\u0104CEJ DO ZACHOWANIA GODNO\u015aCI I PODMIOTOWO\u015aCI LUDZKIEJ PRACY, KT\u00d3RA OBY NIGDY NIE BY\u0141A \u015aRODKIEM UCISKU CZY TE\u017b WYMIERZONA BY\u0141A PRZECIWKO CZ\u0141OWIEKOWI, 5. PIEL\u0118GNOWANIE POLSKICH TRADYCJI NARODOWYCH, KULTURY, SZERZENIE DEMOKRATYZMU ORAZ UMACNIANIE KOLE\u017bE\u0143SKIEJ SOLIDARNO\u015aCI W STOSUNKACH WZAJEMNYCH, 6. ROZTACZANIE NALE\u017bYTEJ OPIEKI NAD CZ\u0141ONKAMI Z\u017bBR \"POLSKI GU\u0141AG\" I ICH RODZINAMI ORAZ RODZINAMI POLEG\u0141YCH W CZASIE NIEWOLNICZEJ PRACY I ZMAR\u0141YCH \u017bO\u0141NIERZY.",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 336,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek \u017bo\u0142nierzy Batalion\u00f3w Roboczych POLSKI GU\u0141AG w likwidacji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "64",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-101",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. ADAMA MICKIEWICZA",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 337,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Absolwent\u00f3w Master of Business Administration"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "27 B",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-436",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "NIEMIERZY\u0143SKA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM PIERWSZYM STOWARZYSZENIA JEST UCZENIE DZIECI I M\u0141ODZIE\u017bY SZTUKI \u017bYCIA W SPOS\u00d3B GODNY CZ\u0141OWIEKA, POPRZEZ WYCHOWYWANIE, CZYLI KSZTA\u0141TOWANIE DOBRYCH OBYCZAJ\u00d3W ORAZ W\u0141A\u015aCIWEGO KORZYSTANIA Z PRZYRODZONEJ WOLNO\u015aCI. FUNDAMENTEM TEGO WYCHOWANIA JEST MORALNO\u015a\u0106 CHRZE\u015aCIJA\u0143STWA JAKO SYSTEM WARTO\u015aCI UNIWERSALNYCH.\nCELEM DRUGIM STOWARZYSZENIA JEST PRZEKAZYWANIE DZIECIOM I M\u0141ODZIE\u017bY WSZECHSTRONNIEJ PRZYDATNEJ W DOROS\u0141YM \u017bYCIU WIEDZY I UMIEJ\u0118TNO\u015aCI \u017bYCIOWYCH NA NAJWY\u017bSZYM POZIOMIE. WYCHOWANKOWIE PLAC\u00d3WEK PROWADZONYCH PRZEZ STOWARZYSZENIE POWINNI WYR\u00d3\u017bNIA\u0106 SI\u0118 G\u0141\u0118BOK\u0104 WIEDZ\u0104, SZEROKIMI HORYZONTAMI INTELEKTUALNYMI ORAZ KULTURALNYMI, SAMODZIELNO\u015aCI\u0104 W MY\u015aLENIU I AKTYWNO\u015aCI\u0104 W DZIA\u0141ALNO\u015aCI ZAWODOWEJ ORAZ SPO\u0141ECZNEJ",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 338,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Szczeci\u0144skie Towarzystwo Wychowawcze"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "87",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-014",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "WIERZBOWA",
+      "terc": "3262011"
+    },
+    "aims": "1. STWARZANIE CZ\u0141ONKOM STOWARZYSZENIA ODPOWIEDNICH WARUNK\u00d3W DLA UPRAWIANIA WYPOCZYNKU, REKREACJI I SPORT\u00d3W WODNYCH\n2. DBA\u0141O\u015a\u0106 O OBIEKTY I URZ\u0104DZENIA REKREACYJNE ORAZ KONSERWACJA SPRZ\u0118TU WODNEGO B\u0118D\u0104CEGO W\u0141ASNO\u015aCI\u0104 STOWARZYSZENIA.\n3. ROZWIJANIE W\u015aR\u00d3D CZ\u0141ONK\u00d3W WYSOKICH WALOR\u00d3W MORALNYCH I ETYCZNYCH, DYSCYPLINY ORAZ ODPOWIEDZIALNO\u015aCI ZA OCHRON\u0118 \u015aRODOWISKA NATURALNEGO.",
+    "benefitZones": [
+      "turystyka i krajoznawstwo"
+    ],
+    "hasSameAddress": true,
+    "id": 339,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Mi\u0142o\u015bnik\u00f3w Czynnego Wypoczynku i Rekreacji JEZIORO KOPROWO"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "30",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-360",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "POCZTOWA",
+      "terc": "3262011"
+    },
+    "aims": "ORGANIZACJA ZAWOD\u00d3W PI\u0141KARSKICH.\nROZW\u00d3J I POPULARYZACJA SPORTU PI\u0141KI NO\u017bNEJ.\nPOZYSKIWANIE \u015aRODK\u00d3W FINANSOWYCH I PRZEZNACZENIE ICH NA PROWADZENIE DZIA\u0141ALNO\u015aCI STATUTOWEJ ZACHODNIOPOMORSKIEGO ZWI\u0104ZKU PI\u0141KI NO\u017bNEJ.\nOCHRONA PRAW I INTERES\u00d3W ORAZ KOORDYNACJA DZIA\u0141A\u0143 CZ\u0141ONK\u00d3W ZWI\u0104ZKU, TAK\u017bE ZAWODNIK\u00d3W, SZKOLENIOWC\u00d3W, S\u0118DZI\u00d3W, MENAD\u017bER\u00d3W, DZIA\u0141ACZY I ORGANIZATOR\u00d3W SPORTU.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 340,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorski Zwi\u0105zek Pi\u0142ki No\u017cnej w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-114",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "JOD\u0141OWA",
+      "terc": "3262011"
+    },
+    "aims": "1. PROWADZENIE DZIA\u0141ALNO\u015aCI W SFERZE KULTURY FIZYCZNEJ, A W SZCZEG\u00d3LNO\u015aCI:\n- WSP\u00d3\u0141ZAWODNICTWO SPORTOWE Z UWZGL\u0118DNIENIEM FUNKCJI ZDROWOTNYCH\n- W DZIEDZINIE REKREACJI RUCHOWEJ (SPORT DLA WSZYSTKICH)\n- W PROMOCJI ZDROWIA\n2. ROZW\u00d3J KULTURY FIZYCZNEJ, UPOWSZECHNIANIE REKREACJI RUCHOWEJ, ORAZ INNYCH FORM AKTYWNEGO WYPOCZYNKU W\u015aR\u00d3D OS\u00d3B STARSZYCH, DOROS\u0141YCH, M\u0141ODZIE\u017bY I DZIECI, JAK R\u00d3WNIE\u017b TWORZENIE DOGODNYCH WARUNK\u00d3W W TYM ZAKRESIE.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 341,
+    "legalForm": "Kluby sportowe (KRS)",
+    "name": "Ognisko Towarzystwa Krzewienia Kultury Fizycznej SPORT"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-602",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "STORRADY - \u015aWI\u0118TOS\u0141AWY",
+      "terc": "3262011"
+    },
+    "aims": "- ZA\u0141O\u017bENIE I PROWADZENIE KLUBU UMO\u017bLIWIAJ\u0104CEGO SZEROKO POJ\u0118T\u0104 INICJATYW\u0118 JEGO CZ\u0141ONK\u00d3W DLA TWORZENIA I REALIZACJI NOWYCH PROJEKT\u00d3W POZARZ\u0104DOWYCH NA POLU KULTURALNYM, NAUKOWYM, DYDAKTYCZNYM, TURYSTYCZNYM I SPORTOWYM\n- STWORZENIE POPRZEZ KLUB FIZYCZNIE ISTNIEJ\u0104CEGO MIEJSCA DLA DZIA\u0141ALNO\u015aCI STATUTOWEJ STOWARZYSZENIA UMO\u017bLIWIAJ\u0104CEGO AKTYWNO\u015a\u0106 SPO\u0141ECZN\u0104 JEGO CZ\u0141ONK\u00d3W\n- PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ PROMOCJI SZCZECINA I REGIONU POMORZA ZACHODNIEGO\n- INTEGROWANIE EUROPEJSKICH \u015aRODOWISK TW\u00d3RCZYCH WIELU DYSCYPLIN, ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM TEREN\u00d3W PRZYGRANICZNYCH, M.IN. W RAMACH PROGRAM\u00d3W WSP\u00d3LNOTY EUROPEJSKIEJ\n- WSPIERANIE PRZYGRANICZNEJ ORAZ MI\u0118DZYNARODOWEJ WSP\u00d3\u0141PRACY KULTURALNEJ\n- PODEJMOWANIE DZIA\u0141A\u0143 W CELU ZACHOWANIA ORAZ PROMOWANIA DZIEDZICTWA KULTUROWEGO\n- PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ WSP\u00d3\u0141PRACY MI\u0118DZYUCZELNIANEJ I NAUKOWEJ\n- WSPIERANIE DZIA\u0141ALNO\u015aCI NA RZECZ SZEROKO POJ\u0118TEJ TOLERANCJI UWZGL\u0118DNIAJ\u0104CEJ WSZELKIEGO RODZAJU GRUPY MNIEJSZO\u015aCIOWE, W TYM TE\u017b OSOBY NIEPE\u0141NOSPRAWNE",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 342,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "\"KLUB STORRADY\" Stowarzyszenie na Rzecz Wzbogacania i Rozwoju \u017bycia Kulturalno - Spo\u0142ecznego Szczecina"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-795",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "DU\u0143SKA",
+      "terc": "3262011"
+    },
+    "aims": "1. DOPROWADZENIE DO UKO\u0143CZENIA PRAC BUDOWLANYCH I MONTA\u017bOWYCH WRAZ Z ZAGOSPODAROWANIEM TERENU WOK\u00d3\u0141 BUDYNKU,\n2. DOPROWADZENIE DO ODBIORU TECHNICZNEGO BUDYNKU,\n3. DOPROWADZENIE DO PRZEKAZANIA W\u0141ASNO\u015aCIOWYCH PRAW DO LOKALI, AKTEM NOTARIALNYM ZGODNIE Z UMOWAMI ZAWARTYMI MI\u0118DZY PRZYSZ\u0141YMI W\u0141A\u015aCICIELAMI MIESZKA\u0143 W/W BUDYNKU, A SP\u00d3\u0141K\u0104 POLTABEX,\n4. DOPROWADZENIE DO POWSTANIA WSP\u00d3LNOTY MIESZKANIOWEJ,\n5. DZIA\u0141ANIE NA RZECZ ROZWOJU OSIEDLA I WSP\u00d3LNOT MIESZKANIOWYCH PRZY ULICY DU\u0143SKIEJ,\n6. ROZW\u00d3J KULTURY OSIEDLA,\n7. STWORZENIE KLUBU OSIEDLOWEGO,\n8. STWORZENIE RADY OSIEDLA.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 343,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Mieszka\u0144c\u00f3w - Du\u0144ska 11 - Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-412",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "NIEPODLEG\u0141O\u015aCI",
+      "terc": "3262011"
+    },
+    "aims": "MATERIALNE WSPIERANIE DZIA\u0141ALNO\u015aCI NAUKOWEJ I EDUKACYJNEJ ORAZ PROCES\u00d3W INTEGRACJI GOSPODARCZEJ POLSKI I NIEMIEC",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 344,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Niemiecko-Polskie Stowarzyszenie na Rzecz Edukacji i Wsp\u00f3\u0142pracy Gospodarczej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "35",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-227",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KASZUBSKA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST:\n1) ZDOBYWANIE I PROPAGOWANIE WIEDZY NA TEMAT MILITARNEJ HISTORII POMORZA ZACHODNIEGO,\n2) PROWADZENIE EWIDENCJI OBIEKT\u00d3W FORTYFIKACYJNYCH ORAZ SCHRON\u00d3W PRZECIWLOTNICZYCH,\n3) ODNAJDYWANIE I ZABEZPIECZANIA ZABYTK\u00d3W HISTORII MILITARNEJ,\n4) KOLEKCJONOWANIE PAMI\u0104TEK Z PRZESZ\u0141O\u015aCI,\n5) OCHRONA FAUNY I FLORY BYTUJ\u0104CEJ NA TERENACH, NA KT\u00d3RYCH ZNAJDUJ\u0104 SI\u0118 ZABYTKI ARCHEOLOGII MILITARNEJ.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 345,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Mi\u0142o\u015bnik\u00f3w Historii Militarnej oraz Eksploracji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "83 B",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-061",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. BOH. WARSZAWY",
+      "terc": "3262011"
+    },
+    "aims": "CELEM KLUBU JEST UPOWSZECHNIANIE, POPULARYZACJA I DOSKONALENIE SZTUK WALKI",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 346,
+    "legalForm": "Kluby sportowe (KRS)",
+    "name": "DAIGAKU KARATE KAN - Akademia Sztuk Walki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-206",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "DWORCOWA",
+      "terc": "3262011"
+    },
+    "aims": "A) KRZEWIENIE KULTURY MUZYCZNEJ, A W SZCZEG\u00d3LNO\u015aCI TRADYCJI I ROZWOJU JAZZU I MUZYKI ROZRYWKOWEJ,\nB) ORGANIZOWANIE RUCHU MUZYK\u00d3W - SZCZEG\u00d3LNIE ZE \u015aRODOWISKA SZCZECI\u0143SKIEGO WSPIERAJ\u0104CEGO ROZW\u00d3J I FUNKCJONOWANIE ZESPO\u0141U MUZYCZNEGO,\nC) ORGANIZOWANIE KONCERT\u00d3W MAJ\u0104CYCH NA CELU POPULARYZOWANIA MUZYKI JAZZOWEJ I ROZRYWKOWEJ\nD) PROMOWANIE MIASTA SZCZECINA POPRZEZ PODKRE\u015aLENIE W SPOS\u00d3B S\u0141OWNY, GRAFICZNY LUB FILMOWY MIEJSCA POCHODZENIA ZESPO\u0141U \"JUST BIG BAND\",\nE) KSZTA\u0141TOWANIE OPINII PUBLICZNEJ W CELU NALE\u017bYTEJ PROMOCJI MUZYKI JAZZOWEJ I ROZRYWKOWEJ,\nF) ROZWIJANIE DZIA\u0141ALNO\u015aCI INFORMACYJNEJ I WYDAWNICZEJ O TEMATYCE MUZYCZNEJ\nG) WSP\u00d3\u0141PRACA Z KRAJOWYMI I ZAGRANICZNYMI ORGANIZACJAMI O ZBLI\u017bONEJ DZIA\u0141ALNO\u015aCI.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 347,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Szczeci\u0144ski Zesp\u00f3\u0142 Muzyczny JUST BIG BAND w likwidacji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "132",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-260",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "MICKIEWICZA",
+      "terc": "3262011"
+    },
+    "aims": "DZIA\u0141ALNO\u015a\u0106 W ZAKRESIE ROZWOJU REGIONU ZACHODNIOPOMORSKIEGO, W SZCZEG\u00d3LNO\u015aCI WSPIERANIE DZIA\u0141A\u0143 SAMORZ\u0104D\u00d3W TERYTORIALNYCH, ORGANIZACJI POZARZ\u0104DOWYCH I PODMIOT\u00d3W GOSPODARCZYCH PRZYCZYNIAJ\u0104CYCH SI\u0118 AKTYWIZACJI \u017bYCIA SPO\u0141ECZNO-GOSPODARCZEGO REGIONU. INSPIROWANIE WSZELKICH DZIA\u0141A\u0143 ZMIERZAJ\u0104CYCH DO ROZWOJU WSP\u00d3\u0141PRACY ZAGRANICZNEJ I INTEGRACJI Z UNI\u0104 EUROPEJSK\u0104.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 348,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Zachodniopomorskie Centrum Europejskie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "32",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-637",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "FIRLIKA",
+      "terc": "3262011"
+    },
+    "aims": "- PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ PODNOSZENIA BEZPIECZE\u0143STWA NA DROGACH ORAZ WSP\u00d3\u0141DZIA\u0141ANIE W TYM ZAKRESIE Z INSTYTUCJAMI,\n- BRANIE UDZIA\u0141U W AKCJACH RATOWNICZYCH PROWADZONYCH W ZAKRESIE TECHNICZNEGO RATOWNICTWA DROGOWEGO,\n- INFORMOWANIE LUDNO\u015aCI O ISTNIEJ\u0104CYCH ZAGRO\u017bENIACH W RUCHU DROGOWYM ORAZ O SPOSOBACH OCHRONY,\n- ROZWIJANIE W\u015aR\u00d3D CZ\u0141ONK\u00d3W OSP KULTURY FIZYCZNEJ\n- UCZESTNICZENIE I REPREZENTOWANIE OSP W ORGANACH SAMORZ\u0104DOWYCH I PRZEDSTAWICIELSKICH,\n- WYKONANIE INNYCH ZADA\u0143 WYNIKAJ\u0104CYCH Z PRZEPIS\u00d3W O OCHRONIE PRZECIWPO\u017bAROWEJ.",
+    "benefitZones": [
+      "ratownictwo i ochrona ludno\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 349,
+    "legalForm": "Inne",
+    "name": "Ochotnicza Stra\u017c Po\u017carna Ratownictwo Drogowe"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-764",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. BATALION\u00d3W CH\u0141OPSKICH",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej"
+    ],
+    "hasSameAddress": true,
+    "id": 350,
+    "legalForm": "Fundacje",
+    "name": "Fundacja Rozwoju Innowacji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "37",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-812",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. POMORSKA",
+      "terc": "3262011"
+    },
+    "aims": "1. KREOWANIE I UMACNIANIE W\u015aR\u00d3D LUDZI POCZUCIA WI\u0118ZI I POROZUMIENIA,\n\n2. PROMOWANIE W\u015aROD SPO\u0141ECZE\u0143STWA ZASAD DEMOKRACJI I W\u0141A\u015aCIWEJ POSTAWY OBYWATELSKIEJ,\n\n3. AKTYWNY UDZIA\u0141 W TWORZENIU D\u00d3BR KULTURALNYCH I SOCJALNYCH SWOJEGO \u015aRODOWISKA,\n\n4. PODEJMOWANIE R\u00d3\u017bNEGO RODZAJU DZIA\u0141\u0104\u0143 CHARYTATYWNYCH NA RZECZ OS\u00d3B NIESPRAWNYCH, SIEROT I POTRZEBUJ\u0104CYCH,\n\n5. ZACH\u0118CANIE LUDZI DOBREJ WOLI DO WSP\u00d3\u0141PRACY W CELU SPO\u0141ECZNEGO S\u0141U\u017bENIA ICH \u015aRODOWISKU ORAZ WZAJEMNEJ POMOCY,\n\n6. POPIERANIE EFEKTYWNO\u015aCI I PROMOWANIE WYSOKICH ETYCZNYCH NORM I WZORC\u00d3W W DZIA\u0141ALNO\u015aCI GOSPODARCZEJ, WYKONYWANIU ZAWODU, S\u0141U\u017bBIE PUBLICZNEJ I PRZEDSI\u0118WZI\u0118CIACH PRYWATYCH CZ\u0141ONK\u00d3W KLUBU, \n\n7. PROWADZENIE DZIA\u0141ALNO\u015aCI I KSZTA\u0141TOWANIE \u015aWIADOMO\u015aCI SPO\u0141ECZNEJ NA RZECZ POPRAWY STANU NATURALNEGO \u015aRODOWISKA I ZAPOBIEGANIU JEGO DEGRADACJI\n\n8. TWORZENIE FORUM DLA CZ\u0141NK\u00d3W KLUBU DO SWOBODNEJ DYSKUSJI WE WSZYSTKICH SPRAWACH PUBLICZNYCH,\n\n9. \u0141\u0104CZENIE CZ\u0141ONK\u00d3W KLUBU WI\u0118ZAMI PRZYJA\u0179NI, KOLE\u017bE\u0143STWA I WZAJEMNEGO ZROZUMIENIA,\n\n10. CZERPANIE SATYSFAKCJI I PRZYJEMNO\u015aCI ZE SPOTKA\u0143 WE W\u0141ASNYM GRONIE.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 charytatywna"
+    ],
+    "hasSameAddress": true,
+    "id": 351,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Lions Club Szczecin Rainbow Bridge (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "157",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-271",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. ADAMA MICKIEWICZA",
+      "terc": "3262011"
+    },
+    "aims": "1. WSPOMAGANIE WSZECHSTRONNEGO ROZWOJU DZIECI I M\u0141ODZIE\u017bY. \n2. WSP\u00d3\u0141PRACA I WYMIANA DO\u015aWIADCZE\u0143 Z INNYMI ORGANIZACJAMI ORAZ INSTYTUCJAMI \n3. PROWADZENIE DZIA\u0141ALNO\u015aCI CHARYTATYWNEJ \n4. PROPAGOWANIE IDEI TOLERANCJI I POSZANOWANIA PRAW INNYCH \n5. PROMOWANIE SZCZECINA W KRAJU I ZA GRANIC\u0104\n6. ROZWIJANIE TW\u00d3RCZO\u015aCI AMATORSKIEJ\n7. WYR\u00d3WNYWANIE SZANS I ZAPOBIEGANIE WYKLUCZENIU SPO\u0141ECZNEMU GRUP MARGINALIZOWANYCH\n8. PROPAGOWANIE ZDROWEGO STYLU \u017bYCIA, EKOLOGII I OCHRONY \u015aRODOWISKA NATURALNEGO\n9. SZEROKO ROZUMIANA PROFILAKTYKA UZALE\u017bNIE\u0143 W\u015aR\u00d3D DZIECI I M\u0141ODZIE\u017bY\n10. ZAPOBIEGANIE WYPADKOM DROGOWYM I PRZEMOCY W RODZINIE\n11. TWORZENIE SPO\u0141ECZE\u0143STWA OBYWATELSKIEGO",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 352,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Aktywno\u015bci Kulturalnej \"GAMBA\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "60",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-035",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KOLUMBA",
+      "terc": "3262011"
+    },
+    "aims": "1. INTEGRACJA I WSPIERANIE ROZWOJU WIEJSKICH SPO\u0141ECZNO\u015aCI LOKALNYCH\n2. INICJOWANIE I WSPIERANIE LOKALNEJ PRZEDSI\u0118BIORCZO\u015aCI - M.IN. W ZAKRESIE UPRAW RO\u015aLIN BIOENERGETYCZNYCH\n3. POPULARYZOWANIE PRZEDSI\u0118WZI\u0118\u0106 Z ZAKRESU OCHRONY PRZYRODY\n4. DORADZTWO I POMOC PRAWNA - M.IN. DLA OS\u00d3B PROWADZ\u0104CYCH DZIA\u0141ALNO\u015a\u0106 GOSPODARCZ\u0104 Z ZAKRESU UPRAW RO\u015aLIN BIOENERGETYCZNYCH\n5. PROWADZENIE DZIA\u0141ALNO\u015aCI INTEGRACYJNEJ NA RZECZ OS\u00d3B PROWADZ\u0104CYCH TAK\u0104 DZIA\u0141ALNO\u015a\u0106 I PODEJMUJ\u0104CYCH INICJATYW\u0118 GOSPODARCZ\u0104, POPRZEZ ORGANIZOWANIE SZKOLE\u0143 I U\u0141ATWIANIE NAWI\u0104ZYWANIA WSP\u00d3\u0141PRACY ZAINTERESOWANYM WYKORZYSTANIEM PALIW BIOENERGETYCZNYCH.\n6. WSP\u00d3\u0141PRACA I POMOC WZAJEMNA C\u017b\u0141ONK\u00d3W STOWARZYSZENIA\n7. ROZWIJANIE WSP\u00d3\u0141PRACY Z O\u015aRODKAMI NAUKOWO-SZKOLENIOWYMI\n8. UPOWSZECHNIANIE DO\u015aWIADCZE\u0143 W ZAKRESIE R\u00d3\u017bNYCH FORM PRZEDSI\u0118BIORCZO\u015aCI\n9. ROZWIJANIE I PROPAGOWANIE INICJATYW, POMYS\u0141\u00d3W I PRZEDSI\u0118WZI\u0118\u0106 SPRZYJAJ\u0104CYCH PROWADZENIU R\u00d3\u017bNORODNEJ DZIA\u0141ALNO\u015aCI GOSPODARCZEJ - ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM OBSZAR\u00d3W S\u0141ABO ZURBANIZOWANYCH I WIEJSKICH\n10. WSPIERANIE DZIA\u0141A\u0143 ORGAN\u00d3W ADMINISTRACJI PUBLICZNEJ, ORGAN\u00d3W SAMORZ\u0104DOWYCH, INNYCH PUBLICZNYCH JEDNOSTEK ORGANIZACYJNYCH I ORGANIZACJI POZARZ\u0104DOWYCH, ORGANIZACJI PRZEDSI\u0118BIORC\u00d3W, SP\u00d3\u0141EK PRAWNYCH I OS\u00d3B FIZYCZNYCH, PODEJMOWANYCH NA RZECZ ROZWOJU SPO\u0141ECZNO-GOSPODARCZEGO\n11. WSPIERANIE I PROWADZENIE DZIA\u0141ALNO\u015aCI EDUKACYJNO-SZKOLENIOWEJ I NAUKOWO-BADAWCZEJ W ZAKRESIE ROZWOJU SPO\u0141ECZNO-GOSPODARCZEGO\n12. WSPIERANIE ORGANIZACYJNE I RZECZOWE OS\u00d3B FIZYCZNYCH I PODMIOT\u00d3W GOSPODARCZYCH W ZAKRESIE PRZEDSI\u0118BIORCZO\u015aCI\n13. PODEJMOWANIE INICJATYW I DZIA\u0141A\u0143 TWORZ\u0104CYCH NOWE MIEJSCA PRACY\n14. PODEJMOWANIE INICJATYW I DZIA\u0141A\u0143 NA RZECZ POPRAWY AKTYWNO\u015aCI ZAWODOWEJ I PRZEDSI\u0118BIORCZO\u015aCI W SZCZEG\u00d3LNO\u015aCI OS\u00d3B NIEPE\u0141NOSPRAWNYCH ORAZ OS\u00d3B ZAMIESZKUJ\u0104CYCH TERENY WIEJSKIE",
+    "benefitZones": [
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 353,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Konsorcjum Bioenergia na rzecz Rozwoju Wsi"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14C",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-351",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "BOLES\u0141AWA \u015aMIA\u0141EGO",
+      "terc": "3262011"
+    },
+    "aims": "1) PROWADZENIE DZIA\u0141ALNO\u015aCI W ZAKRESIE PROPAGOWANIA I PROMOCJI SPORTU I REKREACJI RUCHOWEJ,\n2) ORGANIZOWANIE ZAWOD\u00d3W, IMPREZ SPORTOWYCH I REKREACYJNYCH,\n3) PROWADZENIE DZIA\u0141ALNO\u015aCI WYCHOWAWCZEJ I POPULARYZATORSKIEJ W ZAKRESIE KULTURY FIZYCZNEJ,\n4) SZKOLENIE ORAZ DOSKONALENIE KADR TRENERSKO-INSTRUKTORSKICH\n5) WSPIERANIE DZIA\u0141ALNO\u015aCI UCZNIOWSKICH KLUB\u00d3W SPORTOWYCH.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 354,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie na Rzecz Rozwoju Sportu"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "35",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-685",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "BANDURSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "1. ROZW\u00d3J SPORTU I WYCHOWANIA FIZYCZNEGO POPRZEZ PROWADZENIE R\u00d3\u017bNYCH FORM STATUTOWEJ DZIA\u0141ALNO\u015aCI SPORTOWEJ I WYCHOWAWCZEJ\n2. OSI\u0104GANIE I PODNOSZENIE WYNIK\u00d3W SPORTOWYCH W RAMACH DZIA\u0141ALNO\u015aCI SEKCJI SPORTOWYCH OBEJMUJ\u0104CYCH POSZCZEG\u00d3LNE DYSCYPLINY SPORTOWE\n\n3.UPOWSZECHNIANIE KULTURY FIZYCZNEJ I SPORTU\n4. ORGANIZOWANIE OBOZ\u00d3W SPORTOWYCH I KOLINII DLA DZIECI W OKRESIE LETNIM I ZIMOWYM\n5. ORGANIZOWANIE ZAJ\u0118\u0106 SPORTOWYCH I REKREACYJNYCH DLA DZIECI Z RODZIN PATOLOGICZNYCH\n6. ORGANIZOWANIE OG\u00d3LNODOST\u0118PNYCH IMPREZ SPORTOWYCH I REKREACYJNYCH DLA DZIECI I M\u0141ODZIE\u017bY.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 355,
+    "legalForm": "Kluby sportowe (KRS)",
+    "name": "Klub Sportowy STAL - SZCZECIN (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO) w likwidacji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-241",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KLONOWICA",
+      "terc": "3262011"
+    },
+    "aims": "1. PROMOWANIE ZDROWEGO STYLU \u017bYCIA\n2. PROWADZENIE EDUKACJI W ZAKRESIE PROBLEMATYKI PRZECIWALKOHOLOWEJ ORAZ PRZECIWDZIA\u0141ANIA INNEGO RODZAJU UZALE\u017bNIE\u0143\n3. POMOC OSOBOM UZALE\u017bNIONYM ORAZ ICH RODZINOM\n4. PODEJMOWANIE DZIA\u0141A\u0143 DLA ZAPOBIE\u017bENIA ALKOHOLIZMOWI, NARKOMANII, PATOLOGIOM SPO\u0141ECZNYM ORAZ USUWANIU ICH SKUTK\u00d3W\n5. UCZESTNICTWO W SPO\u0141ECZNYM ROZWOJU \u015aRODOWISK LOKALNYCH\n6. UDZIELANIE POMOCY FINANSOWEJ, ORGANIZACYJNEJ, PRAWNEJ I TERAPEUTYCZNEJ RODZINOM DOTKNI\u0118TYM PROBLEMEM UZALE\u017bNIE\u0143 ORAZ ZAGRO\u017bONYCH PRZEMOC\u0104\n7. WSPIERANIE WYCHOWANIA M\u0141ODZIE\u017bY W TRZE\u0179WO\u015aCI\n8. ORGANIZOWANIE PRZEDSI\u0118WZI\u0118\u0106 EDUKACYJNYCH WE W\u0141ASNYM ZAKRESIE, W TYM DZIA\u0141ALNO\u015aCI WYDAWNICZEJ\n9. PROWADZENIE O\u015aRODKA INFORMACJI O UZALE\u017bNIENIACH\n10. POMOC SPO\u0141ECZNA RODZINOM I INNYM OSOBOM W TRUDNEJ SYTUACJI \u017bYCIOWEJ\n11. PROMOCJA ZATRUDNIENIA I AKTYWIZACJI ZAWODOWEJ OS\u00d3B BEZROBOTNYCH I ZAGRO\u017bONYCH BEZROBOCIEM\n12. PROMOCJA, SZKOLENIE I ORGANIZACJA WOLONTARIATU\n13. DZIA\u0141ANIA NA RZECZ OCHRONY PRAW KOBIET I R\u00d3WNO\u015aCI PRAW KOBIET I M\u0118\u017bCZYZN",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "dzia\u0142alno\u015b\u0107 na rzecz r\u00f3wnych praw kobiet i m\u0119\u017cczyzn"
+    ],
+    "hasSameAddress": true,
+    "id": 356,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie ERKA (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "63",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-476",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji i reintegracji zawodowej i spo\u0142ecznej os\u00f3b zagro\u017conych wykluczeniem spo\u0142ecznym",
+      "dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3 ustawy o dzia\u0142alno\u015bci po\u017cytku publicznego i o wolontariacie , w zakresie okre\u015blonym w pkt 1-32",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "hasSameAddress": true,
+    "id": 357,
+    "legalForm": "Inne",
+    "name": "Zachodniopomorskie Forum Organizacji Spo\u0142ecznych \"ZAFOS\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "67-68",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-382",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "JAGIELLO\u0143SKA",
+      "terc": "3262011"
+    },
+    "aims": "1. POMOC CZ\u0141ONKOM STOWARZYSZENIA W PODEJMOWANIU I PROWADZENIU DZIA\u0141ALNO\u015aCI GOSPODARCZEJ\n2. WSPIERANIE PRZEDSI\u0118BIORCZO\u015aCI LOKALNEJ\n3. PROWADZENIE WSP\u00d3LNEJ PROMOCJI I REKLAMY DZIA\u0141ALNO\u015aCI CZ\u0141ONK\u00d3W STOWARZYSZENIA\n4. POPIERANIE DZIA\u0141A\u0143 CZ\u0141ONK\u00d3W STOWARZYSZENIA W TWORZENIU WSP\u00d3LNEJ DZIA\u0141ALNO\u015aCI GOSPODARCZEJ MAJ\u0104CEJ NA CELU ZORGANIZOWANIE SIECI HANDLOWEJ OPARTEJ NA PRODUKCJI I PO\u015aREDNICTWIE PROWADZONYCH PRZEZ CZ\u0141ONK\u00d3W STOWARZYSZENIA\n5. UJEDNOLICENIE ZASAD WSP\u00d3\u0141PRACY (WSP\u00d3\u0141ISTNIENIA) Z W\u0141A\u015aCICIELAMI LOKALI U\u017bYTKOWYCH W TEMACIE NAJMU , CZYNSZ\u00d3W, CZASOOKRESU ZAWIERANYCH UM\u00d3W. OKRE\u015aLENIA JASNYCH I CZYTELNYCH ZASAD ICH NAJMU\n6. PODJ\u0118CIE DZIA\u0141A\u0143 ZMIERZAJ\u0104CYCH DO LIKWIDACJI NIEUCZCIWEJ KONKURENCJI, NIEUZASADNIONYCH PREFERENCJI GOSPODARCZYCH ORAZ NIEZGODNYCH Z PRAWEM PRAKTYK GOSPODARCZYCH\n7. UZYSKANIE PRIORYTETOWEGO TRAKTOWANIA PRZEZ SAMORZ\u0104DY LOKALNE - LOKALNYCH PODMIOT\u00d3W GOSPODARCZYCH\n8. KULTYWOWANIE TRADYCJI GOSPODARNO\u015aCI, SOLIDARNO\u015aCI I PORZ\u0104DKU ORAZ OBYCZAJ\u00d3W KUPIECKICH\n9. PROWADZENIE DZIA\u0141ALNO\u015aCI SZKOLENIOWEJ ORAZ KULTURALNO-O\u015aWIATOWEJ\n10. OCENA PODEJMOWANYCH PRZEZ W\u0141ADZE SAMORZ\u0104DOWE DECYZJI I UCHWA\u0141 ORAZ OPINIOWANIE PROJEKT\u00d3W AKT\u00d3W PRAWNYCH DOTYCZ\u0104CYCH BEZPO\u015aREDNIO CZ\u0141ONK\u00d3W STOWARZYSZENIA.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 358,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Izba Przedsi\u0119biorc\u00f3w Zachodniopomorskich REGION"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-244",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. BOLES\u0141AWA KRZYWOUSTEGO",
+      "terc": "3262011"
+    },
+    "aims": "1. ZRZESZANIE I INTEGROWANIE TW\u00d3RC\u00d3W, CELEM STWORZENIA MO\u017bLIWO\u015aCI JAK I WARUNK\u00d3W UCZESTNICTWA W KSZTA\u0141TOWANIU ROZWOJU KULTURY ARTYSTYCZNEJ MIASTA I REGIONU, W KRAJU I POZA JEGO GRANICAMI.\n2. WSPIERANIE MERYTORYCZNE CZ\u0141ONK\u00d3W STOWARZYSZENIA W D\u0104\u017bENIU DO ROZWIJANIA ICH WARSZTATU TW\u00d3RCZEGO.\n3. REPREZENTOWANIE ARTYST\u00d3W W KRAJU I ZA GRANIC\u0104 ORAZ EKSPONOWANIE I ROZPOWSZECHNIANIE ICH DZIE\u0141.\n4. UMACNIANIE ROLI SPO\u0141ECZNEJ POZYCJI ARTYSTY.",
+    "benefitZones": [
+      "turystyka i krajoznawstwo",
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 359,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Artystyczne Integracji Europejskiej \"SAIE\" (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "237 A",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-256",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "CEL STOWARZYSZENIA OKRE\u015aLA \u00a76 STATUTU",
+    "benefitZones": [
+      "porz\u0105dek i bezpiecze\u0144stwo publiczne"
+    ],
+    "hasSameAddress": true,
+    "id": 360,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie na Rzecz Pomocy Pokrzywdzonym i Poszkodowanym w Wypadkach i Kolizjach Drogowych oraz na Rzecz Bezpiecze\u0144stwa w Ruchu Drogowym"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "31/32",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-313",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "GEN. SIKORSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "PROPAGOWANIE I KRZEWIENIE IDEI ORAZ KULTURY OLIMPIJSKIEJ, ZGODNIE Z TRADYCJ\u0104 POLSKIEGO RUCHU OLIMPIJSKIEGO.\nUPOWSZECHNIANIE WARTO\u015aCI I ZASAD OLIMPIZMU, POPULARYZOWANIE SPORTU, WYBITNYCH ZAWODNIK\u00d3W, TRENER\u00d3W, DZIA\u0141ACZY ORAZ OSI\u0104GNI\u0118\u0106 SPORTOWYCH I SZKOLENIOWYCH.\nWSP\u00d3\u0141PRACA Z KLUBAMI OLIMPIJCZYKA DZIA\u0141AJ\u0104CYMI NA TERENIE WOJEW\u00d3DZTWA.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 361,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorska Rada Olimpijska"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "49 B",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-450",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "CHOPINA",
+      "terc": "3262011"
+    },
+    "aims": "CELAMI FUNDACJI S\u0104:\n1. UPOWSZECHNIANIE TA\u0143CA JAKO JEDNEJ Z DZIEDZIN \u017bYCIA SPO\u0141ECZNEGO\n2. PROPAGOWANIE TA\u0143CA I JEGO WARTO\u015aCI WYCHOWAWCZYCH\n3. PROMOCJA TA\u0143CA W \u015aRODKU OS\u00d3B NIEPE\u0141NOSPRAWNYCH JAKO JEDNEJ Z FORM REHABILITACJI.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 362,
+    "legalForm": "Fundacje",
+    "name": "Fundacja Rozwoju Ta\u0144ca Polskiego im. Prof. Mariana Wieczystego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "5",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-831",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "ZAMKNI\u0118TA",
+      "terc": "3262011"
+    },
+    "aims": "ROZWIJANIE I PROPAGOWANIE INICJATYW, POSTAW I DZIA\u0141A\u0143 SPRZYJAJ\u0104CYCH WSZELKIEJ POMOCY SOCJALNEJ DLA LUDZI POTRZEBUJ\u0104CYCH, A TAK\u017bE PRZYCZYNIANIE SI\u0118 DO WALKI Z UB\u00d3STWEM ORAZ WSPIERANIE ORGANIZACYJNE I RZECZOWE OS\u00d3B FIZYCZNYCH I JEDNOSTEK ORGANIZACYJNYCH, KT\u00d3RE PODEJMUJ\u0104 TAKIE DZIA\u0141ANIA.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 charytatywna",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 363,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Feniks (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-131",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "ORAWSKA",
+      "terc": "3262011"
+    },
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 364,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Towarzystwo Wszechstronnego Rozwoju COLLEGIUM"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-206",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "DWORCOWA",
+      "terc": "3262011"
+    },
+    "aims": "CELE STOWARZYSZENIA OBEJMUJ\u0104:\nDZIA\u0141ANIA W SFERZE POMOCY SPO\u0141ECZNEJ, W TYM POMOCY RODZINOM I OSOBOM W TRUDNEJ SYTUACJI \u017bYCIOWEJ ORAZ WYR\u00d3WNYWANIA SZANS TYCH RODZIN I OS\u00d3B; DZIA\u0141ALNO\u015a\u0106 NA RZECZ INTEGRACJI I REINTEGRACJI ZAWODOWEJ I SPO\u0141ECZNEJ OS\u00d3B ZAGRO\u017bONYCH WYKLUCZENIEM SPO\u0141ECZNYM; DZIA\u0141ALNO\u015a\u0106 CHARYTATYWN\u0104; DZIA\u0141ANIA W SFERZE PODTRZYMYWANIA I UPOWSZECHNIANIA TRADYCJI NARODOWEJ, PIEL\u0118GNOWANIA POLSKO\u015aCI ORAZ ROZWOJU \u015aWIADOMO\u015aCI NARODOWEJ, OBYWATELSKIEJ I KULTUROWEJ; DZIA\u0141ALNO\u015a\u0106 NA RZECZ MNIEJSZO\u015aCI NARODOWYCH I ETNICZNYCH ORAZ J\u0118ZYKA REGIONALNEGO; DZIA\u0141ANIA W SFERZE OCHRONY I PROMOCJI ZDROWIA; DZIA\u0141ANIA NA RZECZ OS\u00d3B NIEPE\u0141NOSPRAWNYCH; PROMOCJ\u0118 ZATRUDNIENIA I AKTYWIZACJI ZAWODOWEJ OS\u00d3B POZOSTAJ\u0104CYCH BEZ PRACY I ZAGRO\u017bONYCH ZWOLNIENIEM Z PRACY; DZIA\u0141ALNO\u015a\u0106 NA RZECZ R\u00d3WNYCH PRAW KOBIET I M\u0118\u017bCZYZN; DZIA\u0141ALNO\u015a\u0106 NA RZECZ OS\u00d3B W WIEKU EMERYTALNYM; DZIA\u0141ALNO\u015a\u0106 WSPOMAGAJ\u0104CA ROZW\u00d3J GOSPODARCZY, W TYM ROZW\u00d3J PRZEDSI\u0118BIORCZO\u015aCI; DZIA\u0141ALNO\u015a\u0106 WSPOMAGAJ\u0104CA ROZW\u00d3J TECHNIKI, WYNALAZCZO\u015aCI I INNOWACYJNO\u015aCI ORAZ ROZPOWSZECHNIANIE I WDRA\u017bANIE NOWYCH ROZWI\u0104ZA\u0143 TECHNICZNYCH W PRAKTYCE GOSPODARCZEJ; DZIA\u0141ALNO\u015a\u0106 WSPOMAGAJ\u0104CA ROZW\u00d3J WSP\u00d3LNOT I SPO\u0141ECZNO\u015aCI LOKALNYCH; DZIA\u0141ANIA W SFERZE NAUKI, SZKOLNICTWA WY\u017bSZEGO, EDUKACJI, O\u015aWIATY I WYCHOWANIA; DZIA\u0141ANIA W SFERZE WYPOCZYNKU DZIECI I M\u0141ODZIE\u017bY; DZIA\u0141ANIA W SFERZE KULTURY, SZTUKI, OCHRONY D\u00d3BR KULTURY I DZIEDZICTWA NARODOWEGO; DZIA\u0141ANIA W SFERZE WSPIERANIA I UPOWSZECHNIANIA KULTURY FIZYCZNEJ; DZIA\u0141ANIA W SFERZE EKOLOGII I OCHRONY ZWIERZ\u0104T ORAZ OCHRONY DZIEDZICTWA PRZYRODNICZEGO; DZIA\u0141ANIA W SFERZE TURYSTYKI I KRAJOZNAWSTWA; DZIA\u0141ANIA W SFERZE PORZ\u0104DKU I BEZPIECZE\u0143STWA PUBLICZNEGO; DZIA\u0141ANIA W SFERZE OBRONNO\u015aCI PA\u0143STWA I DZIA\u0141ALNO\u015aCI SI\u0141 ZBROJNYCH RZECZPOSPOLITEJ POLSKIEJ; UPOWSZECHNIANIE I OCHRON\u0118 WOLNO\u015aCI I PRAW CZ\u0141OWIEKA ORAZ SWOB\u00d3D OBYWATELSKICH, A TAK\u017bE DZIA\u0141A\u0143 WSPOMAGAJ\u0104CYCH ROZW\u00d3J DEMOKRACJI, W TYM MONITORING I RZECZNICTWO; DZIA\u0141ANIA W SFERZE RATOWNICTWA I OCHRONY LUDNO\u015aCI;\nDALSZE CELE OKRE\u015aLA \u00a79 STATUTU",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji",
+      "promocja i organizacja wolontariatu"
+    ],
+    "hasSameAddress": true,
+    "id": 365,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie POLITES w Szczecinie (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-666",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PASTERSKA",
+      "terc": "3262011"
+    },
+    "aims": "PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ ROZWIJANIA, UMACNIANIA I WSPIERANIA WSZELKICH DZIA\u0141A\u0143 PROWADZ\u0104CYCH DO GOSPODARCZEGO, KULTURALNEGO ROZWOJU KRAJU I SPO\u0141ECZE\u0143STWA OBYWATELSKIEGO ORAZ PRZYGOTOWANIA LOKALNYCH SPO\u0141ECZNO\u015aCI DO WSP\u00d3\u0141PRACY Z UNI\u0104 EUROPEJSK\u0104.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 366,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Polskie Stowarzyszenie Promocji i Rozwoju"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "93",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-783",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "RYDLA",
+      "terc": "3262011"
+    },
+    "aims": "1. REPREZENTOWANIE INTERES\u00d3W KUPC\u00d3W ZRZESZONYCH W STOWARZYSZENIU I NIEZRZESZONYCH\n2. KSZTA\u0141TOWANIE I POG\u0141\u0118BIANIE \u015aWIADOMO\u015aCI CZ\u0141ONK\u00d3W STOWARZYSZENIA W ZAKRESIE NOWYCH TECHNIK I TECHNOLOGI SPRZEDA\u017bY, OBS\u0141UGI KLIENTA ORAZ POZYSKANIA TOWAR\u00d3W\n3. SZKOLENIA, KONFERENCJE, PODCZAS KT\u00d3RYCH CZ\u0141ONKOWIE STOWARZYSZENIA B\u0118D\u0104 MIELI OKAZJ\u0118 ZAPOZNANIA SI\u0118 Z MO\u017bLIWO\u015aCIAMI JAKIE OTWIERAJ\u0104 SI\u0118 DLA POLSKIEGO KUPCA W ZWI\u0104ZKU Z PLANOWANYM WEJ\u015aCIEM POLSKI DO UNI EUROPEJSKIEJ\n4. ORGANIZOWANIE I WSPIERANIE PRZEDSI\u0118WZI\u0118\u0106 ZWI\u0104ZANYCH Z SZEROKO POJ\u0118T\u0104 KULTUR\u0104 I CZYNNYM WYPOCZYNKIEM",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 367,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Szczeci\u0144skie Stowarzyszenie Kupieckie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-784",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "STRUGA",
+      "terc": "3262011"
+    },
+    "aims": "1.OCHRONA \u015aRODOWISKA NATURALNEGO PRZED NEGATYWNYM WP\u0141YWEM DZIA\u0141ALNO\u015aCI OS\u00d3B FIZYCZNYCH I PRAWNYCH, INSTYTUCJI I URZ\u0118D\u00d3W, A W SZCZEG\u00d3LNO\u015aCI:\nA) OCHRONA ZWIERZ\u0104T I PTAK\u00d3W ORAZ ICH NATURALNYCH SIEDLISK PRZED NISZCZENIEM I LIKWIDACJ\u0104 POPRZEZ DZIA\u0141ALNO\u015a\u0106 BUDOWLAN\u0104 I PRZEMYS\u0141OW\u0104.\nB) OCHRONA SZATY RO\u015aLINNEJ I DRZEWOSTANU.\nC)OCHRONA GLEBY I W\u00d3D GRUNTOWYCH.\n2.PODNIESIENIE STANU \u015aWIADOMO\u015aCI EKOLOGICZNEJ SPO\u0141ECZE\u0143STWA.\n3.MONITOROWANIE EWENTUALNYCH ZAGRO\u017bE\u0143 I ZAPOBIEGANIE IM LUB ICH LIKWIDACJ\u0118 POPRZEZ INFORMOWANIE ODPOWIEDNICH INSTYTUCJI NA TERENIE DZIA\u0141ALNO\u015aCI POD K\u0104TEM WP\u0141YWU NA \u015aRODOWISKO NATURALNE.",
+    "benefitZones": [
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 368,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Ekologiczne - Zielony Kraj"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "244",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-256",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "WOJSKA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "ROZW\u00d3J SPORTU I WYCHOWANIA FIZYCZNEGO POPRZEZ PROWADZENIE R\u00d3\u017bNYCH FORM STATUTOWEJ DZIA\u0141ALNO\u015aCI SPORTOWEJ I WYCHOWAWCZEJ.\nOSI\u0104GANIE I PODNOSZENIE WYNIK\u00d3W SPORTOWYCH W RAMACH DZIA\u0141ALNO\u015aCI SEKCJI SPORTOWYCH W RAMACH DZIA\u0141ALNO\u015aCI SEKCJI SPORTOWYCH OBEJMUJ\u0104CYCH POSZCZEG\u00d3LNE DYSCYPLINY SPORTOWE.",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 369,
+    "legalForm": "Kluby sportowe (KRS)",
+    "name": "Miejski Klub Sportowy GRYF Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-617",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "\u017bUBR\u00d3W",
+      "terc": "3262011"
+    },
+    "aims": "- DZIA\u0141ANIA NA RZECZ INTEGRACJI EUROPEJSKIEJ\n- STWARZANIE OBYWATELOM WARUNK\u00d3W DO REALIZOWANIA INDYWIDUALNYCH ZAINTERESOWA\u0143 W RAMACH INTEGRACJI EUROPEJSKIEJ\n- ZAPOBIEGANIE BEZROBOCIU I PAUPERYZACJI SPO\u0141ECZE\u0143STWA\n- WSZECHSTRONNE PROPAGOWANIE INFORMACJI, METOD I TECHNIK W ZAKRESIE DZIA\u0141ALNO\u015aCI UNII EUROPEJSKIEJ\n- PROMOCJA I POPIERANIE PROGRAM\u00d3W UNIJNYCH\n- POPIERANIE IDEI JAKO\u015aCI EUROPEJSKIEJ I MI\u0118DZYNARODOWEGO ZROZUMIENIA\n- POBUDZANIE \u015aWIADOMO\u015aCI POLSKIEGO SPO\u0141ECZE\u0143STWA W RAMACH INTEGRACJI POLSKI Z UNI\u0104 EUROPEJSK\u0104\n- DZIA\u0141ALNO\u015a\u0106 NAUKOWO-BADAWCZA NA RZECZ UNII EUROPEJSKIEJ\n- ZASPOKAJANIE KULTURALNYCH, EDUKACYJNYCH I SOCJALNYCH POTRZEB CZ\u0141ONK\u00d3W STOWARZYSZENIA",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami"
+    ],
+    "hasSameAddress": true,
+    "id": 370,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Prounijne \"Signum Temporis\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-880",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PROF. A. SOKO\u0141OWSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST WIELOP\u0141ASZCZYZNOWE UNOWOCZE\u015aNIENIE DZIA\u0141ANIA NAUKOWEGO, DIAGNOSTYCZNEGO, LECZNICZEGO I PROFILAKTYCZNEGO KLINICZNEGO ODDZIA\u0141U ORTOPEDII SPECJALISTYCZNEGO SZPITALA IM. PROF. A. SOKO\u0141OWSKIEGO POPRZEZ:\n- PROMOWANIE I ZAPEWNIANIE CI\u0104G\u0141O\u015aCI STOSOWANIA I ROZWIJANIA NOWOCZESNYCH METOD DIAGNOSTYCZNYCH I LECZNICZYCH;\nPOPRAWA KOMFORTU HOSPITALIZACJI I USPRAWNIENIA LECZENIA AMBULATORYJNEGO;\n- POMOC W ORGANIZOWANIU KSZTA\u0141CENIA I PODNOSZENIA KWALIFIKACJI PRACOWNIK\u00d3W ODDZIA\u0141U;\n- PROMOWANIE WSP\u00d3\u0141PRACY I WYMIANY DO\u015aWIADCZE\u0143 Z WIOD\u0104CYMI O\u015aRODKAMI KRAJOWYMI I ZAGRANICZNYMI.",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 371,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Szczeci\u0144skie Stowarzyszenie Na Rzecz Rozwoju Klinicznego Oddzia\u0142u Ortopedii Specjalistycznego Szpitala im. Prof. A. Soko\u0142owskiego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "51 A",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-210",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "\u017bO\u0141NIERSKA",
+      "terc": "3262011"
+    },
+    "aims": "1. INTEGRACJA KULTURALNO-SPO\u0141ECZNA, ZW\u0141ASZCZA W \u015aRODOWISKACH ARTYST\u00d3W M\u0141ODYCH I NIEZALE\u017bNYCH.\n2. INTEGRACJA ZACHODNIOPOMORSKIEGO \u015aRODOWISKA TW\u00d3RCZEGO.\n3. PROPAGOWANIE \u015aRODOWISK MARGINALIZOWANYCH SPO\u0141ECZNIE (TRUDNA M\u0141ODZIE\u017b, BYLI NARKOMANI I ALKOHOLICY, OSOBY ZAGRO\u017bONE PATOLOGIAMI, DZIECI I TRUDNA M\u0141ODZIE\u017b, LUDZIE STARSI, CHORZY, NIEPE\u0141NOSPRAWNI, \u015aRODOWISKA HOMOSEKSUALNE, POSZUKUJ\u0104CE TO\u017bSAMO\u015aCI, POECI I ARTY\u015aCI NIEKOMERCYJNI, KOBIETY, BYLI PENITENCJARIUSZE ETC.) I PROPAGOWANIE W\u015aR\u00d3D NICH AKTYWNO\u015aCI KULTURALNO-SPO\u0141ECZNEJ, M.IN. POPRZEZ TERAPI\u0118 R\u00d3\u017bNYMI FORMAMI DZIA\u0141A\u0143 LITERACKICH, ARTYSTYCZNYCH I SPO\u0141ECZNYCH (PSYCHODRAMA, ODDZIA\u0141YWANIE POEZJ\u0104, PROJEKTY PODR\u00d3\u017bNICZE ETC.)\n4. INTEGRACJA SZCZECI\u0143SKIEGO O\u015aRODKA KULTURALNO-NAUKOWEGO Z O\u015aRODKAMI OG\u00d3LNOPOLSKIMI I EUROPEJSKIMI.\n5. PROPAGOWANIE AKTYWNEGO STOSUNKU DO OTACZAJ\u0104CEJ RZECZYWISTO\u015aCI ORAZ TW\u00d3RCZEGO SPOSOBU \u017bYCIA.\n6. PROMOWANIE DZIA\u0141A\u0143 M\u0141ODYCH I NIEZNANYCH TW\u00d3RC\u00d3W WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO.\n7. AKTYWIZACJA M\u0141ODYCH WOK\u00d3\u0141 TEATRU, POEZJI I SZTUKI.\n8. WSPIERANIE AKTYWNO\u015aCI LOKALNEJ.\n9. ODNAJDOWANIE I TWORZENIE WIZERUNKU SZCZECINA.\n10. POWO\u0141ANIE O\u015aRODKA DZIA\u0141A\u0143 TW\u00d3RCZYCH, ALTERNATYWNYCH, ARTYSTYCZNYCH W SZCZECINIE DO CEL\u00d3W ARTYSTYCZNO-PREZENTACYJNYCH.\n11. UTWORZENIE FUNDACJI WSPIERAJ\u0104CEJ DZIA\u0141ANIA STOWARZYSZENIA.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 372,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie \"Artefakt\" Zachodniopomorska Unia Aktywnych i Tw\u00f3rczych W TRAKCIE LIKWIDACJI"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-252",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UNII LUBELSKIEJ",
+      "terc": "3262011"
+    },
+    "aims": "1. OPIEKA NAD LARYNGEKTOMOWANYMI\n2. REPREZENTOWANIE INTERES\u00d3W SWOICH CZ\u0141ONK\u00d3W WOBEC W\u0141ADZ\n3. OCHRONA OS\u00d3B PO OPERACJI USUNI\u0118CIA KRTANI\n4. ORGANIZOWANIE KURS\u00d3W REHABILITACJI G\u0141OSU\n5. OPIEKA NAD LUD\u0179MI CHORYMI I PO OPERACJI\n6. WSP\u00d3\u0141DZIA\u0141ANIE Z INNYMI ORGANIZACJAMI, STOWARZYSZENIAMI\n7. ORGANIZOWANIE SPOTKA\u0143, KONFERENCJI I IMPREZ KULTURALNYCH",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 373,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Polskie Towarzystwo Laryngektomowanych - Oddzia\u0142 Rejonowy w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-606",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. STANIS\u0141AWA HRYNIEWIECKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "1. WSZECHSTRONNA POMOC OSOBOM I RODZINOM W SZCZEG\u00d3LNO\u015aCI Z POWODU UB\u00d3STWA, BEZDOMNO\u015aCI, BEZROBOCIA, NIEPE\u0141NOSPRAWNO\u015aCI, D\u0141UGOTRWA\u0141EJ LUB CI\u0118\u017bKIEJ CHOROBY, Z POWODU CHOROBY ALKOHOLOWEJ I INNYCH UZALE\u017bNIE\u0143, ZDARZE\u0143 LOSOWYCH, KL\u0118SK \u017bYWIO\u0141OWYCH, PRZEMOCY DOMOWEJ I SYTUACJI KRYZYSOWEJ POPRZEZ WSPIERANIE I PROWADZENIE ZAR\u00d3WNO FORM INSTYTUCJONALNYCH DLA OS\u00d3B POTRZEBUJ\u0104CYCH JAK R\u00d3WNIE ORGANIZACJI WSPARCIA W MIEJSCU ZAMIESZKANIA. \n2. TWORZENIE I PROWADZENIE DOM\u00d3W POMOCY SPO\u0141ECZNEJ\n3. TWORZENIE I PROWADZENIE O\u015aRODK\u00d3W WSPARCIA.\n4. TWORZENIE I PROWADZENIE WARSZTAT\u00d3W TERAPII ZAJ\u0118CIOWEJ.\n5. TWORZENIE I PROWADZENIE ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ.\n6. TWORZENIE I PROWADZENIE MIESZKA\u0143 CHRONIONYCH.\n7. TWORZENIE I PROWADZENIE STO\u0141\u00d3WEK I JAD\u0141ODAJNI.\n8. TWORZENIE I PROWADZENIE MIEJSC NOCLEGOWYCH DLA OS\u00d3B POTRZEBUJ\u0104CYCH SCHRONIENIA.\n9. TWORZENIE WARUNK\u00d3W DO ZASPOKAJANIA POTRZEB OSOBOM POTRZEBUJ\u0104CYM, NIEPE\u0141NOSPRAWNYM, W PODESZ\u0141YM WIEKU.\n10. WSPIERANIE ZADA\u0143 STATUTOWYCH DOM\u00d3W POMOCY SPO\u0141ECZNEJ I O\u015aRODK\u00d3W WSPARCIA ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM TERAPII ZAJ\u0118CIOWEJ, REHABILITACJI LECZNICZEJ I SPO\u0141ECZNEJ, DOST\u0118PU DO KULTURY, SPORTU, EDUKACJI I REKREACJI ORAZ POLEPSZANIA WARUNK\u00d3W SOCJALNO - BYTOWYCH.\n11. ORGANIZOWANIE DLA PODOPIECZNYCH - OS\u00d3B NIEPE\u0141NOSPRAWNYCH, W PODESZ\u0141YM WIEKU WYPOCZYNKU I CZASU WOLNEGO.\n12. TWORZENIE WARUNK\u00d3W DO INTEGRACJI MI\u0118DZYPOKOLENIOWEJ SPO\u0141ECZNO\u015aCI.\n13. WSPIERANIE LUDZI W PODESZ\u0141YM WIEKU I OS\u00d3B NIEPE\u0141NOSPRAWNYCH. \n14. WZMACNIANIE POCZUCIA PRZYDATNO\u015aCI SPO\u0141ECZNEJ, WYKORZYSTYWANIE DO\u015aWIADCZENIA \u017bYCIOWEGO I UMIEJ\u0118TNO\u015aCI STARSZYCH OS\u00d3B DLA DOBRA SPO\u0141ECZNEGO.\n15. WSPIERANIE ORGANIZACYJNE OS\u00d3B FIZYCZNYCH I INSTYTUCJI, KT\u00d3RE PODEJMUJ\u0104 TAKIE DZIA\u0141ANIA, W SZCZEG\u00d3LNO\u015aCI DOM POMOCY SPO\u0141ECZNEJ DOM KOMBATANTA I PIONIERA ZIEMI SZCZECI\u0143SKIEJ.",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym"
+    ],
+    "hasSameAddress": true,
+    "id": 374,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Szczeci\u0144skie Stowarzyszenie \"Z\u0142oty Wiek\" (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "60",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-035",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KOLUMBA",
+      "terc": "3262011"
+    },
+    "aims": "1. PROFILAKTYKA I ROZWI\u0104ZYWANIE PROBLEM\u00d3W RODZINY ZWI\u0104ZANYCH Z UZALE\u017bNIENIAMI \n2. OCHRONA RODZINY, W SZCZEG\u00d3LNO\u015aCI DZIECI I M\u0141ODZIE\u017bY PRZED SKUTKAMI U\u017bYWANIA I NADU\u017bYWANIA ALKOHOLU ORAZ INNYCH \u015aRODK\u00d3W PSYCHOAKTYWNYCH. \n3. PROPAGOWANIE TRZE\u0179WO\u015aCI W OSI\u0104GANIU PE\u0141NEJ ABSTYNENCJI OD ALKOHOLU I INNYCH \u015aRODK\u00d3W UZALE\u017bNIAJ\u0104CYCH. \n4. WSPARCIE PSYCHOSPO\u0141ECZNE DLA RODZIN  UZALE\u017bNIONYCH, RODZIN DYSFUNKCYJNYCH ORAZ RODZIN Z MARGINESU SPO\u0141ECZNEGO \n5. PRZECIWDZIA\u0141ANIE MARGINALIZACJI SPO\u0141ECZNEJ I WYKLUCZENIU SPO\u0141ECZNEMU \n6. INSPIROWANIE, WSPIERANIE I REALIZACJA INICJATYW SPO\u0141ECZNYCH PROWADZ\u0104CYCH DO POSZERZENIA SZANS ROZWOJOWYCH WSZYSTKICH GRUP SPO\u0141ECZNYCH, A W SZCZEG\u00d3LNO\u015aCI OS\u00d3B Z RODZIN, W KT\u00d3RYCH WYST\u0118PUJ\u0104 R\u00d3\u017bNORAKI UZALE\u017bNIENIA, ZUBO\u017bENIE SPO\u0141ECZNE, PRZEMOC, ZABURZENIA PSYCHICZNE, PROBLEMY NATURY PSYCHICZNEJ\n7. INTEGRACJA I REINTEGRACJA SPO\u0141ECZNA I ZAWODOWA GRUP SZCZEG\u00d3LNEGO RYZYKA\n8. WSPIERANIE PROGRAM\u00d3W REINTEGRACJI SPO\u0141ECZNEJ I ZAWODOWEJ\n9. INICJOWANIE I PROWADZENIE PROMOCJI ZDROWEGO STYLU \u017bYCIA RODZIN W \u015aRODOWISKU LOKALNYM\n10. UPOWSZECHNIANIE WIEDZY I UMIEJ\u0118TNO\u015aCI Z ZAKRESU OCHRONY ZDROWIA, RESOCJALIZACJI I EDUKACJI\n11. WSP\u00d3\u0141DZIA\u0141ANIE Z ADMINISTRACJ\u0104 RZ\u0104DOW\u0104 I SAMORZ\u0104DOW\u0104 W ROZWOJU SPO\u0141ECZNYM I EKONOMICZNYM REGIONU, NA TERENIE SWEGO ODDZIA\u0141YWANIA.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 375,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Szczeci\u0144skie Towarzystwo Ognisk Rodzinnych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8A",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-622",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "JANA CHRYZOSTOMA PASKA",
+      "terc": "3262011"
+    },
+    "aims": "1. DZIA\u0141ANIE NA RZECZ OCHRONY PRZYRODY I \u015aRODOWISKA NATURALNEGO.\n2. DZIA\u0141ALNO\u015a\u0106 SPO\u0141ECZNO-WYCHOWAWCZA W\u015aR\u00d3D DZIECI I M\u0141ODZIE\u017bY.\n3. WSP\u00d3\u0141PRACA Z ORGANIZACJAMI POZARZ\u0104DOWYMI W KRAJU I ZA GRANIC\u0104\n4. PROMOCJA WYKORZYSTANIA \u0179R\u00d3DE\u0141 ENERGII ODNAWIALNYCH\n5. DBA\u0141O\u015a\u0106 O CZYSTO\u015a\u0106 AKWEN\u00d3W WODNYCH WOJEW\u00d3DZTWA\n6. PRZYWR\u00d3CENIE REKREACYJNEJ FUNKCJI ZANIEDBANYM AKWENOM WODNYM I TERENOM ZIELONYM\n7. PODNIESIENIE KULTURY SPO\u0141ECZE\u0143STWA W DZIEDZINIE OCHRONY PRZYRODY I EKOLOGII\n8. DZIA\u0141ANIE NA RZECZ PRZESTRZEGANIA USTAWOWYCH PRAW ZWIERZ\u0104T I OCHRONA \u015aRODOWISKA NATURALNEGO.\n9. OCHRONA DZIKICH ZWIERZ\u0104T, POMOC BEZPA\u0143SKIM KOTOM I PSOM\n10. WYBUDOWANIE PRZYTULISK DLA DZIKIEGO PTACTWA POSZKODOWANEGO LOSOWO ORAZ SCHRONISK DLA BEZDOMNYCH KOT\u00d3W I PS\u00d3W.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 376,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Towarzystwo Ekologii Praktycznej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "6",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-501",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "JAROWITA",
+      "terc": "3262011"
+    },
+    "aims": "1.DZIA\u0141ALNO\u015aCI PROSPO\u0141ECZNEJ NA RZECZ BUDOWANIA NOWOCZESNEGO I WYKSZTA\u0141CONEGO SPO\u0141. OBYWATELSKIEGO,OBEJMUJ\u0104CEJ M.IN. DZIA\u0141ALNO\u015a\u0106 EDUKACYJN\u0104,INFORMACYJN\u0104 PROFILAKTYCZN\u0104,KULTURALN\u0104 I INTEGRACYJN\u0104 ORAZ OCHRON\u0118 DZIEDZICTWA NARODOWEGO I CYWILIZACYJNEGO\n2.POWO\u0141YWANIA I WSPIERANIA LOKALNYCH,KRAJOWYCH I MI\u0118DZYNARODOWYCH INICJATYW SZERZ\u0104CYCH IDE\u0118 WILEOP\u0141ASZCZYZNOWEJ INTEGRACJI I SOLIDARNO\u015aCI POMI\u0118DZY NARODAMI ORAZ WSPIERANIE TEGO PROCESU\n3.PRZECIWDZIA\u0141ANIA WSZELKIM FORMOM DYSKRYMINACJI (W SZCZEG\u00d3LNO\u015aCI:RASOWEJ,ETNICZNEJ,RELIGIJNEJ,P\u0141CIOWEJ,SEKSUALNEJ ETC.) I WYKLUCZENIOM SPO\u0141ECZNYM ORAZ WSPIERANIE DZIA\u0141A\u0143 O TAKIM CHARAKTERZE,ZW\u0141ASZCZA POPRZEZ SZEROKO ROZUMIAN\u0104 PROFILAKTYK\u0118,CZYNNO\u015aCI ZAPOBIEGAWCZE I REDUKUJ\u0104CE SKUTKI\n4.PRZECIWDZIA\u0141ANIA WSZELKIM PATOLOGIOM ZDROWIA FIZYCZNEGO I PSYCHICZNEGO,W TYM ZW\u0141ASZCZA PRZEMOCY FIZYCZNEJ I PSYCHICZNEJ W RODZINIE I SPO\u0141. ORAZ ZAPOBIEGANIA TYM PROCESOM,JAK R\u00d3WNIE\u017b POWO\u0141YWANIA I WSPIERANIA LOKALNYCH,KRAJOWYCH I MI\u0118DZYNARODOWYCH INICJATYW ZWI\u0104ZANYCH Z IDE\u0104 SZEROKO ROZUMIANEGO ZDROWIA\n5.INICJOWANIA I ROZWIJANIA DZIA\u0141A\u0143 WSPIERAJ\u0104CYCH OCHRON\u0118 \u015aRODOWISKA NATURALNEGO ORAZ EKOLOGICZNEGO I ZR\u00d3WNOWA\u017bONEGO \u017bYCIA I ROZWOJU OD SZCZEBLA LOKALNEGO PO SZCZEBEL GLOBALNY\n6.ROZWOJU INICJATYW ARTYSTYCZNYCH I SPO\u0141ECZNYCH ORAZ ICH PREZENTACJA,ZW\u0141ASZCZA W ZAKRESIE SZTUKI NIEKOMERCYJNEJ I AWANGARDOWEJ\n7.DBA\u0141O\u015a\u0106 O ZACHOWANIE I ROZW\u00d3J SZTUK MIASTA SZ-NA,W SZCZEG\u00d3LNO\u015aCI JEGO ARCHITEKTURY I INFRASTRUKTURY,SZTUK U\u017bYTKOWYCH ORAZ DZIA\u0141ALNO\u015aCI ARTYSTYCZNEJ I SPO\u0141ECZNEJ\n8.ROZWIJANIA I DBA\u0141O\u015a\u0106 O TW\u00d3RCZ\u0104 WSP\u00d3\u0141PRAC\u0118 MI\u0118DZYNARODOW\u0104 W ZAKRESIE SZTUKI ORAZ DZIA\u0141ALNO\u015aCI ARTYSTYCZNEJ I SPO\u0141ECZNEJ,ZAPEWNIAJ\u0104C\u0104 NIESKR\u0118POWANY PRZEP\u0141YW IDEI I MY\u015aLI\n9.AKTYWIZACJI \u015aRODOWISK TW\u00d3RCZYCH,SPO\u0141ECZNYCH I POLITYCZNYCH SZ-NA,WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO,RZECZPOSPOLITEJ POLSKIEJ ORAZ INNYCH NAROD\u00d3W,PROWADZONEJ DLA ZAPEWNIENIA WZROSTU \u015aWIADOMO\u015aCI,PERCEPCJI I ODPOWIEDZIALNO\u015aCI ZA OTOCZENIE INTELEKTUALNE I ARTYSTYCZNE,JAK R\u00d3WNIE\u017b U\u015aWIADAMIANIA JEGO ZNACZENIA DLA ROZWOJU SPO\u0141. I JEDNOSTKI",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 377,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Operahaus"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "49",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-783",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. WAKACYJNA",
+      "terc": "3262011"
+    },
+    "aims": "A) DZIA\u0141ANIE NA RZECZ WYKONANIA UZBROJENIA DZIA\u0141EK BUDOWLANYCH ZNAJDUJ\u0104CYCH SI\u0118 NA TERENIE \"OSIEDLA WAKACYJNEGO\" POPRZEZ DOPROWADZENIE DO GRANIC POSZCZEG\u00d3LNYCH DZIA\u0141EK ENERGII ELEKTRYCZNEJ, WODY, SIECI KANALIZACYJNEJ, GAZU I SIECI TELEINFORMATYCZNEJ (W TYM W SZCZEG\u00d3LNO\u015aCI SIECI TELEFONICZNEJ) ORAZ BUDOW\u0118 ULIC WRAZ Z CHODNIKAMI I O\u015aWIETLENIEM - Z UWZGL\u0118DNIENIEM PRZYCZYNIANIA SI\u0118 DO OCHRONY \u015aRODOWISKA,\nB) EKSPLOATACJA W NIEZB\u0118DNYM ZAKRESIE WYKONANEJ INFRASTRUKTURY,\nC) DZIA\u0141ALNO\u015a\u0106 NA RZECZ INTEGRACJI CZ\u0141ONK\u00d3W STOWARZYSZENIA",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 378,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie \"Osiedle Wakacyjne\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "SZCZECINIE",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-412",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "AL. NIEPODLEG\u0141O\u015aCI",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST DZIA\u0141ANIE NA RZECZ ROZWOJU SPO\u0141ECZNO KULTURALNEGO SPO\u0141ECZE\u0143STWA OBYWATELSKIEGO",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 379,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Profilaktyki i Rozwoju Spo\u0142eczno - Kulturalnego DOBRE MIASTO"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "14/15",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-563",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KO\u0143SKI KIERAT",
+      "terc": "3262011"
+    },
+    "aims": "G\u0141\u00d3WNYM CELEM STOWARZYSZENIA JEST POBUDZENIE AKTYWNO\u015aCI SPO\u0141ECZE\u0143STWA W D\u0104\u017bENIU DO OCHRONY I POPRAWY ZDROWIA LUDZKIEGO, W SZCZEG\u00d3LNO\u015aCI UDZIELENIE NIEZB\u0118DNEJ POMOCY I WSPARCIA LUDZIOM W CHOROBACH SERCA I UK\u0141ADU KR\u0104\u017bENIA ORAZ U\u0141ATWIENIE IM LECZENIA REHABILITACYJNEGO.\nCELE UZUPE\u0141NIAJ\u0104CE TO:\n1) UTWORZENIE DOBROWOLNEGO I BEZP\u0141ATNEGO, SPO\u0141ECZNEGO WOLONTARIATU CZ\u0141ONK\u00d3W STOWARZYSZENIA, DLA OS\u00d3B Z CHOROBAMI SERCA I UK\u0141ADU KR\u0104\u017bENIA ORAZ LECZONYCH REHABILITACYJNIE;\n2) WSPIERANIE DZIA\u0141A\u0143 HUMANITARNYCH, DOBROCZYNNYCH I OPIEKU\u0143CZYCH;\n3) DZIA\u0141ANIA NA RZECZ POG\u0141\u0118BIANIA WIEDZY SPO\u0141ECZE\u0143STWA O STANIE I ZAGRO\u017bENIACH JEGO ZDROWOTNO\u015aCI W ZAKRESIE CHOR\u00d3B SERCA I UK\u0141ADU KR\u0104\u017bENIA;\n4) PROPAGOWANIE ZNACZENIA I POTRZEBY PROWADZENIA PROFILAKTYCZNYCH ZADA\u0143 KARDIOLOGICZNYCH UMO\u017bLIWIAJ\u0104CYCH WCZESNE WYKRYWANIE CHOR\u00d3B UK\u0141ADU KR\u0104\u017bENIA I ZAPOBIEGANIE ICH WYST\u0118POWANIU:\n5) PROMOWANIE I UPOWSZECHNIANIE WIEDZY DOTYCZ\u0104CEJ NOWYCH \u015aRODK\u00d3W I METOD LECZENIA CHOR\u00d3B SERCA I LECZENIA REHABILITACYJNEGO.",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 380,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie \"POMOC SERCU\" "
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-774",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "SANATORYJNA",
+      "terc": "3262011"
+    },
+    "aims": "1. DBA\u0141O\u015a\u0106 O DOBRO W\u0141A\u015aCICIELI GARA\u017bY I MIENIA STOWARZYSZENIA\n2. OCHRONA ICH PRAW\n3. KSZTA\u0141TOWANIE OPINII I OCEN CZ\u0141ONK\u00d3W\n4. RACJONALNE GOSPODAROWANIE NA TERENIE GARA\u017bY I PARKING\u00d3W\n5. ORGANIZOWANIE \u017bYCIA KOLE\u017bE\u0143SKIEGO.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 381,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie W\u0142a\u015bcicieli Gara\u017cy"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-544",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "\u015aW. MARCINA",
+      "terc": "3262011"
+    },
+    "aims": "1. CELEM DZIA\u0141ANIA STOWARZYSZENIA JEST ROZW\u00d3J I POPULARYZACJA, MODELARSTWA, HISTORII I TRADYCJI OR\u0118\u017bA W WOJEW\u00d3DZTWIE ZACHODNIOPOMORSKIM.\n2. ORGANIZOWANIE IMPREZ PROMUJ\u0104CYCH MODELARSTWO, ORAZ WYSTAW MODELARSKICH, NA TERENIE WOJEW\u00d3DZTWA ZACHODNIOPOMORSKIEGO.\n3. REPREZENTOWANIE ZACHODNIOPOMORSKIEGO RUCHU MODELARSKIEGO W ORGANIZACJACH KRAJOWYCH I MI\u0118DZYNARODOWYCH.\n4. PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ PROMOCJI EDUKACYJNYCH ASPEKT\u00d3W MODELARSTWA.\n5. WSP\u00d3\u0141PRACA ZE SZKO\u0141AMI\n6. WSPIERANIE I WSP\u00d3\u0141PRACA Z INNYMI STOWARZYSZENIAMI O PODOBNYM CHARAKTERZE.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 382,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zachodniopomorskie Stowarzyszenie Mi\u0142o\u015bnik\u00f3w Modelarstwa, Historii i Tradycji Or\u0119\u017ca HUZAR"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "60",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-631",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "RACIBORA",
+      "terc": "3262011"
+    },
+    "aims": "1.ROZWIJANIE DUCHA ZJEDNOCZONEJ EUROPY.\n2.ROZPOWSZECHNIANIE WIEDZY O INTEGRACJI EUROPEJSKIEJ\n3.ZACZ\u0118CANIE FIRM I INSTYTUCJI DO INFORMOWANIA O:\n-ZJEDNOCZONEJ EUROPIE; - INSTYTUCJACH EUROPEJSKICH\n-CELACH INTEGRACJI EUROPEJSKIEJ\n4.UPOWSZECHNIANIE WIEDZY O PA\u0143STWACH EUROPEJSKICH W\u015aR\u00d3D M\u0141ODZIE\u017bY\n5.PRZYCZYNIENIE SI\u0118 DO ZROZUMIENIA IDEI PLURALISTYCZNYCH ORAZ ZWI\u0118KSZANIA POSTAW TOLERANCJI\n6.PROPADOWANIE ODPOWIEDZIALNO\u015aCI ZA LOSY PRZYSZ\u0141YCH POKOLE\u0143\n7.PARTNERSKA WSP\u00d3\u0141PRACA Z INNYMI TOWARZYSTWAMI O PODOBNYCH CELACH STATUTOWYCH\n8. OPRACOWANIE PROGRAM\u00d3W NA RZECZ INFORMACJI O UNII EUROPEJSKIEJ W\u015aR\u00d3D LUDNO\u015aCI WOJEW\u00d3DZTWA\n9.WSPIERANIE I UDZIA\u0141 W TWORZENIU SZKOLNICTWA O WYMIARZE EUROPEJSKIM",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy spo\u0142ecze\u0144stwami"
+    ],
+    "hasSameAddress": true,
+    "id": 383,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Towarzystwo M\u0142odych Europejczyk\u00f3w"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "58",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-812",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "POMORSKA",
+      "terc": "3262011"
+    },
+    "aims": "1. PROMOCJA I POPULARYZACJA IDEI WYCHOWANIA MORSKIEGO W\u015aR\u00d3D M\u0141ODZIE\u017bY.\n2. KSZTA\u0141TOWANIE OPINII I OCEN SPO\u0141ECZE\u0143STWA DOTYCZ\u0104CYCH ZAWODU MARYNARZA.\n3. UPOWSZECHNIANIE WIEDZY O \u015aRODOWISKU MORSKIM I ZAWODZIE MARYNARZA.\n4. WSP\u00d3\u0141UDZIA\u0141 W INICJOWANIU I KOORDYNACJI WSZELKICH INICJATYW MAJ\u0104CYCH PODOBNE CELE STATUTOWE.\n5. ROZW\u00d3J I PROMOCJA \u015aRODOWISKA MORSKIEGO.\n6. PIEL\u0118GNACJA TRADYCJI LICEUM MORSKIEGO W SZCZECINIE I POLICACH.\n7. WSPIERANIE KOLE\u017bE\u0143SKIE ABSOLWENT\u00d3W LICEUM MORSKIEGO W SZCZECINIE I POLICACH W \u017bYCIU ZAWODOWYM I PRYWATNYM.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 384,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Absolwent\u00f3w Liceum Morskiego w Szczecinie i Policach"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "32 B",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-376",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "5 LIPCA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST SZYBKIE I SKUTECZNE WDRA\u017bANIE POST\u0118PU TECHNICZNEGO ZWI\u0104ZANEGO Z NOWYMI TECHNOLOGIAMI WYTWARZANIA I WYKORZYSTANIA BIOMASY NA OBSZARZE POLSKIEJ CZ\u0118\u015aCI EUROREGIONU POMERANIA NA BAZIE DO\u015aWIADCZE\u0143 PRAKTYKI SZWECJI I NIEMIEC ORAZ \u015aCIS\u0141A WSP\u00d3\u0141PRACA TR\u00d3JSTRONNA W TYM ZAKRESIE. ZGROMADZENIE WOK\u00d3\u0141 POSTAWIONEGO CELU ZORGANIZOWANYCH OS\u00d3B O WYSOKICH KWALIFIKACJACH I INTERDYSCYPLINARNEJ WIEDZY. POZYSKANIE BAZY MATERIALNEJ I \u015aRODK\u00d3W FINANSOWYCH NIEZB\u0118DNYCH DO ZA\u0141O\u017bENIA REGIONALNEGO CENTRUM BIOMASY. TWORZENIE I REALIZOWANIE PROGRAM\u00d3W EDUKACYJNYCH, WDRO\u017bENIOWYCH, PROCEDURALNYCH, POMAGAJ\u0104CYCH STRONIE POLSKIEJ STWORZY\u0106 NOWY SEKTOR ENERGETYKI BAZUJ\u0104CYCH NA ODNAWIALNYCH \u0179R\u00d3D\u0141ACH ENERGII ORAZ INFORMOWANIE O RZECZYWISTYCH KORZY\u015aCIACH EKONOMICZNYCH, SPO\u0141ECZNYCH I EKOLOGICZNYCH WYNIKAJ\u0104CYCH Z WDRA\u017bANIA ODNAWIALNYCH \u0179R\u00d3DE\u0141 ENERGII.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 385,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Biomasa Na Rzecz Rozwoju Euroregionu Pomerania"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-644",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "CELNA",
+      "terc": "3262011"
+    },
+    "aims": "PREZENTOWANIE PROBLEM\u00d3W BRAN\u017bY W\u0141ADZOM PA\u0143STWOWYM I SAMORZ\u0104DOWYM ORAZ REPREZENTACJA \u015aRODOWISKA ZAWODOWEGO CZ\u0141ONK\u00d3W WOBEC OTOCZENIA SPO\u0141ECZNEGO I MEDIALNEGO. STOWARZYSZENIE STAWIA SOBIE R\u00d3WNIE\u017b ZA CEL POPULARYZOWANIE PROBLEMATYKI GOSPODARKI RYBNEJ I ZAGADNIE\u0143 ZDROWEGO \u017bYWIENIA ORAZ PROPAGOWANIE ZASAD ETYKI KUPIECKIEJ W DZIA\u0141ALNO\u015aCI HANDLOWEJ",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 386,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Importer\u00f3w Ryb"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "70-225",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PL. BRAMA PORTOWA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM DZIA\u0141ALNO\u015aCI KLUBU S\u0104 PRZEDSI\u0118WZI\u0118CIA CHARYTATYWNE ORAZ KRZEWIENIE I WSPIERANIE IDEI S\u0141U\u017bBY-JAKO PODSTAWY U\u017bYTECZNEJ DZIA\u0141ALNO\u015aCI - POPRZEZ:\n1. ROZW\u00d3J BEZPO\u015aREDNICH KONTAKT\u00d3W MI\u0118DZYLUDZKICH - JAKO MO\u017bLIWO\u015a\u0106 SPRAWOWANIA S\u0141U\u017bBY,\n2. PRZESTRZEGANIE WYSOKICH STANDARD\u00d3W ETYCZNYCH W DZIA\u0141ALNO\u015aCI ZAWODOWEJ I GOSPODARCZEJ, UZNANIA WARTO\u015aCI PRACY U\u017bYTECZNEJ ORAZ DOCENIANIE DZIA\u0141ALNO\u015aCI ZAWODOWEJ KA\u017bDEGO CZ\u0141ONKA KLUBU-JAKO SPOSOBNO\u015a\u0106 S\u0141U\u017bENIA SPO\u0141ECZE\u0143STWU,\n3. PRZESTRZEGANIE I STOSOWANIE IDEA\u0141\u00d3W S\u0141U\u017bBY PRZEZ KA\u017bDEGO CZ\u0141ONKA KLUBU W JEGO \u017bYCIU OSOBISTYM, ZAWODOWYM I SPO\u0141ECZNYM,\n4. PROPAGOWANIE I WSPIERANIE POROZUMIENIA MI\u0118DZYNARODOWEGO, DOBREJ WOLI I POKOJU POPRZEZ \u015aWIATOW\u0104 WSP\u00d3LNOT\u0118 OS\u00d3B TEGO SAMEGO ZAWODU, PO\u0141\u0104CZONYCH IDEA\u0141AMI S\u0141U\u017bBY SPO\u0141ECZNEJ,\n5. SPO\u0141ECZN\u0104, W TYM POMOC RODZINOM I OSOBOM W TRUDNEJ SYTUACJI \u017bYCIOWEJ ORAZ WYR\u00d3WNYWANIE SZANS TYCH RODZIN I OS\u00d3B;\n6. WSPIERANIE RODZINY I SYSTEMU PIECZY ZAST\u0118PCZEJ;\n7. DZIA\u0141ALNO\u015a\u0106 NA RZECZ INTEGRACJI I REINTEGRACJI ZAWODOWEJ I SPO\u0141ECZNEJ OS\u00d3B ZAGRO\u017bONYCH WYKLUCZENIEM SPO\u0141ECZNYM;\n8. DZIA\u0141ALNO\u015a\u0106 CHARYTATYWN\u0104\n9. OCHRON\u0118 I PROMOCJ\u0118 ZDROWIA;\n10. DZIA\u0141ALNO\u015a\u0106 NA RZECZ OS\u00d3B NIEPE\u0141NOSPRAWNYCH;\n11. PROMOCJ\u0118 ZATRUDNIENIA I AKTYWIZACJI ZAWODOWEJ OS\u00d3B POZOSTAJ\u0104CYCH BEZ PRACY I ZAGRO\u017bONYCH ZWOLNIENIEM Z PRACY;\n12. DZIA\u0141ALNO\u015a\u0106 NA RZECZ R\u00d3WNYCH PRAW KOBIET I M\u0118\u017bCZYZN;\n13. DZIA\u0141ALNO\u015a\u0106 WSPOMAGAJ\u0104C\u0104 ROZW\u00d3J TECHNIKI, WYNALAZCZO\u015aCI I INNOWACYJNO\u015aCI ORAZ ROZPOWSZECHNIANIE I WDRA\u017bANIE NOWYCH ROZWI\u0104ZA\u0143 TECHNICZNYCH W PRAKTYCE GOSPODARCZEJ\n14. WSPIERANIE NAUKI, SZKOLNICTWA WY\u017bSZEGO , EDUKACJI, O\u015aWIATY I WYCHOWANIA\n15. ORGANIZACJI WYPOCZYNKU DZIECI I M\u0141ODZIE\u017bY;\n16. WSPIERANIE KULTURY, SZTUKI, OCHRONY D\u00d3BR KULTURY I DZIEDZICTWA NARODOWEGO;\n17. WSPIERANIE I UPOWSZECHNIANIE KULTURY FIZYCZNEJ;\n18. RATOWNICTWA I OCHRONY LUDNO\u015aCI;\n19. POMOC OFIAROM KATASTROF, KL\u0118SK \u017bYWIO\u0141OWYCH, KONFLIKT\u00d3W ZBROJNYCH I WOJEN W KRAJU I ZA GRANIC\u0104;\n\nW POZOSTA\u0141YM ZAKRESIE CEL DZIA\u0141ANIA STOWARZYSZENIA OKRE\u015aLA \u00a76 STATUTU.",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "dzia\u0142alno\u015b\u0107 charytatywna"
+    ],
+    "hasSameAddress": true,
+    "id": 387,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Rotary Szczecin Center (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-737",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "CHOJNICKA",
+      "terc": "3262011"
+    },
+    "aims": "- WSPIERANIE ORGANIZACJI POZARZ\u0104DOWYCH W ICH DZIA\u0141ALNO\u015aCI STATUTOWEJ,\n- WSPIERANIE SPO\u0141ECZNEJ AKTYWNO\u015aCI OBYWATELI, PROPAGOWANIE WIEDZY O ORGANIZACJACH POZARZ\u0104DOWYCH,\n- PROMOWANIE UDZIA\u0141U ORGANIZACJI POZARZ\u0104DOWYCH W KREOWANIU REALI\u00d3W DEMOKRATYCZNEGO SPO\u0141ECZE\u0143STWA I WSPIERANIU IDEI INTEGRACJI EUROPEJSKIEJ,\n- PROMOWANIE WSP\u00d3\u0141DZIA\u0141ANIA ORGANIZACJI POZARZ\u0104DOWYCH Z W\u0141ADZAMI PA\u0143STWOWYMI, SAMORZ\u0104DEM TERYTORIALNYM I ORGANIZACJAMI GOSPODARCZYMI,\n- PODEJMOWANIE DZIA\u0141A\u0143 NA RZECZ ZWI\u0118KSZENIA ZNACZENIA SEKTORA POZARZ\u0104DOWEGO W \u017bYCIU PUBLICZNYM,\n- PRZYCZYNIANIE SI\u0118 DO TWORZENIA SPO\u0141ECZE\u0143STWA DEMOKRATYCZNEGO I OBYWATELSKIEGO,\n- INICJOWANIE PRZEDSI\u0118WZI\u0118\u0106 O CHARAKTERZE INFORMACYJNYM, PROMOCYJNYM I SZKOLENIOWYM DOTYCZ\u0104CYM SPO\u0141ECZE\u0143STWA OBYWATELSKIEGO,\n- INTEGROWANIE STOWARZYSZE\u0143 I ORGANIZACJI O TYM SAMYM LUB PODOBNYM CHARAKTERZE DZIA\u0141ANIA, PODEJMOWANIE DZIA\u0141A\u0143 FEDERACYJNYCH,\n- POMOC W WYMIANIE INFORMACJI, WIEDZY, DO\u015aWIADCZE\u0143 MI\u0118DZY ORGANIZACJAMI,\n- REPREZENTOWANIE I PROMOWANIE OSI\u0104GNI\u0118\u0106 STOWARZYSZENIA,\n- WSPIERANIE FINANSOWE CZ\u0141ONK\u00d3W STOWARZYSZENIA,",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "promocja i organizacja wolontariatu"
+    ],
+    "hasSameAddress": true,
+    "id": 388,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Wspierania Inicjatyw Pozarz\u0105dowych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "26",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-413",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UNIS\u0141AWY",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST UDZIA\u0141 W INICJOWANIU, PROWADZENIU I KOORDYNACJI DZIA\u0141A\u0143 NA RZECZ EDUKACJI EUROPEJSKIEJ, W TYM W SZCZEG\u00d3LNO\u015aCI:\n1. POPIERANIE INICJATYW SPO\u0141ECZNYCH, INFORMACYJNYCH, KULTURALNYCH, NAUKOWYCH I O\u015aWIATOWYCH ZMIERZAJ\u0104CYCH DO ZAPEWNIENIA EDUKACJI DZIECI, M\u0141ODZIE\u017bY ORAZ DOROS\u0141YCH W ZAKRESIE INTEGRACJI EUROPEJSKIEJ.\n2. KSZTA\u0141TOWANIE OPINII I OCEN DOTYCZ\u0104CYCH SYSTEMU EDUKACJI I KSZTA\u0141CENIA, NOWOCZESNYCH METODACH EDUKACYJNYCH I POZNAWCZYCH W ZAKRESIE INTEGRACJI EUROPEJSKIEJ.\n3. UDZIELANIE FACHOWEJ, PRAWNEJ I FINANSOWEJ POMOCY PODMIOTOM REALIZUJ\u0104CYM CELE Z ZAKRESU EDUKACJI ORAZ KSZTA\u0141CENIA, ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM ZAGADNIE\u0143 INTEGRACJI EUROPEJSKIEJ.\n4. OCHRONA PRAW CZ\u0141OWIEKA POPRZEZ D\u0104\u017bENIE DO ZAPEWNIENIA MU MO\u017bLIWO\u015aCI KSZTA\u0141CENIA NA NAJWY\u017bSZYM POZIOMIE MERYTORYCZNYM I ETYCZNYM, ZE SZCZEG\u00d3LNYM UWZGL\u0118DNIENIEM ZAGADNIE\u0143 INTEGRACJI EUROPEJSKIEJ.\n5. DZIA\u0141ANIA NA RZECZ INTEGRACJI ZAWODOWEJ TEREN\u00d3W EUROPEJSKICH.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 389,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Edukacji Europejskiej w likwidacji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-551",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PLAC \u017bO\u0141NIERZA POLSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "1) PODEJMOWANIE I REALIZACJA INICJATYW MAJ\u0104CYCH NA CELU BADANIA SPO\u0141ECZE\u0143STW POZAEUROPEJSKICH, ICH \u015aRODOWISKA GEOGRAFICZNEGO I HISTORII NATURALNEJ.\n2) POPULARYZACJA TYCH\u017bE OSI\u0104GNI\u0118\u0106\n3) PRZYBLI\u017bENIE SPO\u0141ECZE\u0143STWU POLSKIEMU INNYCH KULTUR I RELIGII\n4) PRZECIWDZIA\u0141ANIE KSENOFOBII, RASIZMOWI, NIETOLERANCJI\n5) WSPIERANIE INICJATYW MUZEUM NARODOWEGO W SZCZECINIE ORAZ UNIWERSYTETU SZCZECI\u0143SKIEGO",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 390,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Wiedzy o Ludach i Ziemi"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-037",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "OGRODOWA",
+      "terc": "3262011"
+    },
+    "aims": "1. ORGANIZACJA I PROMOWANIE AKTYWNEGO UCZESTNICTWA OS\u00d3B, KT\u00d3RE W STANIE WOJENNYM ZOSTA\u0141Y DOTKNI\u0118TE REPRESJAMI W \u017bYCIU SPO\u0141ECZNYM, POLITYCZNYM I GOSPODARCZYM;\n2. DOMAGANIE SI\u0118 UZNANIA, \u017bE STAN WOJENNY ZOSTA\u0141 WPROWADZONY Z NARUSZENIEM USTAWY ZASADNICZEJ.\n3. ZG\u0141ASZANIE DO IPN FAKT\u00d3W OGRANICZENIA SWOB\u00d3D I PRAW OBYWATELSKICH, STANOWI\u0104CYCH NARUSZENIE KONSTYTUCJI, DLA ICH SPRAWIEDLIWEGO OS\u0104DZENIA, A TAK\u017bE POT\u0118PIANIE METOD JAKIMI POS\u0141UGIWA\u0141Y SI\u0118 W\u0141ADZE I PZPR W STANIE WOJENNYM.\n4. DOMAGANIE SI\u0118 REHABILITACJI OS\u00d3B DOTKNI\u0118TYCH REPRESJAMI I POPIERANIE INDYWIDUALNYCH ROSZCZE\u0143 CZ\u0141ONK\u00d3W STOWARZYSZENIA O NAPRAWIENIE KRZYWD, JAKICH DOZNA\u0141Y W STANIE WOJENNYM, W WYMIARZE MORALNYM I MATERIALNYM.\n5. UDZIELANIE WSZECHSTRONNEJ, BEZP\u0141ATNEJ POMOCY PRAWNEJ ZMIERZAJ\u0104CEJ DO NABYCIA OKRE\u015aLONYCH PRAW I UPRAWNIE\u0143 PRZEZ CZ\u0141ONK\u00d3W STOWARZYSZENIA.\n6. OTACZANIE SZCZEG\u00d3LN\u0104 OPIEK\u0104 MIEJSC TRAGEDII NARODU POLSKIEGO W STANIE WOJENNYM, SZCZEG\u00d3LNIE TYCH, KT\u00d3RE POCI\u0104GN\u0118\u0141Y OFIARY \u015aMIERTELNE, JAK R\u00d3WNIE\u017b MIEJSC W KT\u00d3RYCH UCZESTNICY ODNIE\u015aLI RANY W WYNIKU DZIA\u0141A\u0143 SI\u0141 WOJSKOWYCH I MILICYJNYCH, U\u017bYTYCH PRZECIWKO BEZBRONNEJ LUDNO\u015aCI.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji",
+      "dzia\u0142alno\u015b\u0107 na rzecz kombatant\u00f3w i os\u00f3b represjonowanych"
+    ],
+    "hasSameAddress": true,
+    "id": 391,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Zwi\u0105zek Os\u00f3b Represjonowanych w Stanie Wojennym"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "41",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-524",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KAD\u0141UBKA",
+      "terc": "3262011"
+    },
+    "aims": "1. CELEM STOWARZYSZENIA JEST WSPIERANIE ROZWOJU OSOBOWEGO I FIZYCZNEGO DZIECI I M\u0141ODZIE\u017bY ORAZ UDZIELANIE POMOCY I WSPARCIA ICH RODZINOM,\n2. INTEGROWANIE \u015aRODOWISK ZAINTERESOWANYCH POMOC\u0104 DZIECIOM I M\u0141ODZIE\u017bY,\n3. DZIA\u0141ANIA PROMUJ\u0104CE AKTYWNO\u015a\u0106 KULTURALN\u0104 W\u015aR\u00d3D DZIECI I M\u0141ODZIE\u017bY,\n4. OCHRONA I PROMOWANIE PRAW DZIECI I M\u0141ODZIE\u017bY,\n5. POMOC I OPIEKA NAD DZIE\u0106MI Z RODZIN UBOGICH, ROZBITYCH, WIELODZIETNYCH, NIEWYDOLNYCH WYCHOWAWCZO ORAZ ZAGRO\u017bONYCH PATOLOGI\u0104 SPO\u0141ECZN\u0104,\n6. POMOC RODZINOM W WYKONYWANIU ZADA\u0143 WYCHOWAWCZYCH,\n7. WSPIERANIE \u015aRODOWISK ZAST\u0118PCZEGO RODZICIELSTWA,\n8. UDZIELANIE POMOCY I WSPARCIA USAMODZIELNIONYM WYCHOWANKOM PLAC\u00d3WEK OPIEKU\u0143CZYCH,\n9. DOSKONALENIE KWALIFIKACJI ZAWODOWYCH CZ\u0141ONK\u00d3W STOWARZYSZENIA,",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "dzia\u0142alno\u015b\u0107 na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka"
+    ],
+    "hasSameAddress": true,
+    "id": 392,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie na rzecz Dzieci i M\u0142odzie\u017cy \"Mosty\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "18",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-460",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PI\u0141SUDSKIEGO",
+      "terc": "3262011"
+    },
+    "aims": "- WSPIERANIE PROCES\u00d3W SPO\u0141ECZNYCH BUDUJ\u0104CYCH \u015aWIADOMO\u015a\u0106 PA\u0143STWA PRAWA,\n- POPULARYZOWANIA INFORMACJI NA TEMAT PRAW I OBOWI\u0104ZK\u00d3W ZAPISANYCH W KONSTYTUCJI RP ORAZ W MI\u0118DZYNARODOWYCH DOKUMENTACH PRAW CZ\u0141OWIEKA,\n- WSPIERANIE DZIA\u0141A\u0143 OBYWATELI RP S\u0141U\u017b\u0104CYCH PRAKTYCZNEMU WYKORZYSTANIU NALE\u017bNYCH IM PRAW,\n- UDZIELANIE POMOCY PRAWNEJ CZ\u0141ONKOM STOWARZYSZENIA I INNYM OBYWATELOM RP,\n- GROMADZENIE INFORMACJI NA TEMAT \u0141AMANIA PRZEPIS\u00d3W PRAWA I NARUSZANIA KONSTYTUCJI RP PRZEZ ORGANY W\u0141ADZY PA\u0143STWA,\n- WSP\u00d3\u0141PRACA Z ORGANIZACJAMI POZARZ\u0104DOWYMI G\u0141OSZ\u0104CYMI PODOBNE CELE STATUTOWE",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych"
+    ],
+    "hasSameAddress": true,
+    "id": 393,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Vox Populi"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "75-500",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "WA\u0141Y CHROBREGO",
+      "terc": "3262011"
+    },
+    "aims": "- ZRZESZANIE ABSOLWENT\u00d3W UCZELNI, DBANIE O ICH WYSOKI POZIOM KWALIFIKACJI ZAWODOWYCH\n- POPULARYZACJA ZAWODU ABSOLWENTA, KULTURY TECHN., PRAWNEJ I OSOBISTEJ\n- ZAPEWNIENIE WYSOKIEGO POZIOMU KSZTA\u0141CENIA\n- DBANIE O PRESTI\u017b I POZYCJ\u0118 CZ\u0141ONK\u00d3W STOWARZYSZENIA\n- NIESIENIE POMOCY KOLE\u017bE\u0143SKIEJ ABSOLWENTOM\n- UDZIELANIE POMOCY UCZELNI",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 394,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Klub Absolwent\u00f3w Wy\u017cszej Szko\u0142y Morskiej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "",
+      "terc": "3262011"
+    },
+    "aims": "CELEM DZIA\u0141ANIA JEST DZIA\u0141ANIE W SFERZE ZADA\u0143 PUBLICZNYCH OBJ\u0118TYCH USTAW\u0104 O DZIA\u0141ALNO\u015aCI PO\u017bYTKU PUBLICZNEGO I WOLONTARIACIE W ZAKRESIE: UDZIELANIA POMOCY SPO\u0141ECZNEJ, W TYM POMOCY RODZINOM I OSOBOM W TRUDNEJ SYTUACJI \u017bYCIOWEJ, OCHRONY I PROMOWANIA ZDROWIA UPOWSZECHNIANIA I OCHRONY PRAW KOBIET ORAZ DZIA\u0141ALNO\u015aCI NA RZECZ R\u00d3WNYCH PRAW KOBIET I M\u0118\u017bCZYZN, PRZECIWDZIA\u0141ANIA PATOLOGIOM SPO\u0141ECZNYM.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz rodziny, macierzy\u0144stwa, rodzicielstwa, upowszechniania i ochrony praw dziecka",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 395,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie POMOC"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-789",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "GOMBROWICZA",
+      "terc": "3262011"
+    },
+    "aims": "1. STWARZANIE DZIECIOM I M\u0141ODZIE\u017bY SPRZYJAJ\u0104CYCH WARUNK\u00d3W WSZECHSTRONNEGO, DUCHOWEGO, INTELEKTUALNEGO, SPO\u0141ECZNEGO I FIZYCZNEGO ROZWOJU.\n2. STWORZENIE CI\u0104GU WYCHOWAWCZEGO W OPARCIU O \u015aRODOWISKO HARCERZY I INSTRUKTOR\u00d3W POPRZEZ GROMAD\u0118  ZUCHOW\u0104, DRU\u017bYNY HARCERSKIE DO KR\u0118GU INSTRUKTORSKIEGO.\n3. UPOWSZECHNIANIE WIEDZY O \u015aWIECIE OTACZAJ\u0104CEJ PRZYRODY, KSZTA\u0141TOWANIE POSTAW I PROWADZENIE WYCHOWANIA EKOLOGICZNEGO W STOSUNKU DO OTACZAJ\u0104CEGO CZ\u0141OWIEKA \u015aRODOWISKA.\n4. KSZTA\u0141TOWANIE OSOBOWO\u015aCI M\u0141ODEGO CZ\u0141OWIEKA W OPARCIU O WARTO\u015aCI OG\u00d3LNOLUDZKIE\n5. WSP\u00d3\u0141PRACA Z ORGANAMI SAMORZ\u0104DOWYMI GMIN I MIAST W CELU ROZWIJANIA I KSZTA\u0141TOWANIA POSTAW ODPOWIEDZIALNO\u015aCI ZA WSP\u00d3LNOT\u0118 LOKALN\u0104.\n6. WSP\u00d3\u0141PRACA Z ORGANIZACJAMI HARCERSKIMI I INNYMI ORGANIZACJAMI DZIECI I M\u0141ODZIE\u017bY DZIA\u0141AJ\u0104CYMI W KRAJU I INNYCH PA\u0143STWACH, WYMIANA DO\u015aWIADCZE\u0143.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "turystyka i krajoznawstwo"
+    ],
+    "hasSameAddress": true,
+    "id": 396,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie WATRA 2005 w Likwidacji"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-332",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "MARII SK\u0141ADOWSKIEJ CURIE",
+      "terc": "3262011"
+    },
+    "aims": "CELEM PODSTAWOWYM STOWARZYSZENIA JEST INTEGRACJA ORAZ WSPIERANIE I PROMOWANIE ABSOLWENT\u00d3W I STUDENT\u00d3W WY\u017bSZEJ SZKO\u0141Y ADMINISTRACJI PUBLICZNEJ W SZCZECINIE",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 397,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Absolwent\u00f3w Wy\u017cszej Szko\u0142y Administracji Publicznej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "43",
+      "city": "SZCZECIN",
+      "commune": "SZCZECIN",
+      "district": "SZCZECIN",
+      "postcode": "71-540",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "UL. \u015aW. \u015aW. CYRYLA I METODEGO",
+      "terc": "3262011"
+    },
+    "aims": "CELEM DZIA\u0141ALNO\u015aCI STOWARZYSZENIA PRZYJACI\u00d3\u0141 SZCZECI\u0143SKIEGO CH\u00d3RU CH\u0141OPI\u0118CEGO \"S\u0141OWIKI\" JEST:\nA) UPOWSZECHNIANIE I PROPAGOWANIE OSI\u0104GNI\u0118\u0106 MUZYCZNYCH SZCZECI\u0143SKIEGO CH\u00d3RU CH\u0141OPI\u0118CEGO \"S\u0141OWIKI\",\nB) GROMADZENIE \u015aRODK\u00d3W FINANSOWYCH W CELU WSPIERANIA DZIA\u0141ALNO\u015aCI ARTYSTYCZNEJ I STATUTOWEJ SZCZECI\u0143SKIEGO CH\u00d3RU CH\u0141OPI\u0118CEGO \"S\u0141OWIKI\"\nC)UDZIELANIE WSZECHSTRONNEJ POMOCY SZCZECI\u0143SKIEMU CH\u00d3ROWI CH\u0141OPI\u0118CEMU \"S\u0141OWIKI\" W REALIZACJI PLAN\u00d3W ARTYSTYCZNYCH I ORGANIZACYJNYCH,\nD) NAWI\u0104ZYWANIE WSP\u00d3\u0141PRACY Z \u017bYCZLIWYMI SZCZECI\u0143SKIEMU CH\u00d3ROWI CH\u0141OPI\u0118CEMU \"S\u0141OWIKI\" INSTYTUCJAMI, PRZEDSI\u0118BIORSTWAMI I OSOBAMI, KT\u00d3RE MAJ\u0104C NA SZCZEG\u00d3LNEJ UWADZE ROZW\u00d3J MUZYKI NASZEGO KRAJU CENI\u0104 DZIA\u0141ALNO\u015a\u0106 SZCZECI\u0143SKIEGO CH\u00d3RU CH\u0141OPI\u0118CEGO \"S\u0141OWIKI\" W KRZEWIENIU POLSKIEJ KULTURY W KRAJU I ZA GRANIC\u0104,\nE) UPOWSZECHNIANIE KULTURY MUZYCZNEJ W\u015aR\u00d3D SPO\u0141ECZE\u0143STWA,\nF) KULTYWOWANIE TRADYCJI MUZYCZNYCH MIASTA I REGIONU,\nG) PROPAGOWANIE POLSKIEJ KULTURY MUZYCZNEJ POZA GRANICAMI KRAJU,\nH) AKTYWACJA CH\u00d3RZYST\u00d3W,\nI) WSP\u00d3\u0141PRACA ZE STOWARZYSZENIAMI, ZESPO\u0141AMI I INSTYTUCJAMI REALIZUJ\u0104CYMI PODOBNE CELE,\nJ) INSPIROWANIE TW\u00d3RCZO\u015aCI KOMPOZYTORSKIEJ,\nK) PODEJMOWANIE INNYCH FORM DZIA\u0141ALNO\u015aCI WYNIKAJ\u0104CYCH Z AKTUALNYCH POTRZEB SPO\u0141ECZNYCH.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 398,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie Przyjaci\u00f3\u0142 Szczeci\u0144skiego Ch\u00f3ru Ch\u0142opi\u0119cego S\u0141OWIKI w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-781",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "KOLOROWYCH DOM\u00d3W",
+      "terc": "3262011"
+    },
+    "aims": "BUDOWA POMNIKA \"PAMI\u0118CI OFIAR WOJEN XX WIEKU\", UPORZ\u0104DKOWANIE TERENU PO DAWNYM CMENTARZU PRZY UL. SMUTNEJ W SZCZECINIE, UTWORZENIE LAPIDARIUM Z ELEMENT\u00d3W NAGROBK\u00d3W POZOSTA\u0141YCH NA TERENIE CMENTARZA PRZY UL. SMUTNEJ W SZCZECINIE, ZEBRANIE I ZACHOWANIE WIEDZY O HISTORII DZIELNICY KL\u0118SKOWO.\nPRZEKAZANIE POD OPIEK\u0118 PARAFII RZYMSKO KATOLICKIEJ P. W. \u015aW. STANIS\u0141AWA B. M. PRZY ULICY KOLOROWYCH DOM\u00d3W W SZCZECINIE WYKONANYCH OBIEKT\u00d3W.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 399,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Spo\u0142eczny Komitet Budowy Pomnika \"Pami\u0119ci Ofiar Wojen XX Wieku\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "70-800",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "PRZESTRZENNA",
+      "terc": "3262011"
+    },
+    "aims": "CELAMI KLUBU S\u0104 DZIA\u0141ANIA W SFERZE PO\u017bYTKU PUBLICZNEGO, DO KT\u00d3RYCH NALE\u017b\u0104:\n1) UPOWSZECHNIANIE KULTURY FIZYCZNEJ I TURYSTYKI, D\u0104\u017bENIE DO POLEPSZENIA STANU ZDROWIA DZIECI I M\u0141ODZIE\u017bY, PODNOSZENIE SPRAWNO\u015aCI FIZYCZNEJ I ROZWIJANIA SPORTU WYCZYNOWEGO,\n2) POPULARYZACJA W \u015aRODOWISKU AKADEMICKIM SZCZECINA WSZELKICH FORM JACHTINGU, TAK\u017bE JAKO ZJAWISKA KULTUROWEGO,\n3) ROZWIJANIE I MO\u017bLIWIE PE\u0141NE ZASPAKAJANIE POTRZEB \u017bEGLARSKICH SWOICH CZ\u0141ONK\u00d3W,\n4) REPREZENTOWANIE I OBRONA TYCH INTERES\u00d3W SWOICH CZ\u0141ONK\u00d3W, KT\u00d3RE ZWI\u0104ZANE S\u0104 Z UPRAWIANIEM \u017bEGLARSTWA,\n5) OSI\u0104GANIE PRZEZ CZ\u0141ONK\u00d3W KLUBU WYSOKIEGO POZIOMU UMIEJ\u0118TNO\u015aCI \u017bEGLARSKICH\n6) DZIA\u0141ANIE NA RZECZ WODNEGO I PRZYWODNEGO \u015aRODOWISKA NATURALNEGO\n7) WEWN\u0118TRZNA INTEGRACJA \u015aRODOWISKA KLUBOWEGO\n8) DZIA\u0141ANIA NA RZECZ INTEGRACJI EUROPEJSKIEJ ORAZ ROZWIJANIA KONTAKT\u00d3W I WSP\u00d3\u0141PRACY MI\u0118DZY SPO\u0141ECZE\u0143STWAMI",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "turystyka i krajoznawstwo"
+    ],
+    "hasSameAddress": true,
+    "id": 400,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Jacht Klub Akademickiego Zwi\u0105zku Sportowego w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "12",
+      "city": "SZCZECIN",
+      "commune": "M. SZCZECIN",
+      "district": "M. SZCZECIN",
+      "postcode": "71-786",
+      "province": "ZACHODNIOPOMORSKIE",
+      "simc": "0977976",
+      "street": "SZCZECI\u0143SKA",
+      "terc": "3262011"
+    },
+    "aims": "CELEM STOWARZYSZENIA JEST DZIA\u0141ANIE NA RZECZ INTEGRACJI I ROZWOJU LOKALNEGO \u015aRODOWISKA SPO\u0141ECZNEGO, POPRZEZ WSPIERANIE INICJATYW SPO\u0141ECZNYCH W NAST\u0118PUJ\u0104CYCH OBSZARACH: KULTURA, O\u015aWIATA, EDUKACJA, OCHRONA \u015aRODOWISKA, PRAWA CZ\u0141OWIEKA, OCHRONA ZDROWIA, ROZW\u00d3J REGIONALNY I LOKALNY, POMOC SPO\u0141ECZNA, A W SZCZEG\u00d3LNO\u015aCI: \n1. DZIA\u0141ANIE WSPOMAGAJ\u0104CE ROZW\u00d3J WSP\u00d3LNOT I SPO\u0141ECZNO\u015aCI LOKALNYCH,\n2. WSPIERANIE ROZWOJU SPO\u0141ECZE\u0143STWA OBYWATELSKIEGO, DZIA\u0141ANIE NA RZECZ PORZ\u0104DKU I BEZPIECZE\u0143STWA, EDUKACJI, O\u015aWIATY, OCHRONY ZDROWIA I \u015aRODOWISKA,\n3. INICJOWANIE I ORGANIZOWANIA FORM WYPOCZYNKU I ORGANIZACJI CZASU POZASZKOLNEGO W SZKO\u0141ACH I POZA NIMI.\n4. DZIA\u0141ANIA S\u0141U\u017b\u0104CE POPRAWIE INFRASTRUKTURY MIESZKANIOWEJ, EDUKACYJNEJ, TURYSTYCZNEJ,\n5. INICJOWANIE PRZEDSI\u0118WZI\u0118\u0106 NA RZECZ: PROMOCJI KULTURY FIZYCZNEJ I TURYSTYKI ORAZ ZDROWEGO TRYBU \u017bYCIA I BEZPIECZE\u0143STWA,\n6. DZIA\u0141ANIA S\u0141U\u017b\u0104CE PROPAGOWANIU OCHRONY \u015aRODOWISKA ORAZ DZIA\u0141A\u0143 PROEKOLOGICZNYCH,\n7. POMOCY SPO\u0141ECZNEJ, W TYM POMOCY RODZINOM I OSOBOM W TRUDNEJ SYTUACJI \u017bYCIOWEJ ORAZ WYR\u00d3WNYWANIA SZANS TYCH RODZIN I OS\u00d3B,\n8. WYPOCZYNKU DLA DZIECI I M\u0141ODZIE\u017bY,\n9. WSPIERANIA RODZINY I SYSTEMU PIECZY ZAST\u0118PCZEJ;\n10. TWORZENIA WARUNK\u00d3W DO ZASPOKAJANIA POTRZEB MIESZKANIOWYCH WSP\u00d3LNOTY SAMORZ\u0104DOWEJ;\n11. UDZIELANIA NIEODP\u0141ATNEJ POMOCY PRAWNEJ ORAZ ZWI\u0118KSZANIA \u015aWIADOMO\u015aCI PRAWNEJ SPO\u0141ECZE\u0143STWA;\n12. DZIA\u0141ALNO\u015aCI NA RZECZ INTEGRACJI I REINTEGRACJI ZAWODOWEJ I SPO\u0141ECZNEJ OS\u00d3B ZAGRO\u017bONYCH WYKLUCZENIEM SPO\u0141ECZNYM;\n13. DZIA\u0141ALNO\u015aCI CHARYTATYWNEJ;\n14. PODTRZYMYWANIA I UPOWSZECHNIANIA TRADYCJI NARODOWEJ, PIEL\u0118GNOWANIA POLSKO\u015aCI ORAZ ROZWOJU \u015aWIADOMO\u015aCI NARODOWEJ, OBYWATELSKIEJ I KULTUROWEJ;\n15. DZIA\u0141ALNO\u015aCI NA RZECZ MNIEJSZO\u015aCI NARODOWYCH I ETNICZNYCH ORAZ J\u0118ZYKA REGIONALNEGO;\n16. DZIA\u0141ALNO\u015aCI NA RZECZ INTEGRACJI CUDZOZIEMC\u00d3W;\n17. DZIA\u0141ANIA NA RZECZ OCHRONY I PROMOCJI ZDROWIA, W TYM DZIA\u0141ALNO\u015aCI LECZNICZEJ W ROZUMIENIU USTAWY Z DNIA 15 KWIETNIA 2011 R. O DZIA\u0141ALNO\u015aCI LECZNICZEJ (DZ. U. Z 2022 R. POZ. 633, Z P\u00d3\u0179N. ZM.);\n18. DZIA\u0141ALNO\u015aCI NA RZECZ OS\u00d3B NIEPE\u0141NOSPRAWNYCH;\n19. DZIA\u0141ANIA NA RZECZ PROMOCJI ZATRUDNIENIA I AKTYWIZACJI ZAWODOWEJ OS\u00d3B POZOSTAJ\u0104CYCH BEZ PRACY I ZAGRO\u017bONYCH ZWOLNIENIEM Z PRACY;\n20. DZIA\u0141ALNO\u015aCI NA RZECZ R\u00d3WNYCH PRAW KOBIET I M\u0118\u017bCZYZN;\n21. DZIA\u0141ALNO\u015aCI NA RZECZ OS\u00d3B W WIEKU EMERYTALNYM;\n22. DZIA\u0141ALNO\u015aCI WSPOMAGAJ\u0104CEJ ROZW\u00d3J GOSPODARCZY, W TYM ROZW\u00d3J PRZEDSI\u0118BIORCZO\u015aCI;\n23. DZIA\u0141ALNO\u015aCI WSPOMAGAJ\u0104CEJ ROZW\u00d3J TECHNIKI, WYNALAZCZO\u015aCI I INNOWACYJNO\u015aCI ORAZ ROZPOWSZECHNIANIE I WDRA\u017bANIE NOWYCH ROZWI\u0104ZA\u0143 TECHNICZNYCH W PRAKTYCE GOSPODARCZEJ;\n24. DZIA\u0141ALNO\u015a\u0106 NA RZECZ NAUKI, SZKOLNICTWA WY\u017bSZEGO, EDUKACJI, O\u015aWIATY I WYCHOWANIA;\n25. DZIA\u0141ALNO\u015aCI NA RZECZ DZIECI I M\u0141ODZIE\u017bY, W TYM WYPOCZYNKU DZIECI I M\u0141ODZIE\u017bY;\n26. DZIA\u0141ANIA NA RZECZ KULTURY, SZTUKI, OCHRONY D\u00d3BR KULTURY I DZIEDZICTWA NARODOWEGO;\n27. WSPIERANIA I UPOWSZECHNIANIA KULTURY FIZYCZNEJ;\n28. DZIA\u0141ANIA NA RZECZ EKOLOGII I OCHRONY ZWIERZ\u0104T ORAZ OCHRONY DZIEDZICTWA PRZYRODNICZEGO;\n29. DZIA\u0141ANIA NA RZECZ TURYSTYKI I KRAJOZNAWSTWA;\n30. DZIA\u0141ANIA NA RZECZ PORZ\u0104DKU I BEZPIECZE\u0143STWA PUBLICZNEGO;\n31. DZIA\u0141ANIA NA RZECZ OBRONNO\u015aCI PA\u0143STWA I DZIA\u0141ALNO\u015aCI SI\u0141 ZBROJNYCH RZECZYPOSPOLITEJ POLSKIEJ;\n32. UPOWSZECHNIANIA I OCHRONY WOLNO\u015aCI I PRAW CZ\u0141OWIEKA ORAZ SWOB\u00d3D OBYWATELSKICH, A TAK\u017bE DZIA\u0141A\u0143 WSPOMAGAJ\u0104CYCH ROZW\u00d3J DEMOKRACJI;\n33. UDZIELANIA NIEODP\u0141ATNEGO PORADNICTWA OBYWATELSKIEGO;\n34. DZIA\u0141ANIA NA RZECZ RATOWNICTWA I OCHRONY LUDNO\u015aCI;\n35. POMOCY OFIAROM KATASTROF, KL\u0118SK \u017bYWIO\u0141OWYCH, KONFLIKT\u00d3W ZBROJNYCH I WOJEN W KRAJU I ZA GRANIC\u0104;\n36. UPOWSZECHNIANIA I OCHRONY PRAW KONSUMENT\u00d3W;\n37. DZIA\u0141ALNO\u015aCI NA RZECZ INTEGRACJI EUROPEJSKIEJ ORAZ ROZWIJANIA KONTAKT\u00d3W I WSP\u00d3\u0141PRACY MI\u0118DZY SPO\u0141ECZE\u0143STWAMI;\n38. DZIA\u0141ANIA NA RZECZ PROMOCJI I ORGANIZACJI WOLONTARIATU;\n39. POMOCY POLONII I POLAKOM ZA GRANIC\u0104;\n40. DZIA\u0141ALNO\u015aCI NA RZECZ KOMBATANT\u00d3W I OS\u00d3B REPRESJONOWANYCH;\n\nW POZOSTA\u0141YM ZAKRESIE CEL DZIA\u0141ANIA STOWARZYSZENIA OKRE\u015aLA \u00a7 7 STATUTU.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "wspieranie i upowszechnianie kultury fizycznej",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 401,
+    "legalForm": "Stowarzyszenia rejestrowe",
+    "name": "Stowarzyszenie \"Nasze Warszewo\" (ORGANIZACJA PO\u017bYTKU PUBLICZNEGO)"
+  }
+]

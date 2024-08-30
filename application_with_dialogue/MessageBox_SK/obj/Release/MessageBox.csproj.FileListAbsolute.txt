@@ -1,0 +1,13 @@
+E:\Projekty\TFS\MessageBox\bin\Release\MessageBox.exe.config
+E:\Projekty\TFS\MessageBox\bin\Release\MessageBox.exe
+E:\Projekty\TFS\MessageBox\bin\Release\MessageBox.pdb
+E:\Projekty\TFS\MessageBox\bin\Release\INIFileParser.dll
+E:\Projekty\TFS\MessageBox\bin\Release\INIFileParser.xml
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.csproj.AssemblyReference.cache
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.csproj.SuggestedBindingRedirects.cache
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.Properties.Resources.resources
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.csproj.GenerateResource.cache
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.csproj.CoreCompileInputs.cache
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.csproj.CopyComplete
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.exe
+E:\Projekty\TFS\MessageBox\obj\Release\MessageBox.pdb

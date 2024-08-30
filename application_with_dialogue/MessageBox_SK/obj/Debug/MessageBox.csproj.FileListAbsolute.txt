@@ -1,0 +1,16 @@
+E:\Projekty\TFS\MessageBox\bin\Debug\MessageBox.exe.config
+E:\Projekty\TFS\MessageBox\bin\Debug\MessageBox.exe
+E:\Projekty\TFS\MessageBox\bin\Debug\MessageBox.pdb
+E:\Projekty\TFS\MessageBox\bin\Debug\INIFileParser.dll
+E:\Projekty\TFS\MessageBox\bin\Debug\INIFileParser.xml
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.csproj.AssemblyReference.cache
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.csproj.SuggestedBindingRedirects.cache
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.cache
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.csproj.CoreCompileInputs.cache
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.csproj.CopyComplete
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.exe
+E:\Projekty\TFS\MessageBox\obj\Debug\MessageBox.pdb
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\MessageBox.exe
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\MessageBox.pdb
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\MessageBox.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.AssemblyReference.cache
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MyApp\obj\Debug\net6.0-windows\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MyApp\obj\Debug\net6.0-windows\MyApp.AssemblyInfoInputs.cache
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MyApp\obj\Debug\net6.0-windows\MyApp.AssemblyInfo.cs
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.CoreCompileInputs.cache

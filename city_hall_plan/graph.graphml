@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="accessible" attr.type="boolean" />
+  <key id="d4" for="edge" attr.name="type" attr.type="string" />
+  <key id="d3" for="node" attr.name="accessible" attr.type="boolean" />
+  <key id="d2" for="node" attr.name="type" attr.type="string" />
+  <key id="d1" for="node" attr.name="fire_zone" attr.type="string" />
+  <key id="d0" for="node" attr.name="number" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="101E">
+      <data key="d0">101</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="102E">
+      <data key="d0">102</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="103E">
+      <data key="d0">103</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="104E">
+      <data key="d0">104</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="105E">
+      <data key="d0">105</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="106E">
+      <data key="d0">106</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="107E">
+      <data key="d0">107</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="108E">
+      <data key="d0">108</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="109E">
+      <data key="d0">109</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="110E">
+      <data key="d0">110</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="111E">
+      <data key="d0">111</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="112E">
+      <data key="d0">112</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="113E">
+      <data key="d0">113</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="114E">
+      <data key="d0">114</data>
+      <data key="d1">E</data>
+      <data key="d2">Office</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="1E">
+      <data key="d0">1</data>
+      <data key="d1">E</data>
+      <data key="d2">Corridor</data>
+      <data key="d3">True</data>
+    </node>
+    <node id="2E">
+      <data key="d0">2</data>
+      <data key="d1">E</data>
+      <data key="d2">Corridor</data>
+      <data key="d3">True</data>
+    </node>
+    <edge source="101E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="102E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="103E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="104E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="105E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="106E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="107E" target="1E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="108E" target="109E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="109E" target="110E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="110E" target="2E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="110E" target="111E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="110E" target="112E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="110E" target="113E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="110E" target="114E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+    <edge source="1E" target="2E">
+      <data key="d4">Door</data>
+      <data key="d5">True</data>
+    </edge>
+  </graph>
+</graphml>

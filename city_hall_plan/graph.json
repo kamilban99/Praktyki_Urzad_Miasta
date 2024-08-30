@@ -1,0 +1,208 @@
+{
+  "nodes": [
+    {
+      "id": "101E",
+      "number": 101,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "102E",
+      "number": 102,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "103E",
+      "number": 103,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "104E",
+      "number": 104,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "105E",
+      "number": 105,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "106E",
+      "number": 106,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "107E",
+      "number": 107,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "108E",
+      "number": 108,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "109E",
+      "number": 109,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "110E",
+      "number": 110,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "111E",
+      "number": 111,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "112E",
+      "number": 112,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "113E",
+      "number": 113,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "114E",
+      "number": 114,
+      "fire_zone": "E",
+      "type": "Office",
+      "accessible": true
+    },
+    {
+      "id": "1E",
+      "number": 1,
+      "fire_zone": "E",
+      "type": "Corridor",
+      "accessible": true
+    },
+    {
+      "id": "2E",
+      "number": 2,
+      "fire_zone": "E",
+      "type": "Corridor",
+      "accessible": true
+    }
+  ],
+  "edges": [
+    {
+      "source": "101E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "102E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "103E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "104E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "105E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "106E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "107E",
+      "target": "1E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "108E",
+      "target": "109E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "109E",
+      "target": "110E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "110E",
+      "target": "2E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "110E",
+      "target": "111E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "110E",
+      "target": "112E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "110E",
+      "target": "113E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "110E",
+      "target": "114E",
+      "type": "Door",
+      "accessible": true
+    },
+    {
+      "source": "1E",
+      "target": "2E",
+      "type": "Door",
+      "accessible": true
+    }
+  ]
+}

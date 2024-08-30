@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework> <!-- Updated to .NET 6 -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Windows.Forms" Version="4.0.0" /> <!-- Updated to match .NET version -->
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="4.0.0" />
+  </ItemGroup>
+
+</Project>

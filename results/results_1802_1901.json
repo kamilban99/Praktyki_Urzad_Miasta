@@ -1,0 +1,2263 @@
+[
+  {
+    "address": {
+      "buildingAndFlatNumber": "4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-552",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kazimierza Kr\u00f3lewicza",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1802,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Hydrobiologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3c",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-412",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wac\u0142awa Felczaka",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nPropagowanie osi\u0105gni\u0119\u0107 immunologicznych.\r\nDokonania organizacji:\r\nKonferencje mi\u0119dzynarodowe, krajowe i lokalne.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1803,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Immunologii Do\u015bwiadczalnej i Klinicznej Oddzia\u0142 Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "72",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-111",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Powsta\u0144c\u00f3w Wielkopolskich",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Profilaktyka i zwalczanie chor\u00f3b serca i naczy\u0144.\r\n2. Propagowanie post\u0119p\u00f3w kardiologii w\u015br\u00f3d lekarzy.\r\n3. Inicjowanie bada\u0144 naukowych.\r\n4. Kszta\u0142cenie lekarzy.\r\n5. Promocja zdrowia w\u015br\u00f3d spo\u0142ecze\u0144stwa.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1804,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Kardiologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-332",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Marii Sk\u0142odowskiej-Curie",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nkszta\u0142towanie zaanga\u017cowanych postaw spo\u0142ecznych i etycznych lekarzy, szerzenie i doskonalenie zasad deontologii lekarskiej i dba\u0142o\u015b\u0107 o jej przestrzeganie, rozwijanie nauk medycznych oraz podnoszenie poziomu naukowego i kwalifikacji zawodowych lekarzy, a tak\u017ce d\u0105\u017cenie do zapewnienia w\u0142a\u015bciwych warunk\u00f3w wykonywania zawodu lekarza, popularyzowanie w\u015br\u00f3d spo\u0142ecze\u0144stwa zasad higieny i ochrony zdrowia, udzielanie pomocy m\u0142odym lekarzom rozpoczynaj\u0105cym prac\u0119, sprawowanie opieki nad zas\u0142u\u017conymi lekarzami. \r\nCele swoje realizuje poprzez organizowanie zjazd\u00f3w, konferencji, posiedze\u0144 naukowych, prowadzenie dzia\u0142alno\u015bci popularno - naukowej i wydawniczej, organizowanie konkurs\u00f3w, wsp\u00f3\u0142prac\u0119 z innymi towarzystwami naukowymi i firmami farmaceutycznymi. Oddzia\u0142 Regionalny PTL w Szczecinie jest jednym z 47 istniej\u0105cych w kraju. Z Zarz\u0105dem G\u0142\u00f3wnym PTL wsp\u00f3\u0142pracuj\u0105 tak\u017ce 24 sekcje specjalistyczne PTL.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1805,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Lekarskie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-434",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Juliusza S\u0142owackiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. ochrona dobra narodowego, jakim jest \u015brodowisko naturalne, krajobraz i lasy,\r\n2. rozw\u00f3j nauk le\u015bnych i pokrewnych, krzewienie ich dorobku oraz\r\nwsp\u00f3\u0142dzia\u0142anie we wdra\u017caniu ich osi\u0105gni\u0119\u0107 do praktyki,\r\n3. propagowanie modelu wielofunkcyjnej i zr\u00f3wnowa\u017conej gospodarki le\u015bnej,\r\n4. edukacja ekologiczna i le\u015bna spo\u0142ecze\u0144stwa,\r\n5. upowszechnienie tradycji i kultury le\u015bnej,\r\n6. dzia\u0142anie na rzecz integracji i wsp\u00f3\u0142pracy mi\u0119dzynarodowej w zakresie\r\nle\u015bnictwa oraz nauk le\u015bnych i pokrewnych \u2013 rozwijanie w tym zakresie\r\nkontakt\u00f3w i wymiany do\u015bwiadcze\u0144,\r\n7. reprezentowanie \u015brodowiska le\u015bnik\u00f3w w spo\u0142ecze\u0144stwie,\r\n8. reprezentowanie interes\u00f3w zbiorowych swych cz\u0142onk\u00f3w wobec organ\u00f3w\r\nw\u0142adzy publicznej.\r\nDokonania 2019:\r\n1. Patronat nad organizacj\u0105 Balu Le\u015bnik\u00f3w.\r\n2. Warsztaty dla nauczycieli Super surowiec.\r\n3. Rodzinne sadzenie lasu z mieszka\u0144cami osiedli Wielgowo-Zdunowo-S\u0142awociesze oraz przedstawicielami lokalnych w\u0142adz samorz\u0105dowych W lesie z mam\u0105 i tat\u0105.\r\n4. Budowa infrastruktury turystycznej w parkach krajobrazowych wojew\u00f3dztwa zachodniopomorskiego w celu zmniejszenia antropopresji-etap 2-konferencja.\r\n5. Akcja porz\u0105dkowania niemieckiego cmentarza na terenie le\u015bnictwa Rurzyca.\r\n6. Ekologia-moda czy styl \u017cycia? X Sejmik Samorz\u0105d\u00f3w Uczniowskich.\r\n7. Turniej gry planszowej \u017bywio\u0142y lasu.\r\n8. Edukacyjna impreza plenerowa dla szk\u00f3\u0142 Dni Lasu 2019.\r\n9. X Zachodniopomorski Dzie\u0144 Owada.\r\n10. Organizacja Sp\u0142ywu Niepodleg\u0142o\u015bci rzek\u0105 In\u0105.\r\n11. Organizacja VII Wiosennego Sp\u0142ywu Kajakowego MIA\u0141A 2019 wraz z gr\u0105 terenow\u0105.\r\n12. Organizacja le\u015bnego rajdu na orientacj\u0119 dla harcerzy Drezdeneckiego Szczepu Harcerskiego PUSZCZA.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 1806,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Le\u015bne Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1807,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Logopedyczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-500",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1808,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Ludoznawcze"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3a",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-412",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wac\u0142awa Felczaka",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1809,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Magnezologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 1810,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Marketingu"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-451",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wielkopolska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nOrganizacja konferencji matematycznych i dla nauczycieli, odczyty dla cz\u0142onk\u00f3w PTM oraz uczni\u00f3w szk\u00f3\u0142 \u015brednich.\r\nDokonania:\r\nZorganizowano 8 konferencji \u015brodowiskowych matematyk\u00f3w, 8 - og\u00f3lnopolskich z Historii Matematyki.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1811,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Matematyczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19/p.3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-310",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Piast\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nZebrania naukowe, seminaria, odczyty, konferencje naukowo - techniczne, sympozja.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1812,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Mechaniki Teoretycznej i Stosowanej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "33",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-347",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Boles\u0142awa \u015amia\u0142ego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. upowszechnianie zdobyczy naukowych w zakresie medycyny pracy i zdrowotnych skutk\u00f3w szkodliwo\u015bci \u015brodowiska oraz szerzenie post\u0119pu w tych dziedzinach;\r\n2. inspirowanie dzia\u0142alno\u015bci naukowo-badawczej w dziedzinie medycyny i higieny pracy oraz u\u0142atwianie cz\u0142onkom Towarzystwa prowadzenia tej dzia\u0142alno\u015bci;\r\n3. wsp\u00f3\u0142dzia\u0142anie w organizowaniu opieki zdrowotnej nad pracuj\u0105cymi, a zw\u0142aszcza zg\u0142aszanie wniosk\u00f3w dotycz\u0105cych plan\u00f3w jej rozwoju i program\u00f3w dzia\u0142ania;\r\n4. opracowywanie opinii, wniosk\u00f3w i postulat\u00f3w w zakresie rozwoju medycyny i higieny pracy;\r\n5. podnoszenie zawodowych i naukowych kwalifikacji cz\u0142onk\u00f3w Towarzystwa;\r\n6. uczestniczenie w ustalaniu program\u00f3w i metod kszta\u0142cenia specjalistycznego i ustawicznego oraz kszta\u0142cenia przeddyplomowego w zakresie medycyny pracy i wsp\u00f3\u0142dzia\u0142anie w prowadzeniu tych szkole\u0144;\r\n7. aktywizacja dzia\u0142alno\u015bci profilaktycznej zmierzaj\u0105cej do zmniejszenia nara\u017cenia zawodowego, w celu ograniczenia jego niekorzystnych skutk\u00f3w zdrowotnych oraz dba\u0142o\u015b\u0107 o jako\u015b\u0107 profilaktycznej opieki zdrowotnej;\r\n8. aktywizacja dzia\u0142alno\u015bci zmierzaj\u0105cej do wczesnego wykrywania chor\u00f3b przyczynowo zwi\u0105zanych ze \u015brodowiskiem pracy, wdra\u017canie i prowadzenie edukacji zdrowotnej;\r\n9. inicjowanie i upowszechnianie program\u00f3w promocji zdrowia pracuj\u0105cych;\r\n10. udzia\u0142 w procesie weryfikacji wiedzy i umiej\u0119tno\u015bci lekarzy specjalizuj\u0105cych si\u0119 w medycynie pracy;\r\n11. opracowywanie, rozpowszechnianie i uaktualnianie standard\u00f3w post\u0119powania w medycynie pracy;\r\n12. reprezentowanie interes\u00f3w zdrowotnych os\u00f3b pracuj\u0105cych i podejmowanie stara\u0144 o ich uwzgl\u0119dnienie wobec w\u0142adz administracyjnych oraz pracodawc\u00f3w.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1813,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Medycyny Pracy Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "72",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-111",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Powsta\u0144c\u00f3w Wielkopolskich",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nzajmowanie si\u0119 problematyk\u0105 medycyny spo\u0142ecznej i zdrowia publicznego, organizacja  sympozj\u00f3w (ostanie w 1998r.).",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1814,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Medycyny Spo\u0142ecznej i Zdrowia Publicznego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "45/2/23",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-311",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Piast\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nSpotkania integracyjne \u015brodowisk naukowych i mikrobiolog\u00f3w rejonu zachodniopomorskiego celem propagowania wiedzy, nowych osi\u0105gni\u0119\u0107 nauk biologicznych, medycznych, weterynaryjnych z zakresu szeroko poj\u0119tej mikrobiologii.\r\nDokonania:\r\n2013-2016:\r\nZebrania naukowo-szkoleniowe w ilo\u015bci 10, wyk\u0142ady i dyskusje w ilo\u015bci 17. W 2015 roku zorganizowano konferencj\u0119 V Pomorskie Spotkanie z Mikrobiologi\u0105 w Pogorzelicy, w kt\u00f3rej wzi\u0119\u0142o udzia\u0142 60 uczestnik\u00f3w.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1815,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Mikrobiolog\u00f3w Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "48/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-311",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Piast\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "Cele organiacji:\r\nCelem Towarzystwa jest uprawianie i szerzenie w spo\u0142ecze\u0144stwie wiedzy o Wszech\u015bwiecie przez:\r\n1. zjednoczenie os\u00f3b pracuj\u0105cych na polu astronomii i nauk pokrewnych oraz interesowanie si\u0119 tymi dziedzinami wiedzy,\r\n2. zaznajamianie cz\u0142onk\u00f3w Towarzystwa z najnowszymi post\u0119pami nauk astronomicznych i nauk pokrewnych oraz pobudzanie do w\u0142asnych bada\u0144,\r\n3. popularyzacj\u0119 wiedzy astronomicznej w\u015br\u00f3d najszerszych sfer spo\u0142ecze\u0144stwa, a w szczeg\u00f3lno\u015bci w\u015br\u00f3d m\u0142odzie\u017cy.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "48",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-311",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Piast\u00f3w",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1816,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Mi\u0142o\u015bnik\u00f3w Astronomii Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 1817,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Mi\u0142o\u015bnik\u00f3w Kaktus\u00f3w"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 1818,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Mi\u0142o\u015bnik\u00f3w R\u00f3\u017c"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17/p.311",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-434",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Juliusza S\u0142owackiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nDzia\u0142anie na rzecz rozwoju oraz post\u0119pu naukowego i technicznego w produkcji ro\u015blinnej. Upowszechnianie osi\u0105gni\u0119\u0107 naukowych i wymiana do\u015bwiadcze\u0144 w zakresie produkcji ro\u015blinnej i ochrony \u015brodowiska. Towarzystwo realizuje swoje cele poprzez organizowanie posiedze\u0144 naukowych, sympozj\u00f3w, konferencji, organizowanie publicznych odczyt\u00f3w i wyk\u0142ad\u00f3w, organizowanie i prowadzenie prac naukowo-badawczych, organizowanie i pog\u0142\u0119bianie wsp\u00f3\u0142pracy z pokrewnymi instytucjami i stowarzyszeniami krajowymi i zagranicznymi, wsp\u00f3\u0142udzia\u0142 w opracowaniu i wydawaniu kwartalnika \"Fragmenta Agronomica\" i innych opracowa\u0144.\r\nDokonania:\r\nOrganizowanie spotka\u0144, odczyt\u00f3w, seminari\u00f3w itp.\r\n2019:\r\nOrganizacja Konferencji Naukowo-Dydaktycznej w Szczecinie \"Alternatywne kierunki hodowli i produkcji ro\u015blin\".",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1819,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Agronomiczne Oddzia\u0142 Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1820,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Nauk Politycznych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "31",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-453",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Papie\u017ca Jana Paw\u0142a II",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1821,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Neofilologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-252",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. POG\u0141\u0118BIANIE WIEDZY W ZAKRESIE NAUK ZWI\u0104ZANYCH Z UK\u0141ADEM NERWOWYM, W\r\nSZCZEG\u00d3LNO\u015aCI CHIRURGI\u0104 UK\u0141ADU NERWOWEGO ORAZ POPIERANIE BADA\u0143 I PRAC NAUKOWYCH,\r\nDLA ROZWOJU OCHRONY ZDROWIA LUDZI W ZAKRESIE OBJ\u0118TYM T\u0104 DZIEDZIN\u0104 MEDYCYNY.\r\n2. PODNOSZENIE WIEDZY FACHOWEJ CZ\u0141ONK\u00d3W DLA ZWI\u0118KSZENIA REALNEJ OCHRONY ZDROWIA\r\nPACJENT\u00d3W.\r\n3. WSP\u00d3\u0141PRACA Z POLSK\u0104 AKADEMI\u0104 NAUK, POLSK\u0104 AKADEMI\u0104 UMIEJ\u0118TNO\u015aCI, POLSKIM\r\nTOWARZYSTWEM NEUROLOGICZNYM ORAZ INNYMI TOWARZYSTWAMI NAUKOWYMI KRAJOWYMI I\r\nZAGRANICZNYMI.\r\n4. WSP\u00d3\u0141PRACA Z IZBAMI LEKARSKIMI, SAMORZ\u0104DEM LEKARSKIM, ZWI\u0104ZKAMI ZAWODOWYMI I\r\nINNYMI ORGANIZACJAMI S\u0141U\u017bBY ZDROWIA W ZAKRESIE ZADA\u0143 ZWI\u0104ZANYCH Z NEUROCHIRURGI\u0104.\r\n5. REPREZENTOWANIE NEUROCHIRURGII POLSKIEJ W KRAJU I ZA GRANIC\u0104.\r\n6. KRZEWIENIE ZASAD DEONTOLOGII LEKARSKIEJ.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1822,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Oddzia\u0142 Zachodniopomorski Klinika Neurochirurgii Akademii Medycznej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "54",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-210",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017bo\u0142nierska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nDzia\u0142alno\u015b\u0107 naukowa i szkoleniowa.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1823,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Neurologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "27",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-561",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Starom\u0142y\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nZbieranie walor\u00f3w numizmatycznych, emisja medali, dzia\u0142alno\u015b\u0107 wystawiennicza i odczytowa.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1824,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Numizmatyczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-344",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Strza\u0142owska",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1825,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Onkologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-415",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Papie\u017ca Jana Paw\u0142a II",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Ochrona i promocja zdrowia w zakresie wieloaspektowej problematyki stomijnej.\r\n2. Dzia\u0142anie na rzecz os\u00f3b niepe\u0142nosprawnych posiadaj\u0105cych stomi\u0119. \r\n3. Promocja i organizacja ruchu wzajemnego niesienia pomocy na rzecz os\u00f3b ze stomi\u0105. \r\n4. Podejmowanie dzia\u0142a\u0144 zmierzaj\u0105cych do osi\u0105gni\u0119cia pe\u0142ni aktywno\u015bci \u017cyciowej os\u00f3b, kt\u00f3rym wytworzono operacyjnie czasow\u0105 lub sta\u0142\u0105 stomi\u0119, a w szczeg\u00f3lno\u015bci kolostomi\u0119, ileostomi\u0119, urostomi\u0119 lub inn\u0105 przetok\u0119 wymagaj\u0105c\u0105 sta\u0142ego zaopatrzenia w sprz\u0119t stomijny. \r\n5. Niesienie wszechstronnej pomocy w szybkim powrocie do normalno\u015bci os\u00f3b posiadaj\u0105cych stomi\u0119 i udzielanie wsparcia psychicznego osobom nowo operowanym i ich rodzinom. \r\n6. Budzenie i pog\u0142\u0119bianie wra\u017cliwo\u015bci spo\u0142ecznej r\u00f3\u017cnych \u015brodowisk na problemy os\u00f3b posiadaj\u0105cych stomi\u0119 i propagowanie idei niesienia pomocy tym osobom.",
+    "benefitZones": [
+      "dzia\u0142alno\u015bci na rzecz organizacji pozarz\u0105dowych oraz podmiot\u00f3w wymienionych w art. 3 ust. 3 ustawy o dzia\u0142alno\u015bci po\u017cytku publicznego i o wolontariacie , w zakresie okre\u015blonym w pkt 1-32",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "1/15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-344",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jana Karola Chodkiewicza",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1826,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Stomijne POL-ILKO"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-410",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u015aw. Wojciecha",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1827,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Ortopedyczne i Traumatologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-252",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1828,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Otolaryngologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-550",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kazimierza Kr\u00f3lewicza",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1829,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Parazytologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-252",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1) podnoszenie poziomu naukowego i kwalifikacji zawodowych cz\u0142onk\u00f3w Towarzystwa,\r\n2) inicjowanie prac naukowych w zakresie patologii i patomorfologii,\r\n3) popieranie tw\u00f3rczo\u015bci naukowej,\r\n4) udost\u0119pnianie i rozpowszechnianie zdobyczy naukowych,\r\n5) wsp\u00f3\u0142dzia\u0142anie w organizowaniu spo\u0142ecznej s\u0142u\u017cby zdrowia i w rozwi\u0105zywaniu problem\u00f3w z jej dzia\u0142alno\u015bci\u0105,\r\n6) utrzymywanie kontakt\u00f3w z towarzystwami naukowymi polskimi i zagranicznymi,\r\n7) troska o wysoki poziom etyczny cz\u0142onk\u00f3w.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1830,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Patolog\u00f3w Oddzia\u0142 Szczeci\u0144ski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "16/17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-431",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Micha\u0142a Kleofasa Ogi\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Udzia\u0142 w rozwoju nauk pedagogicznych i popularyzacja ich osi\u0105gni\u0119\u0107 w kraju i zagranic\u0105.\r\n2. prowadzenie, wspieranie i propagowanie bada\u0144 w zakresie nauk pedagogicznych oraz popularyzacja ich wynik\u00f3w.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1831,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Oddzia\u0142 Polskiego Towarzystwa Pedagogicznego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-252",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1832,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Pediatryczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1833,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Piel\u0119gniarskie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-602",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u015awi\u0119tos\u0142awy Storrady",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nPopularyzacja wiedzy z zakresu Nauk o Ziemi. Wykonywanie prac naukowo-badawczych na rzecz: geologii in\u017cynieryjnej, hydrogeologii, ochrony \u015brodowiska i ekologii wojew\u00f3dztwa Zachodniopomorskiego i miasta Szczecina.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 1834,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Przyjaci\u00f3\u0142 Nauk o Ziemi"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-392",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "ks. Piotra Wawrzyniaka",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji"
+    ],
+    "hasSameAddress": true,
+    "id": 1835,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Przyjaci\u00f3\u0142 ONZ"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "17",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-434",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Juliusza S\u0142owackiego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "4/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-550",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kazimierza Kr\u00f3lewicza",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1836,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Przyrodnik\u00f3w im. M.Kopernika"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "26",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-460",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "W\u0142adys\u0142awa Broniewskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nDzia\u0142alno\u015b\u0107 naukowo - szkoleniowa z zakresu psychiatrii.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1837,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Psychiatryczne Oddzia\u0142 Szczeci\u0144ski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-392",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "ks. Piotra Wawrzyniaka",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nRozwijanie i popularyzacja psychologii jako nauki i zawodu oraz szczeg\u00f3lna  dba\u0142o\u015b\u0107 o to, by dyscyplina ta w zgodzie z warto\u015bciami humanistycznymi s\u0142u\u017cy\u0142a ludziom pomoc\u0105 w \u017cyciu i zachowaniu zdrowia. \r\nTowarzystwo realizuje sw\u00f3j cel poprzez mi\u0119dzy innymi:\r\n1. Stwarzanie warunk\u00f3w sprzyjaj\u0105cych rozwijaniu spo\u0142ecznej, naukowej i dydaktycznej dzia\u0142alno\u015bci cz\u0142onk\u00f3w oraz podnoszeniu ich kwalifikacji i etyki zawodowej.\r\n2. Dba\u0142o\u015b\u0107 o poziom kompetencji zawodowych psycholog\u00f3w poprzez organizowanie szkole\u0144, kurs\u00f3w i konsultacji oraz udzia\u0142 w procedurach specjalizacyjnych.\r\n3. Dzia\u0142anie na rzecz rozwijania metod oraz standard\u00f3w bada\u0144 i praktyki psychologicznej.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1838,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Psychologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-252",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nDzia\u0142alno\u015b\u0107 naukowo-dydaktyczna. Popularyzacja zagadnie\u0144 reumatologicznych poprzez odczyty i referaty na forum innych towarzystw naukowych.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1839,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Reumatologiczne Oddzia\u0142 Szczeci\u0144sko-Koszali\u0144ski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1840,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Rusycystyczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19A",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-467",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Monte Cassino",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Rozw\u00f3j bazy schronisk m\u0142odzie\u017cowych - ich organizowanie, budowa i prowadzenie.\r\n2. Wspieranie szkolnych schonisk m\u0142odzie\u017cowych.\r\n3. Uczestniczenie w procesie edukacyjnym polskiej szko\u0142y.       \r\n4. Upowszechnianie turystyki jako formy wypoczynku i rekreacji m\u0142odzie\u017cy.\r\n5. Organizowanie tras typowych PTSM i oboz\u00f3w w\u0119drownych w oparciu g\u0142\u00f3wnie o schroniska m\u0142odzie\u017cowe, a w przypadku ich braku o inn\u0105 tani\u0105 baz\u0119 noclegow\u0105.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015bci na rzecz dzieci i m\u0142odzie\u017cy, w tym wypoczynku dzieci i m\u0142odzie\u017cy"
+    ],
+    "hasSameAddress": true,
+    "id": 1841,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Schronisk M\u0142odzie\u017cowych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "71/79",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-017",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Krakowska",
+      "terc": "3262011"
+    },
+    "aims": "Polskie Towarzystwo Socjologiczne jest organizacj\u0105 popieraj\u0105c\u0105 rozw\u00f3j socjologiczny oraz upowszechnianie wiedzy socjologicznej. Swoje cele realizuje poprzez:\r\n1)inicjowanie, organizowanie oraz wspieranie bada\u0144 naukowych, \r\n2)organizowanie konferencji, seminari\u00f3w, kurs\u00f3w o charakterze naukowym lub popularno-naukowym, \r\n3)ustanawianie stypendi\u00f3w, nagr\u00f3d, \r\n4)inicjowanie oraz wydawanie publikacji naukowych.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1842,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Socjologiczne Oddzia\u0142 Szczeci\u0144ski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "65",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-382",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jagiello\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 1843,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Spo\u0142eczno-Sportowe SPRAWNI RAZEM"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-530",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jana Matejki",
+      "terc": "3262011"
+    },
+    "aims": "Najwa\u017cniejsza dzia\u0142ano\u015b\u0107:\r\n1. Organizowanie posiedze\u0144 naukowych, zjazd\u00f3w, symfozi\u00f3w, regionalnych konferencj  i lub kongres\u00f3w naukowych, \r\n2. Organizowanie odczyt\u00f3w i wyk\u0142ad\u00f3w oraz innych form upowszechniania statystyki, \r\n3. Organizowanie i pog\u0142\u0119bianie wsp\u00f3\u0142pracy z pokrewnymi  instytucjami i stowarzyszeniami krajowymi i zagranicznymi, \r\n4. Opracowywanie i wydawanie przegl\u0105d\u00f3w statystycznych, .\r\n5. Organizowanie kurs\u00f3w z zakresu statystyki oraz opracowywanie analiz statystycznych na zlecenie. \r\nCele organizacji:\r\n Rozwijanie spo\u0142ecznej, naukowej i zawodowej \r\ndzia\u0142alno\u015bci cz\u0142onk\u00f3w w dziedzinie teorii, metodologii, praktyki i upowszechniania statystyki. \r\nDokonania: \r\nOpracowanie i wydanie dw\u00f3ch przegl\u0105d\u00f3w statystycznych: \r\n1. Przegl\u0105d Statystyczny Wojew\u00f3dztw P\u00f3\u0142nocno-Zachodnich, Szczecin 1993, Zeszyt Nr 1 \r\n2. Przegl\u0105d Statystyczny Wojew\u00f3dztwa Zachodniopomorskiego , Szczecin 2002 Zeszyt Nr 2",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1844,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Statystyczne Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-332",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Marii Sk\u0142odowskiej-Curie",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nOchrona zdrowia, rozszerzanie wiedzy naukowej w\u015br\u00f3d stomatolog\u00f3w, organizacja spotka\u0144 w celu rozwijania o\u015bwiaty zdrowotnej w\u015br\u00f3d \u015brodowiska szczeci\u0144skiego.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1845,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Stomatologiczne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-504",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Zygmunta Starego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Upowszechnianie ruchu tanecznego poprzez prowadzenie dzia\u0142alno\u015bci kulturalno - o\u015bwiatowej.\r\n2. Organizowanie wsp\u00f3\u0142zawodnictwa sportowego w dyscyplinach tanecznych, a w szczeg\u00f3lno\u015bci:\r\n- wsp\u00f3lna praca jego cz\u0142onk\u00f3w nad rozwojem ruchu tanecznego zgodnie ze statutem i uchwa\u0142ami programowymi Walnych Zjazd\u00f3w Towarzystwa,\r\n- upowszechnianie i stwarzanie warunk\u00f3w dla rozwoju artystycznego i sportowego ruchu tanecznego w celu sta\u0142ego podnoszenia jego poziomu,\r\n- d\u0105\u017cenie do zrzeszenia i zintegrowania wszystkich os\u00f3b zwi\u0105zanych z ta\u0144cem towarzyskim i innymi formami tanecznymi, a tak\u017ce sympatyk\u00f3w tego ruchu,\r\n- oddzia\u0142ywania w zakresie wychowania estetycznego, podnoszenia poziomu kultury i obyczajowo\u015bci \u017cycia codziennego i form towarzyskich oraz rozwijanie aktywno\u015bci spo\u0142ecznej, zami\u0142owa\u0144, wra\u017cliwo\u015bci kulturalnej i artystycznej,\r\n- rozwijanie uzdolnie\u0144 taneczno - muzycznych dzieci i m\u0142odzie\u017cy, pog\u0142\u0119bianie zami\u0142owa\u0144 do sztuki tanecznej oraz aktywne uczestniczenie w dzia\u0142alno\u015bci artystycznej, o\u015bwiatowej i wychowawczej,\r\n- organizowanie ca\u0142okszta\u0142tu dzia\u0142a\u0144 amatorskiego ruchu tanecznego oraz wynikaj\u0105cej st\u0105d problematyki,\r\n- reprezentowanie sportowego ta\u0144ca towarzyskiego i innych form tanecznych wobec organ\u00f3w i instytucji centralnych oraz na forum mi\u0119dzynarodowym,\r\n- organizowanie wsp\u00f3\u0142zawodnictwa sportowego w dyscyplinach tanecznych.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "wspieranie i upowszechnianie kultury fizycznej"
+    ],
+    "hasSameAddress": true,
+    "id": 1846,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Taneczne - Okr\u0119g Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "37/316",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-464",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Monte Cassino",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Pog\u0142\u0119bianie i szerzenie wiedzy w zakresie sztuki przek\u0142adu oraz piel\u0119gnowanie j\u0119zyka polskiego, ze szczeg\u00f3lnym uwzgl\u0119dnieniem potrzeb t\u0142umaczy przysi\u0119g\u0142ych i specjalistycznych.\r\n2. Dba\u0142o\u015b\u0107 o wysok\u0105 rang\u0119 zawodu t\u0142umacza przysi\u0119g\u0142ego i przestrzeganie zasad jego etyki zawodowej oraz upowszechnianie wiedzy o roli t\u0142umacza w realizacji prawa cz\u0142owieka do rzetelnego procesu.\r\n3. Podejmowanie dzia\u0142a\u0144 na rzecz integracji europejskiej, rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy t\u0142umaczami s\u0105dowymi innych kraj\u00f3w.\r\n4. Dbanie o finansowe i prawne interesy cz\u0142onk\u00f3w Towarzystwa.\r\n5. Organizowanie pomocy kole\u017ce\u0144skiej cz\u0142onkom PT Tepis.\r\n6. Wydawanie opinii na temat jako\u015bci t\u0142umaczenia specjalistycznego zgodnie z przyj\u0119tym regulaminem.\r\n7. Podejmowanie dzia\u0142a\u0144 na rzecz rozwijania kontakt\u00f3w i wsp\u00f3\u0142pracy z instytucjami i organizacjami krajowymi, zagranicznymi i mi\u0119dzynarodowymi.\r\nNajwa\u017cniejsza dzia\u0142alno\u015b\u0107:\r\nOrganizacja seminari\u00f3w doskonalacych umiej\u0119tno\u015bci zawodowe t\u0142umaczy specjalistycznych: Warsztaty Przek\u0142adu Prawniczego i Specjalistycznego.\r\nDokonania:\r\n1. Tradycje rzymskie we wsp\u00f3\u0142czesnym j\u0119zyku prawniczym\r\ndr Rita Stankiewicz - adiunkt w Katedrze Prawa Rzymskiego Uniwersytetu Szczeci\u0144skiego, prodziekan.\r\n2. Dyskusja: Moda na zaw\u00f3d t\u0142umacza: relacja adept - biuro t\u0142umacze\u0144, adept - opiekun sta\u017cu, student \u2013 nauczyciel- Paulina Le\u015bniak - prezes Zarz\u0105du Pomorskiego Ko\u0142a PT TEPIS w Szczecinie.\r\n3. Liry, lutnie, dudy i archaiczny g\u0142os - to w\u0142a\u015bnie brzmienie szczeci\u0144skiego zespo\u0142u muzyki \u015bredniowiecznej \"Tryzna\", kt\u00f3ry odkrywa muzyk\u0119 minionych epok. Grupa wykonuje utwory z X - XV w. na replikach instrument\u00f3w dawnych, w r\u0119cznie wykonanych strojach z epoki. \r\n4. Podsumowanie prac nad kodeksem t\u0142umacza przysi\u0119g\u0142ego-Paulina Le\u015bniak -  t\u0142umacz przysi\u0119g\u0142y j\u0119zyka niemieckiego, prezes Zarz\u0105du Pomorskiego Ko\u0142a PT TEPIS w Szczecinie.\r\n5. Komunikacja j\u0119zykowa, jako pogranicze psychologii i j\u0119zyka-dr psychologii Eunice Hempoli\u0144ska \u2013 Nowik - psycholog, psychoterapeuta, wyk\u0142adowca, zast\u0119pca dyrektora Instytutu Psychologii Wydzia\u0142u Humanistycznego Uniwersytetu Szczeci\u0144skiego, wiceprzewodnicz\u0105ca Zarz\u0105du Polskiego Towarzystwa Psychologicznego w Szczecinie.\r\n6. \u201eSprawa Kellgrena\u201d, czyli t\u0142umacz na sali s\u0105dowej - Marian Baranowski - t\u0142umacz przysi\u0119g\u0142y j\u0119zyka angielskiego, cz\u0142onek Zarz\u0105du Pomorskiego Ko\u0142a PT TEPIS.\r\n7. VIII Walne Zgromadzenie Cz\u0142onk\u00f3w Polskiego Towarzystwa T\u0142umaczy TEPIS (Warszawa, 14.10.2011), XXV Warsztaty Przek\u0142adu Prawniczego i Specjalistycznego (Warszawa, 15.10.2011) \u2013 sprawozdanie Marian Baranowski, t\u0142umacz przysi\u0119g\u0142y j\u0119zyka angielskiego, cz\u0142onek Zarz\u0105du Pomorskiego Ko\u0142a PT TEPIS.\r\n8. Udzia\u0142 t\u0142umacza przy czynno\u015bciach notarialnych-Zofia Daleszy\u0144ska, notariusz prowadz\u0105ca Kancelari\u0119 Notarialn\u0105 w Szczecinie.\r\n9. IX SZCZECI\u0143SKIE LABORATORIUM \r\nT\u0141UMACZY-Post\u0119powanie przed izbami morskimi \u2013 wypadki morskie, sk\u0142adanie protest\u00f3w morskich etc. ",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1847,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Pomorskie Ko\u0142o Polskiego Towarzystwa T\u0142umaczy Przysi\u0119g\u0142ych i Specjalistycznych TEPIS"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "32/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-450",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wielkopolska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Pomoc spo\u0142eczna osobom niepe\u0142nosprawnym i ich rodzinom w trudnej sytuacji \u017cyciowej oraz wyr\u00f3wnanie szans tych rodzin i os\u00f3b.\r\n2. Dzia\u0142alno\u015b\u0107 w \u015brodowisku os\u00f3b niepe\u0142nosprawnych na rzecz podtrzymania tradycji narodowej, piel\u0119gnowania polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej.\r\n3. Ochrona i promocja zdrowia w\u015br\u00f3d os\u00f3b oraz profilaktyka niepe\u0142nosprawno\u015bci i rozw\u00f3j rehabilitacji spo\u0142ecznej.\r\n4. Promocja zatrudnienia i aktywizacji zawodowej os\u00f3b niepe\u0142nosprawnych pozostaj\u0105cych bez pracy i zagro\u017conych zwolnieniem z pracy.\r\n5. Upowszechnianie i ochrona praw kobiet niepe\u0142nosprawnych oraz dzia\u0142alno\u015b\u0107 na rzecz r\u00f3wnych praw kobiet i m\u0119\u017cczyzn pe\u0142nosprawnych i niepe\u0142nosprawnych.\r\n6. Dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci os\u00f3b niepe\u0142nosprawnych.\r\n7. Krzewienie nauki, edukacji, o\u015bwiaty i wychowania w \u015brodowisku os\u00f3b niepe\u0142nosprawnych.\r\n8. Rozw\u00f3j kultury i sztuki w\u015br\u00f3d os\u00f3b niepe\u0142nosprawnych.\r\n9. Upowszechnianie i ochrona praw os\u00f3b niepe\u0142nosprawnych jako konsument\u00f3w i \u015bwiadczeniobiorc\u00f3w.\r\n10. Dzia\u0142ania na rzecz integracji europejskiej oraz rozwijanie kontakt\u00f3w i wsp\u00f3\u0142pracy mi\u0119dzy \u015brodowiskami os\u00f3b niepe\u0142nosprawnych i organizacjami.\r\n11. Dzia\u0142alno\u015b\u0107 popularyzatorska i organizacyjna w zakresie profilaktyki, leczenia, rehabilitacji, zaopatrzenia ortopedycznego, psychologii i pedagogiki oraz zapobiegania patologiom spo\u0142ecznym.\r\n12. Dzia\u0142alno\u015b\u0107 charytatywna na rzecz os\u00f3b niepe\u0142nosprawnych i ich rodzin.\r\n13. Dzia\u0142alno\u015b\u0107 wpomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych w \u015brodowisku os\u00f3b niepe\u0142nosprawnych.\r\n14. Dzia\u0142alno\u015b\u0107 na rzecz porz\u0105dku i bezpiecze\u0144stwa publicznego oraz przeciwdzia\u0142anie alkoholizmowi i patologiom spo\u0142ecznym jako \u017ar\u00f3d\u0142om niepe\u0142nosprawno\u015bci.\r\n15. Rozw\u00f3j krajoznawstwa oraz form wypoczynku niepe\u0142nosprawnych, a zw\u0142aszcza wypoczynku dzieci i m\u0142odzie\u017cy.\r\nDokonania:\r\n1. Realizacja projektu \"Czas bez nudy\", w ramach kt\u00f3rego organizowane by\u0142y imprezy integracyjne dla os\u00f3b niepe\u0142nosprawnych i ich rodzin np. Andrzejki, Sylwester, \u015awi\u0119to pieczonego ziemniaka, ognisko integracyjne.\r\n2. Spotkania popo\u0142udniowe w Klubie - szachy, warcaby, kawiarenka internetowa.\r\n3. Wsp\u00f3\u0142udzia\u0142 w realizacji przedsi\u0119wzi\u0119\u0107 Zarz\u0105du Oddzia\u0142u.\r\n4. Organizacja spotka\u0144 okoliczno\u015bciowych dla os\u00f3b na w\u00f3zkach inwalidzkich, dora\u017ane szkolenia w obs\u0142udze komputer\u00f3w i korzystania z Internetu.\r\n5. Prowadzenie i aktualizowanie strony internetowej TWK w Szczecinie.",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b niepe\u0142nosprawnych"
+    ],
+    "hasSameAddress": true,
+    "id": 1848,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Walki Z Kalectwem Ko\u0142o Miejskie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "22",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-255",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "W\u0142adys\u0142awa \u0141okietka",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Przeciwdzia\u0142anie uzale\u017cnieniom od narkotyk\u00f3w, alkoholu, nikotyny i innych \u015brodk\u00f3w psychoaktywnych.\r\n2. Inicjowanie spo\u0142ecznych ruch\u00f3w dzieci, m\u0142odzie\u017cy, rodzic\u00f3w i innych os\u00f3b zainteresowanych dzia\u0142alno\u015bci Towarzystwa.\r\n3. Wsp\u00f3\u0142praca z instytucjami odpowiedzialnymi za profilaktyk\u0119, leczenie i resocjalizacje uzale\u017cnionych.\r\n4. Szkolenie r\u00f3\u017cnych grup spo\u0142ecznych w zakresie profilaktyki narkomanii, HIV, AIDS, umiej\u0119tno\u015bci prospo\u0142ecznych.\r\nDokonania:\r\n1. Akcja Zima 2010 w partnerstwie z Gmin\u0105 Miasto Szczecin-zapewnienie opieki i rozwoju dzieciom i m\u0142odzie\u017cy w trakcie p\u00f3\u0142kolonii.\r\n2. \"Cafe tabu\"-program interwencyjny wsp\u00f3\u0142finansowany przez Krajowe Biuro ds. Przeciwdzia\u0142ania Narkomanii.\r\n3. \u015awietlica \u015brodowiskowa \"ma\u0142olat\" w partnerstwie z Gmin\u0105 Miasto Szczecin.\r\n4. Rozdawaj mi\u0142o\u015b\u0107. Nie zaka\u017caj HIV-Program dla m\u0142odzie\u017cy gimnazjalnej-partner Wojewoda Zachodniopomorski.\r\n5. Seria pyta\u0144. Spo\u0142eczny telefon zaufania-partner Wojewoda Zachodniopomorski.",
+    "benefitZones": [
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "6/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-601",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Montwi\u0142\u0142a",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1849,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Zapobiegania Narkomanii Oddzia\u0142 Terenowy w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "31/31",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-634",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Parkowa",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1) PODTRZYMYWANIE TRADYCJI NARODOWEJ, PIEL\u0118GNOWANIE POLSKO\u015aCI ORAZ ROZWOJU\r\n\u015aWIADOMO\u015aCI NARODOWEJ, OBYWATELSKIEJ I KULTUROWEJ,\r\n2) INTEGRACJA \u015aRODOWISKA ZIEMIA\u0143SKIEGO,\r\n3) POPIERANIE WYCHOWANIA M\u0141ODZIE\u017bY W DUCHU POSZANOWANIA TRADYCJI NARODOWYCH I\r\nPATRIOTYCZNYCH NA RZECZ PRZYGOTOWANIA JEJ DO S\u0141U\u017bBY SPO\u0141ECZE\u0143STWU I KRAJOWI.\r\n4) PODEJMOWANIE WSZELKICH DZIA\u0141A\u0143 CELOWYCH ZE WZGL\u0118DU NA INTERESY MORALNE I\r\nMATERIALNE \u015aRODOWISKA ZIEMIA\u0143SKIEGO,\r\n5) ORGANIZOWANIE POMOCY DLA CZ\u0141ONK\u00d3W TOWARZYSTWA I ICH RODZIN, ZW\u0141ASZCZA DLA\r\nZNAJDUJ\u0104CYCH SI\u0118 W TRUDNEJ SYTUACJI MATERIALNEJ I \u017bYCIOWEJ,\r\n6) PROWADZENIE DZIA\u0141A\u0143 ZMIERZAJ\u0104CYCH DO ZACHOWANIA I PROPAGOWANIA DOROBKU\r\nKULTURALNEGO \u015aRODOWISKA ZIEMIA\u0143SKIEGO ORAZ MATERIALNYCH I NIEMATERIALNYCH\r\nPOMNIK\u00d3W PRZESZ\u0141O\u015aCI ZIEMIA\u0143SKIEJ,\r\n7) DZIA\u0141ANIE PRZEZ SWOICH KOMPETENTNYCH CZ\u0141ONK\u00d3W NA RZECZ ULEPSZANIA I\r\nUNOWOCZE\u015aNIANIA POLSKIEJ GOSPODARKI SZCZEG\u00d3LNIE ROLNEJ I LE\u015aNEJ, WSP\u00d3\u0141DZIA\u0141ANIE W\r\nTYM KIERUNKU Z W\u0141ADZAMI PA\u0143STWOWYMI I ADMINISTRACYJNYMI, Z SAMORZ\u0104DEM\r\nTERYTORIALNYM ORAZ INNYMI W\u0141A\u015aCIWYMI ORGANIZACJAMI W KRAJU I ZA GRANIC\u0104.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1850,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Ziemia\u0144skie Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-415",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "W\u0105ska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Popularyzacja osi\u0105gni\u0119\u0107 nauki polskiej. \r\n2. Edukacja m\u0142odzie\u017cy.\r\n3. Prezentacja bada\u0144 naukowych, odczyty.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "hasSameAddress": true,
+    "id": 1851,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Zoologiczne Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1852,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Towarzystwo Zwalczania Chor\u00f3b Alergicznych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "67",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-478",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nRozwijanie techniki i my\u015bli technicznej, szerzenie wiedzy i post\u0119pu technicznego w dziedzinach obj\u0119tych zakresem dzia\u0142ania tj.:gazownictwo, wodoci\u0105gi i kanalizacja, technologia wody i \u015bciek\u00f3w, ogrzewnictwo, ciep\u0142ownictwo, wentylacja, klimatyzacja, gospodarka odpadami, ochrona w\u00f3d, powietrza itp.\r\nDokonania:\r\nStowarzyszenie dzia\u0142a od 1919 r. a Oddzia\u0142 Szczeci\u0144ski od 1948 r.\r\n1. Organizowanie kongres\u00f3w, zjazd\u00f3w, konferencji, sympozj\u00f3w, pokaz\u00f3w, odczyt\u00f3w, wyjazd\u00f3w studialnych szkoleniowych krajowych i zagranicznych.\r\n2. Opieka nad podnoszeniem kwalifikacji zawodowych cz\u0142onk\u00f3w.\r\n3. Wsp\u00f3\u0142dzia\u0142anie z w\u0142a\u015bciwymi w\u0142adzami i instytucjami w nadawaniu uprawnie\u0144 zawodowych, obj\u0119tych zakresem dzia\u0142alno\u015bci stowarzyszenia.\r\n4. Prowadzenie doradztwa technicznego i rzeczoznawstwa.\r\n5. Wsp\u00f3\u0142dzia\u0142anie w zakresie rozwoju techniki z innymi stowarzyszeniami naukowo-technicznymi.\r\n6. Prowadzenie szkole\u0144 i egzamin\u00f3w kwalifikacyjnych na uprawnienia energetyczne.     \r\n7. Organizacja od 1974r. Polskiego Kongresu Oczyszczania Miast i Gospodarki Odpadami, w terminie 8-10.10.2009 edycja VIII Kongresu \"Jak zredukowa\u0107 ilo\u015b\u0107 odpad\u00f3w komunalnych na sk\u0142adowiskach\".",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1853,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Polskie Zrzeszenie In\u017cynier\u00f3w i Technik\u00f3w Sanitarnych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-844",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Starej Ba\u015bni",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Sprowadzanie \u017cywno\u015bci niskofenyloalaninowej: maki z Anglii, makaronu i innych od\u017cywek z Niemiec.\r\n2. Organizowanie spotka\u0144 i szkolenia rodzic\u00f3w jak prawid\u0142owo prowadzi\u0107 rygorystyczn\u0105 diet\u0119.\r\n3. Spotkania dzieci obarczonych t\u0105 sam\u0105 chorob\u0105 itp.\r\nDokonania:\r\nWszystkie cele organizacji s\u0105 realizowane.",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1854,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Pomorskie Ko\u0142o Pomocy Dzieciom Chorym na Fenyloketonuri\u0119"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-410",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u015aw. Wojciecha",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Rozwijanie i propagowanie inicjatyw, postaw i dzia\u0142a\u0144, sprzyjaj\u0105cych rozwojowi archiwistyki i archiwoznawstwa oraz dyscyplin pokrewnych. \r\n2. Wyst\u0119powanie z inicjatywami, dotycz\u0105cymi polityki Pa\u0144stwa wobec archiw\u00f3w i archiwist\u00f3w, przyczynianie si\u0119 do w\u0142a\u015bciwego gromadzenia i zabezpieczenia narodowego zasobu archiwalnego oraz wspieranie organizacyjne i rzeczowe os\u00f3b fizycznych i jednostek organizacyjnych, kt\u00f3re podejmuj\u0105 takie dzia\u0142ania.\r\n3. Upowszechnianie wiedzy o archiwach i archiwaliach oraz o prawnych podstawach post\u0119powania z dokumentacj\u0105. \r\n4. Doskonalenie kwalifikacji zawodowych archiwist\u00f3w oraz podnoszenie ich wiedzy og\u00f3lnej.\r\n5. Dba\u0142o\u015b\u0107 o wysoki poziom etyki i solidarno\u015b\u0107 zawodow\u0105 cz\u0142onk\u00f3w, integrowanie ich we w\u0142asnym \u015brodowisku oraz budowanie zaufania i szacunku spo\u0142ecznego dla tego zawodu i spraw archiwalnych.\r\nDokonania:\r\nStowarzyszenie prowadzi dzia\u0142alno\u015b\u0107 gospodarcz\u0105 w zakresie zabezpieczania i dalszej obs\u0142ugi prawno-archiwalnej dokumentacji likwidowanych jednostek organizacyjnych.\r\n2019:\r\n1. Warsztaty archiwalne w Mi\u0119dzyzdrojach.\r\n2. Dzia\u0142alno\u015b\u0107 wydawnicza.\r\n3. Wysy\u0142anie newslettera.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1855,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Archiwist\u00f3w Polskich Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1856,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Autor\u00f3w Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15/16",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-205",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Podg\u00f3rna",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nS\u0142u\u017cba spo\u0142eczna dla bibliotekarstwa i informacji naukowej w Polsce, rozbudzanie aktywno\u015bci zawodowej oraz kszta\u0142towanie i upowszechnianie nowoczesnej my\u015bli bibliotekarskiej, a w szczeg\u00f3lno\u015bci:\r\n1. Czynny wsp\u00f3\u0142udzia\u0142 w tworzeniu zasad polityki bibliotecznej, informacyjnej i wydawniczej.\r\n2. D\u0105\u017cenie do zachowania pi\u015bmiennictwa dla kultury narodowej i rozwoju czytelnictwa.\r\n3. Inspirowanie, rozwijanie i popieranie zainteresowa\u0144 naukowych oraz doskonalenie umiej\u0119tno\u015bci fachowych cz\u0142onk\u00f3w Stowarzyszenia.\r\n4. Rozbudzanie i popieranie inicjatyw zawodowych i spo\u0142ecznych bibliotekarzy oraz pracownik\u00f3w informacji naukowej.\r\n5. Integracja \u015brodowiska zawodowego.\r\n6. Podnoszenie spo\u0142ecznego presti\u017cu i ochrona zawodu oraz warunk\u00f3w jego wykonywania.\r\n7. Kszta\u0142towanie w\u0142a\u015bciwych postaw etycznych i spo\u0142ecznych bibliotekarzy i pracownik\u00f3w informacji naukowej.\r\nDokonania w 2010:\r\n1. Organizacja konkursu \"Bibliotekarz Roku Wojew\u00f3dztwa Zachodniopomorskiego\" o nagrod\u0119 im. Stanis\u0142awa Badonia.\r\n2. Projekt ministerialny \"Chopin dla wszystkich\"-realizacja Ko\u0142o Nr 1 SBP przy wsp\u00f3\u0142pracy z Ksi\u0105\u017cnic\u0105 Pomorsk\u0105.\r\n3. Sympozjum \"Pospolite ruszenie s\u0142\u00f3w...\" Tw\u00f3rczo\u015b\u0107 Heleny Raszki.\r\n4. Wojew\u00f3dzka Inauguracja Tygodnia Bibliotek.\r\n5. Akcja \"Poci\u0105g do ksi\u0105\u017cki-ksi\u0105\u017cka do poci\u0105gu\"-kiermasze taniej ksi\u0105\u017cki na dworcach.\r\n6. Uczestnictwo w IX Szczeci\u0144skim Spotkaniu Organizacji Pozarz\u0105dowych \"Pod Platanami\"-kiermasz Ksi\u0105\u017cka za z\u0142ot\u00f3wk\u0119.\r\n7. Uczestnictwo w Pikniku Ekologicznym nad Jeziorem Szmaragdowym-kiermasz Ksi\u0105\u017cka za z\u0142ot\u00f3wk\u0119.\r\n8. Uczestnictwo o Rodzinnym Weekendzie Atrakcji-kiermasz Ksi\u0105\u017cka za z\u0142ot\u00f3wk\u0119.\r\n2014:\r\nOkr\u0119g Zachodniopomorski obejmuje:\r\nOddzia\u0142 Szczeci\u0144ski, w sk\u0142ad kt\u00f3rego wchodzi 18 k\u00f3\u0142, Oddzia\u0142 Koszali\u0144ski, w sk\u0142ad kt\u00f3rego wchodzi 6 k\u00f3\u0142.\r\nCele SBP na lata 2010-2012:\r\n1. Uzyskanie przez SBP realnego wp\u0142ywu na kszta\u0142towanie polityki i praktyki bibliotecznej; spotkania z bibliotekarzami, organizacja konkursu \"Biblioteka Roku\"-wr\u0119czanie statuetek, Tydzie\u0144 Bibliotek, Konkurs fotograficzny, akcja \"Uwolnij Ksi\u0105\u017ck\u0119\", promocja czytelnictwa za granic\u0105, \"Rok 2014 Rokiem Czytelnika\", \"650 lat w s\u0142u\u017cbie ksi\u0105\u017cki\", Tydzie\u0144 Bibliotek \"Czytanie \u0142\u0105czy pokolenia\" etc.\r\n2. SBP wa\u017cnym partnerem w tworzeniu spo\u0142ecze\u0144stwa wiedzy; Sekcja ds. Informacji Internetowej, narodowe cztanie \"Tryligii\" H.Sienkiewicza, Sympozjum \"Ludzie ksi\u0105\u017cki Pomorza Zachodniego\".\r\n3. Zwi\u0119kszanie roli SBP w dzia\u0142aniach na rzecz integracji \u015brodowiska; Prelekcje \"Polskie \u015blady w Odessie\", Kiermasz pyszno\u015bci w ramach akcji Bibliotekarze dzieciom.\r\n4. Zwi\u0119kszenie dost\u0119pu do r\u00f3\u017cnych nowoczesnych form kszta\u0142cenia i doskonalenia zawodowego; publikacje artyku\u0142\u00f3w w \"Bibliotekarzu Zachodniopomorskim\", kiermasze zbi\u00f3rek publicznych, udzia\u0142 w IX Forum M\u0142odych Bibliotekarzy.\r\n5. Zwi\u0119kszenie presti\u017cu spo\u0142ecznego zawodu bibliotekarza; wywiad w stacji RFM nt. akcji \"Poci\u0105g do ksi\u0105\u017cek-ksi\u0105\u017cka do poci\u0105gu\"-akcja kiermaszowa, akcja \"Promujemy ksi\u0105\u017cki na promie\", organizacja V edycji Konkursu Marsza\u0142ka Woj. Zachodniopomorskiego o Nagrod\u0119 im. Stanis\u0142awa Badonia dla Bibliotekarza Roku Woj. Zachodniopomorskiego za 2013r.\r\n2017:\r\n1.\tZarz\u0105d OZ: C. Judek / udzia\u0142 w I Zamkowym Forum Kultury \u2013 debata dot.  kondycji kultury w woj. zachodniopomorskim, Zamek Ksi\u0105\u017c\u0105t Pomorskim, 28.03.2017.\r\n2.\tZarz\u0105d OZ SBP / opinia: w\u00f3jt Gminy Ko\u0142baskowo przes\u0142a\u0142 pro\u015bb\u0119 o zaopiniowanie osoby branej pod uwag\u0119 na stanowisko dyrektora Gminnej Biblioteki Publicznej w Ko\u0142baskowie.\r\n3.\tZarz\u0105d OS SBP: komentarz informacyjny na FB w sprawie inicjatywy UM Szczecin - punktu \"Ksi\u0105\u017cki na wynos\" w szczeci\u0144skim Ekoporcie  - informacja o inicjatywach SBP - \u201eKsi\u0105\u017cka za z\u0142ot\u00f3wk\u0119\u201d akcji Poczekalnia-Poczytalnia (05.12.2017).\r\n4.\tOdjazdowy Bibliotekarz 2017: - VI Edycja Szczeci\u0144ska, 20.05.2017 / O. Szczeci\u0144ski (Zarz\u0105d, Ko\u0142a: 1, 2, 3, 9 \u2013 organizacja, finasowanie, wsp\u00f3\u0142praca (Biblioteka G\u0142\u00f3wna US / Biblioteka Mi\u0119dzywydzia\u0142owa US; Centrum Dydaktyczno-Badawcze Nauk Przyrodniczych US / Muzeum Geologiczne US; Ksi\u0105\u017cnica Pomorska w Szczecinie; Pa\u0142ac M\u0142odzie\u017cy w Szczecinie; Szczeci\u0144ski Inkubator Kultury; Wolontariusze Enea Operator; Zachodniopomorskie Centrum Doskonalenia Nauczycieli / Biblioteka), informacje / relacje . III Edycja Kamie\u0144ska, 01.07.2018 / Ko\u0142o 8 Kamie\u0144 Pom. \u2013 organizacja, finasowanie, informacje/relacje (http://www.kamienskie.info, WWW MBP Kamie\u0144 Pom.); frekwencja 30 os\u00f3b. V Edycja Mory\u0144ska / Miejski O\u015brodek Kultury w Moryniu, MBP w Moryniu, Ko\u0142o 4 Chojna  - wsp\u00f3\u0142organizacja, uczestnictwo, informacje/relacje (Chojna24.pl,Ono 24,strony www.gminy Mory\u0144), frekwencja 120 os\u00f3b. Organizator rajdu \"Odjazdowy Bibliotekarz\" - MOK Mory\u0144 - otrzyma\u0142 nagrod\u0119 \u201eBociana 2017\u201d w 12. edycji konkursu \u201eNagroda Starosty Gryfi\u0144skiego za promocj\u0119 powiatu\u201d w kategorii sport; do konkursu zg\u0142osi\u0142 Burmistrz Morynia - J\u00f3zef Pi\u0105tek. II Edycja Trzcinecka / MiGBP w Trzci\u0144sku Zdroju, Ko\u0142o 4 Chojna - wsp\u00f3\u0142organizacja, uczestnictwo, informacje/relacje (Chojna24.pl,Ono 24,WWW gminy Trzci\u0144sko Zdr\u00f3j); frekwencja 70 os\u00f3b. \r\n5.\tZarz\u0105d OZ SBP: Akcja \u201cPoczekalnia-Poczytalnia. Czekaj\u0105c, czytajmy\u201d w woj. zachodniopomorskim / Jubileusz 100-lecia SBP w OZ SBP i 70-lecia OZ SBP \u2013 organizacja, finasowanie, oprawa graficzna, informacje / relacje; inauguracja na Kongresie Bibliotekarzy Wojew\u00f3dztwa Zachodniopomorskiego, Ksi\u0105\u017cnica Pomorska w Szczecinie, 21.06.2017; inicjatywa \u2013 Cecylia Judek, koordynacja - Marta Kostecka; statystyka: 43 punkty, w 13 miastach woj. zachodniopomorskiego (Nowogard, Kamie\u0144 Pomorski, Bia\u0142ogard, Gryfino, Szczecin, Police, Tychowo, Choszczno, My\u015blib\u00f3rz, Koszalin, S\u0142awno, Chojna), punkty zorganizowa\u0142o 14 k\u00f3\u0142 OZ SBP (OS: Ko\u0142o 1 Szczecin, Ko\u0142o 2 Szczecin, Ko\u0142o 3 Szczecin. Ko\u0142o 4 Chojna, Ko\u0142o 7 Gryfino, Ko\u0142o 8 Kamieniu Pom., Ko\u0142o 10 Nowogard, Ko\u0142o 11 Police, Ko\u0142o 16 My\u015blib\u00f3rz, Ko\u0142o 17 Choszczno; OK: Ko\u0142o 1 Koszalin, Ko\u0142o 2 Bia\u0142ogard, Ko\u0142o 5 S\u0142awno); do akcji do\u0142\u0105czy\u0142a  MiG BP w Kluczborku/ 1 Ko\u0142o Okr\u0119gu Dolno\u015bl\u0105skiego.\r\n6.\tZarz\u0105d OZ: patronat nad wydarzeniem - BiblioBoXX Partnerstwa Odra / I szczeci\u0144ska inauguracja, Zesp\u00f3\u0142 Szk\u00f3\u0142 nr 2 im. W\u0142adys\u0142awa Orkana w Szczecinie, 16-17.04.2017 + polsko - niemiecka konferencja ekspert\u00f3w w ramach projektu \u201eNachhaltige B\u00fccherboXX in der Oderpartnerschaft\u201d \u2013 udzia\u0142; II szczeci\u0144ska inauguracja, Zamek Ksi\u0105\u017c\u0105t Pomorskich w Szczecinie, 21.04.2017 \u2013 udzia\u0142; po\u015bredniczenie w dalszej w\u0119dr\u00f3wce BiblioBoXXu.\r\n7.\tZarz\u0105d OZ / Ksi\u0105\u017cnica Pomorska: III wyk\u0142ad cyklu \u201ePrzekroje i zbli\u017cenia. Wyk\u0142ady Markiewiczowskie\u201d, Ksi\u0105\u017cnica Pomorska, 13.11.2017 \u2013 organizacja, informacja / relacja.\r\n8.\tZarz\u0105d OZ: nawi\u0105zanie wsp\u00f3\u0142pracy z portalem KobiecaSprawa.pl / rubryka BibliOOkiem  - koordynatorka - M. Kostecka; 12 test\u00f3w: @ nowa-twarz-miejskiej-biblioteki-publicznej-szczecinie, szczecinska-promedia-najlepsza-biblioteka-2016, @ kolo-nr-3-stowarzyszenia-bibliotekarzy-polskich-przy-mbp-szczecinie-prowadzi-projekt-okno-swiat-zydzi-relacja-marty-kosteckiej-czlonkini-stowarzyszenia, @ poczekalnia-poczytalnia-czekajac-czytajmy, urodziny-muminkow-czyli-skad-sie-wziela-mala-mi, @ wywiad-tysiac-kropli, nami-szereg-spotkan-kultura-tatarska-projekt-okno-swiat-tatarzy, @ literaturoznawca-swiecie-big-data, @ bibliotekarka-roku-szukajaca-historii-ksiazki-tego-jeszcze-nieodkryte-badaczka-tworczosci-minorum-gentium-rozmawiamy-dr-agnieszka-borysowska, @ ferie-w-bibliotece, @ dala-orkiestry-projekcja-filmu, gupik-szczescie-spotkanie-dla-dzieci-zakonczenie-ferii-szczecin.\r\n9.\tZarz\u0105d OZ: C. Judek / udzia\u0142 audycji radiowej dot. narodowego czytania i sposob\u00f3w na upowszechnienie czytelnictwa, Polskie Radio Szczecin 15.02.2017, red. Joanna Skonieczna; w audycji wzi\u0119li udzia\u0142: Krzysztof Lichtblau (Dzia\u0142 Promocji MBP w Szczecinie), dr Piotr Krupi\u0144ski (Instytut Polonistyki i Kulturoznawstwa US, przedstawicielka  szczeci\u0144skiego ksi\u0119garstwa.\r\n10.\tKo\u0142o 3 Szczecin / MBP Szczecin: Projekt Okno na \u015awiat -  rozpocz\u0119cie podczas Dnia R\u00f3\u017cnorodno\u015bci Kulturowej (21.05.2017), wydarzenia (warsztaty plastyczne, wyk\u0142ady, spotkania autorskie, spacery tematyczne, projekcje film\u00f3w) -  \u017bydzi (czerwiec 2017), Tatarzy (18, 19, 21.09.2017), Bliski Wsch\u00f3d (18, 19.12.2017) \u2013 realizowane na terenie Szczecina poza MBP; cz\u0119\u015b\u0107 dofinasowana z programu \u201eSpo\u0142ecznik\u201d; informacje / relacje; podsumowanie projektu http://mbp.szczecin.pl/dokument,557.html\r\n11.\tKo\u0142a OZ SBP w akcjach og\u00f3lnopolskich: -  Narodowe Czytanie - Ko\u0142o 6 Gryfice, Ko\u0142o 8 Kamie\u0144 Pom., Ko\u0142o 10 Nowogard, Ko\u0142o 17 Choszczno, Ko\u0142o 18 Trzebiat\u00f3w. - Og\u00f3lnopolski Tydzie\u0144 Czytania Dzieciom \u2013 Ko\u0142o 10 Nowogard. Og\u00f3lnopolski Dzie\u0144 G\u0142o\u015bnego Czytania - Ko\u0142o 10 Nowogard. -  Noc w Bibliotece: Ko\u0142o 9 Szczecin / Biblioteka Muzeum Narodowego w Szczecini; Ko\u0142o 10 Nowogard / MBP Nowogard; Ko\u0142o 17 Choszczno / MBP Choszczno; Ko\u0142o 8 Kamie\u0144 Pom. / MBP Kamie\u0144 Pom. -  Mistrz Promocji Czytelnictwa 2016 \u2013 Ko\u0142o 17 Choszczno. -  Czytaj\u0105ce Podw\u00f3rka \u2013 Ko\u0142o 18 Trzebiat\u00f3w. -  Ksi\u0105\u017cka na telefon  \u2013 Ko\u0142o 10 Nowogard, Ko\u0142o 18 Trzebiat\u00f3w.\r\n12.\tKo\u0142o 8 Kamie\u0144 Pom.: otwarcie Punktu Bibliotecznego, Uzdrowisko Kamie\u0144 Pomorski, marzec 2017 - inicjatywa, akcja, zorganizowanie ksi\u0119gozbioru, promocja.\r\n13.\tKo\u0142o 9 Szczecin: Encyklopedia Pomorza Zachodniego Pomeranica.pl - informacja o Kole 9 OS SBP w ha\u015ble do Pomeranici.pl [Marta Kurzy\u0144ska, Biblioteka Muzeum Narodowego w Szczecinie. W: Pomeranica.pl [on-line]. Dost\u0119p [03.01.2017]: \r\na.\t https://www.pomeranica.pl/wiki/Biblioteka_Muzeum_Narodowego_w_Szczecinie]\r\n14.\tKo\u0142o 11 Police / BP Police: Jesienne wspomnienia o tw\u00f3rcach z regionu - Zbyszek Szyrwiel (1953-2016)  / Cykl: \u201eRegionalne spotkania\u2026\u201d, BP Police, 11.10.2017 \u2013 organizacja, informacje / relacje (www.biblioteka.police.pl ; FB biblioteki; maile dla Ko\u0142a 11, cz\u0142onk\u00f3w ZLP/Oddzia\u0142 w Szczecinie, cz\u0142onk\u00f3w RSLA w Policach)\r\n15.\tKo\u0142o 11 Police: Helena Pilarska \u201eW rodzinnym kr\u0119gu\u201d, red. El\u017cbieta Kacprzak. Regionalne Stowarzyszenie Literacko-Artystyczne, Police 2017 \u2013 wsparcie, redagowanie tekst\u00f3w do publikacji, promocja wydawnictwa.\r\n16.\tKo\u0142o 13 Stargard / Ksi\u0105\u017cnica Stargardzka: Uliczka pisarzy z regionu i woj. zach-pom. + akcja \u201ePoezja pod Murem\" / Festyn na Ulicy Magicznej, Stargard 18.06.2017 - organizacja prezentacji wystawienniczej oraz organizacja happeningu; informacja / relacja (informacja na FB / Stronie Ksi\u0105\u017cnicy Stargardzkiej, lokalnych serwisach internetowych, Informatorze Samorz\u0105dowym).\r\n17.\tKo\u0142o 13 Stargard / Ksi\u0105\u017cnica Stargardzka: spotkania autorskie z Romanem Czejarkiem, Ksi\u0105\u017cnica Stargardzka, 31.03.2017; z Aleksandr\u0105 \"Aleksandrynk\u0105\" Petrusewicz, Ksi\u0105\u017cnica Stargardzka, 08.04.2017 - organizacja, finasowanie, wsp\u00f3\u0142praca, informacje / relacje.\r\n18.\tKo\u0142o 14 \u015awinouj\u015bcie / MBP \u015awinouj\u015bcie: Dzie\u0144 Patrona Biblioteki / Seminarium z okazji 70-lecia MBP \u015awinouj\u015bcie \u201eW kr\u0119gu Stefana Flukowskiego\u201d, 20.09.2017 \u2013 cykl wyk\u0142ad\u00f3w + warsztaty interpretacyjne poezji; uczestnicy - cz\u0142onkowie ko\u0142a nr 14, bibliotekarze z bibliotek szkolnych z gminy \u015awinouj\u015bcie \u2013 wsp\u00f3\u0142organizacja, informacje / relacje.\r\n19.\tKo\u0142o 14 \u015awinouj\u015bcie / MBP \u015awinouj\u015bcie, Filia Przytor: wakacyjna wycieczka dzieci polskich i niemieckich z Filii MBP w Przytorze do Zinnowitz, 03.08.2017  \u2013 inicjatywa, wsp\u00f3\u0142organizacja (warsztaty plastyczne i zabawy w plenerze), wsp\u00f3\u0142praca (Polsko-Niemieckie Forum Kobiet).\r\n20.\tKo\u0142o 14 \u015awinouj\u015bcie / MBP \u015awinouj\u015bcie, Filia Przytor: pieczenie pierniczk\u00f3w na Dzie\u0144 Babci i Dziadka na podstawie przepis\u00f3w kulinarnych z ksi\u0105\u017cek znajduj\u0105cych si\u0119 w bibliotece, 20.01.2017  \u2013 inicjatywa, wsp\u00f3\u0142organizacja.\r\n21.\tKo\u0142o 17 Choszczno / MBP Choszczno: konkurs powiatowy na gazetk\u0119 szkoln\u0105 \u201eChoszcze\u0144ski Pulitzer Szkolny 2017\u201d,  MBP Choszczno, 31.05.2017 - wsp\u00f3\u0142organizacja, prace w komisji konkursu.\r\n22.\tKo\u0142o 17 Choszczno / MBP Choszczno: prelekcja Przewodnicz\u0105cej OZ SBP Cecylii Judek \u201e\u017bycie i tw\u00f3rczo\u015b\u0107 Josepha Conrada\u201d, MBP Choszczno, 21.03.2017 \u2013 organizacja, finasowanie, informacje / relacje.\r\n23.\tKo\u0142o 17 Choszczno / MBP Choszczno: zaj\u0119cia  bajkoterapii i biblioterapii \u201eKsi\u0105\u017cka sensoryczna\u201d, Przedszkole nr 1 z Oddzia\u0142ami Integracyjnymi w Choszcznie,27.09.2017+ 20.12.2017 \u2013 program, realizacja.\r\n24.\tKo\u0142o 19  Mi\u0119dzyzdroje / MBP Mi\u0119dzyzdroje: fina\u0142 konkursu plastycznego \u201eCztery \u0142apy czyli spotkania literackie ze zwierz\u0119tami, MBP Mi\u0119dzyzdroje, 25.05.2017 \u2013 wsp\u00f3\u0142organizacja, kupno kwiat\u00f3w, nagrody ksi\u0105\u017ckowej.\r\n25.\tKo\u0142o 19  Mi\u0119dzyzdroje / MBP Mi\u0119dzyzdroje: 2 spotkania Dyskusyjnego Klubu Ksi\u0105\u017cki oraz sympatyk\u00f3w i cz\u0142onk\u00f3w SBP - \u201eLato z ksi\u0105\u017ck\u0105, czyli co\u015b dobrego na wakacje\u201d+ \u201eZnani i lubiani w biografiach\u201d, MBP Mi\u0119dzyzdroje, 10.07.2017, 13.08.2017 \u2013 organizacja.\r\n26.\tKo\u0142o 19  Mi\u0119dzyzdroje / MBP Mi\u0119dzyzdroje: spotkanie z aktork\u0105 Gra\u017cyn\u0105 Zieli\u0144sk\u0105, MBP Mi\u0119dzyzdroje, 18.10.2017 - wsp\u00f3\u0142organizacja, kupno kwiat\u00f3w.\r\n27.\tZarz\u0105d OZ SBP: ok\u00f3lnik dla zarz\u0105d\u00f3w oddzia\u0142\u00f3w i k\u00f3\u0142 o kana\u0142ach informacyjnych w OZ SBP - maile (zarz\u0105dy oddzia\u0142\u00f3w / k\u00f3\u0142), FB OZ SBP, BlogSpot OZ SBP, prezentacja slideshare.net\r\n28.\tPowo\u0142anie Komisji ds. Komunikacji Spo\u0142ecznej: U_OZ SBP_14/2017, z dn. 13.12.2017; zadania: dba\u0142o\u015b\u0107 o sfer\u0119 informacyjn\u0105 OZ SBP; sk\u0142ad osoby pe\u0142ni\u0105ce funkcje - przewodnicz\u0105cy zarz\u0105d\u00f3w  OZ SBP / Oddzia\u0142\u00f3w Koszali\u0144skiego& Szczeci\u0144skiego, sekretarze Zarz\u0105du OZ SBP, Oddzia\u0142\u00f3w Koszali\u0144skiego & Szczeci\u0144skiego, osoby wskazane przez cz\u0142onk\u00f3w Komisji lub Zarz\u0105du OZ SBP. \r\n29.\tInformacje o SBP na stronach WWW macierzystych bibliotek: Ko\u0142o 1 BP Koszalin, Ko\u0142o 3 MBP Szczecin.\r\na.\tKiermasze ksi\u0105\u017cek 2017: - Ko\u0142o 1 Szczecin: 27.02.2017-04.03.2017 (3664,38 z\u0142), 23.04.2017 Zbi\u00f3rka Publiczna przeprowadzona na dziedzi\u0144cu Zamku Ksi\u0105\u017c\u0105t Pomorskich w Szczecinie (305,10 z\u0142), 08.05.2017-13.05.2017 (3190,91 z\u0142), 03.07.2017-07.07.2017 (3435,17 z\u0142), 23.10.2017-28.10.2017 (2858,00 z\u0142). Ca\u0142kowita kwota ze Zbi\u00f3rek Publicznych - 13.453,56 z\u0142 przeznaczona na zakup nowo\u015bci ksi\u0105\u017ckowych dla Biblioteka Zespo\u0142u Szk\u00f3\u0142 Szpitalnych w Szczecinie oraz  Hospicjum dla Dzieci \u015bw. Jana Ewangelisty w Szczecinie oraz bor\u00f3w specjalnych dla Ksi\u0105\u017cnicy Pomorskiej w Szczecinie. - Ko\u0142o 2 Szczecin: \u201eBibliotekarze \u2013 Dzieciom\u201d na rzecz Stowarzyszenia Pomocy Dzieciom i M\u0142odzie\u017cy Niepe\u0142nosprawnej Ruchowo \u201eT\u0119cza\u201d dla Niepublicznego Specjalnego Przedszkola \u201eT\u0119cza\u201d/ Tydzie\u0144 Bibliotek, Biblioteka G\u0142\u00f3wna UM w Szczecinie, 10-12.05.2017: organizacja informacja / relacje (FB OZ SB, Blogspot OZ SBP, SBP.pl, strona / FB biblioteki); zebrano 2 920,00 z\u0142. - Ko\u0142o 7 Gryfino: \u201eKsi\u0105\u017cka za z\u0142ot\u00f3wk\u0119\u201d  / BP w Gryfinie, Filia Biblioteki w We\u0142tyniu; zakup nowo\u015bci wydawniczych dla BP w Gryfinie,  Biblioteki Zespo\u0142u Szk\u00f3\u0142 Ponadgimnazjalnych nr 2 w Gryfinie; informacje  / relacje (www/ FB BP Gryfino, www. i-gryfino.pl) - Ko\u0142o 17 Choszczno / MBP Choszczno: Akcja \u201e Poci\u0105g do ksi\u0105\u017cki- ksi\u0105\u017cka do poci\u0105gu\u201d/ kiermasz ksi\u0105\u017cki za z\u0142ot\u00f3wk\u0119, Dworzec PKP Choszczno, 21.04.2017. - Ko\u0142o 14 \u015awinouj\u015bcie / MBP \u015awinouj\u015bcie:  Akcje na 100-lecie SBP/70-lecie SBP na Pom. Zach. / \u201dPromujemy ksi\u0105\u017ck\u0119 na promie\u201d, Prom Bielik, 23.04.2017, 25.06.2017. -  Ko\u0142o 8 Kamie\u0144 Pom.: WO\u015aP, Dom Kultury Kamie\u0144 Pom., 15.01.2017 \u2013 kiermasz ksi\u0105\u017cki za z\u0142ot\u00f3wk\u0119.\r\n30.\tKo\u0142o 14 \u015awinouj\u015bcie: dostarczono dary ksi\u0105\u017cek  / Akcje na 100-lecie SBP/70-lecie SBP na Pom. Zach. - na rega\u0142 z ksi\u0105\u017ckami w ramach akcji Bookcrossingu w Galerii Corso, 18.08.2017;  Akcja \u2013 ksi\u0105\u017cka dla chorego, na \u015awietlica Szpitala Miejskiego w \u015awinouj\u015bciu,  10.12.2017.\r\n31.\tKo\u0142o 1 Szczecin: Jubileusz 100-lecia SBP 1917-2017 i 70-lecia OZ SBP / Sylwia Matejek \u201eW z\u0142ot\u00f3wce si\u0142a \u2013 Ko\u0142o 1 Szczecin SBP wzbogaca zasoby Ksi\u0105\u017cnicy Pomorskiej\u201d \u2013 artyku\u0142 przekazany do druku w \u201eBibliotekarzu Zachodniopomorski\u201d + online FB / BlogSpot OZ SBP, SBP.pl.\r\n32.\tKo\u0142o 1 Koszalin: Jubileusz 100-lecia SBP 1917-2017 i 70-lecia OZ SBP / 70-lecie Koszali\u0144skiej Biblioteki Publicznej  - upominki dla 14. najaktywniejszych czytelnik\u00f3w biblioteki, kt\u00f3rzy w tym roku obchodz\u0105 swoje 70. jubileusze oraz wypo\u017cyczyli ponad 70 tytu\u0142\u00f3w ze zbior\u00f3w KPB wr\u0119czone w trakcie spotkania autorskiego z El\u017cbiet\u0105 Cherezi\u0144sk\u0105.\r\n33.\tKo\u0142o 1 Koszalin: akcja zbierania ksi\u0105\u017cek pod has\u0142em \"Podaruj dzieciom ksi\u0105\u017ckowy prezent\" - zebrano ponad 500 ksi\u0105\u017cek, kt\u00f3re 01.06.2017 przekazano dzieciom, przebywaj\u0105cym w \u015bwietlicach oraz mieszkaniach chronionych dla samotnych matek prowadzonych przez Fundacj\u0119 \"Zd\u0105\u017cy\u0107 z mi\u0142o\u015bci\u0105\".\r\n34.\tZarz\u0105d OZ SBP / Ksi\u0105\u017cnica Pomorska Szczecin: Inauguracji Roku Jubileuszu 100-lecia 1917-2017, Ksi\u0105\u017cnica Pomorska, 22.02.2017; organizacja, finasowanie, informacje. SBP zosta\u0142o uhonorowane pami\u0105tkowym medalem od Marsza\u0142ka Wojew\u00f3dztwa Zachodniopomorskiego - Olgierda Geblewicza i zebra\u0142o \u017cyczenia owocnego trwania i rozwoju od zaproszonych go\u015bci.\r\n35.\tZarz\u0105d OZ SBP:  C. Judek / Jubileusz 100-lecia SBP 1917-2017 / rozmowa o czytelnictwie, jubileuszu SBP \u2013 \u201eAngelo Rella od kuchni\u201d, TVP Szczecin, 07.03.2017; referat \u201eStulecie Stowarzyszenia Bibliotekarzy Polskich. 70 lat SBP na Pomorzu Zachodnim\u201d na XV. Konferencj\u0119 Bibliotek Wydzia\u0142\u00f3w Prawa, Biblioteka Wydzia\u0142u Prawa Uniwersytetu Szczeci\u0144skiego, 08-09.06.2017. \r\n36.\tZarz\u0105d OZ SBP / Ksi\u0105\u017cnica Pomorska w Szczecinie: Inauguracja Zachodniopomorskiego Tygodnia Bibliotek 2017, Ksi\u0105\u017cnica Pomorska w Szczecinie, 5.05.2017 - w\u015br\u00f3d zaproszonych go\u015bci m.in.: przedstawiciele Zarz\u0105du Zachodniopomorskiego Urz\u0119du Marsza\u0142kowskiego (Anna Mieczkowska, Przemys\u0142aw Wraga), przedstawiciele w\u0142adz samorz\u0105dowych nagrodzonych bibliotekarek i bibliotek (Goleni\u00f3w, Koszalin, Sian\u00f3w, Tuczno, D\u0119bno, S\u0142onowice); w programie m.in.: prezentacja cel\u00f3w Og\u00f3lnopolskiego Tygodnia Bibliotek 2017; wr\u0119czenie nagrody \u2013 Zachodniopomorski Bibliotekarz Roku 2017 [Ma\u0142gorzata Zychowicz / OK, Agnieszka Borysowska / OS; wyr\u00f3\u017cnienia - Anita Jurewicz (MiP BP Goleni\u00f3w), Celina Pytlik (GPB Brze\u017cno)]; Wystawa: W z\u0142ot\u00f3wce si\u0142a \u2013 Ko\u0142o 1 Szczecin SBP wzbogaca zasoby Ksi\u0105\u017cnicy Pomorskiej, Ksi\u0105\u017cnica Pomorska w Szczecinie - sala im. Zbigniewa Herberta, 05.05.-23.06.2017.\r\n37.\tOddzia\u0142 Koszali\u0144ski: nagrody Burmistrza Miasta Bia\u0142ogard dla pracownik\u00f3w Bia\u0142ogardzkiej Biblioteki Publicznej / cz\u0142onk\u00f3w Ko\u0142a 2 Bia\u0142ogard za dzia\u0142alno\u015b\u0107 w sferze kultury w sierpniu 2017 roku, wr\u0119czone publicznie podczas obchod\u00f3w Dni Bia\u0142ogardu \u2013 organizacja, finasowanie, informacje/relacje.\r\n38.\tKo\u0142o 1 Szczecin: msza \u015bw. w intencji pracownik\u00f3w  Ksi\u0105\u017cnicy Pomorskiej, Katedra Szczecin, 03.03.2017.\r\n39.\tZ \u017ca\u0142obnej karty -  SBP.pl, FB OZ SBP, BlogSpot OZ SBP: Romualda Bia\u0142ecka (1937-2017) / zas\u0142u\u017cona dzia\u0142aczka SBP \u2013 udzia\u0142 w pogrzebie, 15.02.2017, Zofia Go\u0142ofit-Sobacka /  Ko\u0142o 17 SBP Choszczno - udzia\u0142 w pogrzebie 26.08.2017, Maria Hudyma (Koszalin) / Cz\u0142onek Honorowy SBP - udzia\u0142 w pogrzebie cz\u0142onk\u00f3w OK, W\u0142adys\u0142aw Rybarski (Goleni\u00f3w) / Honorowa Odznaka SBP \u2013  udzia\u0142 w pogrzebie cz\u0142onk\u00f3w OS.\r\n40.\tOddzia\u0142 Koszali\u0144ski: Jubileusz 70-lecia Koszali\u0144skiej Biblioteki Publicznej 1947-2017, 23.10.2017 \u2013 udzia\u0142 Zarz\u0105du OZ, list gratulacyjny, relacje. \r\n41.\tZarz\u0105d OZ: Jubileusz 70-lecia Ksi\u0105\u017cnicy Stargardzkiej 1947-2017, 20.10.2017 \u2013 relacje.\r\n42.\tSpotkania okazjonalne w Oddzia\u0142ach / Ko\u0142ach.\r\n43.\tObchody Dnia Bibliotekarza 2017 w Ko\u0142ach OZ SBP.\r\n44.\tV Sympozjum - Ludzie Ksi\u0105\u017cki Pomorza Zachodniego / Tydzie\u0144 Bibliotek 2017, Ksi\u0105\u017cnica Pomorska w Szczecinie, 15.05.2017 \u2013 organizacja.\r\n45.\tZarz\u0105d OZ SBP: Jubileusz 100-lecia SBP w OZ SBP i 70-lecia OZ SBP / Kongres Bibliotekarzy Wojew\u00f3dztwa Zachodniopomorskiego, Ksi\u0105\u017cnica Pomorska w Szczecinie, 21.06.2017 \u2013 organizacja we wsp\u00f3\u0142pracy z Ksi\u0105\u017cnic\u0105 Pomorsk\u0105 w Szczecinie, finasowanie, pozyskanie finasowania zewn\u0119trznego; informacja / relacja (FB OZ SB, Blogspot OZ SBP, SBP.pl, TVP Szczecin, Radio Szczecin, artyku\u0142 do Bibliotekarza Zachodniopomorskiego); w programie (6 punkt\u00f3w jubileuszowych + inauguracja akcji \u201cPoczekalnia-Poczytalnia. Czekaj\u0105c, czytajmy\u201d + seminarium i burza m\u00f3zg\u00f3w, bankiet). \r\n46.\t- OZ SBP otrzyma\u0142o list gratulacyjny od Marsza\u0142ka Woj. Zachodniopomorskiego \u2013 Olgierda Geblewicza - skierowany do zachodniopomorskich bibliotekarzy (odczyta\u0142 Bart\u0142omiej Mroczkowski - Dyrektor Wydzia\u0142u Kultury, Nauki i Dziedzictwa Narodowego Urz\u0119du Marsza\u0142kowskiego).\r\n47.\t- Wr\u0119czanie odznacze\u0144, dyplom\u00f3w i list\u00f3w gratulacyjnych SBP.\r\n48.\t- Wystawa \u201cZas\u0142u\u017ceni ludzie kultury - dzia\u0142acze SBP w bibliotekach zachodniopomorskich\u201d, Ksi\u0105\u017cnica Pomorska w Szczecinie, 21.06.-03.09.2017. \r\n49.\t- Wystawa pokonkursowa \u201eEkslibris Jubileuszu 100-lecia Stowarzyszenia Bibliotekarzy Polskich i 70-lecia Stowarzyszenia Bibliotekarzy Polskich na Pomorzu Zachodnim\u201d, Ksi\u0105\u017cnica Pomorska w Szczecinie, 21.06.-03.09.2017 (wystawa do wypo\u017cyczenia); konkurs og\u0142oszony w\u015br\u00f3d student\u00f3w Kierunku Wzornictwa Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie. \r\n50.\t- Wystawa: W z\u0142ot\u00f3wce si\u0142a \u2013 Ko\u0142o 1 Szczecin SBP wzbogaca zasoby Ksi\u0105\u017cnicy Pomorskiej, Ksi\u0105\u017cnica Pomorska w Szczecinie - sala im. Zbigniewa Herberta, 05.05.-23.06.2017.\r\n51.\t-  Monografia: Zachodniopomorskie SBP z perspektywy dziesi\u0119cioleci (1945-2016), red. A. Borysowska, Szczecin 2017. Opisana historia okr\u0119gu, oddzia\u0142\u00f3w i k\u00f3\u0142 (Ko\u0142o 1 Szczecin + sekcja senior\u00f3w, Ko\u0142o 4 Chojna, Ko\u0142o 7 Gryfino, Ko\u0142o 9 Szczecin, Ko\u0142o 11 Police, Ko\u0142o 10 Nowogard, Ko\u0142o 13 Stargard, Ko\u0142o 16 My\u015blib\u00f3rz, Ko\u0142o 17 Choszczno, Ko\u0142o 1 Koszalin, Ko\u0142o 5 S\u0142awno, Ko\u0142o / Oddzia\u0142 Goleni\u00f3w), akcji miejskiej Odjazdowy Bibliotekarz. Oficjalne podzi\u0119kowanie za publikacje  przewodnicz\u0105cej SBP \u2013 El\u017cbiety Stefa\u0144czyk.\r\n52.\t- Inauguracja akcji \u201cPoczekalnia-Poczytalnia. Czekaj\u0105c, czytajmy\u201d. \r\n53.\t- Cz\u0119\u015b\u0107 szkoleniowa. \r\n54.\t- Artyku\u0142 podsumowuj\u0105cy: Marta Kurzy\u0144ska, Kongres Bibliotek Pomorza Zachodniego. Uroczyste obchody jubileuszu 100-lecia SBP i 70-lecia SBP na Pomorzu Zachodnim w Okr\u0119gu Zachodniopomorskim SBP, Bibliotekarz Zachodniopomorski 2018 [przekazany do druku].\r\n55.\tZarz\u0105d OZ SBP / Ko\u0142o 1 Szczecin / Ksi\u0105\u017cnica Pomorska: V \u015aroda Bibliotekarska 2017 - Szczecin Dzia\u0142alno\u015b\u0107 instrukcyjno-metodyczna w bibliotekach publicznych ziemi szczeci\u0144skiej, Ksi\u0105\u017cnica Pomorska, 18.10.2017  \u2013 organizacja, informacja / relacja.\r\n56.\tKo\u0142o 9 Szczecin / Ko\u0142o 1 Szczecin: oprowadzanie kuratorskie po wystawie MNS \u201eKsi\u0105\u017cka \u017cywa\u201d dla bibliotekarzy Szczecina i os\u00f3b zaprzyja\u017anionych, Muzeum Narodowe w Szczecinie, 20.04.2017 \u2013 organizacja, informacja / relacja. \r\n57.\tKo\u0142o 9 Szczecin: wyjazd integracyjno-edukacyjny do Escape Roomu \u2013 Basteja, Muzeum Archeologiczno-Historyczne w Stargardzie, 13.05.2017 \u2013 organizacja; finasowanie; informacja / relacja (FB OZ SBP, Blogspot OZ SBP, SBP.pl, FB MAH). \r\n58.\tKo\u0142o 1 Szczecin: wyjazd integracyjno-edukacyjny / Rumia, Gda\u0144sk, 6-7.10.2017 \u2013 23 osoby (Ko\u0142o 1 Szczecin, bibliotekarze Szczecina i regionu); zwiedzanie m.in. Miejska Biblioteka Publiczn\u0105 w Rumi (Stacja Kultura), WiMBP w Gda\u0144sku; \u2013 organizacja; dofinasowanie; informacja / relacja (FB OZ SBP).\r\n59.\tKo\u0142o 3 Szczecin: wyjazd integracyjny MBP Szczecin na wystaw\u0119 Fridy Kahlo, CK Zamek Pozna\u0144, 27.10.2017 \u2013 20 os\u00f3b.\r\n60.\tZarz\u0105d O. Koszali\u0144skiego / Ko\u0142o 1 Koszalin / BP Koszalin: szkolenie dla bibliotekarzy z terenu by\u0142ego woj. koszali\u0144skiego \u2013 \u201eProcedury kontroli zarz\u0105dczej w bibliotece na podstawie standard\u00f3w kontroli zarz\u0105dczej dla sektora finans\u00f3w publicznych\u201d, Koszali\u0144ska Biblioteka Publiczna, 27.06.2017 \u2013 organizacja, prowadzenie szkolenia, informacja / relacja. \r\n61.\tZarz\u0105d O. Koszali\u0144skiego / Ko\u0142o 1 Koszalin / BP Koszalin: szkolenie dla bibliotekarzy z terenu by\u0142ego woj. koszali\u0144skiego \u2013 \u201eOchrona danych osobowych w bibliotekach. Jak bezpiecznie korzysta\u0107 z Internetu?\u201d, Koszali\u0144ska Biblioteka Publiczna, 04.12.2017 \u2013 organizacja, prowadzenie szkolenia, informacja / relacja. \r\n62.\tKo\u0142o 1 Koszalin / BP Koszalin: Jubileusz 70-lecia Koszali\u0144skiej Biblioteki Publicznej 1947-2017 / wyk\u0142ad dla bibliotekarzy BP Koszalin dr. G. Leszczy\u0144skiego z Uniwersytetu Warszawskiego \"Bunt czytelnik\u00f3w. Proza inicjacyjna netgeneracji\".\r\n63.\tZarz\u0105d O. Koszali\u0144skiego / Ko\u0142o 5 S\u0142awno / BP S\u0142awno: szkolenie dla bibliotekarzy pow. s\u0142awie\u0144skiego - Ochrona danych osobowych w bibliotekach. Jak bezpiecznie korzysta\u0107 z Internetu?, MBP w S\u0142awnie, 12.12.2017 - 2017 \u2013 organizacja, prowadzenie szkolenia, informacja / relacja. \r\n64.\tKo\u0142o 6 Koszalin: seminarium dla bibliotekarzy z terenu by\u0142ego woj. koszali\u0144skiego \u2013 \u201eRewolucja, czy ewolucja? Budowanie kultury organizacyjnej w bibliotece\u201d, Biblioteka Politechniki Koszali\u0144skiej w Koszalinie, 25.09.2017 \u2013 wsp\u00f3\u0142organizacja, informacja / relacja. \r\n65.\tZarz\u0105d OZ SBP: seminarium dla bibliotekarzy woj. zachodniopomorskiego -\"100 sposob\u00f3w na promocj\u0119 czytelnictwa\" + burza m\u00f3zg\u00f3w / Kongres Bibliotekarzy Wojew\u00f3dztwa Zachodniopomorskiego / 100-lecie SBP w OZ SBP i 70-lecie OZ SBP, Ksi\u0105\u017cnica Pomorska w Szczecinie, 21.06.2017 \u2013 organizacja, finasowanie; 3 referaty zaplanowane, 2  wypowiedziane; 120 uczestnik\u00f3w; zebranie i rozes\u0142anie uczestnikom efekt\u00f3w burzy m\u00f3zg\u00f3w (8 grup roboczych); informacja / relacja (FB OZ SB, Blogspot OZ SBP, SBP.pl).\r\n66.\tKo\u0142o 11 Police / BP Police: Warsztaty \u201eDarmowe narz\u0119dzia online przydatne w pracy bibliotekarzy i nie tylko\u2026\u201d / VIII Spotkanie Kulturalno-O\u015bwiatowe dla bibliotekarzy gminy Police / Tygodnia Bibliotek 2017, 08.05.2017 \u2013 organizacja, informacja / relacje (www.biblioteka.police.pl ; FB biblioteki; FB OZ SBP)\r\n67.\tKo\u0142o 3 Szczecin: Warsztaty Loesje  / Dzie\u0144 Bibliotekarza, MBP Szczecin, 27.05. 2017 \u2013 organizacja informacje / relacje ( FB/ www MBP).",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1857,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Bibliotekarzy Polskich Okr\u0119g Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1858,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Chorych na Cukrzyc\u0119 - Ko\u0142o nr 30"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1859,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Chorych na Cukrzyc\u0119 - Ko\u0142o nr 6"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 1860,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Drogist\u00f3w Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "73/13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-401",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "al. Wyzwolenia",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Podnoszenie szans edukacyjnych m\u0142odzie\u017cy, \r\n2. Propagowanie w\u015br\u00f3d m\u0142odzie\u017cy edukacji odpowiadaj\u0105cej wyzwaniom stawianym przez rynek, \r\n3. Inspirowanie rozwoju ruchu spo\u0142eczno-kulturalnego w \u015brodowisku m\u0142odzie\u017cowym, \r\n4. Inicjowanie dzia\u0142a\u0144 prowadz\u0105cych do odbudowania wi\u0119zi lokalnych, \r\n5. Wspieranie wszelkich dzia\u0142a\u0144 maj\u0105cych na celu obni\u017cenie koszt\u00f3w edukacji, \r\n6. Popieranie wszelkich inicjatyw maj\u0105cych przygotowa\u0107 m\u0142odzie\u017c do funkcjonowania w realiach proces\u00f3w integracyjnych zachodz\u0105cych w \u015bwiecie, \r\n7. Upowszechnianie dost\u0119pu do ksi\u0105\u017cki i do nowoczesnych technik teleinformacyjnych, \r\n8. Propagowanie kultury i tradycji, \r\n9. Utrzymywanie \u015bwiadomo\u015bci poczucia dumy z w\u0142asnego dziedzictwa, \r\n10. Dzia\u0142anie na rzecz podnoszenia \u015bwiadomo\u015bci ekologicznej spo\u0142ecze\u0144stwa, \r\n11. Upowszechnianie wiedzy o ruchu ludowym, \r\n12. Piel\u0119gnowanie tradycji i historii polskiego ruchu ludowego, \r\n13. Organizowanie \u017cycia kole\u017ce\u0144skiego poprzez szkolenia, kursy, wystawy, pokazy, odczyty, dyskusje, sympozja, konferencje seminaria naukowe, spotkania towarzyskie itp., \r\n14. Propagowanie prospo\u0142ecznych, prodemokratycznych i pronarodowych postaw m\u0142odych Polak\u00f3w.\r\n",
+    "benefitZones": [
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji"
+    ],
+    "hasSameAddress": true,
+    "id": 1861,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Forum M\u0142odych Ludowc\u00f3w"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "67",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-478",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j wsp\u00f3lnot i spo\u0142eczno\u015bci lokalnych",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 1862,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Geodet\u00f3w Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "27",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-561",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Starom\u0142y\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Integracja \u015brodowiska historyk\u00f3w sztuki oraz os\u00f3b zwi\u0105zanych zawodowo lub spo\u0142ecznie z badaniami nad sztuk\u0105 i zabytkami.\r\n2. Umo\u017cliwianie pog\u0142\u0119biania wiedzy fachowej przez cz\u0142onk\u00f3w Stowarzyszenia oraz ich aktywno\u015bci w \u015brodowisku zawodowym.\r\n3. Troska o poziom zawodowy i etyczny cz\u0142onk\u00f3w Stowarzyszenia oraz reprezentowanie ich interes\u00f3w.\r\n4. Inicjowanie prac naukowo-badawczych w dziedzinie bada\u0144 nad sztuk\u0105 oraz ich popularyzacja.\r\n5. Kszta\u0142towanie w spo\u0142ecze\u0144stwie zami\u0142owania do sztuki i wiedzy o sztuce oraz odpowiedzialno\u015b\u0107 za dobra kultury.\r\nDokonania organizacji:\r\n1. Comiesi\u0119czne zebrania cz\u0142onk\u00f3w Oddzia\u0142u z referatem naukowym, prezentowanym przez cz\u0142onk\u00f3w lub zaproszonych go\u015bci. Zebrania maj\u0105 charakter otwarty dla sympatyk\u00f3w i publiczno\u015bci.\r\n2. Objazdy naukowe po terenie Pomorza i obszarach s\u0105siaduj\u0105cych, wsp\u00f3lny udzia\u0142 w wa\u017cnych wystawach.\r\n3. Dzia\u0142alno\u015b\u0107 naukowa owocuje seminariami, konferencjami o charakterze og\u00f3lnopolskim, z kt\u00f3rych przygotowywane s\u0105 publikacje.\r\n4. Dzia\u0142alno\u015b\u0107 wydawnicza-materia\u0142y pokonferencyjne, przewodniki, ksi\u0105\u017cki dotycz\u0105ce historii sztuki na terenie Pomorza i Szczecina.\r\n5. Dzia\u0142alno\u015b\u0107 popularyzatorska-referaty i wyk\u0142ady g\u0142oszone przez cz\u0142onk\u00f3w Oddzia\u0142u w r\u00f3\u017cnych \u015brodowiskach.\r\nDokonania 2011/2012:\r\nOdby\u0142o si\u0119 16 spotka\u0144 naukowych:\r\n- 18 stycznia 2011 dr Szymon Piotr Kubiak, pracownik Muzeum Narodowego w Szczecinie, wyst\u0105pi\u0142 z wyk\u0142adem pt. Polsko-esto\u0144skie kontakty artystyczne w okresie mi\u0119dzywojennym - - 15 lutego 2011 Kinga Krasnod\u0119bska zaprezentowa\u0142a temat Zesp\u00f3\u0142 kapiteli z klasztoru cysters\u00f3w w Ko\u0142baczu - charakterystyka i stan bada\u0144,\r\n- 22 marca 2011 Kazimiera Kalita-Skwirzy\u0144ska wyg\u0142osi\u0142a referat nt.: Co wiemy o klasztorze w Ko\u0142baczu? Historia i znaczenie opactwa, perspektywy badawcze,\r\n- 19 kwietnia 2011 Dr Marcin Majewski, Dyrektor Muzeum w Stargardzie wyg\u0142osi\u0142 referat Mi\u0119dzy archeologi\u0105 a histori\u0105 sztuki - kierunki i mo\u017cliwo\u015bci bada\u0144 nad okresem nowo\u017cytnym na Pomorzu. Natomiast Roman Kami\u0144ski, archeolog zajmuj\u0105cy si\u0119 okresem \u015bredniowiecza, wyst\u0105pi\u0142 z koreferatem nt. Wst\u0119pne prace identyfikacyjno-analityczne witra\u017cy Ko\u0142ackich,\r\n- 18 maja 2011 odby\u0142 si\u0119 wyk\u0142ad Huberta Bilewicza pracownika Zak\u0142adu Historii Sztuki Uniwersytetu Gda\u0144skiego po\u015bwi\u0119cony projektowaniu wsp\u00f3\u0142czesnego meblarstwa metalowego,\r\n- 7 czerwca 2011 zwiedzili\u015bmy wystaw\u0119 \u201eSztuki pi\u0119kne. Zbiory artystyczne Muzeum Narodowego w Szczecinie\" oprowadzeni przez jej kurator\u00f3w: dr Szymona Piotra Kubiaka i Dariusza Kacprzaka,\r\n- 14 czerwca 2011 kolejny wyk\u0142ad z cyklu po\u015bwi\u0119conego zespo\u0142owi klasztornemu w Ko\u0142baczu pt. Klasztor cysters\u00f3w w Ko\u0142baczu. Badania archeologiczne w latach 1960-1964 i 1978 - 1982 wyg\u0142osi\u0142 Dr Eugeniusz Cnotliwy,\r\n- 29 listopada 2011 odby\u0142 si\u0119 wyk\u0142ad Marka Obera pt. W\u0119dr\u00f3wka po katedrach Anglii,\r\n- 14 grudnia 2011 Dr Szymon Piotr Kubiak, wsp\u00f3\u0142kurator wraz z Dr. Volkerem Probstem wystawy Ernst Barlach. Obrazy \u015bmierci w tw\u00f3rczo\u015bci niemieckiego ekspresjonisty, wyg\u0142osi\u0142 wyk\u0142ad zwi\u0105zany z ta wystaw\u0105, po\u015bwi\u0119cony Ernstowi Barlachowi,\r\n- 19.grudnia 2011 - odby\u0142o si\u0119 Spotkanie Nadzwyczajne - Wr\u0119czenie Pani Zofii Fafis odznaczenia Gloria Artis,\r\n- 19 stycznia 2012 Dr Volker Probst, wsp\u00f3\u0142kurator wystawy dzie\u0142 Ernsta Barlacha go\u015bci\u0142 z wyk\u0142adem i prezentacj\u0105 \u201eHexenbilder in Werk Ernsts Barlachs\" (Przedstawienia czarownic w tw\u00f3rczo\u015bci Ernsta Barlacha),\r\n- 28 lutego 2012 odby\u0142 si\u0119 wyk\u0142ad Macieja S\u0142omi\u0144skiego pt. Pomniki Szczecina,\r\n- 27 marca 2012 po nowej wystawie pt. Ameryka\u0144skie i europejskie malarstwo z kolekcji Marxa oprowadzi\u0142a wsp\u00f3\u0142autorka tej wystawy Magdalena Lewoc,\r\n- 17 kwietnia 2012 prof. Tadeusz Jastrz\u0119bski, przedstawi\u0142 wyk\u0142ad z prezentacj\u0105 pt. Marynistyka w sztuce sakralnej - wybrane elementy z ko\u015bcio\u0142\u00f3w na Pomorzu,\r\n- 12 czerwca 2012 dr Pawe\u0142 Gut wyg\u0142osi\u0142 historyczne wprowadzenie do wystawy \u201eS\u0105siedzi w Europie. Ksi\u0119stwo Pomorskie i Kr\u00f3lestwo Polskie 1000-1648\",\r\n- 14 czerwca mgr Hubert Bilewicz z Uniwersytetu Gda\u0144skiego wyst\u0105pi\u0142 z wyk\u0142adem pt. Artystyczny wystr\u00f3j i wyposa\u017cenie polskich transatlantyk\u00f3w w mi\u0119dzywojniu.\r\nPod przewodnictwem kurator\u00f3w zapoznali\u015bmy si\u0119 z czterema mi\u0119dzynarodowymi wystawami wsp\u00f3\u0142organizowanymi przez Muzeum Narodowe w Szczecinie:\r\n- stycze\u0144 2011: Oswajanie modernizmu. Sztuka esto\u0144ska pierwszej po\u0142owy XX wieku,\r\n- grudzie\u0144 2011: Ernst Barlach. Obrazy \u015bmierci w tw\u00f3rczo\u015bci niemieckiego ekspresjonisty,\r\n- marzec 2012: Ameryka\u0144skie i europejskie malarstwo z kolekcji Marxa (wymieniona wy\u017cej),\r\n- czerwiec 2012: S\u0105siedzi w Europie. Ksi\u0119stwo Pomorskie i Kr\u00f3lestwo Polskie 1000-1648. \r\nOddzia\u0142 wsp\u00f3\u0142uczestniczy\u0142 w organizacji i finansowaniu sesji naukowej \u201eSztuka Afryki w kolekcjach i badaniach polskich\", kt\u00f3rej pok\u0142osiem planowano jako tom materia\u0142\u00f3w pod red. Ma\u0142gorzaty K\u0105dzieli, Macieja Z\u0105bka i S\u0142awomira Szafra\u0144skiego. (Ma by\u0107 wydany w 2012 lub 2013 r.)\r\nOdby\u0142y si\u0119 dwa autokarowe objazdy naukowe Oddzia\u0142u, przygotowane i prowadzone od strony merytorycznej przez Marka Obera. Zwiedzali\u015bmy tereny Vorpommern, historycznie cz\u0119\u015bci pa\u0144stwa pomorskiego le\u017c\u0105cej obecnie po stronie niemieckiej. Trasy poszczeg\u00f3lnych objazd\u00f3w mia\u0142y d\u0142ugo\u015b\u0107 oko\u0142o 300 km. W objazdach uczestniczy\u0142o \u0142\u0105cznie 97 os\u00f3b. Zwiedzali\u015bmy zabytki reprezentuj\u0105ce r\u00f3\u017cnorodn\u0105 tematyk\u0119 od architektury sakralnej, poprzez budowle obronne i rezydencje, po miejskie budownictwo i sztuk\u0119 ogrod\u00f3w.\r\nDokonania:\r\n2017:\r\n1. 16 spotka\u0144 o charakterze naukowym z referatami cz\u0142onk\u00f3w Oddzia\u0142u lub zaproszonych go\u015bci oraz zwi\u0105zanych z wystawami muzealnymi. Og\u00f3\u0142em wzi\u0119\u0142o w nich udzia\u0142 300 os\u00f3b. np.: wyk\u0142ad mgr Dariusza Kacprzaka \"Fidiasz w Szczecinie czyli spe\u0142nione marzenie Heinricha Dorna, wyk\u0142ad mgr Ewy Pr\u0105dzy\u0144skiej \"Dogonowie - kultura masek\", wyk\u0142ad dr Szymona Piotra Kubiaka pt. \"Sztuka nowoczesna i problem prymitywizmu\".\r\n2. wyjazd do ko\u015bcio\u0142a parafialnego w \u017babowie w celu obejrzenia obrazu Petera Jana Brandla \"Chrzest Chrystusa\" oraz wys\u0142uchania wyk\u0142adu mgr Micha\u0142a D\u0119bowskiego pt. \"Obraz malowany \u015bwiat\u0142em. Nowy Pocz\u0105tek\", udzia\u0142 dr Ewy Gwiazdowskiej w zwiedzaniu wiede\u0144skich wystaw czasowych, po\u015bwi\u0119conych m.in. kr\u00f3lowi Janowi III Sobieskiemu i cesarzowej Marii Teresie.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "turystyka i krajoznawstwo",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1863,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Historyk\u00f3w Sztuki Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "30/pok. 5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-206",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kaszubska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nStowarzyszenie jest organizacj\u0105 hobbystyczn\u0105, maj\u0105c\u0105 na celu hodowl\u0119 kot\u00f3w rasowych, opart\u0105 na podstawach naukowych. \r\nOrganizowanie pokaz\u00f3w i wystaw, kt\u00f3re popularyzuj\u0105 te pi\u0119kne zwierz\u0119ta. Nawi\u0105zywanie kontakt\u00f3w z podobnymi organizacjami za granic\u0105. \r\nPopieranie os\u00f3b i instytucji opiekuj\u0105cych si\u0119 bezdomnymi zwierz\u0119tami, szczeg\u00f3lnie kotami. \r\nOrganizowanie spotka\u0144 i prelekcji na temat hodowli i opieki nad kotami.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "11/5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-013",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Inowroc\u0142awska",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1864,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Hodowc\u00f3w Kot\u00f3w Rasowych Oddzia\u0142 IV w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11A",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-341",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Saba\u0142y",
+      "terc": "3262011"
+    },
+    "aims": "SIMP jest dobrowoln\u0105, demokratyczn\u0105, samorz\u0105dn\u0105 organizacj\u0105 u\u017cyteczno\u015bci spo\u0142ecznej o celach niezarobkowych. SIMP jest stowarzyszeniem tw\u00f3rczym, wykorzystuj\u0105cym intelekt swoich cz\u0142onk\u00f3w dla dbania o rozw\u00f3j gospodarczy kraju. Terenem dzia\u0142alno\u015bci jest obszar Rzeczypospolitej Polskiej z siedzib\u0105 w Warszawie.   \r\nCele organizacji:\r\n1. Krzewienie nauku, techniki. \r\n2. Propagowanie kultury i dobrych obyczaj\u00f3w.\r\n3. Podnoszenie kwalifikacji zawodowych swoich cz\u0142onk\u00f3w.\r\n4. Dba\u0142o\u015b\u0107 o przestrzeganie etyki zawodowej in\u017cynier\u00f3w i technik\u00f3w.\r\n5. Obrona interes\u00f3w zawodowych cz\u0142onk\u00f3w. \r\n6. Troska o zabytki techniki.\r\n7. Dba\u0142o\u015b\u0107 o ochron\u0119 \u015brodowiska naturalnego.\r\nDokonania organizacji:\r\nOrganizacja Konferencji Naukowo-Technicznych o zasi\u0119gu krajowym i zagranicznym /100-300 uczestnik\u00f3w w roku/, prowadzenie dzia\u0142alno\u015bci szkoleniowej i odczytowej dla cz\u0142onk\u00f3w i wszystkich zainteresowanych dan\u0105 tematyk\u0105, opracowywanie ekspertyz i opinii technicznych dla zak\u0142ad\u00f3w, urz\u0119d\u00f3w, sad\u00f3w , organizowanie imprez kulturalno-rozrywkowych i rekreacyjnych, dba\u0142o\u015b\u0107 o niwelowanie luki pokoleniowej w Stowarzyszeniu poprzez wsp\u00f3\u0142prac\u0119 ze szko\u0142ami \u015brednimi i uczelniami, opracowanie podstaw do wyst\u0105pienia o stworzenie samorz\u0105du zawodowego inzynier\u00f3w.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1865,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie In\u017cynier\u00f3w i Technik\u00f3w Mechanik\u00f3w Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "38C/3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-215",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Waleriana \u0141ukasi\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1866,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie In\u017cynier\u00f3w i Technik\u00f3w Przemys\u0142u Chemicznego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "67/1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-478",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. zaspokajanie osobistych aspiracji zawodowych, wytwarzanie wi\u0119zi kole\u017ce\u0144skiej, \u015brodowiskowej i towarzyskiej w\u015br\u00f3d cz\u0142onk\u00f3w stowarzyszenia,\r\n2. integrowanie i wzajemne wspomaganie si\u0119 zrzeszonych w stowarzyszeniu cz\u0142onk\u00f3w w realizcji zada\u0144 i zainteresowa\u0144,\r\n3. doskonalenie kwalifikacji zawodowych i pobudzanie tw\u00f3rczej aktywno\u015bci cz\u0142onk\u00f3w stowarzyszenia,\r\n4. inicjowanie i realizacja w\u0142asnych oraz og\u00f3lnospo\u0142ecznych przedsi\u0119wzi\u0119\u0107 s\u0142u\u017c\u0105cych gospodarczemu rozwojowi wytw\u00f3rczo\u015bci i us\u0142ug w dziedzinie materia\u0142\u00f3w budowlanych oraz wyrob\u00f3w ze szk\u0142a i ceramiki.\r\nDokonania:\r\n2014:\r\nOpracowania w\u0142asne:\r\n1. Monografia Zachodniopomorskiego SITPMB cd.\r\n2. Udokumentowywanie miejsc poch\u00f3wk\u00f3w koleg\u00f3w z SITPMB.\r\n3. Leksykon In\u017cynier\u00f3w i Technik\u00f3w c.d.\r\n4. Zabytki Techniki c.d. VI. Referaty \u201eodczyty i prelekcje ;\r\na) akustyczne p\u0142yty styropianowe ref. Prof. J.Kaszy\u0144ski,\r\nb) okna antyw\u0142amaniowe i ich wykorzystanie ref. W.Sawinda,\r\nc) Rekuperatory oszcz\u0119dzanie energii ref. J. Wanot,\r\nd) Zabezpieczenie i piel\u0119gnacja okien PCV przed zim\u0105 ref. W. Sawinda\r\nPonadto Zarz\u0105d Oddzia\u0142u w\u0142\u0105czy\u0142 si\u0119 do organizacji V Dni Techniki oraz Dnia Budowlanych.\r\n2019:\r\n1. Sze\u015b\u0107 zebra\u0144 stacjonarnych.\r\n2. Wycieczka techniczna.\r\n3. Dwa posiedzenia wyjazdowe \r\n4. Tradycyjne spotkanie bo\u017conarodzeniowe i noworoczne.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 na rzecz os\u00f3b w wieku emerytalnym",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "24/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-561",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Miko\u0142aja Reja",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1867,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie In\u017cynier\u00f3w i Technik\u00f3w Przemys\u0142u Materia\u0142\u00f3w Budowlanych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "42",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-415",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Papie\u017ca Jana Paw\u0142a II",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1868,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie In\u017cynier\u00f3w i Technik\u00f3w Wodnych i Melioracyjnych"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-478",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1869,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Kina Polskie - Pe\u0142nomocnik"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "24",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-486",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kr\u00f3lowej Korony Polskiej",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1870,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Ksi\u0119garzy Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "11",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-415",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Papie\u017ca Jana Paw\u0142a II",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Obrona praw, godno\u015bci i interes\u00f3w cz\u0142onk\u00f3w Stowarzyszenia.\r\n2. Podejmowanie i prowadzenie dzia\u0142alno\u015bci w zakresie doskonalenia kwalifikacji dla prawid\u0142owego wykonywania zawodu oraz mo\u017cliwo\u015bci zatrudnienia i tym samym zapewnienia odpowiednich warunk\u00f3w materialnych cz\u0142onkom.\r\n3. Krzewienie poczucia godno\u015bci i wsp\u00f3lnoty zawodowej oraz popularyzowanie pozycji i znaczenia zawodu ksi\u0119gowego i finansisty.\r\n4. Troska o nienaganny poziom etyczny i zawodowy cz\u0142onk\u00f3w i tworzenie odpowiednich warunk\u00f3w do podnoszenia tego poziomu.\r\n5. Wsp\u00f3\u0142praca z organami pa\u0144stwowymi i samorz\u0105du terytorialnego, \r\nsamorz\u0105dami zawodowymi, a zw\u0142aszcza z Krajow\u0105 Izb\u0105 Bieg\u0142ych Rewident\u00f3w, organizacjami spo\u0142eczno-zawodowymi i samorz\u0105dami gospodarczymi w zakresie doskonalenia rachunkowo\u015bci, metod przetwarzania jej danych, analizy, finans\u00f3w, podatk\u00f3w i innych rozlicze\u0144 zr\u00f3wnanych z podatkami oraz wykonywania zawodu, rewizji ksi\u0105g i kontroli finansowo-ksi\u0119gowej.\r\n6. Wsp\u00f3\u0142dzia\u0142anie z mi\u0119dzynarodowymi organizacjami i instytucjami dla kszta\u0142towania, organizowania i wykonywania zawodu wed\u0142ug rozwi\u0105za\u0144 europejskich i standard\u00f3w \u015bwiatowych, wymiany do\u015bwiadcze\u0144 i integracji mi\u0119dzynarodowej, jak r\u00f3wnie\u017c dzia\u0142a\u0144 maj\u0105cych na celu harmonizacj\u0119 rachunkowo\u015bci.\r\nDokonania:\r\nZajmujemy si\u0119 podnoszeniem kwalifikacji zawodowych ksi\u0119gowych, popularyzowaniem pozycji i znaczenia zawodu ksi\u0119gowego i finansisty, propagowaniem wysokiego poziomu etycznego cz\u0142onk\u00f3w.\r\nSwoje cele realizujemy przede wszystkim poprzez organizowanie kurs\u00f3w, seminari\u00f3w, odczyt\u00f3w i konsultacji, a tak\u017ce udost\u0119pniaj\u0105c i rozpowszechniaj\u0105c literatur\u0119 fachow\u0105. Naszym zadaniem jest r\u00f3wnie\u017c dzia\u0142alno\u015b\u0107 na rzecz integracji \u015brodowiska zawodowego w tym wprowadzenie do zawodu m\u0142odych ksi\u0119gowych.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1871,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Ksi\u0119gowych w Polsce Oddzia\u0142 Okr\u0119gowy"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "24A/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-454",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Papie\u017ca Jana Paw\u0142a II",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Utrzymanie wi\u0119zi z organizacjami polskimi na terenie ziemi S\u0142onimskiej i Nowogr\u00f3dzkiej. \r\n2. Pomoc r\u00f3wnie\u017c materialna obecnym mieszka\u0144com. \r\n3. Zachowanie i pomoc w utrzymaniu polskich tradycji, pomoc w organizowaniu nauki j\u0119zyka polskiego. \r\n4. Utrzymanie wi\u0119zi z mieszka\u0144cami Ziemi S\u0142onimskiej. \r\n5. Ochrona i odbudowa zabytk\u00f3w oraz cmentarzy.\r\nDokonania:\r\nPomoc materialna dla organizacji i indywidualna dla m\u0142odzie\u017cy. Kserokopiarka, prezenty \u015bwi\u0105teczne, ksi\u0105\u017cki, kolonie w Polsce, finansowanie dla grupy dzieci. Spotkania okazjonalne i wigilijne.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "pomoc Polonii i Polakom za granic\u0105",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1872,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Mi\u0142o\u015bnik\u00f3w Ziemi S\u0142onimskiej i Nowogr\u00f3dzkiej"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/2",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-305",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Andrzeja Ma\u0142kowskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Przeciwdzia\u0142anie narkomanii.\r\n2. Pomoc ludziom, kt\u00f3rzy znale\u017ali si\u0119 na drodze do narkomanii lub juz s\u0105 narkomanami.\r\n3. Upowszechnianie w spo\u0142ecze\u0144stwie wiedzy o spo\u0142ecznych kosztach i skutkach narkomanii.\r\n4. Rozwijanie wsp\u00f3\u0142pracy z w\u0142adzami i organami administracji samorz\u0105dowej i pa\u0144stwowej w zakresie zwalczania i zapobiegania narkomanii.\r\n5. Podejmowanie dzia\u0142a\u0144 na rzecz ludzi nieprzystosowanych spo\u0142ecznie (osoby chore, bezdomni, osoby \u017cyj\u0105ce z HIV, alkoholicy, m\u0142odzi przest\u0119pcy) w zakresie rehabilitacji, readaptacji i resocjalizacji.\r\nDokonania:\r\nZwi\u0119kszenie wiedzy na temat zjawiska narkomanii i sposob\u00f3w rozwi\u0105zania tej problematyki w\u015br\u00f3d og\u00f3\u0142u spo\u0142eczno\u015bci lokalnej. Dzi\u0119ki dzia\u0142aniom Stowarzyszenia\r\nwiele os\u00f3b zagro\u017conych (po kontaktach z narkotykami) nie uzale\u017cni\u0142o si\u0119 a osoby uzale\u017cnione podj\u0119\u0142y leczenie. Zwi\u0119kszenie umiej\u0119tno\u015bci wychowawcze rodzic\u00f3w w kierunku wspierania dzieci i m\u0142odzie\u017cy. Zmniejszenie spo\u0142ecznych skutk\u00f3w narkomanii (redukcja szk\u00f3d).\r\n2014:\r\n1. Program profilaktyki selektywnej dla dzieci i m\u0142odzie\u017cy Selektywna 1 Antyramy.\r\n2. Program profilaktyki wskazuj\u0105cej dla os\u00f3b u\u017cywaj\u0105cych narkotyk\u00f3w \"Z innej perspektywy\".\r\n3. Programy wsparcia dla os\u00f3b uzale\u017cnionych od narkotyk\u00f3w utrzymuj\u0105cych abstynencj\u0119 \"Krok za krokiem\".\r\n4. Programy wsparcia dla rodzin os\u00f3b zagro\u017conych narkomani\u0105 i u\u017cywaj\u0105cych narkotyk\u00f3w Stawiamy na rodzin\u0119.\r\n5. Ograniczanie ryzyka szk\u00f3d zdrowotnych w\u015br\u00f3d okazjonanych u\u017cytkownik\u00f3w narkotyk\u00f3w Party.\r\n6. Terapia i psychoterapia indywidulana i grupowa dla os\u00f3b uzale\u017cnionych przyjmuj\u0105cych  narkotyki w spos\u00f3b szkodliwy.\r\n7. Prowadzenie profilaktycznej dzia\u0142alno\u015bci informacyjnej i edukacyjnej w zakresie rozwi\u0105zywania probklem\u00f3w narkomanii.\r\n8. Wdra\u017canie i kontynuacja program\u00f3w z zakresu profilaktyki selektywnej skierowanej do os\u00f3b zagro\u017conych narkomani\u0105: dzieci, m\u0142odzie\u017cy i doros\u0142ych. \r\n9. Organizacja edukacji publicznej i pierwszorz\u0119dowych oddzia\u0142ywa\u0144 profilaktycznych w zakresie ograniczenia popytu oraz szk\u00f3d zdrowotnych i spo\u0142ecznych wynikaj\u0105cych z u\u017cywania alkoholu i innych \u015brodk\u00f3w psychoaktywnych.",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "dzia\u0142alno\u015b\u0107 na rzecz integracji i reintegracji zawodowej i spo\u0142ecznej os\u00f3b zagro\u017conych wykluczeniem spo\u0142ecznym",
+      "przeciwdzia\u0142anie uzale\u017cnieniom i patologiom spo\u0142ecznym"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1873,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie MONAR"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "3",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-502",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Podejmowanie inicjatyw o charakterze naukowym, wydawniczym, popularyzatorskim i organizacyjnym na rzecz ochrony d\u00f3br kultury zgromadzonych w muzeach.\r\n2. Reprezentowanie i obrona interes\u00f3w zawodowych polskich muzealnik\u00f3w.\r\nDokonania:\r\n2014-Przeprowadzenie Konkursu \"Zachodniopomorskie Muzealne Wydarzenie Roku\".",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1874,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Muzealnik\u00f3w Polskich Oddzia\u0142 Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "7/7",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-552",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "al. Wyzwolenia",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nStowarzyszenie Muzyk\u00f3w Rozrywkowych w Polsce STOMUR jest organizacj\u0105 polskich artyst\u00f3w wykonawc\u00f3w - muzyk\u00f3w rozrywkowych i ich naczeln\u0105 reprezentacj\u0105 w zakresie spraw tw\u00f3rczych, zawodowych i spo\u0142ecznych. STOMUR w przyj\u0119tym programie i podejmowanych dzia\u0142aniach wi\u0105\u017ce spraw\u0119 rozwoju kultury muzycznej w Polsce z podwy\u017cszeniem statusu artystycznego - spo\u0142ecznego - zawodowego swoich cz\u0142onk\u00f3w oraz piosenkarzy, prezenter\u00f3w dyskotek i innych os\u00f3b z kr\u0119gu muzyki rozrywkowej.\r\nW zrealizowaniu cel\u00f3w statutowych:\r\n1. Aktywnie uczestniczy w przygotowaniu projekt\u00f3w przepis\u00f3w prawnych normuj\u0105cych warunki pracy i warunki bytowe swoich cz\u0142onk\u00f3w oraz kontroluje prawid\u0142owo\u015b\u0107 i skuteczno\u015b\u0107 ich funkcjonowania.\r\n2. Organizuje cykliczne przegl\u0105dy estradowe zespo\u0142\u00f3w muzycznych i prowadzi dzia\u0142alno\u015b\u0107 impresaryjn\u0105 na rzecz artyst\u00f3w wykonawc\u00f3w - muzyk\u00f3w rozrywkowych.\r\n3. Utrzymuje kontakty z w\u0142adzami administracyjnymi, organizacajmi politycznymi i spo\u0142ecznymi w prawach dotycz\u0105cych kultury muzycznej i poprawy warunk\u00f3w \u017cycia i pracy swoich cz\u0142onk\u00f3w.\r\nJest to najliczniejsza w Polsce organizacja zrzeszaj\u0105ca muzyk\u00f3w rozrywkowych.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "43/9",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-246",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Tadeusza Zawadzkiego",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1875,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Muzyk\u00f3w Rozrywkowych STOMUR"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "979",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-952",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Skrytka Pocztowa",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Kultywowanie tradycji polskiej i s\u0142owia\u0144skiej.\r\n2. Inspirowanie refleksji intelektualnej na temat historii tej tradycji i jej roli dla wsp\u00f3\u0142czesno\u015bci.\r\n3. Populatyzacja tradycyjnych warto\u015bci kulturalnych oraz ich obrona wobec zagro\u017ce\u0144 zwi\u0105zanych z agresywn\u0105 ekspansj\u0105 kosmopolityzmu.\r\n4. Budowanie o\u015brodka kultury tradycyjnej.",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1876,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie na Rzecz Tradycji i Kultury \"Niklot\" Oddzia\u0142 Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "67",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-478",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Inspirowanie oraz udzia\u0142 w rozwoju nauki, techniki i gospodarki w przetw\u00f3rstwie spo\u017cywczym, wy\u017cywieniu ludno\u015bci i dziedzinach pokrewnych.\r\n2. Popieranie pracy tw\u00f3rczej, organizowanie doskonalenia kwalifikacji oraz obrona interes\u00f3w zawodowych  cz\u0142onk\u00f3w.\r\n3. Wytwarzanie wi\u0119zi \u015brodowiskowej zawodowej i towarzyskiej w\u015br\u00f3d cz\u0142onk\u00f3w oraz organizowanie i niesienie im pomocy.\r\nDokonania:\r\nStowarzyszenie zrzesza specjalist\u00f3w i ekspert\u00f3w przemys\u0142u spo\u017cywczego, w tym rzeczoznawc\u00f3w ds. HACCP. Dzia\u0142ania obejmuj\u0105 prowadzenie ekspertyz wprowadzonych system\u00f3w bezpiecze\u0144stwa \u017cywno\u015bci - HACCP, opiniowanie i weryfikacj\u0119 projekt\u00f3w bran\u017cowych, zwi\u0105zanych z budow\u0105 i modernizacj\u0105 Zak\u0142ad\u00f3w Przemys\u0142u Spo\u017cywczego, ekspertyzy i opinie dotycz\u0105ce jako\u015bci przetwor\u00f3w przemys\u0142u spo\u017cywczego. Ponadto SITSpo\u017c. opracowuje i weryfikuje projekty technologiczne zak\u0142ad\u00f3w przemys\u0142u spo\u017cywczego pod wzgl\u0119dem zgodno\u015bci z normami europejskimi i celem przystosowania zak\u0142ad\u00f3w do wymog\u00f3w Unii Europejskiej. Prowadzone s\u0105 prace w zakresie projektowania higienizacji w zak\u0142adach przemys\u0142u spo\u017cywczego, opracowywania program\u00f3w profilaktyki i zwalczania szkodnik\u00f3w, ekspertyz z zakresu technologii, badania zdolno\u015bci produkcyjnej zak\u0142ad\u00f3w oraz opiniowania innowacyjno\u015bci technologii produkcji, maszyn i urz\u0105dze\u0144 w zak\u0142adach przemys\u0142u spo\u017cywczego Od marca 2009 r. w strukturach Naczelnej Organizacji Technicznej w Szczecinie funkcjonuje Komisja ds. HACCP przy SITSpo\u017c NOT Oddzia\u0142 Zachodniopomorski, kt\u00f3ra koordynuje prowadzone powy\u017cej dzia\u0142ania oraz szkolenia \"Jako\u015b\u0107 \u017cywno\u015bci\".",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 1877,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Naukowo-Techniczne In\u017cynier\u00f3w i Technik\u00f3w Przemys\u0142u Spo\u017cywczego Oddzia\u0142 Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 1878,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Naukowo-Techniczne In\u017cynier\u00f3w i Technik\u00f3w Rolnictwa"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-252",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "4a/8",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-296",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Tadeusza Kutrzeby",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1879,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Os\u00f3b Chorych na Celiaki\u0119 i Inne Zespo\u0142y Z\u0142ego Wch\u0142aniania"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "10",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-344",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Rzemie\u015blnicza",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Udzielanie osobom pozbawionym wolno\u015bci i ich rodzinom pomocy moralnej, materialnej i prawnej.\r\n2. Uczestniczenie w dzia\u0142alno\u015bci wychowawczej prowadzonej w zak\u0142adach, w kt\u00f3rych przebywaj\u0105 osoby pozbawione wolno\u015bci, zw\u0142aszcza w dziedzinie kultury i o\u015bwiaty.\r\n3. Odwiedzanie os\u00f3b pozbawionych wolno\u015bci w miejscach ich przebywania,\r\n4. Zwracanie si\u0119 do kompetentnych organ\u00f3w w indywidualnych sprawach os\u00f3b pozbawionych wolno\u015bci.\r\n5. Przedk\u0142adanie w\u0142a\u015bciwym organom pa\u0144stwowym memoria\u0142\u00f3w, wyst\u0105pie\u0144 i wniosk\u00f3w w sprawie zak\u0142ad\u00f3w, w kt\u00f3rych przebywaj\u0105 osoby pozbawione wolno\u015bci, ich potrzeb i funkcjonowania oraz opiniowanie akt\u00f3w prawnych, zwi\u0105zanych z materi\u0105 obj\u0119t\u0105 zakresem dzia\u0142ania PATRONAT'U.\r\n6. Sprawowanie dozoru nad skazanymi i sprawowanie opieki nad osobami zwolnionymi z zak\u0142ad\u00f3w.\r\n7. Indywidualne przygotowanie pooszczeg\u00f3lnych skazanych do readaptacji w spo\u0142ecze\u0144stwie po zwolnieniu z zak\u0142adu.\r\n8. Zg\u0142aszanie cz\u0142onka PATRONAT'U  w charakterze spo\u0142ecznego przedstawiciela w post\u0119powaniu s\u0105dowym i przedstawiciela skazanego w post\u0119powaniu wykonawczym.\r\n9. Uczestnictwo w dzia\u0142aniach wspierajacych post\u0119owanie mediacyjne.",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji"
+    ],
+    "hasSameAddress": true,
+    "id": 1880,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Penitencjarne \"PATRONAT\""
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4/82",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-502",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n- PODEJMOWANIE NA FORUM KRAJOWYM I ZAGRANICZNYM DZIA\u0141A\u0143 ZMIERZAJ\u0104CYCH DO\r\nUZYSKANIA MORALNEGO ZADO\u015a\u0106UCZYNIENIA I REKOMPENSATY MATERIALNEJ DLA OBYWATELI\r\nPOLSKICH REPRESJONOWANYCH PRZEZ III RZESZ\u0118 - Z TYTU\u0141U R\u00d3\u017bNYCH FORM REPRESJI\r\nNAZISTOWSKICH,\r\n- DZIA\u0141ANIE W CELU ZABEZPIECZENIA REPRESJONOWANYCH PRZEZ III RZESZ\u0118 NALE\u017bNYCH IM\r\nPRAW ORAZ UZYSKANIA DLA CZ\u0141ONK\u00d3W STOWARZYSZENIA POMOCY SOCJALNEJ I OPIEKI\r\nZDROWOTNEJ,\r\n- DOKUMENTOWANIE PRAWDY HISTORYCZNEJ O LOSACH OBYWATELI POLSKICH\r\nPRZE\u015aLADOWANYCH PRZEZ III RZESZ\u0118,\r\n- DZIA\u0141ANIE NA RZECZ POJEDNANIA POLSKO-NIEMIECKIEGO.",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 na rzecz kombatant\u00f3w i os\u00f3b represjonowanych",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1881,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Polak\u00f3w Represjonowanych przez III Rzesz\u0119 w Szczecinie Zarz\u0105d Wojew\u00f3dzki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-556",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Starom\u0142y\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Udzia\u0142 w organizacji koncert\u00f3w, konkurs\u00f3w i szkole\u0144 dla uczni\u00f3w oraz pedagog\u00f3w Zespo\u0142u Szk\u00f3\u0142 Muzycznych.\r\n2. Opisywanie wniosk\u00f3w o stypendia Ministerstwa Kultury i Sztuki.\r\n3. Wsp\u00f3\u0142praca z Fundacj\u0105 Dom Muzyka Seniora - opieka nad osobami starszymi.\r\n4. Sprawy dotycz\u0105ce \u015brodowiska muzycznego np. opiniowanie zatrudnienia muzyk\u00f3w.\r\nDokonania:\r\nDzia\u0142anie na rzecz \u015brodowiska - promocja m\u0142odych muzyk\u00f3w (koncerty dla m\u0142odzie\u017cy). Fundacja Dom Muzyka Seniora - zbieranie funduszy na budow\u0119 domu spokojnej staro\u015bci dla muzyk\u00f3w (lokalizacja: K\u0105ty - gmina G\u00f3ra Kalwaria). Organizacja koncert\u00f3w plenerowych na placu im. Waleriana Paw\u0142owskiego wraz z Filharmoni\u0105 Szczeci\u0144sk\u0105. Promocja m\u0142odego pianisty M. Landowskiego z ZSM w Szczecinie (koncerty w Zamku).\r\nRok 2010:\r\n1. Organizacja  cyklu 7 koncert\u00f3w kameralnych \"Harmonie\".\r\n2. Rok Chopinowski - koncerty \"Chopin na falach\" - organizowane w Polskim Radio Szczecin.\r\n3. Organizacja z rad\u0105 Osiedla Pogodno koncert\u00f3w w siedzibie Rady.\r\n4. Koncert plenerowy na placu W. Paw\u0142owskiego organizowany z Filharmoni\u0105 Szczeci\u0144sk\u0105 - 26.IX.2010 r.\r\n2014:\r\n1. Koncerty kameralne z cyklu HARMONIE w Domu Kultury 13 Muz\r\nMarzec 2014r.-wykonawcy-Studenci Akademii Sztuki w Klubie 13 Muz.\r\nKwiecie\u0144 2014r. -wykonawcy-Ch\u00f3r Kameralny Concertino - dyrygent Ma\u0142gorzata Kowalik, Szczeci\u0144ski Ch\u00f3r Kameralny - dyrygent Ludwika Mitkiewicz --Koncert \u201e Wiosna w Szczecinie \u201ew Ksi\u0105\u017cnicy Pomorskiej.\r\nMaj 2014r. -wykonawcy- Studenci Akademii Sztuki \u2014Wydzia\u0142 Instrumentalny w Klubie 13 Muz\r\nWrzesie\u0144 2014r. -Koncert na Placu im. Waleriana Paw\u0142owskiego -otwarcie sceny koncertowej powsta\u0142ej z inicjatywy SPAM. Wykonawcy- Kwartet smyczkowy z Filharmonii Szczeci\u0144skiej.\r\nListopad 2014r.-wykonawcy-Studenci i Pedagodzy Akademii Sztuki .Koncert \u2014arie i duety z oper W. A. Mozarta w Muzeum Narodowym.\r\nGrudzie\u01442014r. -wykonawcy Ch\u00f3r \u017ce\u0144ski Primo Vere - dyrygent ks. Z. Wo\u017aniak. Koncert kol\u0119d w Klubie 13 Muz.\r\n2. Wsp\u00f3\u0142praca z Rad\u0105 Osiedla Pogodno przy organizacji koncert\u00f3w w siedzibie Rady Osiedla.\r\n3. Wsp\u00f3\u0142praca z Zespo\u0142em Szk\u00f3\u0142 Muzycznych im. Feliksa Nowowiejskiego w Szczecinie- ufundowanie nagrody w III Zachodniopomorskim Konkursie Pianistycznym.\r\n4. Wsp\u00f3\u0142praca z Akademi\u0105 Sztuki w Szczecinie przy organizacji koncert\u00f3w kameralnych.\r\n2016:\r\n1. Koncerty kameralne-cykl Harmonie realizowany we wsp\u00f3\u0142pracy z Domem Kultury 13 Muz.\r\n2. Wsp\u00f3\u0142praca z Akademi\u0105 Sztuki w Szczecinie, Filharmoni\u0105 Szczeci\u0144sk\u0105 przy organizacji koncert\u00f3w.\r\n3. Wsp\u00f3\u0142praca z Zespo\u0142em Szk\u00f3\u0142 Muzycznych w Szczecinie-promocja uczni\u00f3w-laureat\u00f3w konkurs\u00f3w krajowych i mi\u0119dzynarodowych oraz olimpiady artystycznej.\r\n4. Udzia\u0142 w uroczysto\u015bciach 60-lecia SPAM w Warszawie.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "promocja Rzeczypospolitej Polskiej za granic\u0105",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "21",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-037",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Anhellego",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1882,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Polskich Artyst\u00f3w Muzyk\u00f3w Ko\u0142o Nr 9 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "",
+      "city": "",
+      "postcode": "",
+      "street": ""
+    },
+    "aims": "",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1883,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Polskiej M\u0142odzie\u017cy Muzycznej Jeunesses Musicales De Pologne"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1A",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-504",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Zygmunta Starego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Zapoznanie spo\u0142ecze\u0144stwa z doktryn\u0105 i tradycjami religijno-spo\u0142ecznymi Ko\u015bcio\u0142a Prawos\u0142awnego i propagowanie ich.\r\n2. Rozwijanie dzia\u0142alno\u015bci kulturalnej i o\u015bwiatowej w duchu porozumienia i wsp\u00f3\u0142pracy mi\u0119dzy r\u00f3\u017cnymi wyznaniami i religiami.\r\n3. Opieka nad zabytkami kultury prawos\u0142awnej i materialnej.\r\n4. Dzia\u0142alno\u015b\u0107 charytatywna.",
+    "benefitZones": [
+      "wspieranie rodziny i systemu pieczy zast\u0119pczej",
+      "dzia\u0142alno\u015b\u0107 charytatywna",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "14/6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-441",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Ksi\u0119cia Bogus\u0142awa X",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1884,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Oddzia\u0142 Terenowy Stowarzyszenia Prawos\u0142awnego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "26/27",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-100",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jana Henryka D\u0105browskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nDzia\u0142alno\u015b\u0107 rzeczoznawcza techniki samochodowej i ruchu drogowego w pe\u0142nym zakresie.",
+    "benefitZones": [
+      "porz\u0105dek i bezpiecze\u0144stwo publiczne",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1885,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Rzeczoznawc\u00f3w Techniki Samochodowej i Ruchu Drogowego Oddz. w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "9/800",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-506",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Teofila Starzy\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Kultywowanie najlepszych tradycji polskiej marynarki handlowej i polskiej marynarki wojennej. \r\n2. Spo\u0142eczna i zawodowa aktywizacja spo\u0142ecze\u0144stwa, a szczeg\u00f3lnie \u015brodowisk s\u0142u\u017cb technicznych zwi\u0105zanych z \u017ceglug\u0105 i gospodark\u0105 morsk\u0105. \r\n3. Opracowywanie i wyra\u017canie opinii dotycz\u0105cych kierunku i metod przygotowania kadr morskich, szczeg\u00f3lnie oficerskiej kadry s\u0142u\u017cb technicznych dla floty. \r\n4. Proekologiczna dzia\u0142alno\u015b\u0107 na rzecz \u015brodowiska naturalnego, a w szczeg\u00f3lno\u015bci \u015brodowiska morskiego.\r\nDokonania:\r\nZ inicjatywy SSMM zmieniono Rozporz\u0105dzenie Ministra w sprawie kwalifikacji kadr morskich, umo\u017cliwiaj\u0105ce powr\u00f3t polskich oficer\u00f3w do pracy na statkach zagranicznych, co przyczyni\u0142o si\u0119 do zmniejszenia bezrobocia. Cz\u0142onkowie Stowarzyszenia bior\u0105 czynny udzia\u0142 w organach pa\u0144stwowych i instytucjach gospodarki morskiej: \u0142awnicy Izby Morskiej (S\u0105d Okr\u0119gowy), cz\u0142onkowie Zespo\u0142u ds. tworzenia nowych akt\u00f3w prawnych przy Ministerstwie Infrastruktury i Gospodarki Morskiej, pracownicy naukowo - dydaktyczni Akademii Morskiej w Szczecinie, Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie, wyk\u0142adowcy w Studium Doskonalenia Kadr Oficerskich przy Akademii Morskiej w Szczecinie, szefowie i inspektorzy armatorskich s\u0142u\u017cb technicznych, starsi oficerowie,  mechanicy, kierownicy dzia\u0142u dzia\u0142u maszynowego statku - wraz z kapitanem tworz\u0105 \u015bcis\u0142e kierownictwo statku.",
+    "benefitZones": [
+      "ekologia i ochrona zwierz\u0105t oraz ochrona dziedzictwa przyrodniczego",
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-114",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Kosodrzewiny",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1886,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Starszych Mechanik\u00f3w Morskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-431",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Micha\u0142a Kleofasa Ogi\u0144skiego",
+      "terc": "3262011"
+    },
+    "aims": "Najwa\u017cniejsza dzia\u0142alno\u015b\u0107: \r\n1. Inicjowanie i popieranie r\u00f3\u017cnych form dzia\u0142alno\u015bci kulturalnej naukowej, publicystycznej i popularyzatorskiej, a tak\u017ce dokumentowanie i utrwalanie warto\u015bci ideowych i historycznych oraz zachowanie pami\u0119ci o poleg\u0142ych i zmar\u0142ych cz\u0142onkach Szarych Szereg\u00f3w.\r\n 2. Gromadzenie i archiwizowanie dokument\u00f3w, pami\u0105tek i materia\u0142\u00f3w dotycz\u0105cych Szarych Szereg\u00f3w oraz los\u00f3w ich rodzin. \r\nCele organizacji:\r\n1. Integracja i utrzymywanie wi\u0119zi kole\u017ce\u0144stwa i braterstwa broni. \r\n2. Gromadzenie dokument\u00f3w, prowadzenie prac historycznych oraz dzia\u0142a\u0144 na rzecz rozpowszechniania historii Szarych Szereg\u00f3w. \r\n3. Wsp\u00f3\u0142praca i wsp\u00f3\u0142dzia\u0142anie z organizacjami harcerskimi i kombatanckimi. \r\n4. Organizowanie i rozdzielanie pomocy materialnej naszym cz\u0142onkom. \r\nDokonania:\r\n2019: Wycieczki integracyjne, wsp\u00f3\u0142praca ze szko\u0142ami i wojskiem.\r\nKontakty ze Szko\u0142ami Podstawowymi Nr 11, 14, 46 w Szczecinie, Gimnazjum Nr 1 im. Szarych Szereg\u00f3w w Nowogardzie. Udzia\u0142 w organizowaniu wystawy kombatanckiej na Zamku Ksi\u0105\u017c\u0105t Pomorskich w Szczecinie. Wsp\u00f3\u0142praca z wojskiem i udzia\u0142 w uroczysto\u015bciach pa\u0144stwowych i patriotycznych.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "dzia\u0142alno\u015b\u0107 na rzecz kombatant\u00f3w i os\u00f3b represjonowanych"
+    ],
+    "hasSameAddress": true,
+    "id": 1887,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Szarych Szereg\u00f3w Oddzia\u0142 Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-310",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Piast\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j techniki, wynalazczo\u015bci i innowacyjno\u015bci oraz rozpowszechnianie i wdra\u017canie nowych rozwi\u0105za\u0144 technicznych w praktyce gospodarczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1888,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Techniczne Odlewnik\u00f3w Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "8/4",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-436",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Jagiello\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie"
+    ],
+    "hasSameAddress": true,
+    "id": 1889,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie T\u0142umaczy Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4/pok\u00f3j 81",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-502",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nIntegracja Polak\u00f3w urodzonych na nale\u017c\u0105cym do i by\u0142ym terytorium III Rzeszy Niemieckiej. Zado\u015b\u0107uczynienie z tytu\u0142u pobytu matek i rodzic\u00f3w na terenie III Rzeszy Niemieckiej i niewolniczej pracy oraz poniesionych szk\u00f3d.\r\nDokonania:\r\nProwadzenie spo\u0142ecznie dokumentacji i pomoc w uzyskaniu sta\u0142ego dochodu do emerytury dla dzieci urodzonych lub deportowanych w g\u0142\u0105b III Rzeszy. 626 os\u00f3b otrzyma\u0142o w/w dodatek.",
+    "benefitZones": [
+      "pomoc ofiarom katastrof, kl\u0119sk \u017cywio\u0142owych, konflikt\u00f3w zbrojnych i wojen w kraju i za granic\u0105"
+    ],
+    "hasSameAddress": true,
+    "id": 1890,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Urodzonych w Niewoli Niemieckiej we W\u0142oc\u0142awku"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "47",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-515",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Ma\u0142opolska",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "porz\u0105dek i bezpiecze\u0144stwo publiczne"
+    ],
+    "hasSameAddress": true,
+    "id": 1891,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Wspierania Porz\u0105dku Publicznego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-617",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017bubr\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Inspirowanie, wspomaganie i prowadzenie wszechstronnej wsp\u00f3\u0142pracy Polonii oraz Polak\u00f3w z zagranicy z Ojczyzn\u0105 w dziedzinach: o\u015bwiaty, nauki, kultury, religii, gospodarki, turystyki i sportu.\r\n2. Propagowanie, wspieranie i prowadzenie nauczania j\u0119zyka polskiego oraz podtrzymywania jego znajomo\u015bci w\u015br\u00f3d Polonii i Polak\u00f3w mieszkaj\u0105cych za granic\u0105.\r\n3. Upowszechnianie w \u015brodowiskach polonijnych wiedzy o kulturze polskiej i wsp\u00f3\u0142czesnych zjawiskach w \u017cyciu spo\u0142ecznym, gospodarczym i politycznym kraju.\r\n4. Pog\u0142\u0119bianie w Polsce wiedzy o Polonii i emigracji.\r\n5. Dzia\u0142anie na rzecz polskiego dziedzictwa kulturowego poza granicami kraju.\r\n6. Pomoc w zapewnieniu opieki duszpasterskiej w j\u0119zyku polskim.\r\n7. Wspieranie d\u0105\u017ce\u0144 emigracji i \u015brodowisk polonijnych do umacniania swych pozycji spo\u0142eczno-ekonomicznych w krajach osiedlenia.\r\n8. Obrona praw polskiej mniejszo\u015bci narodowej.\r\n9. Dzia\u0142anie na rzecz rozwoju regionalnego.\r\nDokonania 2019:\r\n1. Organizacja pobytu wypoczynku dla polskich dzieci i m\u0142odzie\u017cy z Ukrainy i Bia\u0142orusi wraz z opiekunami w Trzebie\u017cy.\r\n2. Organizacja spotkania upami\u0119tniaj\u0105cego z rodakami Ka\u0142usza.\r\n3. Organizacja obchod\u00f3w Dnia \u015awi\u0119tego Kazimierza Kaziuk\u00f3w - zesp\u00f3\u0142 z Wile\u0144szczyzny oraz organizacja pobytu Polak\u00f3w z Grodzie\u0144szczyzny.\r\n4. Organizacja w Koszalinie 50 Spotkania Ch\u00f3r\u00f3w Polonijnych z Niemiec, Francji, Rosji, Armenii i Ukrainy.\r\n5. Organizacja w Ksi\u0105\u017cnicy Pomorskiej dw\u00f3ch spotka\u0144 o Polakach na wschodzie, ich losach, historii, dzia\u0142alno\u015bci spo\u0142ecznej, repatriacji.\r\n6. Udzielenie pomocy rodakom powracaj\u0105cym do Polski z Kazachstanu i innych republik by\u0142ego ZSRR w tworzeniu warunk\u00f3w na nowej drodze \u017cycia.\r\n7. Organizacja udzia\u0142u w obchodach 10-lecia Towarzystwa Pomocy Polakom Wielkie Serce i Dniach Kultury Polskiej w Truskawcu.",
+    "benefitZones": [
+      "pomoc Polonii i Polakom za granic\u0105",
+      "dzia\u0142alno\u015b\u0107 na rzecz kombatant\u00f3w i os\u00f3b represjonowanych",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1892,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Wsp\u00f3lnota Polska Oddzia\u0142 Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "66",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-479",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Podejmowanie inicjatyw, dzia\u0142a\u0144 oraz kszta\u0142towanie postaw przyczyniaj\u0105cych si\u0119 do budowania i rozwoju dobros\u0105siedzkich stosunk\u00f3w, wsp\u00f3\u0142pracy i przyja\u017ani na zasadach r\u00f3wno\u015bci, wzajemnych korzy\u015bci, zaufania i szacunku mi\u0119dzy spo\u0142ecze\u0144stwem polskim i spo\u0142eczno\u015bciami pa\u0144stw za wschodni\u0105 granic\u0105 Polski, Polakami tam zamieszkuj\u0105cymi oraz mniejszo\u015bciami narodowymi tych pa\u0144stw mieszkaj\u0105cymi w Polsce.\r\n2. Dzia\u0142ania na rzecz lepszego poznania, wzajemnego zrozumienia i zbli\u017cenia mieszka\u0144c\u00f3w Polski i pa\u0144stw zza wschodniej granicy, szerzenie rzetelnej informacji i wiedzy o historii, tradycjach, kulturze, gospodarce i dniu dzisiejszym naszych pa\u0144stw i narod\u00f3w; przezwyci\u0119\u017canie wzajemnych uprzedze\u0144 i zasz\u0142o\u015bci obci\u0105\u017caj\u0105cych nasze stosunki.\r\n3. Promowanie i wspieranie wsp\u00f3\u0142pracy gospodarczej oraz wymiany handlowej mi\u0119dzy naszymi krajami, podmiotami gospodarczymi i osobami; ukazywanie znaczenia tej wsp\u00f3\u0142pracy i wzajemnych korzy\u015bci dla bie\u017c\u0105cych interes\u00f3w i rozwoju gospodarczego.\r\n4. Inicjowanie i popieranie wsp\u00f3\u0142pracy naukowo-technicznej i kulturalnej mi\u0119dzy instytucjami, plac\u00f3wkami kultury i nauki, szko\u0142ami i organizacjami wzbogacaj\u0105cej wzajemnie potencja\u0142 kulturalny i intelektualny naszych spo\u0142ecze\u0144stw, pozwalaj\u0105cej tworzy\u0107 nowe warto\u015bci materialne i duchowe.\r\nDokonania:\r\n1.  Seminarium nt. aktualnych problem\u00f3w wsp\u00f3\u0142pracy ze wschodnimi s\u0105siadami pt. \"Zanim wyruszysz na Wsch\u00f3d\".\r\n2.  Konkurs j\u0119zyka rosyjskiego.\r\n3.  XXXII Olimpiada j\u0119zyka rosyjskiego.\r\n4.  XXXII Og\u00f3lnopolski Konkurs Recytatorski \"Poezja i Proza na Wsch\u00f3d od Bugu\".\r\n5. Prowadzenie dzia\u0142alno\u015bci informacyjnej, wydawniczej (\"Prawo na Wschodzie\", \"Ze wschodem i o Wschodzie\", \"Nowe Kontrasty\").",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "promocja Rzeczypospolitej Polskiej za granic\u0105"
+    ],
+    "hasSameAddress": true,
+    "id": 1893,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Wsp\u00f3\u0142pracy Polska-Wsch\u00f3d Zachodniopomorski Oddzia\u0142 Wojew\u00f3dzki"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "13",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-561",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Starom\u0142y\u0144ska",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1894,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Stowarzyszenie Wychowania Muzycznego"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "15/U6",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-563",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Ko\u0144ski Kierat",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Tworzenie systemu ochrony interes\u00f3w konsument\u00f3w indywidualnych, zmierzaj\u0105cego do zapewnienia nale\u017cnych mu praw do:\r\n1) wyboru towar\u00f3w i us\u0142ug o odpowiadaj\u0105cej cenom jako\u015bci,\r\n2) dost\u0119pu do rzetelnej informacji o towarach,\r\n3) ochrony przed produktami i us\u0142ugami niebezpiecznymi dla \u017cycia i zdrowia,\r\n4) zaspokajania podstawowych potrzeb,\r\n5) wyra\u017cania opinii o polityce konsumenckiej pa\u0144stwa oraz dzia\u0142aniach producent\u00f3w i handlowc\u00f3w,\r\n6) pozytywnego za\u0142atwiania uzasadnionych reklamacji,\r\n7) edukacji konsumenckiej,\r\n8) \u017cycia w zdrowym \u015brodowisku naturalnym.\r\n2. Oddzia\u0142ywanie na polityk\u0119 konsumenck\u0105 pa\u0144stwa.\t\r\nDokonania:\r\nW roku 2011 udzielono 62 porady pisemne, 2078 porad bezpo\u015brednich - telefonicznie, e-mailowo lub osobi\u015bcie w siedzibie Oddzia\u0142u, wystosowano 368 wyst\u0105pie\u0144 pisemnych w imieniu konsument\u00f3w do podmiot\u00f3w gospodarczych i organ\u00f3w administracji, napisano 34 pisma procesowe.\r\nW latach 2011 - 2012 Federacja realizowa\u0142a zadanie publiczne w zakresie \"Prowadzenie bezp\u0142atnego poradnictwa i pomocy prawnej w zakresie uprawnie\u0144  konsument\u00f3w oraz dochodzenia ich roszcze\u0144 oraz sporz\u0105dzanie pism procesowych na rzecz konsument\u00f3w\" projekt finansowany przez Urz\u0105d Ochrony Konkurencji i Konsument\u00f3w.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "upowszechnianie i ochrona wolno\u015bci i praw cz\u0142owieka oraz swob\u00f3d obywatelskich, a tak\u017ce dzia\u0142ania wspomagaj\u0105ce rozw\u00f3j demokracji",
+      "upowszechnianie i ochrona praw konsument\u00f3w"
+    ],
+    "hasSameAddress": true,
+    "id": 1895,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Federacja Konsument\u00f3w - Oddzia\u0142 w Szczecinie"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "4/F4/F5",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-502",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Wa\u0142y Chrobrego",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1. Dobro Kraju (Polski) oraz umacnianie jego integralno\u015bci i suwerenno\u015bci.\r\n2. Obrona godno\u015bci dobrego imienia i pami\u0119ci Armii Krajowej i jej \u017co\u0142nierzy oraz struktur Polskiego Pa\u0144stwa Podziemnego.\r\n3. Utrzymywanie i zacie\u015bnianie kole\u017ce\u0144skiej wi\u0119zi mi\u0119dzy rozproszonymi \u017co\u0142nierzami Armii Krajowej, cz\u0142onkami (dzialaczami) struktur Polskiego Pa\u0144stwa Podziemnego oraz ich rodzinami.\r\n4. Badanie, utrwalanie i rozpowszechnianie historii, tradycji i dziedzictwa ideowego  -  etosu Armii Krajowej i Polskiego Pa\u0144stwa Podziemnego.\r\n5. Wsp\u00f3\u0142praca z organizacjami zrzeszaj\u0105cymi kombatant\u00f3w i ofiary II wojny \u015bwiatowej oraz uczestnik\u00f3w walk z rezimem komunistycznym o Polsk\u0119 Niepodleg\u0142\u0105.\r\n6. Inicjowanie organizowania opieki medycznej i socjalnej oraz pomocy kole\u017ce\u0144skiej dla by\u0142ych \u017co\u0142nierzy Armii Krajowej i ich rodzin.\r\nDokonania 2015:\r\n1. Obchody 71 rocznicy powstania 27 Wo\u0142y\u0144skiej Dywizji Piechoty Armii Krajowej.\r\n2. Obchody 73 rocznicy powo\u0142ania Armii Krajowej.\r\n3. Narodowy Dzie\u0144 Pami\u0119ci \u017bo\u0142nierzy Wykl\u0119tych.\r\n4. 75 rocznica wydania wyroku na oficer\u00f3w Wojska Polskiego wi\u0119zionych w obozach sowieckich.\r\n5. J\u00f3zef Pi\u0142sudski mianowany pierwszym Marsza\u0142kiem Polski \"Imieniny Marsza\u0142ka\".\r\n6. 75 rocznica Zbrodni Katy\u0144skiej.\r\n7. \u015awi\u0119to Narodowe Trzeciego Maja.\r\n8. 80 rocznica \u015bmierci Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego.\r\n9. Dzie\u0144 Ponarski.\r\n10. Narodowy Dzie\u0144 pami\u0119ci ofiar nazistowskich oboz\u00f3w koncentracyjnych.\r\n11. 71 rocznica Powstania Wile\u0144skiego.\r\n12. 72 rocznica masowej zbrodni ludno\u015bci polskiej na Wo\u0142yniu.\r\n13. 71 rocznica wybuchu Powstania Warszawskiego.\r\n14. \u015awi\u0119to Wojska Polskiego.\r\n15. 77 rocznica wybuchu II wojny \u015bwiatowej.\r\n16. 76 rocznica agresji  sowieckiej na Polsk\u0119 - \u015awiatowy Dzie\u0144 Sybiraka.\r\n17. 76 rocznica powstania Podziemnego Pa\u0144stwa Polskiego.\r\n18. XX rocznica nadania imienia Armii Krajowej Zespo\u0142owi Szk\u00f3\u0142 Nr 4 w Szczecinie.\r\n19. XXXIV Zjazd Kresowych \u017bo\u0142nierzy AK w Mi\u0119dzyzdrojach.\r\n20. Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci.",
+    "benefitZones": [
+      "podtrzymywanie i upowszechnianie tradycji narodowej, piel\u0119gnowanie polsko\u015bci oraz rozwoju \u015bwiadomo\u015bci narodowej, obywatelskiej i kulturowej",
+      "dzia\u0142alno\u015b\u0107 na rzecz kombatant\u00f3w i os\u00f3b represjonowanych",
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1896,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "\u015awiatowy Zwi\u0105zek \u017bo\u0142nierzy Armii Krajowej Okr\u0119g Szczecin"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "48/p.308",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-210",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "\u017bo\u0142nierska",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\n1) rozwijanie wi\u0119zi zawodowych,\r\n2) szerzenie zdobyczy nauki w\u015br\u00f3d chirurg\u00f3w i promowanie ich aktywno\u015bci na polu pracy\r\nnaukowej,\r\n3) integracja \u015brodowiska chirurg\u00f3w na poziomie krajowym i zagranicznym,\r\n4) prezentowanie stanowiska chirurgii polskiej w kraju i za granic\u0105,\r\n5) pomoc w podnoszeniu kwalifikacji chirurg\u00f3w i m\u0142odzie\u017cy chirurgicznej,\r\n6) dbanie o dobre imi\u0119 chirurg\u00f3w polskich,\r\n7) ochrona i promocja zdrowia w tym dzia\u0142alno\u015bci leczniczej w rozumieniu przepis\u00f3w ustawy o dzia\u0142alno\u015bci leczniczej z dnia 15.04.2011 r.\r\n",
+    "benefitZones": [
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "hasSameAddress": true,
+    "id": 1897,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Towarzystwo Chirurg\u00f3w Polskich Oddzia\u0142 Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "72",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-111",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Powsta\u0144c\u00f3w Wielkopolskich",
+      "terc": "3262011"
+    },
+    "aims": "Cele organizacji:\r\nSzczeg\u00f3\u0142owymi celami dzia\u0142alno\u015bci towarzystwa s\u0105:\r\n- szerzenie nauki i jej post\u0119p\u00f3w w\u015br\u00f3d lekarzy innych specjalno\u015bci;\r\n- wsp\u00f3\u0142dzia\u0142anie w kszta\u0142ceniu podyplomowym, a szczeg\u00f3lnie udzia\u0142 w procesie\r\nkszta\u0142cenia i weryfikacji wiedzy oraz umiej\u0119tno\u015bci specjalizuj\u0105cych si\u0119 w zakresie\r\nchor\u00f3b wewn\u0119trznych oraz wsp\u00f3\u0142dzia\u0142anie w opracowywaniu programu i metod\r\nnauczania interny podczas studi\u00f3w na wydzia\u0142ach lekarskich;\r\n- wsp\u00f3\u0142dzia\u0142anie w integracji dzia\u0142alno\u015bci naukowej, szkoleniowej i leczniczej\r\nlekarzy specjalno\u015bci medycyny wewn\u0119trznej;\r\n- wsp\u00f3\u0142dzia\u0142anie w organizowaniu ochrony zdrowia i rozwi\u0105zywaniu problem\u00f3w\r\ndotycz\u0105cych jej dzia\u0142alno\u015bci a szczeg\u00f3lnie wsp\u00f3\u0142dzia\u0142anie z izbami lekarskimi;\r\n- szerzenie zasad etyki i deontologii lekarskiej;\r\n- zach\u0119canie i wdra\u017canie internist\u00f3w do pracy naukowej;\r\n- udzia\u0142 w propagowaniu wsp\u00f3\u0142czesnych i dawnych osi\u0105gni\u0119\u0107 polskiej medycyny\r\nwewn\u0119trznej\r\n- udzia\u0142 w obsadzaniu kierowniczych stanowisk w s\u0142u\u017cbie zdrowia dotycz\u0105cych\r\nplac\u00f3wek medycyny wewn\u0119trznej.",
+    "benefitZones": [
+      "nauka, szkolnictwo wy\u017csze, edukacja, o\u015bwiata i wychowanie",
+      "ochrony i promocji zdrowia, w tym dzia\u0142alno\u015bci leczniczej w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o dzia\u0142alno\u015bci leczniczej"
+    ],
+    "corespondenceAddress": {
+      "buildingAndFlatNumber": "1",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "71-344",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Unii Lubelskiej",
+      "terc": "3262011"
+    },
+    "hasSameAddress": false,
+    "id": 1898,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Towarzystwo Internist\u00f3w Polskich Oddzia\u0142 Zachodniopomorski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "19",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-310",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Piast\u00f3w",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "dzia\u0142alno\u015b\u0107 wspomagaj\u0105ca rozw\u00f3j gospodarczy, w tym rozw\u00f3j przedsi\u0119biorczo\u015bci"
+    ],
+    "hasSameAddress": true,
+    "id": 1899,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Towarzystwo Konsultant\u00f3w Polskich"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "46",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-474",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1900,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Towarzystwo Kultury \u015awieckiej Oddzia\u0142 Miejski"
+  },
+  {
+    "address": {
+      "buildingAndFlatNumber": "46",
+      "city": "Szczecin",
+      "commune": "Szczecin",
+      "district": "Szczecin",
+      "postcode": "70-474",
+      "province": "Zachodniopomorskie",
+      "simc": "977976",
+      "street": "Aleja Wojska Polskiego",
+      "terc": "3262011"
+    },
+    "aims": "",
+    "benefitZones": [
+      "kultura, sztuka, ochrona d\u00f3br kultury i dziedzictwa narodowego"
+    ],
+    "hasSameAddress": true,
+    "id": 1901,
+    "legalForm": "Jednostki terenowe stowarzysze\u0144",
+    "name": "Towarzystwo Kultury \u015awieckiej Oddzia\u0142 Wojew\u00f3dzki"
+  }
+]

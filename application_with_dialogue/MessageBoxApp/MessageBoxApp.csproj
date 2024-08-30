@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<!-- For a Windows application -->
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<PublishSingleFile>true</PublishSingleFile>
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<!-- Change to win-x86 for 32-bit -->
+		<SelfContained>true</SelfContained>
+		<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- Include the ILMerge executable in the project directory -->
+		<None Update="C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBoxApp\tools\ILMerge.exe">
+			<Pack>True</Pack>
+			<PackagePath>tools/</PackagePath>
+		</None>
+	</ItemGroup>
+
+	<!-- Custom target to run ILMerge after the Publish step -->
+	<Target Name="AfterPublish" AfterTargets="Publish">
+		<Exec Command="&quot;C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBoxApp\tools\ILMerge.exe&quot; 
+        /out:C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBoxApp\bin\Release\net8.0-windows\win-x64\publish\MessageBoxAppMerged.exe 
+        C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBoxApp\bin\Release\net8.0-windows\win-x64\publish\MessageBoxApp.exe " />
+	</Target>
+
+</Project>

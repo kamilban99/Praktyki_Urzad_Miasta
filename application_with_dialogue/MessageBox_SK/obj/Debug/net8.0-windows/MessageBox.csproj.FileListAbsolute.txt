@@ -1,0 +1,6 @@
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\net8.0-windows\MessageBox.Properties.Resources.resources
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\net8.0-windows\MessageBox.csproj.GenerateResource.cache
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\net8.0-windows\MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\net8.0-windows\MessageBox.AssemblyInfoInputs.cache
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\net8.0-windows\MessageBox.AssemblyInfo.cs
+C:\Users\praktyka1\Desktop\praktyki_2024\application_with_dialogue\MessageBox_SK\obj\Debug\net8.0-windows\MessageBox.csproj.CoreCompileInputs.cache
