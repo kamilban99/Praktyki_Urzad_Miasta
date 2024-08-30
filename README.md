@@ -1,1 +1,1 @@
-# Praktyki_Urz-d_Miasta
+# Praktyki_Urzad_Miasta
